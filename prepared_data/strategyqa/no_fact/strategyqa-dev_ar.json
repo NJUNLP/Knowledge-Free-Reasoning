@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيصل ألباني في جورجيا إلى مائة ألف ساكن قبل نظيره في نيويورك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل اللغة المستخدمة في سانت فنسنت وجزر غرينادين متجذرة في اللغة الإنجليزية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الجشع هو أكثر الخطايا السبع المميتة انتشارا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ستبرز قمة جبل فوجي خارج بحر اليابان؟ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت أغنية بيل جون الأعلى تصنيفًا في بيلبورد هي التعاون مع أحد أعضاء The Lox؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ميامي مدينة على الساحل الغربي الأمريكي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع الحرس السويسري شغل كراسي الجمعية العامة في فرجينيا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل شاركت أي دولة في الحرب الاستعمارية البرتغالية دور سويسرا في الحرب العالمية الثانية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيتم الخلط بين الصورة والإنجليزية القديمة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع ليل واين تشغيل مركبة بشكل قانوني بمفرده في بداية حياته المهنية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل من المحتمل أن تجد صليبًا في كراتشي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تم بيع ترخيص المشاع الإبداعي لبوتيتشيلي &quot;ولادة فينوس&quot;؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لعشرة جالونات من مياه البحر أن تسحق طفلاً عمره ست سنوات؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يعيش عدد أكبر من الأنشوجة في المياه ذات درجة الحرارة الباردة أكثر من المياه الدافئة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الطباعة ثلاثية الأبعاد قادرة على إنتاج فيروس غدي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يؤيد جورج فوكس الرجم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل مشاهدة Star Wars ضرورية لمعرفة من هو دارث فيدر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن برمجة الكمبيوتر بالكامل باستخدام الجبر البوليني؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل قلبت كريستينا أغيليرا كرسيها لكيلي كلاركسون في برنامج The Voice؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان من الممكن منع وفاة إيمي واينهاوس مع ناركان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمتلك النمس تمويهًا طبيعيًا للصحراء؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: إذا كان شخص ما يحب أجنحة الجاموس فهل يستمتع بالكابسيسين؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان بروس لي غائباً عن حفل التخرج بجامعة واشنطن عام 1964؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ينجح بروك شيلدز في جامعة بنسلفانيا؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيتعين على الطلاب في ماريست تقديم التماس للحصول على فريق للتجديف؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن أن يتناسب مائة ألف من المضحكات مع الجيل الأول من iPhone؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يجب على روسيف أن يقلق بشأن الاكتظاظ السكاني البشري في وطنه؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يشبه فستان الأميرة الخوخ ثمرة الخوخ؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يتم الترحيب بالمرضى النفسيين للانضمام إلى القوات الجوية للولايات المتحدة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكنني وضع Bing في سلة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تحتوي وحدة المعالجة المركزية عادةً على مروحة مخصصة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يصبح سيريل رامافوزا أمينًا عامًا لحلف شمال الأطلسي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل بروكلين معروفة بمنتجات الخبز؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل قاتلت القوات الجوية الملكية في تمرد الملاكمين؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل خدم فرانسوا ميتران تحت قيادة نابليون بونابرت في الجيش الفرنسي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن أن تصاب الأميبا بالسرطان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الكوليرا حية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يخلط شخص ما عادة بين البطاطا الحلوة والأناناس؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون من الشائع العثور على بطريق في ميامي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الأورام في الغدد الليمفاوية يمكن تجاهلها؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل قاتل سبايدرمان ضد فالكون في MCU؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل رقصة شيفا الإلهية هي وضعية لياقة بدنية قديمة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تظهر الضباع في مسرحية موسيقية في برودواي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستمتع قرد البومة بالفراولة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن للثعبان أن يبتلع M60 باتون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون Avengers Comics في غير مكانه في متجر DC Comics؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن للخليج الفارسي أن يتناسب مع نيوجيرسي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل نيكول كيدمان هي الاختيار المثالي للعب Psylocke على أساس الطول والوزن؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع بيرني ساندرز زيارة متحف المتروبوليتان للفنون عشرين مرة بأقل من مائتي دولار؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تستطيع منظمة تنظيم الأسرة إخبار جامعتك بأنك مصاب بفيروس الهربس البسيط؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيهيمن أخيل على ليجولاس في معركة افتراضية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تقع بوخارست جنوب مصر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ستطفو صخرة في الغلاف الجوي للأرض؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تم قتل وحيد القرن لتحسين الحياة الجنسية للإنسان؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل لدى ABBA تكوين جنساني مماثل لـ The Mamas &amp; The Papas؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان مؤلف كتاب &quot;نساء صغيرات&quot; سيتذكر التصديق على التعديل الثالث عشر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل غالبية مستخدمي Reddit على دراية بتعهد الولاء؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يرسل الأطفال رسائل عيد الميلاد إلى القطب الجنوبي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل قام مارون 5 بجولة مع نيرفانا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ستحقق عودة الملاكمة ايفاندر هوليفيلد 2020 رقما قياسيا في العمر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يخاف بوست مالون من الإبر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل عانى الرئيس الأمريكي خلال الحرب الإسبانية الأمريكية من وفاة مماثلة لأبراهام لنكولن؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت حواء متورطة في علاقة سفاح القربى؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: حصل مغني الراب ليل واين ذو الاسم الحقيقي المشابه على أكثر من أربعة أضعاف جوائز واين جرامي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيغلي النيكل في اللب الخارجي للأرض؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت دوروثيا ويندلينج من نفس المكان الذي نشأت فيه بورش؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن للجراحة أن تمنع حدوث أزمة وجودية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان الفارابي تلميذا للشيخ الكبير؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل هناك خطورة من تناول الكلور عند خلطه مع الصوديوم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان لدى مؤسسي رياضة الجوجيتسو البرازيلية جرايسي ما لا يقل عن عشرات الأطفال من الخبازين؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل اشترى موزارت أي شيء من دولتشي آند غابانا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيعترض أحد المشيخيين الأرثوذكس على ملابس القاضي في القرن الثامن عشر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الخطوط في العصور القديمة للميكروبات أقصر من أي قصيدة هايكو؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يدافع مديرو The Matrix عن حقوق المتحولين جنسياً؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لفقمة الفراء الشمالية اجتياز اختبار القيادة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيدخل ويخرج عدد أكبر من الأشخاص من تاكو بيل أكثر من روي روجرز كل عام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون من غير المعتاد العثور على سمكة الفرخ الصفراء في البحر الأحمر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يفضل الجنرال Zod هاتف iPhone على هاتف Samsung Galaxy S4؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل استخدم إنسان النياندرتال الحساب؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان الحيوان في &quot;أنت رياضة جيدة، تشارلي براون&quot; كلبًا من الناحية النظرية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يوجد أي من كتب جيه كيه رولينج في هذا النوع من &quot;ثم لم يبق أحد&quot;؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تعاون جاي زي مع لويس أرمسترونج من قبل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تقاس الأطوال بالأمتار في المملكة المتحدة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل أبحر كريستوفر كولومبوس ممثلاً لبلد مختلف عن موطنه الأصلي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الشفاه الزرقاء طبيعية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يعاني جون بروير مينوش من فقدان الشهية العصبي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون عطيل مسرحية شكسبير لشراء شهرزاد معظم الوقت مع الملك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تم تعميد نائب رئيس أركان هيلاري كلينتون في عام 2009؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الكاسواري حيوان أليف أكثر أمانًا من الرافعة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكنك القيادة من نيو إنجلاند إلى سينسبري؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيتم تدريس PG Wodehouse في الصف الثاني؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل أصبح استخدام التبغ يبدو ممتعًا في مغامرات أليس في بلاد العجائب؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع سايمون كويل التصويت لقاضي المحكمة العليا القادم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لجميع العاطلين عن العمل بسبب الكساد الكبير عام 1933 أن يتناسبوا مع ملعب تايجر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع رجل بالغ أن يقف على قمة تمثال دوناتيلو البرونزي ويلمس سقف كنيسة سيستين؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت إنجلترا متورطة بشكل مباشر في الصراع العربي الإسرائيلي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ألهمت مغامرات أليس في بلاد العجائب ماكبث؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الدب الأسود الآسيوي متعدد الألوان؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ملازمو القراصنة مثل ملازمي البحرية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يجب أن يحتوي موقع الويب النهائي على فقرات لوريم إيبسوم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تعاني الأرض القريبة من سدود القندس؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون من الصعب على ويل فيريل أن يفوز بجائزة الإمبراطورية لأفضل وافد جديد؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل احتفلت سينثيا باول بالذكرى الفضية مع جون لينون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل عمل آل باتشينو في فيلم خلال الحرب العالمية الثانية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل النص الغوجاراتي هو نفس فئة نص كانجي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تم تسمية مقاطعة موريس على اسم رئيس المحكمة العليا؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع التلسكوب الكبير جدًا مراقبة أكبر جبل على وجه الأرض؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل غاز الميثان البقري أكثر أماناً للبيئة من السيارات؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل المغرب مكان مثالي للتزلج على الماء؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن أن تشتري حصة واحدة من أمازون اشتراكًا في Netflix لمدة عشرين عامًا؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يوجد إشعاع حيث عمل نيكولا تيسلا ذات يوم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان بإمكان آل كابوني قراءة أعمال من عصر النهضة في هارلم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيدعم أعضاء Blue Lives Matter كل عنصر من عناصر Grand Theft Auto III؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يأتي رأس السنة الجديدة دائمًا يوم الأربعاء؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لقراد الحورية أن يمر عبر ثقب قياسي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لتاجر أعمال فنية أن يشتري طائرة بوينغ 737-800 وعليها لوحة دافنشي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يجب أن يكون بيتر جريفين خبيرًا في حرفة التخمير؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكنك قيادة سيارة Rowe 550 إلى دورة الألعاب الأولمبية الصيفية لعام 2008؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت إيمي واينهاوس من محبي Star Wars: Rogue One؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل جيسي دبليو مور هو المستفيد المحتمل من جائزة سنوبي تحت عنوان من وكالة ناسا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن وضع غرير العسل داخل الفرن؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يتم إنتاج القشر بواسطة الطاقة الكهرومائية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تعيش زوجة باولو كويلو من خلال الكلام؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع قارب النجاة إنقاذ الناس في بحر هوك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ترتبط فيات كرايسلر بالسيارات اليابانية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيتنافس هاديس وأوزوريس نظريًا على العقارات في العالم السفلي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تتطلب مقاطعة أورانج بولاية كاليفورنيا أن تكون الطائرات هادئة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان متنزه الأمراء يعمل بكامل طاقته خلال شهر يونيو من عام 2020؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل البيع بالتجزئة وظيفة يمكن لأي شخص أن يناسبها؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيؤدي انفجار في منشأة لتخزين البارود إلى موجة صدمة تفوق سرعة الصوت؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكنك شراء الكلور من متجر بالدولار؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تماسيح المياه المالحة مرتبطة بالتماسيح؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون بيرسيفوني مستشارًا جيدًا لمهندس المناظر الطبيعية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيواجه طاقم أبولو 15 صعوبة في ركوب الدراجة الهوائية الأحادية العجلة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الحبال مطلوبة لتشغيل الفرقاطة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل لدى جيسون أي شيء مشترك مع دكتور عدم الاحترام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يجب على مريض الاضطرابات الهضمية تجنب السباغيتي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تفضل الكوالا الأوكالبتوس على اللحوم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يفضل لاعب كمال الأجسام برجر الأيائل على برجر اللحم البقري؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكنك نقل عملة معدنية عبر بحر من الزئبق؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيؤذي باغز باني شجرة زيتون في العالم الحقيقي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل براعم بروكسل جيدة بشكل خاص لإرهاق الغدة الكظرية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تدور أحداث Family Guy على الساحل الغربي الأمريكي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لأي شخص في أوبرلانديا العمل لدى شركة ميتسوبيشي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ستكون هانا نيكسون فخورة بريتشارد نيكسون بعد فضيحة ووترغيت؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع إيدي ميرفي الاتصال برقم 911 في السيارة عندما كان طفلاً صغيراً؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون جبل Wycheproof بمثابة نسيم بالنسبة لإدموند هيلاري؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ألوان علم الجابون موجودة في قوس قزح؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تعيش طيور القطرس في مكان لا تستطيع فيه طيور القطرس العيش؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل مكواة التجعيد ضرورية في الشباك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الإيمو مرتبط بالأيائل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيجد الطاهي في مطعم La Grenouille أن طلب السالسا غريب؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل نظام &quot;الأسفل&quot; يعارض العولمة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لشخص من نيو إنجلاند الربح من خلال زراعة القهوة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستخدم تنس الطاولة الأعداد الأولية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كونك عضوًا لمدة 5 سنوات في Capital One Venture أكثر فعالية من حيث التكلفة من التواجد في كنيسة الشيطان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل استمتع بيتهوفن بالاستماع إلى موسيقى EDM؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل فريق Metallica يحمي موسيقاهم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تفوقت مبيعات كيلي كلاركسون على الفائز في الموسم الرابع من برنامج أمريكان أيدول؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تخاف الأرانب ذات الذيل الأسود من القط البري الأوروبي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع كارل فريدريش جاوس التحدث إلى شخص ما على بعد 100 ميل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ليونيل ريتشي مرتبط بشيلا إي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تطلب إدارة الغذاء والدواء الأمريكية البيع حسب التواريخ باستخدام الأرقام الرومانية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل غنى المسافرون أكواخ البحر على طريق أوريغون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيستمتع شخص مصاب برهاب الكريات البيض بالنظر إلى علم الولايات المتحدة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل استمرت تيري هاتشر في ضعف عدد حلقات ربات البيوت اليائسات مثل عرض سوبرمان؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل عدد كريات الدم البيضاء يفوق عدد كريات الدم الحمراء في جسم الإنسان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان مسقط رأس جون جورج بيس بالقرب من كورنوال؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يشمل تاريخ أوروبا عصر الديناصورات؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون بول بنيان من الناحية النظرية خيارًا سيئًا لمخطط حضري؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل جميع العناصر التي تحتاجها النباتات لعملية التمثيل الضوئي موجودة في الغلاف الجوي للمريخ؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل صوت بيل ناي لصالح فرانكلين ديلانو روزفلت؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يعتبر استخدام كلمة غجر من قبل الأشخاص غير الغجر أمراً مقبولاً؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت أرض إسرائيل في حوزة إمبراطورية إسلامية في القرن السادس عشر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تلبي 7 كوسة التوصية اليومية بالبوتاسيوم الصادرة عن وزارة الزراعة الأمريكية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت السيارة البريطانية الميني هي أول سيارة تم تصنيعها؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن تحضير البابريكا بدون مجفف؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تستطيع قطة البنغال البقاء على قيد الحياة وهي تأكل الفطائر فقط؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لطائر القطرس المتجول أن يطير من بوخارست إلى مدينة نيويورك دون راحة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تبيع مكتبة نيويورك العامة منتجات Alpo؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الاسم الأوسط لتوني بينيت مشترك مع بطل UFC السابق؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لامرأة الأرملة السوداء استخدام الخوخ؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الناس أكثر عرضة من المعتاد للإصابة بحروق الشمس في Burning Man؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل قام راهول درافيد بركل هدف ميداني من قبل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يدرس عالم المحيطات الفردي العديد من العلوم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تم اختراع خيال الأبطال الخارقين بالصيغة الرقمية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لطفلين من الدب الأسود الأمريكي حديثي الولادة أن يتسعا لسرير بحجم كينج؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يتم خصم أطعمة Aldi نظرًا لكونها قديمة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الفلفل الحلو المطحون هو المكون الرئيسي للفلفل الأسود؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تناول ukemi يوقف الطاقة الحركية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل من الصعب الحصول على BLT في الدار البيضاء؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيؤدي هطول الأمطار السنوي على سنودون إلى غمر كرة البولينج المستقيمة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت المرأة رئيسة للوزراء مباشرة قبل أو بعد ستانلي بالدوين؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيقوم النسر الأصلع بتسليم رسالة عاجلة قبل B-52؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن للملاكمين المحترفين أن يتوقعوا انخفاض فواتير الأسنان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل عاش الدكتور سوس حياة خالية من المأساة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل لم يكن والدا جاكسون بولوك مطالبين بقول قسم الولاء كأطفال؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل مقاطعة سان دييغو موطن شامو؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل وحش السباغيتي الطائر جزء من آلهة قديمة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تحكم إليزابيث الثانية جزر البليار؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل استمرت حرب كرة القدم لمدة شهر على الأقل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت رعاية لورينزو دي ميديشي لدافنشي حصرية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يحتفل أحد في العشاء الأخير في الإسلام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تخاف قطة البنغال من اصطياد سمكة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل ارتدى بينيتو موسوليني حذاءًا أكبر من حذاء هافور بيورنسون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع تميمة مدرسة بوبي جندال الثانوية أكل الطعام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يقع مبنى الكابيتول الأمريكي بالقرب من البيت الأبيض؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سيكون من الصعب الحصول على ورق التواليت إذا لم يكن هناك قاطعو الأشجار؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل سمي إيجي بوب على اسم والده؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن للرعاية الصحية الوقائية أن تقلل من انتقال الأمراض المنقولة بالاتصال الجنسي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الأشياء الجامدة تنبض بالحياة في الجميلة والوحش؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل من المحتمل أن يصبح باندي مشهورًا في تكساس؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل اللفت أكثر فائدة من السبانخ لنمو العظام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل المشي عبر أمازوناس يعرض حياة الشخص للخطر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت نينتندو الأصلية تمتلك ألعاب بنفس تنسيق البلايستيشن 3؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل تسلسل أرقام فيبوناتشي أطول من كل رقم تم اكتشافه في باي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يستطيع الشخص المصاب برهاب الجراثيم المشاركة في الجودو؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الخريف هو الوقت المناسب لجمع جلود الدببة في الولايات المتحدة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل هناك مقاطع فيديو موسيقية وردية تثير مرضى اضطراب الأكل؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل فاز الأنصر جونيور بسباق الفضاء؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل World of Warcraft أثقل من رغيف الخبز؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل استفادت شركة Electronic Arts من مبيعات Metroid؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكن لمعلمة رياض الأطفال أن تقدم درسًا في العهد الجديد؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كانت إيمي واينهاوس تؤدي دائمًا أداءً مباشرًا بشكل مثالي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل هناك عظام في بيتزا الأنشوجة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل يمكنك إخفاء كرة سلة في أذن قطة رملية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان لدى والد وجد إيفان الرهيب ألقاب أجمل؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل الأميبا آمنة من سرطان الثدي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: هل كان &quot;باي&quot; عددًا مقبولاً من الأطفال في الصين في الثمانينيات؟",
+        "output": "No"
+    }
+]

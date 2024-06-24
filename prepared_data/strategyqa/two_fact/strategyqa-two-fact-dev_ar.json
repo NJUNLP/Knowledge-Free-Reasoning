@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ألباني، جورجيا لديها حوالي 75000 شخص ألباني، نيويورك لديها ما يقرب من 100،000 شخص\nQuestion: هل سيصل ألباني في جورجيا إلى مائة ألف ساكن قبل نظيره في نيويورك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: اللغة الأساسية المستخدمة في سانت فنسنت وجزر غرينادين هي لغة فنسنت الكريول. تعتمد لغة Vincentian Creole على اللغة الإنجليزية، مع عناصر من الفرنسية، وجزر الأنتيل، ولغات أمريكا الجنوبية وأفريقيا الأصلية.\nQuestion: هل اللغة المستخدمة في سانت فنسنت وجزر غرينادين متجذرة في اللغة الإنجليزية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الجشع هو الرغبة في الثروة والسلطة. تتضمن جرائم ذوي الياقات البيضاء قيام الشركات بسرقة الأموال أو الأصول من الأشخاص. \nQuestion: هل الجشع هو أكثر الخطايا السبع المميتة انتشارا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يبلغ متوسط عمق بحر اليابان 5,748 قدمًا (1,752 مترًا) وأقصى عمق له 12,276 قدمًا (3,742 مترًا). يبلغ ارتفاع جبل فوجي 3776.24 مترًا (12389.2 قدمًا). \nQuestion: هل ستبرز قمة جبل فوجي خارج بحر اليابان؟ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت أغنية ليل جون الأعلى تصنيفًا على لوحة الإعلانات هي Yes. نعم كان تعاونًا بين ليل جون وأشر ولوداكريس.\nQuestion: هل كانت أغنية بيل جون الأعلى تصنيفًا في بيلبورد هي التعاون مع أحد أعضاء The Lox؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ميامي هي مدينة في ولاية فلوريدا. فلوريدا هي الولاية الواقعة في أقصى جنوب الساحل الشرقي الأمريكي.\nQuestion: هل ميامي مدينة على الساحل الغربي الأمريكي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تضم الجمعية العامة لفيرجينيا 140 مقعدًا. الحرس السويسري هو حرس الشرف لمدينة الفاتيكان ويتكون من 135 رجلاً.\nQuestion: هل يستطيع الحرس السويسري شغل كراسي الجمعية العامة في فرجينيا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت الحرب الاستعمارية البرتغالية بين البرتغال وعدة مجموعات من بينها الحركة الشعبية لتحرير أنغولا. ظلت سويسرا محايدة في الحرب العالمية الثانية ولم تتدخل.\nQuestion: هل شاركت أي دولة في الحرب الاستعمارية البرتغالية دور سويسرا في الحرب العالمية الثانية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان يتحدث الإنجليزية القديمة الأنجلوسكسونيون، وهي قبيلة جرمانية سكنت إنجلترا. كان البيكتس شعبًا يتحدث اللغة السلتية ويعيش في ما يعرف الآن باسكتلندا.\nQuestion: هل سيتم الخلط بين الصورة والإنجليزية القديمة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: بدأت مسيرة ليل واين المهنية في عام 1995، عندما كان عمره 12 عامًا، عندما وقع مع Birdman وانضم إلى Cash Money Records كأصغر عضو في العلامة. مطلوب رخصة قيادة لتشغيل السيارة بنفسك بشكل قانوني في الولايات المتحدة الأمريكية.\nQuestion: هل يستطيع ليل واين تشغيل مركبة بشكل قانوني بمفرده في بداية حياته المهنية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الصليب هو رمز للمسيحية الغالبية العظمى من سكان باكستان مسلمون\nQuestion: هل من المحتمل أن تجد صليبًا في كراتشي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يسمح ترخيص المشاع الإبداعي بالتوزيع المجاني لأي عمل محمي بحقوق الطبع والنشر. لا تتطلب الأعمال التي تعتبر ضمن الملكية العامة حقوق الطبع والنشر أو إذنًا للاستخدام.\nQuestion: هل تم بيع ترخيص المشاع الإبداعي لبوتيتشيلي &quot;ولادة فينوس&quot;؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: متوسط وزن الطفل البالغ من العمر ست سنوات هو 45 رطلاً. يزن جالون واحد من مياه البحر ما يزيد قليلاً عن 8 أرطال.\nQuestion: هل يمكن لعشرة جالونات من مياه البحر أن تسحق طفلاً عمره ست سنوات؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الأنشوجة هي نوع من الأسماك الصغيرة. وتتركز الأنشوجة في المياه المعتدلة في المحيط الأطلسي والهندي والمحيط الهادئ.\nQuestion: هل يعيش عدد أكبر من الأنشوجة في المياه ذات درجة الحرارة الباردة أكثر من المياه الدافئة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الطابعات ثلاثية الأبعاد لها قيود من حيث الدقة. يبلغ مخرج الفوهة القياسي حوالي 0.4 مم. لذلك، إذا كنت تخطط لطباعة شيء يقل حجمه عن 0.4 مم، فلن تحصل على عنصر مفيد. الفيروسات الغدية هي فيروسات متوسطة الحجم (90-100 نانومتر)، غير مغلفة (بدون طبقة دهنية خارجية ثنائية الطبقة) مع قفيصة نووية عشرونية الوجوه تحتوي على جينوم الحمض النووي المزدوج.\nQuestion: هل الطباعة ثلاثية الأبعاد قادرة على إنتاج فيروس غدي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان جورج فوكس مؤسس جمعية الأصدقاء الدينية، المعروفة باسم الكويكرز أو الأصدقاء. يدعو الكويكرز إلى السلام واللاعنف.\nQuestion: هل يؤيد جورج فوكس الرجم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تعد Star Wars واحدة من أكثر سلاسل الأفلام التي تم إنتاجها محاكاة ساخرة على نطاق واسع. بضائع حرب النجوم، من المحملات إلى أزياء الهالوين، متاحة على نطاق واسع وهي وفيرة. \nQuestion: هل مشاهدة Star Wars ضرورية لمعرفة من هو دارث فيدر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الجبر البوليني هو فرع من الجبر تكون فيه قيم المتغيرات هي قيم الحقيقة صحيح وكاذبة، وعادة ما يشار إليها بالرمز 1 و0 على التوالي.  تُسمى الرياضيات في 1 و0 أيضًا لغة ثنائية أو لغة الآلة.\nQuestion: هل يمكن برمجة الكمبيوتر بالكامل باستخدام الجبر البوليني؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كريستينا أجيليرا هي القاضية الصوتية. كيلي كلاركسون هي القاضية على الصوت.\nQuestion: هل قلبت كريستينا أغيليرا كرسيها لكيلي كلاركسون في برنامج The Voice؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ناركان هو دواء ينقذ حياة شخص يتناول جرعة زائدة من المواد الأفيونية. توفيت إيمي واينهاوس بسبب التسمم بالكحول.\nQuestion: هل كان من الممكن منع وفاة إيمي واينهاوس مع ناركان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ألوان الفراء الأكثر شيوعًا للنمس هي البني والرمادي. لون التمويه الصحراوي مصنوع من اللون البني Café Au Lait والرمادي الباستيل.\nQuestion: هل يمتلك النمس تمويهًا طبيعيًا للصحراء؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: أجنحة البافالو هي أجنحة دجاج مقلية مغطاة بصلصة حارة. يتم توفير الأطعمة الحارة بتوابلها من مادة الكابسيسين المستخرجة من الفلفل.\nQuestion: إذا كان شخص ما يحب أجنحة الجاموس فهل يستمتع بالكابسيسين؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: التحق بروس لي بجامعة واشنطن عام 1961. ترك بروس لي الكلية في أوائل عام 1964.\nQuestion: هل كان بروس لي غائباً عن حفل التخرج بجامعة واشنطن عام 1964؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تخرج بروك شيلدز من جامعة برينستون. تم تصنيف برينستون على أنها الكلية الوطنية رقم 1 حسب الأخبار الأمريكية.\nQuestion: هل ينجح بروك شيلدز في جامعة بنسلفانيا؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تقع ماريست على طول نهر هدسون. يوجد في كلية ماريست فرق تجديف للرجال والنساء.\nQuestion: هل سيتعين على الطلاب في ماريست تقديم التماس للحصول على فريق للتجديف؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: غالبًا ما تكون ميمات Lolcat بتنسيق jpeg متوسط حجم ملف jpeg هو 10 إلى 30 كيلو بايت\nQuestion: هل يمكن أن يتناسب مائة ألف من المضحكات مع الجيل الأول من iPhone؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ينتج الاكتظاظ السكاني البشري عن معدل المواليد الذي يتجاوز معدل الوفيات في بلد ما. روسيف مصارع محترف ولد في بلغاريا.\nQuestion: هل يجب على روسيف أن يقلق بشأن الاكتظاظ السكاني البشري في وطنه؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يحتوي الخوخ على قشرة حمراء وبرتقالية وصفراء غامضة. الأميرة بيتش هي شخصية في عالم نينتندو ماريو.\nQuestion: هل يشبه فستان الأميرة الخوخ ثمرة الخوخ؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: وجود تاريخ من المرض العقلي يحرم معظم الناس من الانضمام إلى القوات المسلحة. يتم فحص المرضى النفسيين لإدارة الأمراض العقلية.\nQuestion: هل يتم الترحيب بالمرضى النفسيين للانضمام إلى القوات الجوية للولايات المتحدة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing هو محرك بحث، وهو كائن رقمي. السلة هي كائن مادي.\nQuestion: هل يمكنني وضع Bing في سلة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: وحدة المعالجة المركزية هي الشريحة الرئيسية الموجودة على لوحة الكمبيوتر، وتولد الكثير من الحرارة. تقوم الشركات المصنعة لأجهزة الكمبيوتر عمومًا بتضمين نظام تبريد مخصص فوق وحدة المعالجة المركزية بالإضافة إلى مراوح اللوحة الرئيسية.\nQuestion: هل تحتوي وحدة المعالجة المركزية عادةً على مروحة مخصصة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: سيريل رامافوسا هو رئيس جنوب أفريقيا يأتي الأمين العام لحلف الناتو من إحدى الدول الأعضاء في الناتو\nQuestion: هل يصبح سيريل رامافوزا أمينًا عامًا لحلف شمال الأطلسي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يُعرف كعك بروكلين ونيويورك في جميع أنحاء العالم بجودته العالية. تعتبر بيتزا بروكلين الأفضل في البلاد. \nQuestion: هل بروكلين معروفة بمنتجات الخبز؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: حدثت ثورة الملاكمين في الفترة من 1899 إلى 1901 تم تشكيل سلاح الجو الملكي في 1 أبريل 1918\nQuestion: هل قاتلت القوات الجوية الملكية في تمرد الملاكمين؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ولد فرانسوا ميتران عام 1916. توفي نابليون بونابرت عام 1821.\nQuestion: هل خدم فرانسوا ميتران تحت قيادة نابليون بونابرت في الجيش الفرنسي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الأميبا هي كائن حي وحيد الخلية. السرطان هو نمو غير سليم لكتلة من الأنسجة الخلوية، المكونة من العديد من الخلايا المشكلة بشكل غير صحيح.\nQuestion: هل يمكن أن تصاب الأميبا بالسرطان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الكوليرا هي نوع من البكتيريا. تعتبر البكتيريا كائنات حية.\nQuestion: هل الكوليرا حية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تتمتع البطاطا الحلوة بقشرة ناعمة ولونها برتقالي. الأناناس له ساق قصير وممتلئ بأوراق شمعية صلبة والفاكهة صفراء اللون.\nQuestion: هل يخلط شخص ما عادة بين البطاطا الحلوة والأناناس؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: موطن طيور البطريق هو الأجزاء العميقة والباردة جدًا في نصف الكرة الجنوبي. تقع ميامي في نصف الكرة الشمالي وتتمتع بمناخ دافئ للغاية.\nQuestion: هل سيكون من الشائع العثور على بطريق في ميامي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: سرطان الغدد الليمفاوية هو نوع خطير من السرطان يمكن أن يبدأ بأورام في العقد الليمفاوية. سرطان الغدد الليمفاوية يمكن أن يقتل إذا ترك دون علاج.\nQuestion: هل الأورام في الغدد الليمفاوية يمكن تجاهلها؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: في كابتن أمريكا: الحرب الأهلية، أصبح الرجل الحديدي وكابتن أمريكا أعداء بعد خلاف. استدعى الرجل الحديدي سبايدرمان للقتال مع فريقه من المنتقمون الذين ما زالوا مخلصين.\nQuestion: هل قاتل سبايدرمان ضد فالكون في MCU؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: في اليوغا كتمرين، تمثل الوضعية التي تسمى Natarajasara رقصة شيفا الإلهية هذه الوضعية جديدة، نشأت في أوائل القرن العشرين\nQuestion: هل رقصة شيفا الإلهية هي وضعية لياقة بدنية قديمة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الندبة هي الأسد الشرير في فيلم ديزني Lion King. أتباع الندبة هم مجموعة من الضباع.\nQuestion: هل تظهر الضباع في مسرحية موسيقية في برودواي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: قرود البومة هي حيوانات آكلة للفاكهة، وتفضل الفاكهة الصغيرة الناضجة عند توفرها. تختلف أحجام الفراولة ولكنها عمومًا يبلغ عرضها أقل من 2 بوصة وقطرها بوصة واحدة.\nQuestion: هل يستمتع قرد البومة بالفراولة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: M60 باتون هي دبابة عسكرية تزن عدة أطنان. كان أحد أكبر الحيوانات التي أكلها الثعبان هو الإمبالا الذي كان وزنه 130 رطلاً.\nQuestion: هل يمكن للثعبان أن يبتلع M60 باتون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: المنتقمون عبارة عن فيلم كوميدي من إنتاج شركة Marvel. Marvel وDC شركتان متنافستان، ولكل منهما مجموعة منتجات وبضائع خاصة بها. \nQuestion: هل سيكون Avengers Comics في غير مكانه في متجر DC Comics؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تبلغ مساحة الخليج الفارسي 96.912 ميلاً مربعاً. تبلغ مساحة نيوجيرسي 7417 ميلاً مربعاً.\nQuestion: هل يمكن للخليج الفارسي أن يتناسب مع نيوجيرسي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Psylocke هو بطل Marvel الخارق واسمه الحقيقي Betsy Braddock. بيتسي برادوك يبلغ طولها 5&#39;11 ووزنها 155 رطلاً.\nQuestion: هل نيكول كيدمان هي الاختيار المثالي للعب Psylocke على أساس الطول والوزن؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: بيرني ساندرز مواطن كبير في السن يجب على كبار السن من خارج نيويورك أو نيو جيرسي أو CT دفع 17 دولارًا لكل زيارة\nQuestion: هل يستطيع بيرني ساندرز زيارة متحف المتروبوليتان للفنون عشرين مرة بأقل من مائتي دولار؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: منظمة تنظيم الأسرة متخصصة في الرعاية الصحية الإنجابية. يلتزم ممارسو تنظيم الأسرة بموجب HIPAA بعدم الكشف عن أي معلومات للمريض. \nQuestion: هل تستطيع منظمة تنظيم الأسرة إخبار جامعتك بأنك مصاب بفيروس الهربس البسيط؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان أخيل بطلاً يونانيًا قُتل بسهم في كعبه. Legolas هو رامي سهام قزم من Lord of the Rings يمكنه إطلاق السهام بسرعة لا تصدق.\nQuestion: هل سيهيمن أخيل على ليجولاس في معركة افتراضية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: بوخارست، رومانيا تقع في أوروبا الشرقية. تقع مصر في أفريقيا.\nQuestion: هل تقع بوخارست جنوب مصر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تطفو الأشياء فقط إذا كانت أقل كثافة من المواد المحيطة بها. الصخور أكثر كثافة من الهواء.\nQuestion: هل ستطفو صخرة في الغلاف الجوي للأرض؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تستخدم قرون وحيد القرن في العلاج الشعبي للعجز الجنسي. يتم قتل وحيد القرن لإزالة قرونه.\nQuestion: هل تم قتل وحيد القرن لتحسين الحياة الجنسية للإنسان؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: أبا كانت فرقة بوب سويدية مكونة من أربعة أعضاء. The Mamas &amp; The Papas كانت فرقة أمريكية مكونة من أربعة أعضاء.\nQuestion: هل لدى ABBA تكوين جنساني مماثل لـ The Mamas &amp; The Papas؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تم التصديق على التعديل الثالث عشر في عام 1865. توفيت لويزا ماي ألكوت عام 1888.\nQuestion: هل كان مؤلف كتاب &quot;نساء صغيرات&quot; سيتذكر التصديق على التعديل الثالث عشر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 55% من قاعدة مستخدمي Reddit تأتي من الولايات المتحدة. تبدأ جلسات الكونجرس بتلاوة التعهد، كما هو الحال في العديد من الاجتماعات الحكومية على المستويات المحلية، والاجتماعات التي تعقدها العديد من المنظمات الخاصة.\nQuestion: هل غالبية مستخدمي Reddit على دراية بتعهد الولاء؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يرسل الأطفال رسائل عيد الميلاد إلى سانتا كلوز. تقول الأسطورة أن سانتا كلوز يعيش في القطب الشمالي.\nQuestion: هل يرسل الأطفال رسائل عيد الميلاد إلى القطب الجنوبي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: مارون 5 تشكلت في عام 2001. وكانت آخر عروض نيرفانا في عام 1994.\nQuestion: هل قام مارون 5 بجولة مع نيرفانا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: سيبلغ إيفاندر هوليفيلد 58 عامًا في نهاية عام 2020. يحمل ستيف وارد لقب أقدم ملاكم في العالم عن عمر يناهز 59 عامًا.\nQuestion: هل ستحقق عودة الملاكمة ايفاندر هوليفيلد 2020 رقما قياسيا في العمر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: جسد بوست مالون مغطى بالعديد من الأوشام. الطريقة الأكثر شيوعًا للوشم في العصر الحديث هي آلة الوشم الكهربائية، والتي تقوم بإدخال الحبر في الجلد عن طريق إبرة واحدة أو مجموعة من الإبر الملحومة على شريط متصل بوحدة متذبذبة.\nQuestion: هل يخاف بوست مالون من الإبر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: استمرت الحرب الإسبانية الأمريكية من 21 أبريل 1898 إلى 13 أغسطس 1898. ويليام ماكينلي كان رئيس الولايات المتحدة من 4 مارس 1897 إلى 14 سبتمبر 1901.\nQuestion: هل عانى الرئيس الأمريكي خلال الحرب الإسبانية الأمريكية من وفاة مماثلة لأبراهام لنكولن؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: خلق الله حواء من عظم أخذه من آدم. وبما أن حواء خلقت من آدم، فسيكون لديهما حمض نووي مماثل ويعتبران توأمان أو على الأقل أشقاء.\nQuestion: هل كانت حواء متورطة في علاقة سفاح القربى؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ليل واين ولد دواين مايكل كارتر. ولد جاي زي شون كوري كارتر.\nQuestion: حصل مغني الراب ليل واين ذو الاسم الحقيقي المشابه على أكثر من أربعة أضعاف جوائز واين جرامي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: درجة غليان النيكل هي 3003 كلفن تتراوح درجة حرارة اللب الخارجي للأرض بين 3000 و4500 كلفن\nQuestion: هل سيغلي النيكل في اللب الخارجي للأرض؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: دوروثيا ويندلينج كانت مغنية ولدت في شتوتغارت، ألمانيا. تأسست شركة بورش عام 1931 في مدينة شتوتغارت بألمانيا.\nQuestion: هل كانت دوروثيا ويندلينج من نفس المكان الذي نشأت فيه بورش؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يتم استخدام الجراحة لتصحيح المشاكل الطبية أو إجراء تغييرات جسدية على الجسم إن الأزمة الوجودية هي محنة ميتافيزيقية\nQuestion: هل يمكن للجراحة أن تمنع حدوث أزمة وجودية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: وكان الشيخ الكبير هو اسم ابن سينا ولد ابن سينا عام 980\nQuestion: هل كان الفارابي تلميذا للشيخ الكبير؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الكلور الممزوج بالصوديوم هو كلوريد الصوديوم، المعروف أيضًا باسم ملح الطعام. ملح الطعام هو أحد التوابل الأكثر استهلاكًا بين جميع الثقافات.\nQuestion: هل هناك خطورة من تناول الكلور عند خلطه مع الصوديوم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تشير دزينة الخباز إلى 13 من أي شيء. تأسست رياضة الجوجيتسو البرازيلية على يد كارلوس وهيليو جرايسي.  \nQuestion: هل كان لدى مؤسسي رياضة الجوجيتسو البرازيلية جرايسي ما لا يقل عن عشرات الأطفال من الخبازين؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تأسست دولتشي آند غابانا في عام 1985. توفي فولفجانج أماديوس موزارت عام 1791.\nQuestion: هل اشترى موزارت أي شيء من دولتشي آند غابانا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان القضاة في القرن الثامن عشر يرتدون شعرًا مستعارًا ناعمًا وأردية كبيرة أثناء إجراءات المحكمة. يجادل العديد من المشيخيين الأرثوذكس بأن الكتاب المقدس يحظر الزينة مثل الشعر المستعار والمجوهرات.\nQuestion: هل سيعترض أحد المشيخيين الأرثوذكس على ملابس القاضي في القرن الثامن عشر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الهايكو هي قصيدة يابانية قصيرة تتكون من 5، 7، 5 مقاطع. يُقال إن &quot;أسطر من العصور القديمة للميكروبات&quot;، والمعروفة أيضًا باسم &quot;البراغيث&quot;، هي أقصر قصيدة مكتوبة.\nQuestion: هل الخطوط في العصور القديمة للميكروبات أقصر من أي قصيدة هايكو؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ليلي واتشوسكي هي امرأة متحولة كانت مديرة فيلم The Matrix. لينا واتشوسكي هي امرأة متحولة كانت مديرة فيلم The Matrix.\nQuestion: هل يدافع مديرو The Matrix عن حقوق المتحولين جنسياً؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يقيس اختبار القيادة القدرة على القيادة وفقًا لقوانين المرور. ليس لدى فقمة الفراء الشمالية القدرة على القيادة بشكل قانوني.\nQuestion: هل يمكن لفقمة الفراء الشمالية اجتياز اختبار القيادة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يضم تاكو بيل أكثر من 7072 مطعمًا اعتبارًا من عام 2018. كان لدى روي روجرز أكثر من 600 مطعم في ذروته.\nQuestion: هل سيدخل ويخرج عدد أكبر من الأشخاص من تاكو بيل أكثر من روي روجرز كل عام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يعد البحر الأحمر أحد أكثر المسطحات المائية ملوحة في العالم. الفرخ الأصفر هو سمكة من أسماك المياه العذبة موطنها الأصلي معظم أمريكا الشمالية.\nQuestion: هل سيكون من غير المعتاد العثور على سمكة الفرخ الصفراء في البحر الأحمر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الجنرال زود هو الشرير. لا تسمح شركة Apple لصانعي الأفلام بإعطاء الأشرار أجهزة iPhone.\nQuestion: هل يفضل الجنرال Zod هاتف iPhone على هاتف Samsung Galaxy S4؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تشير أقدم السجلات المكتوبة إلى أن المصريين والبابليين استخدموا جميع العمليات الحسابية الأولية في وقت مبكر من عام 2000 قبل الميلاد. إنسان نياندرتال هو نوع منقرض أو نوع فرعي من البشر القدماء الذين عاشوا في أوراسيا حتى حوالي 40 ألف سنة مضت.\nQuestion: هل استخدم إنسان النياندرتال الحساب؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كلب الصيد هو نوع من كلاب الصيد يستخدم لتعقب الفريسة. تشمل كلاب الصيد Basenjis وDachsunds وBeagles وغيرها.\nQuestion: هل كان الحيوان في &quot;أنت رياضة جيدة، تشارلي براون&quot; كلبًا من الناحية النظرية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ثم لم يبق أحد رواية غامضة من تأليف أجاثا كريستي. اشتهرت جيه كيه رولينغ بسلسلة رواياتها الخيالية الساحرة هاري بوتر.\nQuestion: هل يوجد أي من كتب جيه كيه رولينج في هذا النوع من &quot;ثم لم يبق أحد&quot;؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ولد جاي زي في عام 1969. توفي لويس أرمسترونج في عام 1971.\nQuestion: هل تعاون جاي زي مع لويس أرمسترونج من قبل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: العدادات هي جزء من النظام المتري. تستخدم المملكة المتحدة النظام المتري للقياسات.\nQuestion: هل تقاس الأطوال بالأمتار في المملكة المتحدة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان كولومبوس في الأصل من جنوة فيما يعرف الآن بإيطاليا. تم تمويل بعثاته من قبل الملكية الإسبانية.\nQuestion: هل أبحر كريستوفر كولومبوس ممثلاً لبلد مختلف عن موطنه الأصلي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تتحول الشفاه والجلد إلى اللون الأزرق استجابة لنقص الأكسجين. عندما يكون تدفق الأكسجين غير كاف، يمكن أن تكون صحة شخص ما في خطر.\nQuestion: هل الشفاه الزرقاء طبيعية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان جون بروير مينوش رجلًا أمريكيًا، وكان في ذروة وزنه أثقل إنسان تم تسجيله على الإطلاق، حيث كان وزنه 1400 رطل. فقدان الشهية العصبي، فقدان الشهية العصبي هو اضطراب في الأكل، يتميز بانخفاض الوزن، وتقييد الطعام، والخوف من زيادة الوزن، والرغبة القوية في النحافة. يرى العديد من الأشخاص المصابين بفقدان الشهية أنهم يعانون من زيادة الوزن على الرغم من أنهم في الواقع يعانون من نقص الوزن.\nQuestion: هل يعاني جون بروير مينوش من فقدان الشهية العصبي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت شهرزاد شخصية في فلكلور الشرق الأوسط أدت إلى تأخير إعدامها من خلال سرد قصص طويلة للملك. مسرحية شكسبير عطيل تحتوي على 26450 كلمة.\nQuestion: هل سيكون عطيل مسرحية شكسبير لشراء شهرزاد معظم الوقت مع الملك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: هوما عابدين كانت نائبة رئيس موظفي هيلاري كلينتون في عام 2009 هوما عابدين مسلمة أمريكية\nQuestion: هل تم تعميد نائب رئيس أركان هيلاري كلينتون في عام 2009؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يمكن أن تظهر طيور الكركي التي يتغذى عليها البشر ميولًا منزلية ونادرًا ما تنقر على البشر. يصبح طائر الشبنم، المعروف بأنه أخطر طائر في العالم، عدوانيًا للغاية وقد قتل البشر والكلاب.\nQuestion: هل الكاسواري حيوان أليف أكثر أمانًا من الرافعة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تقع نيو إنجلاند في الولايات المتحدة الأمريكية. يفصل بين المملكة المتحدة ونيو إنجلاند محيط كبير.\nQuestion: هل يمكنك القيادة من نيو إنجلاند إلى سينسبري؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: غالبًا ما تتراوح أعمار طلاب الصف الثاني بين السابعة والثامنة. أعمال Wodehouse مخصصة لجمهور البالغين.\nQuestion: هل سيتم تدريس PG Wodehouse في الصف الثاني؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: في مغامرات أليس في بلاد العجائب، إحدى الشخصيات هي يرقة تدخن الشيشة. الشيشة هي أنبوبة ماء تستخدم لتدخين منتجات التبغ.\nQuestion: هل أصبح استخدام التبغ يبدو ممتعًا في مغامرات أليس في بلاد العجائب؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: المحكمة العليا هي أعلى محكمة في الولايات المتحدة الأمريكية. سيمون كويل هو حكم مسابقة المواهب البريطانية.\nQuestion: هل يستطيع سايمون كويل التصويت لقاضي المحكمة العليا القادم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان هناك ما يقرب من 15 مليون شخص عاطلين عن العمل في عام 1933 بسبب الكساد الكبير. في ثلاثينيات القرن الماضي، كان ملعب تايجر يتسع لحوالي 50000 متفرج.\nQuestion: هل يمكن لجميع العاطلين عن العمل بسبب الكساد الكبير عام 1933 أن يتناسبوا مع ملعب تايجر؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: أنشأ دوناتيلو تمثالًا برونزيًا لديفيد يبلغ طوله أكثر من خمسة أقدام. يبلغ متوسط ارتفاع الذكر البالغ خمسة أقدام وتسع بوصات.\nQuestion: هل يستطيع رجل بالغ أن يقف على قمة تمثال دوناتيلو البرونزي ويلمس سقف كنيسة سيستين؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لقد بدأ الصراع العربي الإسرائيلي منذ مئات السنين. واحتلت إنجلترا ما يعرف الآن بإسرائيل حتى عام 1945 عندما استقلت إسرائيل.\nQuestion: هل كانت إنجلترا متورطة بشكل مباشر في الصراع العربي الإسرائيلي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: نُشرت مغامرات أليس في بلاد العجائب عام 1865 تم عرض ماكبث لأول مرة في عام 1606\nQuestion: هل ألهمت مغامرات أليس في بلاد العجائب ماكبث؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الدب الأسود الآسيوي حيوان يعيش في موائل بها أشجار. يشير متعدد الألوان إلى أي شيء يتكون من أكثر من لون واحد.\nQuestion: هل الدب الأسود الآسيوي متعدد الألوان؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان الملازم ريتشاردز قرصانًا أبحر جنبًا إلى جنب مع اللحية السوداء. كان للملازم ريتشاردز العديد من الواجبات وتم تعيينه مسؤولاً عن السفينة Bonnet&#39;s Revenge.\nQuestion: هل ملازمو القراصنة مثل ملازمي البحرية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: من المفترض أن تكون فقرات لوريم إيبسوم مؤقتة. يقوم مصممو الويب دائمًا بإزالة فقرات lorem ipsum قبل الإطلاق.\nQuestion: هل يجب أن يحتوي موقع الويب النهائي على فقرات لوريم إيبسوم؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: غالبًا ما تؤدي سدود القندس إلى حدوث فيضانات في المناطق المحيطة بها. يمكن أن يؤدي الفيضانات إلى تخفيف التربة.\nQuestion: هل تعاني الأرض القريبة من سدود القندس؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: مُنحت جائزة الإمبراطورية لأفضل وافد جديد لممثل في دوره الأول. ظهر ويل فيريل لأول مرة في عام 1995.\nQuestion: هل سيكون من الصعب على ويل فيريل أن يفوز بجائزة الإمبراطورية لأفضل وافد جديد؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تقام الذكرى الفضية خلال السنة الخامسة والعشرين من الزواج. تزوجت سينثيا باول من جون لينون في عام 1962.\nQuestion: هل احتفلت سينثيا باول بالذكرى الفضية مع جون لينون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ولد آل باتشينو عام 1940. وقعت الحرب العالمية الثانية في الفترة من 1939 إلى 1945.\nQuestion: هل عمل آل باتشينو في فيلم خلال الحرب العالمية الثانية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: النص الغوجاراتي هو نص أبوجيدا كانجي هو نص لوغوغرافي معتمد \nQuestion: هل النص الغوجاراتي هو نفس فئة نص كانجي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تم تسمية مقاطعة موريس على اسم العقيد لويس موريس. كان العقيد لويس موريس رئيسًا للقضاة في نيويورك.\nQuestion: هل تم تسمية مقاطعة موريس على اسم رئيس المحكمة العليا؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: التلسكوب الكبير جدًا يراقب الفضاء الخارجي. أكبر جبل على وجه الأرض يقع تحت المحيط.\nQuestion: هل يستطيع التلسكوب الكبير جدًا مراقبة أكبر جبل على وجه الأرض؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الميثان هو غاز يلوث البيئة ويؤدي إلى تغيرات في درجات الحرارة. تنتج السيارات 2.7 طن من غاز الميثان سنويًا.\nQuestion: هل غاز الميثان البقري أكثر أماناً للبيئة من السيارات؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: التزلج على الماء هي رياضة تتضمن الانزلاق فوق سطح المسطحات المائية الكبيرة. يعتبر المغرب من الدول الرائدة التي تعاني من الجفاف.\nQuestion: هل المغرب مكان مثالي للتزلج على الماء؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: وصل سهم أمازون إلى 2500 دولار للسهم اعتبارًا من يونيو 2020. تبلغ تكلفة حزمة اشتراك Netflix الأساسية 8.99 دولارًا شهريًا اعتبارًا من عام 2020.\nQuestion: هل يمكن أن تشتري حصة واحدة من أمازون اشتراكًا في Netflix لمدة عشرين عامًا؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: قام نيكولا تيسلا ببناء منشأة تسمى برج Wardenclyffe في شورهام، نيويورك كانت شورهام موقعًا لمحطة للطاقة النووية في السبعينيات والثمانينيات\nQuestion: هل يوجد إشعاع حيث عمل نيكولا تيسلا ذات يوم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: حدثت نهضة هارلم خلال عشرينيات القرن العشرين. عاش آل كابوني خلال عشرينيات القرن الماضي.\nQuestion: هل كان بإمكان آل كابوني قراءة أعمال من عصر النهضة في هارلم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Blue Lives Matter هي حركة مضادة في الولايات المتحدة تدعم ضباط الشرطة وموظفي إنفاذ القانون. يسمح Grand Theft Auto III بارتكاب أعمال عنف غير مبررة ضد ضباط الشرطة في اللعبة.\nQuestion: هل سيدعم أعضاء Blue Lives Matter كل عنصر من عناصر Grand Theft Auto III؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يصادف يوم رأس السنة الجديدة يوم 1 يناير من كل عام. يوم الأسبوع أي تاريخ معين يقع بالتناوب بمقدار يوم واحد كل عام.\nQuestion: هل يأتي رأس السنة الجديدة دائمًا يوم الأربعاء؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: القراد الحورية هو بحجم حبة الخشخاش. يبلغ حجم حبة الخشخاش حوالي 1 ملم.\nQuestion: هل يمكن لقراد الحورية أن يمر عبر ثقب قياسي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تبلغ تكلفة طائرة بوينغ 737-800 106 ملايين دولار في عام 2019. تعتبر لوحة سلفاتور موندي، المنسوبة إلى ليوناردو دافنشي، أغلى لوحة بيعت على الإطلاق.\nQuestion: هل يمكن لتاجر أعمال فنية أن يشتري طائرة بوينغ 737-800 وعليها لوحة دافنشي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: بيتر جريفين هو موظف في مصنع الجعة في كواهوج.  عمل بيتر في مصنع الجعة لسنوات عديدة ومن المتوقع أن يكون على دراية بكيفية صنع البيرة.\nQuestion: هل يجب أن يكون بيتر جريفين خبيرًا في حرفة التخمير؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت Rowe 550 سيارة من إنتاج شركة SAIC الصينية للسيارات. ظهرت سيارة Rowe 550 لأول مرة في معرض شنغهاي للسيارات عام 2007.\nQuestion: هل يمكنك قيادة سيارة Rowe 550 إلى دورة الألعاب الأولمبية الصيفية لعام 2008؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: توفيت إيمي واينهاوس في عام 2011. حرب النجوم: Rogue One تم إصدارها في عام 2016.\nQuestion: هل كانت إيمي واينهاوس من محبي Star Wars: Rogue One؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لقد كان سنوبي تميمة السلامة في وكالة ناسا يتم منح جائزة Silver Snoopy من قبل رواد فضاء ناسا للموظفين والمقاولين لإنجازاتهم المتميزة المتعلقة بسلامة الطيران \nQuestion: هل جيسي دبليو مور هو المستفيد المحتمل من جائزة سنوبي تحت عنوان من وكالة ناسا؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  يبلغ طول غرير العسل البالغ 23 إلى 28 سم (9.1 إلى 11.0 بوصة) في ارتفاع الكتف و55-77 سم (22-30 بوصة) في طول الجسم، مع إضافة الذيل 12-30 سم أخرى (4.7-11.8 بوصة). أفران الثلاثين بوصة هي المعيار لمعظم المنازل ومعظم المطابخ. تبلغ الأبعاد الداخلية للفرن حوالي 25 بوصة عرضًا و16 بوصة ارتفاعًا. سيكون عمق الفرن حوالي 16 بوصة. \nQuestion: هل يمكن وضع غرير العسل داخل الفرن؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: القشر عبارة عن مادة زائدة من الحبوب المطحونة. تستخدم بعض المطاحن الطاقة الكهرومائية لطحن الحبوب.\nQuestion: هل يتم إنتاج القشر بواسطة الطاقة الكهرومائية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: زوجة باولو كويلو هي كريستينا أويتيكا. كريستينا اويتيكا فنانه من البرازيل.\nQuestion: هل تعيش زوجة باولو كويلو من خلال الكلام؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تستخدم قوارب النجاة على المسطحات المائية السائلة بحر هوك هو سمة جغرافية على سطح المريخ\nQuestion: هل يستطيع قارب النجاة إنقاذ الناس في بحر هوك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تتكون شركة فيات كرايسلر من شركتي السيارات المندمجتين فيات وكرايسلر. فيات هي شركة إيطالية مقرها الرئيسي في أمستردام.\nQuestion: هل ترتبط فيات كرايسلر بالسيارات اليابانية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان هاديس إله الموت والعالم السفلي عند اليونانيين. كان أوزوريس إله العالم السفلي عند المصريين.\nQuestion: هل سيتنافس هاديس وأوزوريس نظريًا على العقارات في العالم السفلي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يقع مطار جون واين في مقاطعة أورانج. يقع مطار جون واين على مقربة شديدة من المناطق السكنية.\nQuestion: هل تتطلب مقاطعة أورانج بولاية كاليفورنيا أن تكون الطائرات هادئة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تميز شهر يونيو من عام 2020 بالجائحة العالمية. خلال الوباء العالمي، لا يُسمح بمواصلة الأحداث الكبيرة بشكل كامل.\nQuestion: هل كان متنزه الأمراء يعمل بكامل طاقته خلال شهر يونيو من عام 2020؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تتطلب معظم وظائف البيع بالتجزئة أن يكون الموظفون قادرين على رفع ودفع وسحب ما يتراوح بين 25 إلى 50 رطلاً.  تتطلب وظائف البيع بالتجزئة من الموظفين التفاعل مع العملاء بانتظام.\nQuestion: هل البيع بالتجزئة وظيفة يمكن لأي شخص أن يناسبها؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يصنف البارود على أنه مادة منخفضة الانفجار المتفجرات المنخفضة تحترق بسرعات دون سرعة الصوت\nQuestion: هل سيؤدي انفجار في منشأة لتخزين البارود إلى موجة صدمة تفوق سرعة الصوت؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الكلور، عند إضافته إلى الماء، ينتج عنه مبيضات منزلية. المبيضات المنزلية متوفرة في معظم المتاجر بالدولار.\nQuestion: هل يمكنك شراء الكلور من متجر بالدولار؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تنتمي التماسيح إلى فصيلة Crocodylinae. تنتمي التماسيح إلى فصيلة التمساح.\nQuestion: هل تماسيح المياه المالحة مرتبطة بالتماسيح؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: بيرسيفوني هي إلهة النباتات.  إله الغطاء النباتي هو إله الطبيعة الذي يجسد اختفائه وظهوره مرة أخرى، أو الحياة والموت والبعث، دورة نمو النباتات.\nQuestion: هل سيكون بيرسيفوني مستشارًا جيدًا لمهندس المناظر الطبيعية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان هناك 3 رواد فضاء ضمن طاقم مهمة أبولو 15. تحتوي الدراجة الهوائية الأحادية العجلة على سرج واحد فقط، وعادةً ما يتم تشغيلها بواسطة شخص واحد فقط.\nQuestion: هل سيواجه طاقم أبولو 15 صعوبة في ركوب الدراجة الهوائية الأحادية العجلة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الفرقاطات هي نوع من السفن الشراعية. تتطلب العديد من ميزات السفن استخدام الحبل.\nQuestion: هل الحبال مطلوبة لتشغيل الفرقاطة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: خدع جيسون المدية مع Creusa الدكتور عدم احترام يخون زوجته مع امرأة أخرى\nQuestion: هل لدى جيسون أي شيء مشترك مع دكتور عدم الاحترام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الاضطرابات الهضمية هي مرض لا يستطيع فيه الجسم معالجة الغلوتين. الغلوتين هو البروتين الموجود في القمح.\nQuestion: هل يجب على مريض الاضطرابات الهضمية تجنب السباغيتي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الكوالا من الحيوانات العاشبة. الغذاء الرئيسي للكوالا هو الأوكالبتوس \nQuestion: هل تفضل الكوالا الأوكالبتوس على اللحوم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يريد لاعبو كمال الأجسام بناء العضلات والحفاظ على نسبة الدهون منخفضة لحم الأيائل أصغر حجما من لحم البقر\nQuestion: هل يفضل لاعب كمال الأجسام برجر الأيائل على برجر اللحم البقري؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تحدد كثافة الجسم ما إذا كان سيطفو أم لا. سوف يطفو الجسم إذا كان أقل كثافة من السائل الذي يوضع فيه.\nQuestion: هل يمكنك نقل عملة معدنية عبر بحر من الزئبق؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: باغز باني هو أرنب مجسم باللونين الرمادي والأبيض. تأكل الأرانب لحاء أشجار الزيتون ويمكن أن تسبب أضرارًا كبيرة، خاصة للأشجار الصغيرة.\nQuestion: هل سيؤذي باغز باني شجرة زيتون في العالم الحقيقي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: التعب الغدي هو اضطراب لا ينتج فيه الجسم ما يكفي من الهرمونات ويشعر الناس بالتعب. كرنب بروكسل من الأطعمة الغنية بفيتامين سي.\nQuestion: هل براعم بروكسل جيدة بشكل خاص لإرهاق الغدة الكظرية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تدور أحداث Family Guy في مدينة Quahog الخيالية بولاية رود آيلاند. رود آيلاند هي ولاية تقع على الساحل الشرقي الأمريكي.\nQuestion: هل تدور أحداث Family Guy على الساحل الغربي الأمريكي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ميتسوبيشي هي شركة تصنيع سيارات يابانية تدير شركة ميتسوبيشي مصنعًا في كاتالاو بالبرازيل\nQuestion: هل يمكن لأي شخص في أوبرلانديا العمل لدى شركة ميتسوبيشي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: هانا نيكسون كانت والدة ريتشارد نيكسون. استقال ريتشارد نيكسون بسبب التصرفات غير الأخلاقية التي ارتكبها خلال فضيحة ووترغيت.\nQuestion: هل ستكون هانا نيكسون فخورة بريتشارد نيكسون بعد فضيحة ووترغيت؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: إيدي ميرفي ولد عام 1961. لم تصبح هواتف السيارة شائعة في السيارات في أمريكا حتى عام 1984.\nQuestion: هل يستطيع إيدي ميرفي الاتصال برقم 911 في السيارة عندما كان طفلاً صغيراً؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان إدموند هيلاري متسلق الجبال الذي تسلق جبل إيفرست. يصل ارتفاع جبل إيفرست إلى 29.029 قدماً في الهواء.\nQuestion: هل سيكون جبل Wycheproof بمثابة نسيم بالنسبة لإدموند هيلاري؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يحتوي قوس قزح على الألوان التالية: الأحمر، البرتقالي، الأصفر، الأخضر، الأزرق، النيلي، والبنفسجي. علم الجابون هو الأخضر والأصفر والأزرق.\nQuestion: هل ألوان علم الجابون موجودة في قوس قزح؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الموليماوك هو نوع من طيور القطرس أي مكان لا يمكن لطيور القطرس الوصول إليه بشكل عام لا يمكن الوصول إليه لأنواع معينة من طيور القطرس\nQuestion: هل تعيش طيور القطرس في مكان لا تستطيع فيه طيور القطرس العيش؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: مكواة التجعيد هي أداة تستخدم لتجعيد الشعر باستخدام الحرارة. تتطلب رياضة الكيرلنغ مكانس الكيرلنج، والأحجار (الصخور)، وأحذية الكيرلنج.\nQuestion: هل مكواة التجعيد ضرورية في الشباك؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الإيمو هو نوع من الطيور التي لا تطير. الأيائل هي الغزلان، وهي من الثدييات.\nQuestion: هل الإيمو مرتبط بالأيائل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille هو مطعم للمأكولات الفرنسية الكلاسيكية في مدينة نيويورك. السالسا هو الغذاء الرئيسي في المطبخ المكسيكي.\nQuestion: هل سيجد الطاهي في مطعم La Grenouille أن طلب السالسا غريب؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: في Boom!، يدين System of a Down العولمة. المغني الرئيسي في فرقة System of a Down يتحدث بصراحة ضد العولمة. \nQuestion: هل نظام &quot;الأسفل&quot; يعارض العولمة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لا يمكن زراعة القهوة إلا في المناخات شبه الاستوائية والاستوائية تقع نيو إنجلاند في مناخ قاري رطب\nQuestion: هل يمكن لشخص من نيو إنجلاند الربح من خلال زراعة القهوة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: في مباراة تنس الطاولة، يفوز اللاعب الذي يسجل أولاً 11 نقطة. 11 هو عدد أولي.\nQuestion: هل يستخدم تنس الطاولة الأعداد الأولية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تبلغ رسوم بطاقة Capital One Venture السنوية حوالي 95 دولارًا. لدى كنيسة الشيطان رسوم عضوية مدى الحياة لمرة واحدة تبلغ 225 دولارًا.\nQuestion: هل كونك عضوًا لمدة 5 سنوات في Capital One Venture أكثر فعالية من حيث التكلفة من التواجد في كنيسة الشيطان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: توفي لودفيج فان بيتهوفن عام 1827. نشأت موسيقى EDM في منتصف وأواخر القرن العشرين.\nQuestion: هل استمتع بيتهوفن بالاستماع إلى موسيقى EDM؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت Napster عبارة عن خدمة مشاركة موسيقى P2P. رفع فريق Metallica دعوى قضائية ضد Napster من أجل إزالة أغانيهم من البرنامج، حيث لم يحصلوا على أرباح منه.\nQuestion: هل فريق Metallica يحمي موسيقاهم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت كاري أندروود هي الفائزة بالموسم الرابع من برنامج أمريكان أيدول. باعت كاري أندروود ما يزيد قليلاً عن 65 مليون ألبوم.\nQuestion: هل تفوقت مبيعات كيلي كلاركسون على الفائز في الموسم الرابع من برنامج أمريكان أيدول؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: القط البري الأوروبي موطنه الأصلي قارة أوروبا واسكتلندا وتركيا والقوقاز. موطن الأرانب ذات الذيل الأسود هو المكسيك وغرب الولايات المتحدة.\nQuestion: هل تخاف الأرانب ذات الذيل الأسود من القط البري الأوروبي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ولد كارل فريدريش غاوس عام 1777. التحدث إلى شخص ما على بعد 100 ميل يتطلب هاتفًا.\nQuestion: هل يستطيع كارل فريدريش جاوس التحدث إلى شخص ما على بعد 100 ميل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ليونيل ريتشي مغني أمريكي ونشأ نيكول ريتشي. ولدت نيكول ريتشي لشقيق شيلا إي، بيتر مايكل إسكوفيدو.\nQuestion: هل ليونيل ريتشي مرتبط بشيلا إي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لا توجد متطلبات لبيع الطعام حسب التواريخ.  تتم كتابة البيع حسب التواريخ على معظم المواد الغذائية باستخدام الأرقام العربية.\nQuestion: هل تطلب إدارة الغذاء والدواء الأمريكية البيع حسب التواريخ باستخدام الأرقام الرومانية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يتم غناء أكواخ البحر على السفن المحمولة بحراً كان مسار أوريغون عبارة عن مسار هجرة بري\nQuestion: هل غنى المسافرون أكواخ البحر على طريق أوريغون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: رهاب الدم هو الخوف من اللون الأبيض. علم الولايات المتحدة ملون باللون الأحمر والأبيض والأزرق.\nQuestion: هل سيستمتع شخص مصاب برهاب الكريات البيض بالنظر إلى علم الولايات المتحدة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: أكملت الممثلة تيري هاتشر إجمالي 180 حلقة من مسلسل ربات بيوت يائسات. لعبت تيري هاتشر دور البطولة في فيلم Lois &amp; Clark: The New Adventures of Superman استنادًا إلى قصة سوبرمان الهزلية.\nQuestion: هل استمرت تيري هاتشر في ضعف عدد حلقات ربات البيوت اليائسات مثل عرض سوبرمان؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تشكل خلايا الدم الحمراء حوالي 40-50% مما يتكون منه دم الإنسان. تشكل خلايا الدم البيضاء حوالي 1% من الدم في جسم الإنسان.\nQuestion: هل عدد كريات الدم البيضاء يفوق عدد كريات الدم الحمراء في جسم الإنسان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ولد السياسي جون جورج بيس في كالينجتون. كورنوال مكان يقع في جنوب غرب إنجلترا.\nQuestion: هل كان مسقط رأس جون جورج بيس بالقرب من كورنوال؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لقد انقرضت الديناصورات منذ ملايين السنين. في المقابل، بدأ البشر القدماء في تسجيل التاريخ منذ عدة آلاف من السنين فقط.\nQuestion: هل يشمل تاريخ أوروبا عصر الديناصورات؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان بول بنيان عملاقًا أسطوريًا من القصص الطويلة. يحتاج المخططون الحضريون إلى تصميم المباني والأسقف في المدن.\nQuestion: هل سيكون بول بنيان من الناحية النظرية خيارًا سيئًا لمخطط حضري؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تحتاج النباتات إلى ثلاثة عناصر لعملية التمثيل الضوئي: الهيدروجين، والأكسجين، والكربون. يتكون الغلاف الجوي للمريخ من ثاني أكسيد الكربون والنيتروجين والأرجون ومستويات ضئيلة من بخار الماء والأكسجين وأول أكسيد الكربون والهيدروجين والغازات النبيلة الأخرى.\nQuestion: هل جميع العناصر التي تحتاجها النباتات لعملية التمثيل الضوئي موجودة في الغلاف الجوي للمريخ؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ولد بيل ناي عام 1955 وكانت آخر انتخابات لفرانكلين ديلانو روزفلت في عام 1944\nQuestion: هل صوت بيل ناي لصالح فرانكلين ديلانو روزفلت؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يعتبر &quot;الغجر&quot; إهانة في الأمريكتين من قبل شعب الروما. واجهت ليدي غاغا انتقادات عبر الإنترنت بشأن استخدامها لكلمة &quot;Gypsy&quot; كعنوان وكلمات للأغنية.\nQuestion: هل يعتبر استخدام كلمة غجر من قبل الأشخاص غير الغجر أمراً مقبولاً؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كانت أرض إسرائيل تحت سيطرة الإمبراطورية العثمانية في القرن السادس عشر.  كان دين الدولة العثمانية هو الإسلام السني. \nQuestion: هل كانت أرض إسرائيل في حوزة إمبراطورية إسلامية في القرن السادس عشر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: توصي وزارة الزراعة الأمريكية بتناول ما لا يقل عن 3500 ملغ من البوتاسيوم يوميًا. تحتوي حبة الكوسا الواحدة على 512 ملغ من البوتاسيوم.\nQuestion: هل تلبي 7 كوسة التوصية اليومية بالبوتاسيوم الصادرة عن وزارة الزراعة الأمريكية؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: أول سيارة تم تصنيعها على نطاق واسع كانت موديل T. تم تصنيع الموديل T في عام 1908.\nQuestion: هل كانت السيارة البريطانية الميني هي أول سيارة تم تصنيعها؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يمكن تجفيف الفلفل في الفرن بدلاً من المجفف. تم استخدام ضوء الشمس والحرارة لعدة قرون لتجفيف الفلفل والأطعمة الأخرى.\nQuestion: هل يمكن تحضير البابريكا بدون مجفف؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: القطط البنغالية هي حيوانات آكلة اللحوم. الفطائر لا تحتوي على اللحوم.\nQuestion: هل تستطيع قطة البنغال البقاء على قيد الحياة وهي تأكل الفطائر فقط؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يمكن لطيور القطرس المتجولة السفر لمسافة لا تقل عن 15000 كيلومتر (أقل بقليل من 10000 ميل) فوق البحر قبل العودة إلى الأرض.  إنها 4766 ميلاً أو 7670 كم من بوخارست إلى مدينة نيويورك.\nQuestion: هل يمكن لطائر القطرس المتجول أن يطير من بوخارست إلى مدينة نيويورك دون راحة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: مكتبة نيويورك العامة هي نظام مكتبة عامة للإعارة في مدينة نيويورك تنتج شركة Alpo أغذية الحيوانات الأليفة والمنتجات ذات الصلة\nQuestion: هل تبيع مكتبة نيويورك العامة منتجات Alpo؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الاسم الكامل لتوني بينيت هو أنتوني دومينيك بينيديتو. دومينيك كروز هو بطل UFC Bantamweight مرتين.\nQuestion: هل الاسم الأوسط لتوني بينيت مشترك مع بطل UFC السابق؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تشير المرأة الأرملة السوداء إلى المرأة التي تقتل زوجها من أجل المال وتتزوج مرة أخرى. تحتوي نوى الخوخ على الأميغدالين، وهو نوع من السيانيد.\nQuestion: هل يمكن لامرأة الأرملة السوداء استخدام الخوخ؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: غالبًا ما يجذب Burning Man الكثير من الشباب الذين يرتدون عادةً الحد الأدنى من الملابس بسبب الطقس والأناقة.  تقام احتفالات الرجل المحترق في شمس الصيف الحارة وغالبًا ما لا تكون في مناطق مظللة.\nQuestion: هل الناس أكثر عرضة من المعتاد للإصابة بحروق الشمس في Burning Man؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: راهول درافيد كان لاعب كريكيت محترف ركلات المرمى الميدانية هي جزء من كرة القدم الأمريكية\nQuestion: هل قام راهول درافيد بركل هدف ميداني من قبل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تتضمن دراسة المحيطات العديد من المجالات أو العلوم. لدراسة موضوع البحث المحدد بشكل صحيح، يجب على عالم المحيطات أن يفهم كيفية تفاعل علمه مع العلوم الأخرى المعنية.\nQuestion: هل يدرس عالم المحيطات الفردي العديد من العلوم؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: حدث العصر الذهبي للقصص المصورة بين ثلاثينيات وخمسينيات القرن العشرين. كان Shatter أول فيلم كوميدي مرسوم رقميًا ومنشور تجاريًا.\nQuestion: هل تم اختراع خيال الأبطال الخارقين بالصيغة الرقمية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يبلغ متوسط حجم شبل الدب الأسود الأمريكي 8 بوصات فقط عند الولادة. يبلغ حجم الأسرة بحجم كينغ 76 بوصة × 80 بوصة.\nQuestion: هل يمكن لطفلين من الدب الأسود الأمريكي حديثي الولادة أن يتسعا لسرير بحجم كينج؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تقوم Aldi بتخفيض التكاليف عن طريق فرض رسوم على الحقائب، والشراء بكميات كبيرة، وتجنب العناصر التي تحمل علامات تجارية.  تقوم Aldi بإزالة الأطعمة الفاسدة أو منتهية الصلاحية من رفوفها فور التعرف عليها.\nQuestion: هل يتم خصم أطعمة Aldi نظرًا لكونها قديمة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الفلفل الأسود مصنوع من حبوب الفلفل الأسود. تنمو حبات الفلفل الأسود على نبات بايبر نيجروم.\nQuestion: هل الفلفل الحلو المطحون هو المكون الرئيسي للفلفل الأسود؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يشير &quot;أخذ ukemi&quot; إلى فن السقوط أو الاستلام في فنون الدفاع عن النفس يتطلب تناول الأوكيمي عادة من الشخص الذي يقوم به تحريك جسمه بطريقة تقلل من الإصابة، وبالتالي يستخدم الطاقة الحركية\nQuestion: هل تناول ukemi يوقف الطاقة الحركية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: BLT عبارة عن شطيرة تتكون من لحم الخنزير المقدد والخس والطماطم الدار البيضاء ذات أغلبية مسلمة\nQuestion: هل من الصعب الحصول على BLT في الدار البيضاء؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يتلقى Snowdown حوالي 200 بوصة من الأمطار سنويًا  يبلغ طول دبوس البولينج القياسي قدمًا واحدة وثلاث بوصات\nQuestion: هل سيؤدي هطول الأمطار السنوي على سنودون إلى غمر كرة البولينج المستقيمة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: سبق ستانلي بالدوين رامزي ماكدونالد كرئيس للوزراء. خلف ستانلي بالدوين كرئيس للوزراء نيفيل تشامبرلين.\nQuestion: هل كانت المرأة رئيسة للوزراء مباشرة قبل أو بعد ستانلي بالدوين؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يمكن للنسر الأصلع السفر بسرعة تصل إلى 99 ميلاً في الساعة. B-52 هي قاذفة جوية أمريكية يمكنها السفر بسرعة تصل إلى 650 ميلاً في الساعة.\nQuestion: هل سيقوم النسر الأصلع بتسليم رسالة عاجلة قبل B-52؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: غالبًا ما يتلقى الملاكمون المحترفون اللكمات على وجوههم. حتى مع استخدام واقي الفم، تحدث إصابات الأسنان غالبًا في الملاكمة.\nQuestion: هل يمكن للملاكمين المحترفين أن يتوقعوا انخفاض فواتير الأسنان؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: انتحرت زوجة الدكتور سوس. في سنواته الأخيرة، تم تشخيص إصابة الدكتور سوس بالسرطان.\nQuestion: هل عاش الدكتور سوس حياة خالية من المأساة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: وُلِد والدا جاكسون بولوك ونشأا في تينغلي، آيوا. تتطلب جميع الولايات باستثناء كاليفورنيا وهاواي وأيوا وفيرمونت ووايومنغ تلاوة منتظمة للتعهد في المدارس العامة.\nQuestion: هل لم يكن والدا جاكسون بولوك مطالبين بقول قسم الولاء كأطفال؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: شامو هو اسم أوركا التميمة في عالم البحار. كل عالم بحري لديه شامو.\nQuestion: هل مقاطعة سان دييغو موطن شامو؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لم تعد الديانات الشركية القديمة تحظى بشعبية عامة في الثقافة الغربية. تأسست كنيسة وحش السباغيتي الطائر في عام 2006 بعد إنشاء ولايات ميكرونيزيا الموحدة نفسها في عام 2005.\nQuestion: هل وحش السباغيتي الطائر جزء من آلهة قديمة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الملكة إليزابيث الثانية هي ملكة المملكة المتحدة وكومنولثها جزر البليار هي جزء من دولة إسبانيا\nQuestion: هل تحكم إليزابيث الثانية جزر البليار؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: بدأت حرب كرة القدم في 14 يوليو 1969. وانتهت في 20 يوليو 1969.\nQuestion: هل استمرت حرب كرة القدم لمدة شهر على الأقل؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان لورينزو دي ميديشي راعيًا عظيمًا للفنون في فلورنسا وكان بمثابة راعي لليوناردو دافنشي. كان لورنزو دي ميديشي أيضًا راعيًا للفنان ساندرو بوتيتشيلي.\nQuestion: هل كانت رعاية لورينزو دي ميديشي لدافنشي حصرية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: العشاء الأخير كان وجبة بين يسوع وتلاميذه الاثني عشر في المسيحية. في الإسلام، يسوع هو واحد من العديد من الأنبياء المبجلين.\nQuestion: هل يحتفل أحد في العشاء الأخير في الإسلام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تعيش الأسماك في الماء.  يقول العديد من أصحاب البنغال أن البنغال الخاصة بهم تسترد العناصر بشكل طبيعي.\nQuestion: هل تخاف قطة البنغال من اصطياد سمكة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان طول بينيتو موسوليني 5 أقدام و 6 ⁄ بوصة. يبلغ طول هافور بيورنسون 6 أقدام و9 بوصات.\nQuestion: هل ارتدى بينيتو موسوليني حذاءًا أكبر من حذاء هافور بيورنسون؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: التحق بوبي جندال بمدرسة باتون روج ماجنت الثانوية. تميمة مدرسة باتون روج ماجنت الثانوية هي كلب البلدغ.\nQuestion: هل يستطيع تميمة مدرسة بوبي جندال الثانوية أكل الطعام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يقع مبنى الكابيتول في أحد أطراف المركز التجاري الوطني في وسط مدينة واشنطن العاصمة. يقع البيت الأبيض بجوار نصب واشنطن التذكاري، على بعد مسافة قصيرة من المركز التجاري.\nQuestion: هل يقع مبنى الكابيتول الأمريكي بالقرب من البيت الأبيض؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: قطع الأشجار ينتج منتجات مثل اللب. يستخدم اللب في صناعة المنتجات الورقية مثل ورق التواليت.\nQuestion: هل سيكون من الصعب الحصول على ورق التواليت إذا لم يكن هناك قاطعو الأشجار؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: كان اسم ميلاد إيجي بوب هو جيمس نيويل أوستربيرج جونيور. كان والد إيجي بوب هو جيمس نيويل أوستربيرج الأب.\nQuestion: هل سمي إيجي بوب على اسم والده؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تشمل الرعاية الصحية الوقائية فحوصات للأمراض المنقولة جنسيًا/الأمراض المنقولة جنسيًا.  تتيح الزيادات في اختبارات الأمراض المنقولة جنسيًا للمواطنين حماية أنفسهم من العدوى واحتواء تفشي المرض.\nQuestion: هل يمكن للرعاية الصحية الوقائية أن تقلل من انتقال الأمراض المنقولة بالاتصال الجنسي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تتميز لعبة Beauty and the Beast بقلعة مليئة بالعناصر التي تتحرك وتتحدث من تلقاء نفسها.  الجماد هو الذي ليس حيا بأي حال من الأحوال.\nQuestion: هل الأشياء الجامدة تنبض بالحياة في الجميلة والوحش؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تنظم جمعية الباندي الأمريكية ألعاب الباندي الكبرى في الولايات المتحدة. لا توجد فرق من تكساس مسجلة لدى جمعية باندي الأمريكية.\nQuestion: هل من المحتمل أن يصبح باندي مشهورًا في تكساس؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الكالسيوم هو عنصر غذائي مهم لصحة العظام. يحتوي الكرنب على كمية أكبر من الكالسيوم في كل حصة مقارنة بالسبانخ.\nQuestion: هل اللفت أكثر فائدة من السبانخ لنمو العظام؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: أمازوناس هي في الغالب غابة استوائية. تحتوي الغابات الاستوائية على مخلوقات خطيرة.\nQuestion: هل المشي عبر أمازوناس يعرض حياة الشخص للخطر؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تم إصدار Nintendo في الأصل عام 1983 واستخدمت الألعاب التي كانت بتنسيق خرطوشة. تم إصدار Sony Playstation 3 في عام 2006 وكانت تحتوي على ألعاب بتنسيق CD.\nQuestion: هل كانت نينتندو الأصلية تمتلك ألعاب بنفس تنسيق البلايستيشن 3؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: رقم فيبوناتشي هو عبارة عن سلسلة من الأرقام تضيف رقمًا إلى الرقم الذي يسبقه وتستمر إلى الأبد. Pi عبارة عن سلسلة من الأرقام وتم اكتشاف 2.7 تريليون رقم في عام 2010.\nQuestion: هل تسلسل أرقام فيبوناتشي أطول من كل رقم تم اكتشافه في باي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: رهاب الجراثيم هو مصطلح يستخدمه علماء النفس لوصف الخوف المرضي من الجراثيم والبكتيريا والميكروبات والتلوث والعدوى. إذا كنت تدرب الجودو، فستجد نفسك أيضًا تقترب من الأشخاص الذين تتدرب معهم، وتتدحرج على الأرضيات المبللة أيضًا. \nQuestion: هل يستطيع الشخص المصاب برهاب الجراثيم المشاركة في الجودو؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يمتد الخريف من سبتمبر إلى نهاية ديسمبر في الولايات المتحدة. تدخل الدببة في حالة سبات من سبتمبر إلى أبريل ونادرًا ما يتم رؤيتها.\nQuestion: هل الخريف هو الوقت المناسب لجمع جلود الدببة في الولايات المتحدة؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يعرض فيديو &quot;Stupid Girls&quot; مشهدًا تتشارك فيه بينك وامرأة فرشاة أسنان للحث على القيء في الحمام. يمكن أن تثير الصور أو مناقشة نشاط التطهير الأشخاص الذين يعانون من اضطرابات الأكل.\nQuestion: هل هناك مقاطع فيديو موسيقية وردية تثير مرضى اضطراب الأكل؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: الأنصر جونيور هو سائق سيارة سباق سباق الفضاء هو المنافسة بين الاتحاد السوفييتي والولايات المتحدة على استكشاف الفضاء\nQuestion: هل فاز الأنصر جونيور بسباق الفضاء؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft عبارة عن قطعة من البرامج. البرمجيات رقمية.\nQuestion: هل World of Warcraft أثقل من رغيف الخبز؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تم إنشاء ميترويد ونشره بواسطة نينتندو. Electronic Arts هي شركة ألعاب فيديو منافسة لشركة Nintendo.\nQuestion: هل استفادت شركة Electronic Arts من مبيعات Metroid؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: تعمل غالبية معلمات رياض الأطفال في المدارس العامة. تلتزم المدارس العامة بالفصل بين الكنيسة والدولة، وليس لديها أي دين عام.\nQuestion: هل يمكن لمعلمة رياض الأطفال أن تقدم درسًا في العهد الجديد؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: اشتهرت إيمي واينهاوس بتسممها قبل بدء التصوير. نسيت إيمي واينهاوس كلمات أغانيها أثناء أدائها الأخير.\nQuestion: هل كانت إيمي واينهاوس تؤدي دائمًا أداءً مباشرًا بشكل مثالي؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: عادةً ما يتم تعبئة الأنشوجة المستخدمة في البيتزا بالكامل في الزيت أو الماء.  لا يتم عادةً تقطيع الأنشوجة الموجودة على البيتزا أو تقطيعها بأي شكل من الأشكال.\nQuestion: هل هناك عظام في بيتزا الأنشوجة؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: يبلغ قطر كرة السلة القياسية في الدوري الاميركي للمحترفين حوالي 9.5 بوصة يصل طول أذن القطة الرملية إلى 2.8 بوصة\nQuestion: هل يمكنك إخفاء كرة سلة في أذن قطة رملية؟",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: لُقب إيفان الرهيب بالرهيب بسبب حكمه القاسي. كان والد إيفان الرهيب، فاسيلي الثالث إيفانوفيتش، يلقب بفاسيلي المناسب.\nQuestion: هل كان لدى والد وجد إيفان الرهيب ألقاب أجمل؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: سرطان الثدي هو مرض يحدث في أنسجة الثدي في الثدييات. الأميبا هي كائنات وحيدة الخلية تفتقر إلى الأنسجة الثديية.\nQuestion: هل الأميبا آمنة من سرطان الثدي؟",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: باي، نسبة محيط الدائرة إلى قطرها، تساوي 3.14. وفي ثمانينيات القرن العشرين، تبنت الصين سياسة الطفل الواحد.\nQuestion: هل كان &quot;باي&quot; عددًا مقبولاً من الأطفال في الصين في الثمانينيات؟",
+        "output": "No"
+    }
+]

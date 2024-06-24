@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В Олбани, штат Джорджия, проживает около 75 000 человек.\nQuestion: Будет ли Олбани в Джорджии насчитывать сто тысяч жителей раньше, чем Нью-Йорк?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Основной язык, на котором говорят на Сент-Винсенте и Гренадинах, — винсентский креольский.\nQuestion: Является ли язык, используемый в Сент-Винсенте и Гренадинах, английским?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Жадность – это стремление к богатству и власти.\nQuestion: Является ли жадность самым распространенным из семи смертных грехов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Средняя глубина Японского моря составляет 5748 футов (1752 метра), а максимальная глубина — 12 276 футов (3742 метра).\nQuestion: Будет ли вершина горы Фудзи выступать из Японского моря? ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Самая популярная песня Лил Джона на рекламных щитах была «Да».\nQuestion: Была ли песня Lil Jon, занявшая первое место в Billboard, результатом сотрудничества с участником The Lox?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Майами — город в штате Флорида.\nQuestion: Майами — город на западном побережье Америки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Генеральная ассамблея Вирджинии имеет 140 мест.\nQuestion: Сможет ли Швейцарская гвардия занять места на Генеральной Ассамблее Вирджинии?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Португальская колониальная война велась между Португалией и несколькими группами, включая Народное движение за освобождение Анголы.\nQuestion: Разделяла ли какая-либо страна, участвовавшая в португальской колониальной войне, роль Швейцарии во Второй мировой войне?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: На древнеанглийском языке говорили англосаксы, германское племя, населявшее Англию.\nQuestion: Будет ли пикт спутать со староанглийским?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Карьера Лила Уэйна началась в 1995 году, когда ему было 12 лет, когда он подписал контракт с Birdman и присоединился к Cash Money Records в качестве самого молодого участника лейбла.\nQuestion: Мог ли Лил Уэйн самостоятельно управлять транспортным средством на законных основаниях в начале своей карьеры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Распятие – символ христианства\nQuestion: Вероятно ли, что вы найдете распятие в Карачи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лицензия Creative Commons позволяет бесплатно распространять произведение, защищенное авторским правом.\nQuestion: Был ли человек продан лицензии Creative Commons на произведение Ботичелли «Рождение Венеры» сорванным?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Средний вес шестилетнего ребенка составляет 45 фунтов.\nQuestion: Могут ли десять галлонов морской воды раздавить шестилетнего ребенка?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Анчоусы – это разновидность мелкой рыбы.\nQuestion: В водах с более холодной температурой обитает больше анчоусов, чем в более теплых?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 3D-принтеры имеют ограничения с точки зрения точности. Стандартный выход сопла составляет около 0,4 мм. Поэтому, если вы планируете печатать что-то толщиной менее 0,4 мм, полезного предмета вы не получите.\nQuestion: Способна ли 3D-печать создать аденовирус?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Джордж Фокс был основателем Религиозного общества друзей, широко известного как квакеры или друзья.\nQuestion: Поддержал бы Джордж Фокс забивание камнями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «Звездные войны» — один из наиболее широко пародируемых сериалов.\nQuestion: Обязательно ли смотреть «Звездные войны», чтобы узнать, кто такой Дарт Вейдер?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Булева алгебра — это раздел алгебры, в котором значения переменных представляют собой значения истинности и ложности, обычно обозначаемые 1 и 0 соответственно. \nQuestion: Может ли компьютер быть полностью запрограммирован на основе булевой алгебры?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кристина Агилера — судья по голосу.\nQuestion: Кристина Агилера развернула свое кресло для Келли Кларксон в «Голосе»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Наркан — это лекарство, которое спасает жизнь человеку, у которого произошла передозировка опиатами.\nQuestion: Можно ли было бы предотвратить смерть Эми Уайнхаус с помощью «Наркана»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Наиболее распространенные цвета меха мангустов — коричневый и серый.\nQuestion: Есть ли у мангуста естественный камуфляж для пустыни?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Крылья Баффало — это жареные куриные крылышки, покрытые острым соусом.\nQuestion: Если кто-то любит крылышки буйвола, нравится ли ему капсаицин?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Брюс Ли поступил в Вашингтонский университет в 1961 году.\nQuestion: Брюс Ли отсутствовал на выпускной церемонии Вашингтонского университета в 1964 году?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Брук Шилдс окончила Принстонский университет.\nQuestion: Сможет ли Брук Шилдс добиться успеха в Пенсильванском университете?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Марист расположен вдоль реки Гудзон.\nQuestion: Придется ли студентам Мариста подавать петицию, чтобы получить команду по гребле?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Мемы лолкотов часто имеют формат JPEG.\nQuestion: Может ли сотня тысяч лолкотов поместиться на iPhone первого поколения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Человеческое перенаселение является результатом превышения рождаемости над уровнем смертности в стране.\nQuestion: Стоит ли Русеву беспокоиться о перенаселении населения на его родине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Персики имеют нечеткую красную, оранжевую и желтую кожицу.\nQuestion: Платье принцессы Пич напоминает плод персика?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Наличие психических заболеваний в анамнезе лишает большинство людей права служить в Вооруженных Силах.\nQuestion: Могут ли психиатрические пациенты присоединиться к ВВС США?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing — поисковая система, представляющая собой цифровой объект.\nQuestion: Могу ли я держать Bing в корзине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Процессор — это основной чип на плате компьютера, который выделяет много тепла.\nQuestion: Имеет ли центральный процессор обычно отдельный вентилятор?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Сирил Рамафоса — президент ЮАР.\nQuestion: Может ли Сирил Рамафоса стать генеральным секретарем НАТО?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бруклинские и нью-йоркские бублики известны во всем мире своим высоким качеством.\nQuestion: Бруклин известен своими хлебобулочными изделиями?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Боксерское восстание произошло в 1899–1901 гг.\nQuestion: Участвовали ли Королевские ВВС в Боксерском восстании?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Франсуа Миттеран родился в 1916 году.\nQuestion: Служил ли Франсуа Миттеран во французской армии под началом Наполеона Бонапарта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Амеба – одноклеточный организм.\nQuestion: Могут ли амебы заболеть раком?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Холера – это разновидность бактерий.\nQuestion: Холера жива?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Сладкий картофель имеет гладкую кожуру и оранжевый цвет.\nQuestion: Кто-нибудь обычно путает сладкий картофель с ананасом?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пингвины обитают в глубоких и очень холодных частях южного полушария.\nQuestion: Часто ли можно встретить пингвина в Майами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лимфома — серьезный тип рака, который может начаться с опухолей в лимфатических узлах.\nQuestion: Опухоли в лимфатических узлах можно игнорировать?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В «Капитане Америка: Гражданская война» Железный Человек и Капитан Америка стали врагами из-за разногласий.\nQuestion: Сражался ли Человек-Паук против Сокола в MCU?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В йоге как упражнение поза Натараджасара представляет собой божественный танец Шивы.\nQuestion: Является ли божественный танец Шивы древней позой для физической подготовки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Шрам — злой лев из диснеевского «Короля Льва».\nQuestion: Появляются ли гиены в бродвейском мюзикле?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Обезьяны-совы плодоядны и предпочитают маленькие спелые фрукты, если таковые имеются.\nQuestion: Понравится ли сове-обезьяне клубника?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: M60 Patton — армейский танк весом несколько тонн.\nQuestion: Может ли змея проглотить M60 Patton?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Мстители — комикс, созданный компанией Marvel.\nQuestion: Будут ли комиксы «Мстители» неуместны в магазине DC Comics?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Персидский залив имеет площадь 96 912 квадратных миль.\nQuestion: Может ли Персидский залив поместиться в Нью-Джерси?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Псайлок — супергерой Marvel, настоящее имя — Бетси Брэддок.\nQuestion: Является ли Николь Кидман идеальным выбором на роль Псайлок, учитывая ее рост и вес?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Берни Сандерс – пенсионер\nQuestion: Мог ли Берни Сандерс посетить Метрополитен-музей двадцать раз менее чем за двести долларов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Организация Planned Parenthood специализируется на репродуктивном здравоохранении.\nQuestion: Может ли программа Planned Parenthood сообщить вашему университету, что у вас есть вирус простого герпеса?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ахиллес был греческим героем, убитым стрелой в пятку.\nQuestion: Сможет ли Ахиллес одолеть Леголаса в гипотетической битве?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бухарест, Румыния, расположен в Восточной Европе.\nQuestion: Бухарест расположен к югу от Египта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Вещи плавают только в том случае, если они менее плотны, чем окружающий материал.\nQuestion: Будет ли камень плавать в атмосфере Земли?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рога носорога используются для народного лечения полового бессилия.\nQuestion: Убивали ли носорогов, чтобы улучшить сексуальную жизнь человека?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ABBA — шведская поп-группа, состоящая из четырех участников.\nQuestion: Имеет ли ABBA гендерную конфигурацию, похожую на The Mamas &amp; The Papas?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 13-я поправка была ратифицирована в 1865 году.\nQuestion: Вспомнил бы автор «Маленьких женщин» о ратификации 13-й поправки?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 55% пользовательской базы Reddit происходит из США.\nQuestion: Знакомо ли большинство пользователей Reddit с «Клятвой верности»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Дети отправляют рождественские письма Деду Морозу.\nQuestion: Отправляют ли дети рождественские письма на Южный полюс?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Группа Maroon 5 образовалась в 2001 году.\nQuestion: Maroon 5 поехали в тур с Nirvana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эвандеру Холифилду в конце 2020 года исполнится 58 лет.\nQuestion: Установит ли возвращение Эвандера Холифилда в бокс в 2020 году возрастной рекорд?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Тело Пост Мэлоуна покрыто множеством татуировок.\nQuestion: Боится ли Пост Мэлоун игл?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Испано-американская война длилась с 21 апреля 1898 года по 13 августа 1898 года.\nQuestion: Постигла ли президент США во время испано-американской войны такую же кончину, как Авраам Линкольн?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бог создал Еву из кости, которую он отделил от Адама.\nQuestion: Была ли Ева вовлечена в кровосмесительные отношения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лил Уэйн родился Дуэйн Майкл Картер.\nQuestion: Рэпер с похожим настоящим именем Лил Уэйн имеет более четырехкратную премию Грэмми Уэйна?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Температура кипения никеля 3003 Кельвина.\nQuestion: Будет ли никель кипеть во внешнем ядре Земли?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Доротея Вендлинг — певица, родившаяся в Штутгарте, Германия.\nQuestion: Была ли Доротея Вендлинг родом из того же места, где родился Porsche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хирургия используется для устранения медицинских проблем или физических изменений в организме.\nQuestion: Может ли операция предотвратить экзистенциальный кризис?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Великий шейх – так звали Авиценну.\nQuestion: Был ли Аль-Фараби учеником Великого Шейха?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хлор, смешанный с натрием, представляет собой хлорид натрия, также известный как поваренная соль.\nQuestion: Опасно ли употребление хлора в смеси с натрием?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пекарская дюжина означает 13 чего-либо.\nQuestion: Было ли у основателей бразильского джиу-джитсу Грейси хотя бы с десяток детей на двоих?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dolce &amp; Gabbana была основана в 1985 году.\nQuestion: Моцарт когда-нибудь покупал что-нибудь у Dolce &amp; Gabbana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Судьи в 1700-х годах во время судебных заседаний носили напудренные парики и широкие мантии.\nQuestion: Будет ли ортодоксальный пресвитерианин возражать против одежды судьи 1700-х годов?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хайку – это короткое японское стихотворение, состоящее из 5, 7 и 5 слогов.\nQuestion: Неужели «Строки о древности микробов» короче любого хайку?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лилли Вачовски — транс-женщина, режиссёр «Матрицы».\nQuestion: Выступают ли режиссеры «Матрицы» за права трансгендеров?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Экзамен по вождению позволяет оценить способность управлять транспортным средством в соответствии с правилами дорожного движения.\nQuestion: Сдаст ли северный морской котик экзамен по вождению?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: По состоянию на 2018 год у Taco Bell более 7072 ресторана.\nQuestion: Будет ли каждый год в Taco Bell входить и выходить больше людей, чем Рой Роджерс?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Красное море – один из самых соленых водоемов в мире.\nQuestion: Было бы необычно найти желтого окуня в Красном море?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Генерал Зод — злодей.\nQuestion: Предпочел бы генерал Зод iPhone Samsung Galaxy S4?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Самые ранние письменные записи указывают на то, что египтяне и вавилоняне использовали все элементарные арифметические операции еще в 2000 году до нашей эры.\nQuestion: Использовали ли неандертальцы арифметику?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гончая — это охотничья собака, используемая для выслеживания добычи.\nQuestion: Было ли животное в фильме «Ты хороший спорт, Чарли Браун» гипотетически собакой?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «И тогда никого не было» — детективный роман Агаты Кристи.\nQuestion: Есть ли какие-нибудь книги Джоан Роулинг в жанре «И никого не стало?»",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Джей-Зи родился в 1969 году.\nQuestion: Сотрудничал ли Jay-Z когда-нибудь с Луи Армстронгом?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Метры являются частью метрической системы.\nQuestion: В Великобритании длина измеряется в метрах?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Колумб был родом из Генуи, которая находится на территории нынешней Италии.\nQuestion: Христофор Колумб плавал, представляя другую страну, чем его родной дом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Губы и кожа синеют в ответ на недостаток кислорода.\nQuestion: Синие губы — это нормально?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Джон Брауэр Миннох был американцем, который в своем пиковом весе был самым тяжелым человеком, когда-либо зарегистрированным, его вес составлял 1400 фунтов.\nQuestion: Страдал ли Джон Брауэр Миннох нервной анорексией?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Шахерезада была персонажем ближневосточного фольклора, который отсрочил свою казнь, рассказывая королю длинные истории.\nQuestion: Будет ли «Отелло» пьесой Шекспира, которая позволит Шахерезаде чаще проводить время с королем?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хума Абедин была заместителем главы администрации Хиллари Клинтон в 2009 году.\nQuestion: Был ли крещен заместитель руководителя администрации Хиллари Клинтон в 2009 году?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Журавли, которых кормят люди, могут проявлять домашние наклонности и редко клюют людей.\nQuestion: Является ли казуар более безопасным домашним животным, чем журавль?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Новая Англия расположена в Соединенных Штатах Америки.\nQuestion: Не могли бы вы поехать из Новой Англии в Сэйнсбери?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Второклассникам часто семь или восемь лет.\nQuestion: Будет ли П.Г. Вудхаус преподаваться во втором классе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В «Приключениях Алисы в стране чудес» одним из персонажей является гусеница, которая курит кальян.\nQuestion: В «Приключениях Алисы в стране чудес» употребление табака кажется приятным?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Верховный суд — высшая судебная инстанция США.\nQuestion: Может ли Саймон Коуэлл проголосовать за следующего судью Верховного суда?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В 1933 году из-за Великой депрессии было около 15 миллионов человек безработными.\nQuestion: Смогут ли все безработные из-за Великой депрессии 1933 года поместиться на стадионе «Тайгер»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Донателло создал бронзовую статую Давида высотой более пяти футов.\nQuestion: Может ли взрослый мужчина встать на бронзового Давида Донателло и коснуться потолка Сикстинской капеллы?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Арабо-израильский конфликт начался сотни лет назад.\nQuestion: Была ли Англия непосредственно вовлечена в арабо-израильский конфликт?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «Приключения Алисы в стране чудес» были опубликованы в 1865 году.\nQuestion: Вдохновили ли «Приключения Алисы в стране чудес» Макбета?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Азиатский черный медведь — животное, обитающее в местах обитания деревьев.\nQuestion: Азиатский черный медведь разноцветный?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лейтенант Ричардс был пиратом, плававшим вместе с Чёрной Бородой.\nQuestion: Лейтенанты пиратов похожи на лейтенантов ВМФ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Абзацы Lorem Ipsum предназначены для временного использования.\nQuestion: Должен ли готовый веб-сайт содержать абзацы lorem ipsum?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бобровые плотины часто приводят к затоплению территорий вокруг них.\nQuestion: Страдает ли земля в непосредственной близости от бобровых плотин?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Премия «Империя» за лучший дебют была вручена актеру в дебютной роли.\nQuestion: Будет ли сложно Уиллу Ферреллу получить премию Empire Award как лучший новичок?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Серебряный юбилей приходится на 25-й год брака.\nQuestion: Синтия Пауэлл отпраздновала серебряную годовщину с Джоном Ленноном?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Аль Пачино родился в 1940 году.\nQuestion: Снимался ли Аль Пачино в кино во время Второй мировой войны?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гуджаратский сценарий - это сценарий абугида.\nQuestion: Является ли письмо гуджарати той же категорией письма, что и кандзи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Округ Моррис был назван в честь полковника Льюиса Морриса.\nQuestion: Был ли округ Моррис назван в честь главного судьи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Очень Большой Телескоп наблюдает за космическим пространством.\nQuestion: Сможет ли Очень Большой Телескоп наблюдать самую большую гору на Земле?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Метан – это газ, который загрязняет окружающую среду и приводит к изменениям температуры.\nQuestion: Коровий метан безопаснее для окружающей среды, чем автомобили?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Водные лыжи – это вид спорта, который предполагает скольжение по поверхности больших водоемов.\nQuestion: Является ли Марокко идеальным местом для катания на водных лыжах?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: По состоянию на июнь 2020 года акции Amazon достигли 2500 долларов за акцию.\nQuestion: Может ли одна акция Amazon купить двадцатилетнюю подписку на Netflix?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Никола Тесла построил сооружение под названием Башня Уорденклиф в Шорхэме, Нью-Йорк.\nQuestion: Есть ли радиация там, где когда-то работал Никола Тесла?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гарлемский ренессанс произошел в 1920-е годы.\nQuestion: Мог ли Аль Капоне читать произведения Гарлемского Возрождения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Blue Lives Matter — контрдвижение в США, которое поддерживает полицейских и сотрудников правоохранительных органов.\nQuestion: Поддержат ли члены Blue Lives Matter все элементы Grand Theft Auto III?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Новый год наступает 1 января каждого года.\nQuestion: Всегда ли Новый год приходится на среду?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Нимфа клеща размером с маковое зернышко.\nQuestion: Может ли нимфовый клещ пройти через стандартный дырокол?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Самолет Boeing 737-800 в 2019 году стоит 106 миллионов долларов.\nQuestion: Может ли арт-дилер купить Боинг 737-800 с картиной Да Винчи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Питер Гриффин — сотрудник пивоварни в Куахоге. \nQuestion: Должен ли Питер Гриффин быть экспертом в пивоварении?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rowe 550 — автомобиль китайской автомобильной компании SAIC.\nQuestion: Смогли бы вы поехать на Rowe 550 на летние Олимпийские игры 2008 года?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эми Уайнхаус умерла в 2011 году.\nQuestion: Была ли Эми Уайнхаус поклонницей «Звездных войн: Изгой-один»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Снупи стал талисманом безопасности в НАСА\nQuestion: Является ли Джесси В. Мур потенциальным лауреатом награды НАСА на тему Снупи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  Взрослые медоеды имеют высоту в плечах от 23 до 28 см (от 9,1 до 11,0 дюймов) и длину тела 55–77 см (22–30 дюймов), плюс хвост добавляет еще 12–30 см (4,7–11,8 дюйма).\nQuestion: Поместится ли медоед в духовке?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Плева – это излишки измельченного зерна.\nQuestion: Производится ли солома с помощью гидроэнергетики?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Жена Пауло Коэльо – Кристина Ойтисика.\nQuestion: Жена Пауло Коэльо зарабатывает на жизнь речью?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Спасательные шлюпки используются на водоемах с жидкой водой.\nQuestion: Может ли спасательная шлюпка спасти людей в море Гука?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Fiat Chrysler состоит из двух объединенных автомобильных компаний Fiat и Chrysler.\nQuestion: Fiat Chrysler ассоциируется с японскими автомобилями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Аид был греческим богом смерти и подземного мира.\nQuestion: Будут ли Аид и Осирис гипотетически конкурировать за недвижимость в Подземном мире?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Аэропорт Джона Уэйна находится в округе Ориндж.\nQuestion: Требует ли округ Ориндж, Калифорния, чтобы самолеты были тихими?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Июнь 2020 года ознаменовался глобальной пандемией.\nQuestion: Был ли Парк де Пренс полностью работоспособен в июне 2020 года?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Большинство рабочих мест в сфере розничной торговли требуют, чтобы сотрудники могли поднимать, толкать и тянуть 25–50 фунтов. \nQuestion: Розничная торговля — это работа, на которую может подойти каждый?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Порох относится к категории слабовзрывчатых веществ.\nQuestion: Может ли взрыв на складе пороха вызвать сверхзвуковую ударную волну?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хлор при добавлении в воду образует бытовой отбеливатель.\nQuestion: Можно ли купить хлор в долларовом магазине?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Крокодилы относятся к семейству Crocodylinae.\nQuestion: Морские крокодилы связаны с аллигаторами?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Персефона – богиня растительности. \nQuestion: Будет ли Персефона хорошим консультантом ландшафтного архитектора?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В составе экипажа миссии «Аполлон-15» было 3 астронавта.\nQuestion: Будут ли у экипажа «Аполлона-15» трудности с ездой на одноколесном велосипеде?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Фрегаты – это разновидность парусного корабля.\nQuestion: Нужны ли канаты для управления фрегатом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ясон изменил Медее с Креусой\nQuestion: Есть ли у Джейсона что-нибудь общее с доктором Неуважением?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Целиакия – это заболевание, при котором организм не может перерабатывать глютен.\nQuestion: Следует ли страдающему целиакией избегать спагетти?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Коалы — травоядные животные.\nQuestion: Коалы предпочитают эвкалипт мясу?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бодибилдеры хотят нарастить мышечную массу и снизить уровень жира\nQuestion: Будет ли бодибилдер предпочитать бургер из лося гамбургеру из говядины?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Плотность объекта определяет, будет ли он плавать.\nQuestion: Можно ли перевезти монету по ртутному морю?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Багз Банни — антропоморфный серо-белый кролик.\nQuestion: Повредит ли Багз Банни оливковому дереву в реальном мире?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Усталость надпочечников — это заболевание, при котором организм не вырабатывает достаточно гормонов, и человек устает.\nQuestion: Брюссельская капуста особенно полезна при усталости надпочечников?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Действие «Гриффинов» происходит в вымышленном городе Куахог, штат Род-Айленд.\nQuestion: Действие «Гриффинов» происходит на западном побережье Америки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Mitsubishi — японский производитель автомобилей.\nQuestion: Может ли кто-нибудь в Уберландии работать на Mitsubishi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ханна Никсон была матерью Ричарда Никсона.\nQuestion: Будет ли Ханна Никсон гордиться Ричардом Никсоном после Уотергейтского скандала?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эдди Мерфи родился в 1961 году.\nQuestion: Мог ли Эдди Мерфи в детстве набрать 911 в машине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эдмунд Хиллари был альпинистом, поднявшимся на Эверест.\nQuestion: Будет ли гора Уичпруф легкой задачей для Эдмунда Хиллари?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В радуге присутствуют следующие цвета: красный, оранжевый, желтый, зеленый, синий, индиго и фиолетовый.\nQuestion: Цвета флага Габона встречаются в радуге?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Моллимок — это разновидность альбатроса.\nQuestion: Живут ли моллюмы там, где не могут альбатросы?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Щипцы для завивки — это инструмент, используемый для завивки волос с помощью тепла.\nQuestion: Нужна ли плойка при завивке?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эму — разновидность нелетающих птиц.\nQuestion: Эму связаны с лосями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille — ресторан классической французской кухни в Нью-Йорке.\nQuestion: Сочтет ли шеф-повар La Grenouille сальса странной просьбой?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В книге «Boom!» System of a Down осуждает глобализацию.\nQuestion: Выступают ли System of a Down против глобализации?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кофе можно выращивать только в субтропическом и экваториальном климате.\nQuestion: Может ли кто-нибудь из Новой Англии получить прибыль от выращивания кофе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В настольном теннисе выигрывает игрок, первым набравший 11 очков.\nQuestion: Используются ли в настольном теннисе простые числа?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Годовая плата за карту Capital One Venture составляет около 95 долларов США.\nQuestion: Является ли членство в Capital One Venture сроком на 5 лет более рентабельным, чем членство в Церкви Сатаны?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Людвиг ван Бетховен умер в 1827 году.\nQuestion: Нравилось ли Бетховену слушать EDM?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster представлял собой сервис обмена музыкой P2P.\nQuestion: Metallica защищает свою музыку?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кэрри Андервуд стала победительницей четвертого сезона American Idol.\nQuestion: Келли Кларксон превзошла по продажам победителя четвертого сезона American Idol?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Европейская дикая кошка обитает в континентальной Европе, Шотландии, Турции и на Кавказе.\nQuestion: Боятся ли чернохвостые кролики европейской дикой кошки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Карл Фридрих Гаусс родился в 1777 году.\nQuestion: Мог ли Карл Фридрих Гаусс поговорить с кем-то за 100 миль?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лайонел Ричи — американский певец, воспитавший Николь Ричи.\nQuestion: Лайонел Ричи родственник Шейлы Э?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Нет никаких требований к тому, чтобы продукты питания продавались по датам. \nQuestion: Требует ли FDA продажи по датам, используя римские цифры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Морские лачуги поют на морских судах\nQuestion: Пели ли путешественники морские лачуги на Орегонской тропе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лейкофобия – боязнь белого цвета.\nQuestion: Будет ли человеку с лейкофобией нравиться смотреть на флаг Соединенных Штатов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Актриса Тери Хэтчер снялась в общей сложности в 180 эпизодах сериала «Отчаянные домохозяйки».\nQuestion: Тери Хэтчер продержалась в сериале «Отчаянные домохозяйки» в два раза больше серий, чем в сериале «Супермен»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эритроциты составляют около 40-50% состава крови человека.\nQuestion: Превышают ли количество лейкоцитов эритроцитов в организме человека?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Политик Джон Джордж Байс родился в Каллингтоне.\nQuestion: Было ли место рождения Джона Джорджа Байса недалеко от Корнуолла?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Динозавры вымерли много миллионов лет назад.\nQuestion: Включает ли история Европы эпоху динозавров?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пол Баньян был легендарным великаном из небылиц.\nQuestion: Будет ли Пол Баньян гипотетически плохим выбором для городского планировщика?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Растениям для фотосинтеза необходимы три элемента: водород, кислород и углерод.\nQuestion: Все ли элементы, необходимые растениям для фотосинтеза, присутствуют в атмосфере Марса?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Билл Най родился в 1955 году.\nQuestion: Голосовал ли Билл Най за Франклина Делано Рузвельта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В Америке цыгане считают слово «цыган» оскорблением.\nQuestion: Считается ли допустимым использование слова «цыган» нецыганскими людьми?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Земля Израиля находилась под контролем Османской империи в 16 веке. \nQuestion: Была ли Земля Израиля в 16 веке частью исламской империи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Министерство сельского хозяйства США рекомендует употреблять не менее 3500 мг калия в день.\nQuestion: Смогут ли 7 кабачков удовлетворить дневную рекомендацию Министерства сельского хозяйства США по калию?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Первым широко выпускаемым автомобилем стала Модель Т.\nQuestion: Был ли британский автомобиль Mini первым произведенным автомобилем?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Перцы можно сушить в духовке вместо дегидратора.\nQuestion: Можно ли приготовить перец без дегидратора?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бенгальские кошки — хищники.\nQuestion: Сможет ли бенгальская кошка выжить, питаясь только блинами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Странствующий альбатрос может путешествовать по морю не менее 15 000 км (чуть менее 10 000 миль), прежде чем вернуться на сушу. \nQuestion: Может ли странствующий альбатрос без отдыха перелететь из Бухареста в Нью-Йорк?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Публичная библиотека Нью-Йорка — это система публичных библиотек в Нью-Йорке.\nQuestion: Продает ли Нью-Йоркская публичная библиотека продукцию Alpo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Полное имя Тони Беннета — Энтони Доминик Бенедетто.\nQuestion: Второе имя Тони Беннета принадлежит бывшему чемпиону UFC?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Женщина-черная вдова — это женщина, которая убивает своих мужей ради денег и снова выходит замуж.\nQuestion: Полезны ли бы женщине-черной вдове персики?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Burning Man часто привлекает множество молодых людей, которые обычно носят минимум одежды из-за погоды и стиля. \nQuestion: Люди чаще, чем обычно, получают солнечные ожоги на Burning Man?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рахул Дравид был профессиональным игроком в крикет.\nQuestion: Рахул Дравид когда-нибудь забивал мяч с игры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Изучение океанов затрагивает многие области науки.\nQuestion: Много ли наук изучает отдельный океанограф?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Золотой век комиксов пришелся на период с 1930-х по 1950-е годы.\nQuestion: Была ли фантастика о супергероях изобретена в цифровом формате?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Средний размер детеныша американского черного медведя при рождении составляет всего 8 дюймов.\nQuestion: Могут ли два новорожденных детеныша американского черного медведя поместиться на кровати размера «king-size»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Aldi сокращает расходы, взимая плату за сумки, покупая оптом и избегая товаров известных брендов. \nQuestion: Имеются ли скидки на продукты Aldi из-за того, что они просрочены?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Черный перец изготавливается из горошин черного перца.\nQuestion: Является ли молотый болгарский перец основным ингредиентом черного перца?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «Принятие укеми» относится к искусству падения или приема в боевых искусствах.\nQuestion: Остановит ли укеми кинетическую энергию?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: BLT — это сэндвич, состоящий из бекона, салата и помидоров.\nQuestion: Трудно ли получить BLT в Касабланке?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В снегопаде выпадает около 200 дюймов осадков в год. \nQuestion: Могут ли ежегодные осадки на Сноудоне затопить вертикальную кеглю для боулинга?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Стэнли Болдуину на посту премьер-министра предшествовал Рамзи Макдональд.\nQuestion: Была ли женщина премьер-министром непосредственно до или после Стэнли Болдуина?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Белоголовый орлан может развивать скорость до 99 миль в час.\nQuestion: Сможет ли белоголовый орлан передать срочное сообщение раньше B-52?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Профессиональные боксеры часто получают удары в лицо.\nQuestion: Могут ли профессиональные боксеры рассчитывать на низкие расходы на стоматологию?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Жена доктора Сьюза покончила жизнь самоубийством.\nQuestion: Прожил ли доктор Сьюз жизнь без трагедий?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Родители Джексона Поллока родились и выросли в Тингли, штат Айова.\nQuestion: Разве родители Джексона Поллока не были обязаны произносить «Клятву верности» в детстве?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Шаму — это имя косатки-талисмана Sea World.\nQuestion: Является ли округ Сан-Диего домом Шаму?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Древние политеистические религии, как правило, больше не популярны в западной культуре.\nQuestion: Является ли Летающий Макаронный Монстр частью древнего пантеона?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Королева Елизавета II — монарх Соединенного Королевства и его Содружества.\nQuestion: Правит ли Елизавета II Балеарскими островами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Футбольная война началась 14 июля 1969 года.\nQuestion: Футбольная война длилась хотя бы месяц?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лоренцо Медичи был великим покровителем искусств Флоренции и покровителем Леонардо да Винчи.\nQuestion: Было ли покровительство Лоренцо Медичи исключительно да Винчи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Тайная вечеря — это трапеза между Иисусом и его двенадцатью учениками в христианстве.\nQuestion: Отмечается ли кто-нибудь на Тайной вечере в исламе?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рыбы живут в воде. \nQuestion: Будет ли бенгальская кошка бояться ловить рыбу?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бенито Муссолини имел рост 5 футов 6 1/2 дюйма.\nQuestion: Бенито Муссолини носил туфли большего размера, чем Хафтор Бьернссон?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бобби Джиндал учился в средней школе Baton Rouge Magnet.\nQuestion: Будет ли школьный талисман Бобби Джиндала есть сухой корм?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Здание Капитолия расположено в конце Национальной аллеи в центре Вашингтона.\nQuestion: Расположен ли Капитолий США рядом с Белым домом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В результате лесозаготовок производятся такие продукты, как целлюлоза.\nQuestion: Было бы трудно достать туалетную бумагу, если бы не было лесорубов?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Настоящее имя Игги Попа — Джеймс Ньюэлл Остерберг-младший.\nQuestion: Был ли Игги Поп назван в честь своего отца?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Профилактическая медицинская помощь включает в себя обследование на ИППП/ЗППП. \nQuestion: Может ли профилактическое здравоохранение снизить передачу ИППП?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В «Красавице и чудовище» есть замок, полный предметов, которые двигаются и говорят сами по себе. \nQuestion: Оживают ли неодушевленные предметы в «Красавице и чудовище»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Американская ассоциация хоккея с мячом управляет основными играми в хоккей с мячом в Соединенных Штатах.\nQuestion: Станет ли хоккей с мячом популярным в Техасе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кальций является важным питательным веществом для здоровья костей.\nQuestion: Является ли капуста более полезной для роста костей, чем шпинат?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Амазонас — это в основном тропические джунгли.\nQuestion: Ставит ли прогулка по Амазонасу угрозу жизни человека?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nintendo была первоначально выпущена в 1983 году и использовала игры в формате картриджей.\nQuestion: Были ли у оригинальной Nintendo игры того же формата, что и у Playstation 3?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Число Фибоначчи — это последовательность чисел, которая добавляет число к предыдущему и продолжается вечно.\nQuestion: Является ли числовая последовательность Фибоначчи длиннее, чем каждое число, обнаруженное в числе Пи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гермафобия — это термин, используемый психологами для описания патологического страха перед микробами, бактериями, микробами, загрязнением и инфекцией.\nQuestion: Сможет ли гермафоб заниматься дзюдо?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Осень длится с сентября до конца декабря в США.\nQuestion: Осень — хорошее время для сбора медвежьих шкур в США?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В клипе «Stupid Girls» есть сцена, где Пинк и женщина пользуются зубной щеткой, чтобы вызвать рвоту в ванной.\nQuestion: Есть ли музыкальные клипы Pink, которые вызывают интерес у пациентов с расстройством пищевого поведения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эл Унсер-младший — автогонщик.\nQuestion: Эл Унсер-младший выиграл космическую гонку?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft — это часть программного обеспечения.\nQuestion: World of Warcraft тяжелее буханки хлеба?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Metroid был создан и издан Nintendo.\nQuestion: Получала ли Electronic Arts прибыль от продаж Metroid?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Большинство учителей детских садов работают в государственных школах.\nQuestion: Будет ли воспитатель детского сада проводить урок по Новому Завету?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эми Уайнхаус была известна тем, что напивалась перед выступлениями.\nQuestion: Всегда ли Эми Уайнхаус прекрасно выступала вживую?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Анчоусы, используемые в пицце, обычно упаковывают целиком в масле или воде. \nQuestion: Есть ли кости в пицце с анчоусами?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Диаметр стандартного баскетбольного мяча НБА составляет около 9,5 дюймов.\nQuestion: Можно ли спрятать баскетбольный мяч в ухе песчаного кота?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ивана Грозного прозвали Грозным из-за его сурового правления.\nQuestion: Были ли прозвища покрасивее у отца и деда Ивана Грозного?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рак молочной железы – заболевание, возникающее в тканях молочных желез млекопитающих.\nQuestion: Защищены ли амебы от рака молочной железы?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пи, отношение длины окружности к диаметру, равно 3,14.\nQuestion: Было ли число Пи приемлемым количеством детей в Китае 1980-х годов?",
+        "output": "No"
+    }
+]

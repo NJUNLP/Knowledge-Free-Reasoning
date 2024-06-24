@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョージア州アルバニーの人口は約75,000人\nQuestion: ジョージア州のアルバニーはニューヨーク州のアルバニーよりも先に10万人の居住者に達するでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: セントビンセントおよびグレナディーン諸島で話されている主な言語はビンセンシアン・クレオール語です。\nQuestion: セントビンセントおよびグレナディーン諸島で使用されている言語は英語に由来していますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 貪欲とは富と権力への憧れです。\nQuestion: 七つの大罪の中で、最も蔓延しているのは貪欲でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 日本海の平均水深は5,748フィート（1,752メートル）、最大水深は12,276フィート（3,742メートル）です。\nQuestion: 富士山の頂上は日本海から突き出ているでしょうか？ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リル・ジョンのビルボード最高位の曲は「Yeah」だった。\nQuestion: リル・ジョンのビルボード1位の曲はザ・ロックスのメンバーとのコラボレーションだったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マイアミはフロリダ州にある都市です。\nQuestion: マイアミはアメリカ西海岸の都市ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バージニア州議会には 140 議席があります。\nQuestion: スイス衛兵はバージニア州議会の議席を埋めることができるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ポルトガル植民地戦争は、ポルトガルとアンゴラ解放人民運動を含むいくつかのグループの間で起こった戦争です。\nQuestion: ポルトガル植民地戦争において、第二次世界大戦におけるスイスの役割を共有した国はありましたか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古英語は、イングランドに住んでいたゲルマン民族のアングロサクソン人によって話されていました。\nQuestion: ピクト人は古英語に混乱するでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リル・ウェインのキャリアは、1995年、12歳のときにバードマンと契約し、キャッシュ・マネー・レコードにレーベル最年少メンバーとして加入したときに始まりました。\nQuestion: リル・ウェインはキャリアの初期に自分で車を運転することが合法だったのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 十字架はキリスト教のシンボルである\nQuestion: カラチで十字架が見つかる可能性はありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: クリエイティブ コモンズ ライセンスでは、著作権で保護されている作品を無料で配布できます。\nQuestion: ボッティチェリの『ヴィーナスの誕生』のクリエイティブ・コモンズ・ライセンスを売られた人は詐欺に遭ったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 6歳児の平均体重は45ポンドです。\nQuestion: 10ガロンの海水は6歳児を押しつぶす可能性がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アンチョビは小魚の一種です。\nQuestion: 暖かい水よりも冷たい水にアンチョビが多く生息するのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 3D プリンターには精度の面で限界があります。標準ノズル出力は約 0.4 mm です。したがって、0.4 mm 未満のものを印刷する場合、有用なアイテムは得られません。\nQuestion: 3D プリントでアデノウイルスを作ることはできますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョージ・フォックスは、一般にクエーカー教徒または友の会として知られる宗教友の会の創設者でした。\nQuestion: ジョージ・フォックスは石打ちを支持するだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スターウォーズは、これまでに制作された映画シリーズの中で最も広くパロディ化された作品の一つです。\nQuestion: ダース・ベイダーが誰なのかを知るにはスター・ウォーズを見る必要がありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブール代数は、変数の値が真理値 true と false であり、通常はそれぞれ 1 と 0 で表される代数の分野です。 \nQuestion: コンピューターを完全にブール代数でプログラムすることはできますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: クリスティーナ・アギレラが声の審査員を務める。\nQuestion: クリスティーナ・アギレラは『ザ・ヴォイス』でケリー・クラークソンのために椅子を回転させたのだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ナルカンは、麻薬の過剰摂取で命を落とす人の命を救う薬です。\nQuestion: ナルカンがあればエイミー・ワインハウスの死は防げただろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マングースの最も一般的な毛皮の色は茶色と灰色です。\nQuestion: マングースは砂漠に適した自然なカモフラージュを持っているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バッファローウィングは、スパイシーなソースがかかった揚げた鶏の手羽です。\nQuestion: バッファローウィングが好きな人はカプサイシンも好きでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルース・リーは1961年にワシントン大学に入学した。\nQuestion: ブルース・リーは1964年のワシントン大学の卒業式に欠席したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルック・シールズはプリンストン大学を卒業した。\nQuestion: ブルック・シールズはペンシルベニア大学で成功できるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マリストはハドソン川沿いにあります。\nQuestion: マリストの学生はボートチームを作るために請願しなければならないのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ロルキャットのミームはJPEG形式であることが多い\nQuestion: 第一世代の iPhone に 10 万匹の lolcat が収まるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 人間の人口過剰は、ある国の出生率が死亡率を上回ることで発生します。\nQuestion: ルセフは故郷の人口過剰を心配しなければならないのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 桃の皮は赤、オレンジ、黄色でふわふわしています。\nQuestion: ピーチ姫のドレスは桃の実に似ていますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 精神疾患の病歴があると、ほとんどの人は軍隊に入隊できなくなります。\nQuestion: 精神病患者はアメリカ空軍に入隊できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing はデジタルオブジェクトである検索エンジンです。\nQuestion: バスケットにビングを入れてもいいですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: CPU はコンピューターのボード上のメインチップであり、大量の熱を発生します。\nQuestion: 中央処理装置には通常、専用のファンが付いていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: シリル・ラマポーザは南アフリカの大統領である\nQuestion: シリル・ラマポーザはNATOの事務総長になれるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルックリンとニューヨークのベーグルは高品質であることで世界的に知られています。\nQuestion: ブルックリンはパン製品で有名ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 義和団の乱は1899年から1901年にかけて起こった。\nQuestion: イギリス空軍は義和団の乱で戦いましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フランソワ・ミッテランは1916年に生まれました。\nQuestion: フランソワ・ミッテランはフランス軍でナポレオン・ボナパルトの下で勤務しましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメーバは単細胞生物です。\nQuestion: アメーバは癌になることがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コレラは細菌の一種です。\nQuestion: コレラは生きているのか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: サツマイモは皮が滑らかでオレンジ色をしています。\nQuestion: 一般的にサツマイモとパイナップルを混同する人はいるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ペンギンは南半球の深くて非常に寒い地域に生息しています。\nQuestion: マイアミでペンギンを見つけるのは普通のことでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リンパ腫は、リンパ節の腫瘍から始まる深刻なタイプの癌です。\nQuestion: リンパ節の腫瘍は無視できるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『シビル・ウォー/キャプテン・アメリカ』では、意見の相違からアイアンマンとキャプテン・アメリカは敵対関係になった。\nQuestion: MCUでスパイダーマンはファルコンと戦いましたか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ヨガのエクササイズでは、ナタラジャサラと呼ばれるポーズはシヴァの神聖な踊りを表しています。\nQuestion: シヴァの神聖なダンスは古代の体力強化のポーズなのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スカーとはディズニーの『ライオンキング』に登場する邪悪なライオンです。\nQuestion: ブロードウェイミュージカルにハイエナは登場しますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フクロウザルは果食動物であり、入手可能な場合は小さくて熟した果物を好みます。\nQuestion: フクロウザルはイチゴを楽しむでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: M60パットンは重さが数トンもある軍用戦車です。\nQuestion: ヘビはM60パットンを飲み込むことができますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アベンジャーズはマーベルが制作した漫画です。\nQuestion: アベンジャーズコミックスは DC コミックス ストアでは場違いでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ペルシャ湾の面積は96,912平方マイルです。\nQuestion: ペルシャ湾はニュージャージー州に収まるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: サイロックはマーベルのスーパーヒーローで、本名はベッツィ・ブラドックです。\nQuestion: 身長と体重から判断すると、ニコール・キッドマンはサイロック役に理想的な選択でしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バーニー・サンダースは高齢者である\nQuestion: バーニー・サンダースは200ドル以下でメトロポリタン美術館を20回訪問できるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Planned Parenthood は生殖医療を専門としています。\nQuestion: Planned Parenthood は、あなたが単純ヘルペスウイルスに感染していることを大学に伝えることができますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アキレスはかかとを矢で刺されて死んだギリシャの英雄です。\nQuestion: 仮想的な戦いではアキレスがレゴラスに勝つでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ルーマニアのブカレストは東ヨーロッパに位置しています。\nQuestion: ブカレストはエジプトの南に位置していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 物体が浮き上がるのは、周囲の物質よりも密度が低い場合のみです。\nQuestion: 岩石は地球の大気圏で浮くでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: サイの角は性的不能の民間治療に使われます。\nQuestion: サイは人間の性生活を改善するために殺されてきたのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ABBA は 4 人のメンバーで構成されたスウェーデンのポップ グループです。\nQuestion: ABBA の男女構成はママス＆パパスと似ていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 第13次修正条項は1865年に批准されました。\nQuestion: 『若草物語』の著者は、憲法修正第13条の批准を覚えていただろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Reddit のユーザーベースの 55% は米国から来ています。\nQuestion: Reddit ユーザーの大半は忠誠の誓いについて知っていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 子どもたちはサンタクロースにクリスマスの手紙を送ります。\nQuestion: 子供たちは南極にクリスマスの手紙を送るのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マルーン5は2001年に結成されました。\nQuestion: マルーン5はニルヴァーナと一緒にツアーに行きましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イベンダー・ホリフィールドは2020年末に58歳になる。\nQuestion: イベンダー・ホリフィールドが2020年にボクシングに復帰すれば、年齢記録を樹立することになるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ポスト・マローンの体はたくさんのタトゥーで覆われている。\nQuestion: ポスト・マローンは注射が怖いのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 米西戦争は1898年4月21日から1898年8月13日まで続いた。\nQuestion: 米西戦争中のアメリカ大統領はエイブラハム・リンカーンと同様の死を遂げたのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 神はアダムから取り出した骨からイブを創りました。\nQuestion: イブは近親相姦関係にありましたか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リル・ウェインはドウェイン・マイケル・カーターとして生まれました。\nQuestion: リル・ウェインに似た本名のラッパーはウェインのグラミー賞を4回以上受賞している？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニッケルの沸点は3003ケルビンである。\nQuestion: 地球の外核ではニッケルは沸騰するのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドロテア・ヴェンドリングはドイツのシュトゥットガルト生まれの歌手でした。\nQuestion: ドロテア・ウェンドリングはポルシェ発祥の地の出身ですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 手術は医学的な問題を矯正したり、身体に物理的な変化を加えるために行われる。\nQuestion: 手術は実存的危機を防ぐことができるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 偉大なシェイクはアヴィセンナの名である\nQuestion: アル・ファラビは偉大なるシェイクの弟子だったのですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 塩素とナトリウムを混ぜたものが塩化ナトリウムであり、食卓塩としても知られています。\nQuestion: 塩素をナトリウムと混ぜて摂取するのは危険ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ベーカーズダースとは、何でも 13 個を指します。\nQuestion: ブラジリアン柔術の創始者グレイシーには少なくとも13人の子供がいたのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドルチェ＆ガッバーナは1985年に設立されました。\nQuestion: モーツァルトはドルチェ＆ガッバーナから何かを買ったことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 1700 年代の裁判官は、法廷手続き中は粉をつけたかつらと大きな法衣を着用していました。\nQuestion: 正統派長老派教会の信者は 1700 年代の裁判官の服装に異議を唱えるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 俳句は、5、7、5 の音節構造に従う短い日本の詩です。\nQuestion: 『微生物の古代についての行』はどんな俳句よりも短いのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リリー・ウォシャウスキーは『マトリックス』の監督を務めたトランスジェンダーの女性です。\nQuestion: 『マトリックス』の監督はトランスジェンダーの権利を擁護していますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 運転免許試験は、交通法規に従って運転する能力を測定します。\nQuestion: キタオットセイは運転免許試験に合格するでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: タコベルは2018年現在、7,072以上のレストランを展開しています。\nQuestion: 毎年、ロイ・ロジャースよりも多くの人がタコベルに出入りするのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 紅海は世界で最も塩分濃度の高い水域の一つです。\nQuestion: 紅海でイエローパーチを見つけるのは珍しいことでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ゾッド将軍は悪役です。\nQuestion: ゾッド将軍はサムスン Galaxy S4 よりも iPhone を好むでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最も古い記録によれば、エジプト人とバビロニア人は紀元前 2000 年頃にはすでにすべての基本的な算術演算を使用していました。\nQuestion: ネアンデルタール人は算数を使っていましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 猟犬は獲物を追跡するために使用される狩猟犬の一種です。\nQuestion: 『スポーツマンシップに富んだチャーリー・ブラウン』に出てくる動物は、仮に猟犬だったのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『そして誰もいなくなった』はアガサ・クリスティが書いたミステリー小説です。\nQuestion: JKローリングの本の中に『そして誰もいなくなった』というジャンルの本はありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジェイ・Zは1969年に生まれました。\nQuestion: ジェイ・Zはルイ・アームストロングとコラボレーションしたことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: メートルはメートル法の一部です。\nQuestion: 英国では長さはメートルで測定されますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コロンブスはもともと現在のイタリアにあるジェノバ出身でした。\nQuestion: クリストファー・コロンブスは、元の出身国とは別の国を代表して航海したのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 酸素不足により唇と皮膚が青くなります。\nQuestion: 青い唇は正常ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョン・ブラウワー・ミノックはアメリカ人男性で、体重がピークの時には 1,400 ポンドに達し、記録上最も重い人間でした。\nQuestion: ジョン・ブラウワー・ミノックは神経性食欲不振症を患っていたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: シェヘラザードは中東の民間伝承に登場する人物で、王に長い物語を語って処刑を遅らせた人物です。\nQuestion: オセロは、シェヘラザードに王と過ごす時間を最大限に与えるためのシェイクスピアの戯曲でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フマ・アベディンは2009年にヒラリー・クリントンの副首席補佐官だった。\nQuestion: 2009年のヒラリー・クリントンの副首席補佐官は洗礼を受けたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 人間に餌を与えられたツルは、飼い慣らす傾向があり、人間をつつくことはめったにありません。\nQuestion: ヒクイドリはツルよりも安全なペットですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニューイングランドはアメリカ合衆国にあります。\nQuestion: ニューイングランドからセインズベリーまで車で行けますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 2年生は7歳か8歳であることが多いです。\nQuestion: PG ウッドハウスは2年生で教えられるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『不思議の国のアリス』には、水ギセルを吸う芋虫が登場人物の一人として登場します。\nQuestion: 『不思議の国のアリス』では、タバコの使用が楽しいものであるかのように描かれているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最高裁判所はアメリカ合衆国の最高裁判所です。\nQuestion: サイモン・コーウェルは次期最高裁判事に投票できるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 1933 年には大恐慌により約 1,500 万人が失業しました。\nQuestion: 1933 年の大恐慌による失業者は全員タイガー スタジアムに収容できるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドナテッロは高さ 5 フィートを超えるブロンズのダビデ像を制作しました。\nQuestion: 成人男性はドナテッロのブロンズ製ダビデ像の上に立ち、システィーナ礼拝堂の天井に触れることができるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アラブ・イスラエル紛争は数百年前に始まった。\nQuestion: イギリスはアラブ・イスラエル紛争に直接関与したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『不思議の国のアリス』は1865年に出版された。\nQuestion: 『不思議の国のアリス』はマクベスに影響を与えたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ツキノワグマは木々のある生息地に生息する動物です。\nQuestion: ツキノワグマは多色ですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リチャーズ中尉は黒ひげと共に航海していた海賊でした。\nQuestion: 海賊の中尉は海軍の中尉と似ていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lorem Ipsum 段落は一時的なものです。\nQuestion: 完成したウェブサイトには lorem ipsum 段落が必要ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ビーバーダムは周囲の地域で洪水を引き起こすことがよくあります。\nQuestion: ビーバーダムの近くの土地は被害を受けますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エンパイア賞の最優秀新人賞は、デビュー作の俳優に授与されました。\nQuestion: ウィル・フェレルがエンパイア賞の最優秀新人賞を受賞するのは難しいでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 銀婚式は結婚25年目に行われます。\nQuestion: シンシア・パウエルはジョン・レノンと銀婚式を祝ったのだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アル・パチーノは1940年に生まれました。\nQuestion: アル・パチーノは第二次世界大戦中に映画に出演しましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: グジャラート文字はアブギダ文字である\nQuestion: グジャラート文字は漢字と同じカテゴリの文字ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: モリス郡はルイス・モリス大佐にちなんで名付けられました。\nQuestion: モリス郡は最高裁判所長官にちなんで名付けられたのですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 超大型望遠鏡は宇宙を観測します。\nQuestion: 超大型望遠鏡は地球上で最も大きな山を観測できるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: メタンは環境を汚染し、気温の変化を引き起こすガスです。\nQuestion: 牛のメタンは自動車よりも環境に安全ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 水上スキーとは、広い水面を滑走するスポーツです。\nQuestion: モロッコは水上スキーには理想的な場所ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アマゾンの株価は2020年6月時点で1株当たり2,500ドルまで上昇した。\nQuestion: アマゾンの株1株でNetflixの20年間のサブスクリプションを購入できるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニコラ・テスラはニューヨーク州ショアハムにウォーデンクリフタワーと呼ばれる施設を建設した。\nQuestion: ニコラ・テスラがかつて働いていた場所には放射線があるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハーレム・ルネッサンスは 1920 年代に起こりました。\nQuestion: アル・カポネはハーレム・ルネッサンスの作品を読んだことがあるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルー・ライブズ・マターは、警察官や法執行機関の職員を支援する米国の反対運動です。\nQuestion: Blue Lives Matter のメンバーは Grand Theft Auto III のあらゆる要素を支持するでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 新年は毎年1月1日です。\nQuestion: 元旦はいつも水曜日ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ダニの幼虫はケシの実ほどの大きさです。\nQuestion: ダニの幼虫は標準的な穴あけパンチを通り抜けることができますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ボーイング737-800型機の価格は2019年時点で1億600万ドル。\nQuestion: 美術商はダヴィンチの絵画が描かれたボーイング 737-800 を購入できるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ピーター・グリフィンはクアホッグにあるビール醸造所の従業員です。 \nQuestion: ピーター・グリフィンは醸造技術の専門家であるべきでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rowe 550 は中国の SAIC モーター カンパニーが製造した自動車です。\nQuestion: 2008 年夏季オリンピックに Rowe 550 で行けますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エイミー・ワインハウスは2011年に亡くなった。\nQuestion: エイミー・ワインハウスは『スター・ウォーズ ローグ・ワン』のファンだったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スヌーピーはNASAの安全のマスコットである\nQuestion: ジェシー・W・ムーアは、NASA からスヌーピーをテーマにした賞を授与される可能性があるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  成体のハチクマは、肩の高さが23〜28cm（9.1〜11.0インチ）、体長が55〜77cm（22〜30インチ）、尾を加えるとさらに12〜30cm（4.7〜11.8インチ）になります。\nQuestion: ハチクマはオーブンの中に入りますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 籾殻は製粉された穀物から出た余分な物質です。\nQuestion: 籾殻は水力発電によって生産されるのですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: パウロ・コエーリョの妻はクリスティーナ・オイチカです。\nQuestion: パウロ・コエーリョの妻はスピーチで生計を立てているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 救命ボートは液体の水域で使用される\nQuestion: 救命ボートはフック海の人々を救助できるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フィアット クライスラーは、フィアットとクライスラーの 2 つの自動車会社が合併して誕生しました。\nQuestion: フィアットクライスラーは日本車と関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハデスはギリシャ神話の死と冥界の神でした。\nQuestion: 仮にハデスとオシリスが冥界の不動産をめぐって争うことになるでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョン・ウェイン空港はオレンジ郡にあります。\nQuestion: カリフォルニア州オレンジ郡では、飛行機は静かに飛行することが義務付けられていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 2020年6月は世界的なパンデミックが起こりました。\nQuestion: パルク・デ・プランスは2020年6月中に完全に稼働していましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ほとんどの小売業の仕事では、従業員が 25 ～ 50 ポンドの重量を持ち上げたり、押したり、引いたりできることが求められます。 \nQuestion: 小売業は誰にでも向いている仕事でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 火薬は低爆発物に分類される\nQuestion: 火薬貯蔵施設で爆発が起きると超音速の衝撃波が発生するのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 塩素を水に加えると家庭用漂白剤が作られます。\nQuestion: 塩素は100円ショップで買えますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ワニはワニ科に属します。\nQuestion: イリエワニはアリゲーターと関係がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ペルセポネは植物の女神です。 \nQuestion: ペルセポネは造園家にとって良いコンサルタントになるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アポロ15号の乗組員には3人の宇宙飛行士がいました。\nQuestion: アポロ15号の乗組員は、一輪車に乗るのに苦労したでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フリゲート艦は帆船の一種です。\nQuestion: フリゲート艦を操作するにはロープが必要ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジェイソンはクレウサとメデアを裏切った\nQuestion: ジェイソンとドクター・ディスリスペクトには何か共通点がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: セリアック病は体がグルテンを処理できない病気です。\nQuestion: セリアック病患者はスパゲッティを避けるべきでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コアラは草食動物です。\nQuestion: コアラは肉よりもユーカリを好むのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ボディビルダーは筋肉を増強し、脂肪を低く保ちたい\nQuestion: ボディビルダーはビーフバーガーよりもヘラジカバーガーを好むでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 物体の密度によって、それが浮くかどうかが決まります。\nQuestion: 水銀の海に沿ってコインを輸送できますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バッグス・バニーは擬人化された灰色と白のウサギです。\nQuestion: バッグス・バニーは現実世界でオリーブの木に危害を加えるでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 副腎疲労は、体が十分なホルモンを生成せず、人が疲労する障害です。\nQuestion: 芽キャベツは副腎疲労に特に効果があるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「ファミリー・ガイ」はロードアイランド州クアホッグという架空の町を舞台にしています。\nQuestion: ファミリーガイはアメリカ西海岸を舞台にしているのですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 三菱は日本の自動車メーカーです\nQuestion: ウベルランジアで三菱で働くことはできますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハンナ・ニクソンはリチャード・ニクソンの母親でした。\nQuestion: ウォーターゲート事件後のリチャード・ニクソンを、ハンナ・ニクソンは誇りに思うだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エディ・マーフィは1961年に生まれました。\nQuestion: エディ・マーフィは幼い頃、車の中で911に電話をかけることができたでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エドモンド・ヒラリーはエベレスト山に登頂した登山家でした。\nQuestion: エドモンド・ヒラリーにとって、ウィッチプルーフ山登頂は楽勝でしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 虹には、赤、オレンジ、黄、緑、青、藍、紫の色が含まれます。\nQuestion: ガボンの国旗の色は虹の中にありますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: モリーモークはアホウドリの一種である\nQuestion: モリーモークはアホウドリが生息できない場所に生息していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ヘアアイロンは熱を利用して髪をカールさせるために使用する道具です。\nQuestion: カールにはヘアアイロンは必要ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エミューは飛べない鳥の一種です。\nQuestion: エミューはヘラジカと関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille はニューヨークにある伝統的なフランス料理のレストランです。\nQuestion: ラ・グルヌイユのシェフはサルサを奇妙なリクエストだと思うでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「Boom!」では、System of a Down がグローバリゼーションを非難しています。\nQuestion: System of a Downはグローバリゼーションに反対ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コーヒーは亜熱帯と赤道気候でのみ栽培できる\nQuestion: ニューイングランドの人がコーヒーを栽培して利益を得ることができるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 卓球の試合では、最初に 11 ポイントを獲得したプレイヤーが勝ちます。\nQuestion: 卓球では素数を使いますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Capital One Venture カードの年会費は約 95 ドルです。\nQuestion: Capital One Venture の 5 年間の会員であることは、Church of Satan の会員であることよりも費用対効果が高いですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ルートヴィヒ・ヴァン・ベートーヴェンは1827年に亡くなりました。\nQuestion: ベートーベンはEDMを聴くのが好きでしたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster は P2P 音楽共有サービスでした。\nQuestion: メタリカは自分たちの音楽を守ろうとしているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: キャリー・アンダーウッドはアメリカンアイドルの第4シーズンの優勝者でした。\nQuestion: ケリー・クラークソンはアメリカン・アイドル・シーズン4の優勝者より売り上げが上回ったか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ヨーロッパヤマネコは、ヨーロッパ大陸、スコットランド、トルコ、コーカサス地方原産です。\nQuestion: オグロウサギはヨーロッパヤマネコを恐れるのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: カール・フリードリヒ・ガウスは1777年に生まれました。\nQuestion: カール・フリードリヒ・ガウスは100マイル離れた人と話すことができたでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ライオネル・リッチーはアメリカの歌手であり、ニコール・リッチーを育てた人物です。\nQuestion: ライオネル・リッチーはシーラ・Eと関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 食品には販売期限を設ける義務はありません。 \nQuestion: FDA は販売期限をローマ数字で表記することを義務付けていますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海上船上では船歌が歌われる\nQuestion: オレゴン・トレイルの旅人たちは船乗りの歌を歌ったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 白恐怖症は白色に対する恐怖症です。\nQuestion: 白恐怖症の人はアメリカ合衆国の国旗を眺めて楽しむでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 女優テリー・ハッチャーは『デスパレートな妻たち』を合計180話まで出演した。\nQuestion: テリ・ハッチャーは『デスパレートな妻たち』で、スーパーマン番組の2倍のエピソードに出演したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 赤血球は人間の血液を構成する成分の約40～50%を占めています。\nQuestion: 人体では白血球の数が赤血球の数を上回っているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 政治家ジョン・ジョージ・バイスはカリントンで生まれた。\nQuestion: ジョン・ジョージ・バイスの出生地はコーンウォールの近くですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 恐竜は何百万年も前に絶滅しました。\nQuestion: ヨーロッパの歴史には恐竜の時代も含まれていますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ポール・バニヤンは、伝説上の物語に登場する巨人でした。\nQuestion: 仮にポール・バニヤンが都市計画家として不適切な選択だったとしたらどうでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 植物は光合成のために水素、酸素、炭素の3つの要素を必要とします。\nQuestion: 植物の光合成に必要なすべての要素が火星の大気中に存在するのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ビル・ナイは1955年に生まれた\nQuestion: ビル・ナイはフランクリン・デラノ・ルーズベルトに投票したのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「ジプシー」は、アメリカ大陸のロマの人々にとっては侮辱的な言葉とみなされている。\nQuestion: ロマ人以外の人がジプシーという言葉を使うのは問題ないのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イスラエルの地は16世紀にオスマン帝国によって支配されました。 \nQuestion: 16 世紀にイスラエルの地はイスラム帝国の支配下にあったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: USDA は 1 日に少なくとも 3500 mg のカリウムを摂取することを推奨しています。\nQuestion: ズッキーニ 7 本で USDA の 1 日のカリウム推奨量を満たすでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最初に広く生産された自動車はモデルTでした。\nQuestion: イギリス車、ミニは最初に製造された車ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ピーマンは、乾燥機の代わりにオーブンで乾燥することができます。\nQuestion: パプリカは乾燥機なしでも作れますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ベンガル猫は肉食動物です。\nQuestion: ベンガル猫はパンケーキだけを食べて生き残れるでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ワタリアホウドリは陸に戻るまでに少なくとも15,000 km（10,000マイル弱）の海上を移動することができます。 \nQuestion: ワタリアホウドリはブカレストからニューヨーク市まで休むことなく飛べるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニューヨーク公共図書館はニューヨーク市の公共貸出図書館システムです。\nQuestion: ニューヨーク公共図書館ではアルポ製品を販売していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: トニー・ベネットのフルネームはアンソニー・ドミニク・ベネデットです。\nQuestion: トニー・ベネットのミドルネームは元UFCチャンピオンと同じでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブラックウィドウとは、金のために夫を殺害して再婚する女性のことを指します。\nQuestion: 黒い未亡人女性は桃を必要とするでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バーニングマンには、天候やスタイルのために通常は最小限の衣服を着ている若者がたくさん集まります。 \nQuestion: バーニングマンでは日焼けする可能性が通常よりも高くなりますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ラフル・ドラヴィッドはプロのクリケット選手だった\nQuestion: ラフル・ドラヴィッドはフィールドゴールを蹴ったことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海洋の研究には多くの分野や科学が関わってきます。\nQuestion: 海洋学者は一人一人多くの科学を研究するのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 漫画の黄金時代は 1930 年代から 1950 年代にかけて起こりました。\nQuestion: スーパーヒーロー小説はデジタル形式で発明されたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメリカクロクマの赤ちゃんの平均的な大きさは、出生時わずか8インチです。\nQuestion: 生まれたばかりのアメリカクロクマの赤ちゃん 2 匹はキングサイズのベッドに収まるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アルディは、袋代を請求し、まとめ買いし、ブランド品を避けることでコストを削減している。 \nQuestion: アルディの食品は期限切れのため割引されるのですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 黒コショウは黒コショウの実から作られます。\nQuestion: 黒コショウの主原料は挽いたピーマンですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「受け身を取る」とは、武道において倒れたり受けたりする技を指す。\nQuestion: 受身をとると運動エネルギーは止まるのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: BLTはベーコン、レタス、トマトでできたサンドイッチです\nQuestion: カサブランカでBLTを手に入れるのは難しいですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スノーダウンでは年間約200インチの降水量がある \nQuestion: スノードンの年間降水量は、直立したボウリングのピンを水没させるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スタンリー・ボールドウィンの前首相はラムゼイ・マクドナルドであった。\nQuestion: スタンリー・ボールドウィンの直前または直後に女性首相はいましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハクトウワシは時速99マイルで移動することができます。\nQuestion: ハクトウワシはB-52より先に緊急メッセージを届けるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: プロボクサーは顔面へのパンチをよく受けます。\nQuestion: プロボクサーは歯科治療費が安く済むと期待できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドクター・スースの妻は自殺した。\nQuestion: ドクター・スースは悲劇のない人生を送ったのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジャクソン・ポロックの両親はともにアイオワ州ティングリーで生まれ育った。\nQuestion: ジャクソン・ポロックの両親は子供の頃に「忠誠の誓い」を言う必要がなかったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: シャムウはシーワールドのマスコットシャチの名前です。\nQuestion: サンディエゴ郡はシャムウの故郷ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古代の多神教は、西洋文化では一般的にはもはや人気がありません。\nQuestion: 空飛ぶスパゲッティ・モンスターは古代の神々の一部なのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エリザベス2世女王は英国とその連邦の君主である。\nQuestion: エリザベス2世はバレアレス諸島を統治しているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フットボール戦争は1969年7月14日に始まった。\nQuestion: フットボール戦争は少なくとも1か月続きましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ロレンツォ・デ・メディチはフィレンツェの偉大な芸術パトロンであり、レオナルド・ダ・ヴィンチのパトロンでもありました。\nQuestion: ロレンツォ・デ・メディチはダ・ヴィンチだけを特別に支援していたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最後の晩餐はキリスト教においてイエスと12人の弟子の間で行われた食事でした。\nQuestion: イスラム教では最後の晩餐を祝う人がいるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 魚は水の中に住んでいます。 \nQuestion: ベンガル猫は魚を捕まえるのが怖いでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ベニート・ムッソリーニの身長は5フィート6インチ1⁄2インチでした。\nQuestion: ベニート・ムッソリーニはハフソル・ビョルンソンより大きい靴を履いていたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ボビー・ジンダルはバトンルージュ・マグネット高校に通っていました。\nQuestion: ボビー・ジンダルの高校のマスコットはドッグフードを食べるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 国会議事堂はワシントン DC のダウンタウンにあるナショナル モールの端に位置しています。\nQuestion: アメリカ合衆国議会議事堂はホワイトハウスの近くにありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伐採によりパルプなどの製品が生産されます。\nQuestion: 伐採業者がいなかったらトイレットペーパーを手に入れるのは難しいでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イギー・ポップの出生名はジェームズ・ニューウェル・オスターバーグ・ジュニアでした。\nQuestion: イギー・ポップは父親にちなんで名付けられたのですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 予防医療には性感染症（STI）の検査が含まれます。 \nQuestion: 予防医療は性感染症の感染を減らすことができるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『美女と野獣』には、自分で動いたり話したりするアイテムがいっぱいの城が登場します。 \nQuestion: 『美女と野獣』では無生物が生き返るのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメリカバンディ協会は、米国における主要なバンディ競技を統括しています。\nQuestion: バンディはテキサスで人気が出る可能性はあるでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: カルシウムは骨の健康にとって重要な栄養素です。\nQuestion: 骨の成長には、ほうれん草よりもケールのほうが効果的ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アマゾナス州は大部分が熱帯のジャングルです。\nQuestion: アマゾナスを歩いて横断すると命が危険にさらされるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 任天堂はもともと 1983 年に発売され、カートリッジ形式のゲームを使用していました。\nQuestion: オリジナルの任天堂にはプレイステーション 3 と同じ形式のゲームがありましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フィボナッチ数列は、前の数字に数字を加算して永遠に続く数列です。\nQuestion: フィボナッチ数列は円周率で発見されたすべての数よりも長いですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 潔癖症は、細菌、バクテリア、微生物、汚染、感染に対する病的な恐怖を表すために心理学者が使用する用語です。\nQuestion: 潔癖症でも柔道に参加できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメリカの秋は9月から12月末まで続きます。\nQuestion: アメリカで秋はクマの毛皮を集めるのに良い時期ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「Stupid Girls」のビデオには、ピンクと女性がトイレで歯ブラシを共用して嘔吐を誘発するシーンがある。\nQuestion: 摂食障害患者にとって刺激となるピンクのミュージックビデオはありますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アル・アンサー・ジュニアはレーシングカーのドライバーです\nQuestion: アル・アンサー・ジュニアは宇宙開発競争に勝利したのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft はソフトウェアです。\nQuestion: World of Warcraft はパン一斤より重いですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: メトロイドは任天堂によって開発され、発売されました。\nQuestion: エレクトロニック・アーツはメトロイドの販売で利益を得たのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 幼稚園教師の大部分は公立学校で働いています。\nQuestion: 幼稚園の先生が新約聖書の授業をするでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エイミー・ワインハウスは、演奏前や演奏中に酔っ払うことで知られていた。\nQuestion: エイミー・ワインハウスはいつもライブで完璧にパフォーマンスしていたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ピザに使われるアンチョビは、通常、丸ごと油または水に漬けられています。 \nQuestion: アンチョビピザには骨が入っていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 標準的なNBAバスケットボールの直径は約9.5インチです\nQuestion: 砂猫の耳の中にバスケットボールを隠すことはできますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イヴァン雷帝は、その厳しい統治のせいで「恐ろしい」というあだ名がつけられました。\nQuestion: イヴァン雷帝の父と祖父にはもっといいあだ名があったのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乳がんは哺乳類の乳腺組織に発生する病気です。\nQuestion: アメーバは乳がんに対して安全ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 円周率、つまり円の円周と直径の比は 3.14 です。\nQuestion: 1980 年代の中国では、円周率は許容できる子供の数だったのでしょうか?",
+        "output": "No"
+    }
+]

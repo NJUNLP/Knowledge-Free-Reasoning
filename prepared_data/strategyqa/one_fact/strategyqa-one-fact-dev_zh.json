@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乔治亚州奥尔巴尼约有 75,000 人\nQuestion: 佐治亚州的奥尔巴尼会比纽约的奥尔巴尼更早达到十万居住者吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 圣文森特和格林纳丁斯的主要语言是圣文森特克里奥尔语。\nQuestion: 圣文森特和格林纳丁斯使用的语言是否源于英语？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 贪婪是对财富和权力的渴望。\nQuestion: 贪婪是七宗罪中最普遍的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 日本海的平均深度为 5,748 英尺（1,752 米），最大深度为 12,276 英尺（3,742 米）\nQuestion: 富士山的山顶会突出日本海吗？ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lil Jon 公告牌上排名最高的歌曲是《Yeah》。\nQuestion: Lil Jon 的 Billboard 冠军歌曲是与 The Lox 成员合作的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 迈阿密是佛罗里达州的一个城市。\nQuestion: 迈阿密是美国西海岸的一座城市吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 弗吉尼亚州议会共有 140 个席位。\nQuestion: 瑞士卫队能否坐满弗吉尼亚州议会的席位？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 葡萄牙殖民战争是葡萄牙与安哥拉人民解放运动等多个组织之间的战争。\nQuestion: 葡萄牙殖民战争中是否有任何国家与瑞士在二战中扮演相同的角色？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古英语是盎格鲁撒克逊人使用的，盎格鲁撒克逊人是一个居住在英格兰的日耳曼部落。\nQuestion: 皮克特人会对古英语感到困惑吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lil Wayne 的职业生涯始于 1995 年，当时他 12 岁，与 Birdman 唱片公司签约并加入 Cash Money Records，成为该公司最年轻的成员。\nQuestion: Lil Wayne 在职业生涯初期能合法独自驾驶车辆吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 十字架是基督教的象征\nQuestion: 您有可能在卡拉奇找到十字架吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 知识共享许可允许免费分发受版权保护的作品。\nQuestion: 有人卖了盗版的波提切利《维纳斯的诞生》的知识共享许可证吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 六岁儿童的平均体重为45磅。\nQuestion: 十加仑的海水能够压垮一个六岁的孩子吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 凤尾鱼是一种小鱼。\nQuestion: 在较冷的水域中生活的凤尾鱼是否比在较温暖的水域中生活的凤尾鱼更多？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 3D打印机在精度方面有限制。标准喷嘴输出约为0.4毫米。因此，如果您计划打印低于0.4毫米的东西，您将无法获得有用的物品。\nQuestion: 3D打印能制造腺病毒吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乔治·福克斯是公谊会的创始人，该会通常被称为贵格会或公谊会。\nQuestion: 乔治·福克斯会支持石刑吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 《星球大战》是被模仿最广泛的电影系列之一。\nQuestion: 有必要看《星球大战》才能知道达斯维达是谁吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 布尔代数是代数的一个分支，其中变量的值是真值真和假，通常分别表示为 1 和 0。 \nQuestion: 计算机可以完全用布尔代数进行编程吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 克里斯蒂娜·阿奎莱拉 (Christina Aguilera) 担任该声音的评委。\nQuestion: 克里斯蒂娜·阿奎莱拉 (Christina Aguilera) 在《美国好声音》 (The Voice) 中为凯莉·克拉克森 (Kelly Clarkson) 调转椅子了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Narcan 是一种可以挽救鸦片类药物过量患者生命的药物。\nQuestion: 纳洛酮能阻止艾米怀恩豪斯的死亡吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 猫鼬最常见的毛色是棕色和灰色。\nQuestion: 猫鼬有沙漠的天然伪装吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 水牛城辣鸡翅是裹着辣酱的炸鸡翅。\nQuestion: 如果有人喜欢水牛辣鸡翅，那么他们是否也喜欢辣椒素呢？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 李小龙于1961年进入华盛顿大学就读。\nQuestion: 李小龙缺席了1964年华盛顿大学的毕业典礼吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 布鲁克·希尔兹毕业于普林斯顿大学。\nQuestion: 布鲁克·希尔兹能在宾夕法尼亚大学取得成功吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 马里斯特位于哈德逊河畔。\nQuestion: 马里斯特大学的学生是否必须申请才能组建划船队？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lolcat 表情包通常采用 jpeg 格式\nQuestion: 第一代 iPhone 能装下十万只笑猫吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 人口过剩是由于一个国家的出生率超过死亡率造成的。\nQuestion: 鲁瑟夫是否需要担心他的祖国人口过剩？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 桃子的果皮呈毛茸茸的红色、橙色和黄色。\nQuestion: 桃子公主的裙子像桃子吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 患有精神疾病史的大多数人没有资格参军。\nQuestion: 精神病患者可以加入美国空军吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing 是一个搜索引擎，它是一个数字对象。\nQuestion: 我可以把 Bing 放在篮子里吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: CPU 是计算机主板上的主要芯片，会产生大量热量。\nQuestion: 中央处理器通常都有专用的风扇吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 西里尔·拉马福萨是南非总统\nQuestion: 西里尔·拉马福萨能成为北约秘书长吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 布鲁克林和纽约的百吉饼因其高品质而闻名于世。\nQuestion: 布鲁克林以其面包产品而闻名吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 义和团运动发生于 1899 年至 1901 年\nQuestion: 英国皇家空军参加了义和团运动吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 弗朗索瓦·密特朗出生于 1916 年。\nQuestion: 弗朗索瓦·密特朗是否在拿破仑·波拿巴手下的法国军队中服役？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 变形虫是一种单细胞生物。\nQuestion: 阿米巴变形虫会得癌症吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 霍乱是一种细菌。\nQuestion: 霍乱还活着吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 红薯皮光滑，颜色呈橙色。\nQuestion: 人们通常会将红薯与菠萝混淆吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 企鹅原产于南半球深而寒冷的地区。\nQuestion: 在迈阿密发现企鹅是很常见的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 淋巴瘤是一种严重的癌症，可能始于淋巴结肿瘤。\nQuestion: 淋巴结中的肿瘤可以忽略吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 在《美国队长：内战》中，钢铁侠与美国队长因分歧而成为敌人。\nQuestion: 漫威宇宙中蜘蛛侠和猎鹰交手过吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 在瑜伽练习中，纳塔拉贾萨拉 (Natarajasara) 这个姿势代表了湿婆的神圣舞蹈\nQuestion: 湿婆的神圣舞蹈是一种古老的健身姿势吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 刀疤是迪士尼《狮子王》中的邪恶狮子。\nQuestion: 鬣狗会出现在百老汇音乐剧中吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 枭猴是食果动物，它们喜欢吃小而成熟的水果。\nQuestion: 猫头鹰猴会喜欢吃草莓吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: M60 巴顿是一款重达数吨的陆军坦克。\nQuestion: 蛇能吞下 M60 巴顿吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 复仇者联盟是漫威制作的一部漫画。\nQuestion: 《复仇者联盟》漫画在 DC 漫画商店里会显得格格不入吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 波斯湾面积为 96,912 平方英里。\nQuestion: 波斯湾能容得下新泽西州吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Psylocke 是漫威的一位超级英雄，本名 Betsy Braddock。\nQuestion: 从身高和体重来看，妮可基德曼是饰演灵蝶的理想人选吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伯尼·桑德斯是一位老年人\nQuestion: 伯尼·桑德斯能花不到两百美元参观大都会艺术博物馆二十次吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 计划生育协会专门从事生殖保健工作。\nQuestion: 计划生育协会可以告诉你的大学你感染了单纯疱疹病毒吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 阿喀琉斯是一位希腊英雄，因脚后跟中箭而死。\nQuestion: 在一场假想的战斗中，阿喀琉斯会打败莱戈拉斯吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 罗马尼亚布加勒斯特位于东欧。\nQuestion: 布加勒斯特位于埃及南部吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 只有密度低于周围物质的物体才会漂浮。\nQuestion: 岩石会漂浮在地球大气层中吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 犀牛角在民间用于治疗阳痿。\nQuestion: 为了改善人类的性生活，犀牛是否遭到杀害？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ABBA 是一个由四名成员组成的瑞典流行乐队。\nQuestion: ABBA 的性别配置与 The Mamas &amp; The Papas 相似吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 第十三修正案于 1865 年获得批准。\nQuestion: 《小妇人》的作者会记得《第十三修正案》的批准吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Reddit 55% 的用户来自美国。\nQuestion: 大多数 Reddit 用户是否熟悉效忠誓言？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 孩子们给圣诞老人寄圣诞信。\nQuestion: 孩子们会把圣诞节信件寄到南极吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 魔力红 (Maroon 5) 乐队成立于 2001 年。\nQuestion: 魔力红 (Maroon 5) 和涅槃乐队 (Nirvana) 一起巡演了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 埃万德·霍利菲尔德2020年底将年满58岁。\nQuestion: 埃文德·霍利菲尔德 (Evander Holyfield) 2020 年重返拳击赛会创下年龄记录吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Post Malone 的身上布满了多处纹身。\nQuestion: 波兹·马龙 (Post Malone) 害怕针头吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 美西战争从 1898 年 4 月 21 日持续到 1898 年 8 月 13 日。\nQuestion: 美西战争期间的美国总统是否遭遇了与亚伯拉罕·林肯类似的死法？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 上帝用亚当身上的一块骨头创造了夏娃。\nQuestion: 夏娃是否卷入了乱伦关系？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 小韦恩 (Lil Wayne) 出生时名为德韦恩·迈克尔·卡特 (Dwayne Michael Carter)。\nQuestion: Lil Wayne 类似真名的说唱歌手曾获得过四次 Wayne 的格莱美奖？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 镍的沸点为 3003 开尔文\nQuestion: 镍会在地球外核中沸腾吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 多萝西娅·温德林是一位出生于德国斯图加特的歌手。\nQuestion: 多萝西娅·温德林 (Dorothea Wendling) 和保时捷 (Porsche) 的原籍是同一个地方吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 手术用于纠正医疗问题或对身体进行物理改变\nQuestion: 手术可以预防生存危机吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伟大的谢赫是阿维森纳的名字\nQuestion: 法拉比是大谢赫的学生吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 氯和钠混合就是氯化钠，也称为食盐。\nQuestion: 氯与钠混合食用会危险吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 面包师的十三 (baker&#39;s 13) 指的是 13 个东西。\nQuestion: 巴西柔术格雷西创始人一共有多少个孩子？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dolce &amp; Gabbana 成立于 1985 年。\nQuestion: 莫扎特曾经购买过 Dolce &amp; Gabbana 的产品吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 18 世纪的法官在法庭审理案件时会戴上假发，穿着大袍。\nQuestion: 正统长老会教徒会反对 18 世纪法官的着装吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 俳句是一种日本短诗，遵循 5、7、5 音节结构。\nQuestion: 《微生物古史》比任何俳句都简短吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 莉莉·沃卓斯基是一名变性女性，曾担任《黑客帝国》的导演。\nQuestion: 《黑客帝国》的导演是否支持跨性别者的权利？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 驾驶考试衡量的是按照交通法规驾驶的能力。\nQuestion: 北方海狗能通过驾驶考试吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 截至 2018 年，Taco Bell 拥有超过 7,072 家餐厅。\nQuestion: 每年进出塔可钟的人数会比进出罗伊罗杰斯的人数多吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 红海是世界上最咸的水域之一。\nQuestion: 在红海发现黄鲈鱼会不会很不寻常？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 佐德将军是一个恶棍。\nQuestion: 佐德将军更喜欢 iPhone 还是三星 Galaxy S4？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最早的书面记录表明，早在公元前 2000 年，埃及人和巴比伦人就已经使用了所有基本的算术运算。\nQuestion: 尼安德特人使用算术吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 猎犬是一种用于追踪猎物的猎犬。\nQuestion: 《你真好，查理·布朗》中的动物假设是猎犬吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 《无人生还》是阿加莎·克里斯蒂创作的一部悬疑小说。\nQuestion: JK·罗琳的任何一本书都属于“无人生还”类型的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Jay-Z 出生于 1969 年。\nQuestion: Jay-Z 曾与 Louis Armstrong 合作过吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 米是公制的一部分。\nQuestion: 在英国，长度是以米为单位来测量的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 哥伦布最初来自现在的意大利的热那亚。\nQuestion: 克里斯托弗·哥伦布航行时代表的国家与他的原籍国不同吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 由于缺氧，嘴唇和皮肤会变蓝。\nQuestion: 嘴唇发青正常吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乔恩·布劳尔·米诺克 (Jon Brower Minnoch) 是一名美国男子，他的体重巅峰时达到 1,400 磅，是有史以来最重的人。\nQuestion: 乔恩·布劳尔·米诺克 (Jon Brower Minnoch) 是否患有神经性厌食症？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 山鲁佐德是中东民间传说中的一个人物，她通过给国王讲长篇故事来推迟自己的死刑。\nQuestion: 《奥赛罗》是莎士比亚为让山鲁佐德有更多的时间与国王相处而创作的戏剧吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 胡玛·阿贝丁 (Huma Abedin) 是 2009 年希拉里·克林顿的副幕僚长\nQuestion: 2009 年希拉里克林顿的副幕僚长受洗了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 由人类喂养的鹤会表现出家养倾向，并且很少啄食人类。\nQuestion: 鸸鹋比鹤更安全吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 新英格兰位于美国。\nQuestion: 你能从新英格兰开车去塞恩斯伯里吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 二年级学生通常七、八岁。\nQuestion: PG Wodehouse 会在二年级教授吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 在《爱丽丝梦游仙境》中，其中一个角色是一条抽水烟的毛毛虫。\nQuestion: 在《爱丽丝梦游仙境》中，吸烟是否显得很有趣？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最高法院是美国最高法院。\nQuestion: 西蒙考威尔可以投票选举下一任最高法院法官吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 1933 年，大萧条导致约 1500 万人失业。\nQuestion: 老虎体育场能容纳下1933年大萧条造成的所有失业人员吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 多纳泰罗创作了一座高五英尺多的青铜大卫雕像。\nQuestion: 一名成年男性可以站在多纳泰罗的青铜大卫像上并触摸西斯廷教堂的天花板吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 阿以冲突始于数百年前。\nQuestion: 英国是否直接卷入了阿以冲突？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 《爱丽丝梦游仙境》于 1865 年出版\nQuestion: 《爱丽丝梦游仙境》是否启发了麦克白的创作？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 亚洲黑熊是一种生活在有树的栖息地的动物。\nQuestion: 亚洲黑熊是多色的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 理查兹中尉是与黑胡子一起航行的海盗。\nQuestion: 海盗中尉和海军中尉一样吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lorem Ipsum 段落是临时的。\nQuestion: 一个完成的网站是否应该有 lorem ipsum 段落？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海狸坝经常导致周围地区发生洪水。\nQuestion: 海狸水坝附近的土地是否遭受破坏？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 帝国奖最佳新人奖颁给了首次出演角色的演员。\nQuestion: 威尔·法瑞尔夺得帝国奖最佳新人奖难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 银婚纪念日是指结婚25周年。\nQuestion: 辛西娅·鲍威尔与约翰·列侬一起庆祝了银婚纪念日吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 阿尔帕西诺出生于 1940 年。\nQuestion: 阿尔帕西诺在二战期间演过电影吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古吉拉特语文字是元音附标文字\nQuestion: 古吉拉特语文字和汉字属于同一类别吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 莫里斯县以刘易斯·莫里斯上校的名字命名。\nQuestion: 莫里斯县是以首席大法官的名字命名的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 甚大望远镜观察外太空。\nQuestion: 甚大望远镜能够观测地球上最大的山峰吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 甲烷是一种污染环境并导致温度变化的气体。\nQuestion: 牛甲烷对环境比汽车更安全吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 滑水是一项在大片水面上滑行的运动。\nQuestion: 摩洛哥是滑水的理想地点吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 截至 2020 年 6 月，亚马逊股价已高达每股 2,500 美元。\nQuestion: 一股亚马逊股票能购买 20 年的 Netflix 会员资格吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 尼古拉·特斯拉在纽约州肖勒姆建造了一座名为沃登克莱夫塔的设施\nQuestion: 尼古拉·特斯拉曾经工作过的地方有辐射吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 哈莱姆文艺复兴发生于 20 世纪 20 年代。\nQuestion: 阿尔·卡彭读过哈莱姆文艺复兴时期的作品吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: “警察的命也是命”是美国的一项反运动，旨在支持警察和执法人员。\nQuestion: Blue Lives Matter 的成员会支持《侠盗猎车手 III》的每个元素吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 元旦是每年的一月一日。\nQuestion: 元旦总是在星期三吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 若虫蜱的大小与罂粟籽相当。\nQuestion: 若虫蜱可以穿过标准的打孔器吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 波音 737-800 飞机 2019 年的价格为 1.06 亿美元。\nQuestion: 艺术品经销商可以购买带有达芬奇画作的波音 737-800 吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 彼得·格里芬 (Peter Griffin) 是 Quahog 一家啤酒厂的员工。 \nQuestion: 彼得·格里芬 (Peter Griffin) 应该成为酿酒工艺专家吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rowe 550 是一款由中国上汽汽车公司生产的汽车。\nQuestion: 您能驾驶 Rowe 550 参加 2008 年夏季奥运会吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 艾米怀恩豪斯于 2011 年去世。\nQuestion: 艾米怀恩豪斯是《星球大战：侠盗一号》的粉丝吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 史努比一直是 NASA 的安全吉祥物\nQuestion: 杰西·W·摩尔 (Jesse W. Moore) 有可能获得美国国家航空航天局 (NASA) 颁发的史努比主题奖吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  成年蜜獾肩高 23 至 28 厘米（9.1 至 11.0 英寸），体长 55–77 厘米（22–30 英寸），尾长 12–30 厘米（4.7–11.8 英寸）。\nQuestion: 蜜獾能放进烤箱吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 谷壳是磨碎的谷物中多余的物质。\nQuestion: 谷壳是水力发电产生的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 保罗·科埃略的妻子是克里斯蒂娜·奥迪塞卡。\nQuestion: 保罗·科埃略的妻子靠演讲谋生吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 救生艇用于液态水体\nQuestion: 救生艇能在胡克海救人吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 菲亚特克莱斯勒公司是由菲亚特和克莱斯勒两家汽车公司合并而成。\nQuestion: 菲亚特克莱斯勒与日本汽车有关系吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 哈迪斯是希腊神话中的死亡之神和冥界之神。\nQuestion: 哈迪斯和奥西里斯是否会争夺冥界的房地产？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 约翰·韦恩机场位于奥兰治县。\nQuestion: 加利福尼亚州奥兰治县是否要求飞机保持安静？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 2020 年 6 月，一场全球大流行爆发。\nQuestion: 王子公园体育场于 2020 年 6 月全面投入运营吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 大多数零售工作要求员工能够举起、推和拉 25-50 磅的重物。 \nQuestion: 零售业是任何人都适合的职业吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 火药被归类为低爆炸药\nQuestion: 火药储存设施发生爆炸会产生超音速冲击波吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 将氯加入水中，就会产生家用漂白剂。\nQuestion: 你能在一元店买到氯吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 鳄鱼属于鳄亚科。\nQuestion: 咸水鳄和短吻鳄有关系吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 珀尔塞福涅是一位植物女神。 \nQuestion: 珀尔塞福涅 (Persephone) 能成为景观设计师的优秀顾问吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 阿波罗 15 号任务的机组人员中有 3 名宇航员。\nQuestion: 阿波罗15号的机组人员骑独轮车会困难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 护卫舰是帆船的一种。\nQuestion: 操作护卫舰需要绳索吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 杰森背着美狄亚和克瑞萨偷情\nQuestion: 杰森和 Disrespect 博士有什么共同之处吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乳糜泻是一种人体无法处理麸质的疾病。\nQuestion: 乳糜泻患者应该避免吃意大利面吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 考拉是食草动物。\nQuestion: 考拉是否更喜欢桉树而不是肉？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 健美运动员希望增强肌肉并保持低脂肪\nQuestion: 健美运动员会更喜欢麋鹿汉堡而不是牛肉汉堡吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 物体的密度决定它是否会漂浮。\nQuestion: 你能沿着水银海运送一枚硬币吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 兔八哥是一只拟人化的灰白色兔子。\nQuestion: 在现实世界中，兔八哥会伤害橄榄树吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 肾上腺疲劳是一种因身体无法产生足够的激素而导致人们感到疲劳的疾病。\nQuestion: 抱子甘蓝对缓解肾上腺疲劳特别有效吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 《恶搞之家》的故事发生在罗德岛州的虚构小镇 Quahog。\nQuestion: 《恶搞之家》的故事发生在美国西海岸吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 三菱是日本汽车制造商\nQuestion: 乌贝兰迪亚的人可以为三菱工作吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 汉娜·尼克松是理查德·尼克松的母亲。\nQuestion: 水门事件后，汉娜·尼克松会为理查德·尼克松感到骄傲吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 艾迪·墨菲出生于 1961 年。\nQuestion: 艾迪·墨菲小时候能在车里拨打 911 吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 埃德蒙·希拉里是一位攀登珠穆朗玛峰的登山家。\nQuestion: 对于埃德蒙·希拉里来说，征服威奇普鲁夫山 (Mount Wycheproof) 会是轻而易举的事吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 彩虹包含以下颜色：红色、橙色、黄色、绿色、蓝色、靛蓝和紫色。\nQuestion: 加蓬国旗的颜色是彩虹色吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 信天翁是一种\nQuestion: 海燕雀能生活在信天翁不能生活的地方吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 卷发器是一种利用热量使头发卷曲的工具。\nQuestion: 卷发必须用卷发棒吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 鸸鹋是一种不会飞的鸟。\nQuestion: 鸸鹋和麋鹿有关系吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille 是纽约一家经典法国美食餐厅。\nQuestion: La Grenouille 餐厅的厨师会不会觉得莎莎酱是一个奇怪的要求？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 在《Boom!》一书中，《System of a Down》谴责了全球化。\nQuestion: “下层社会”反对全球化吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 咖啡只能在亚热带和赤道气候下生长\nQuestion: 新英格兰人可以通过种植咖啡获利吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乒乓球比赛中，率先得分11分的选手获胜。\nQuestion: 乒乓球使用质数吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Capital One Venture 卡的年费约为 95 美元。\nQuestion: 成为 5 年 Capital One Venture 会员比加入撒旦教会更划算吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 路德维希·凡·贝多芬于 1827 年去世。\nQuestion: 贝多芬喜欢听 EDM 吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster 是一项 P2P 音乐共享服务。\nQuestion: 金属乐队 (Metallica) 是否保护他们的音乐？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 凯莉·安德伍德 (Carrie Underwood) 是美国偶像第四季的冠军。\nQuestion: 凯莉·克拉克森 (Kelly Clarkson) 的专辑销量是否超过了第四季美国偶像冠军？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 欧洲野猫原产于欧洲大陆、苏格兰、土耳其和高加索地区。\nQuestion: 黑尾长耳大野兔害怕欧洲野猫吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 卡尔·弗里德里希·高斯出生于 1777 年。\nQuestion: 卡尔·弗里德里希·高斯能与 100 英里外的人通话吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 莱昂内尔·里奇是一位美国歌手，他抚养了妮可·里奇。\nQuestion: 莱昂内尔·里奇 (Lionel Richie) 和 Sheila E 有关系吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 对于食品是否保质期没有要求。 \nQuestion: FDA 是否要求使用罗马数字来标明销售期限？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海上船只上传唱的船歌\nQuestion: 旅人们在俄勒冈小道上唱过船夫号子吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 白色恐惧症是对白色的恐惧。\nQuestion: 患有白色恐惧症的人会喜欢看美国国旗吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 女演员泰瑞·海切尔总共完成了 180 集《绝望主妇》。\nQuestion: 泰瑞·海切尔在《绝望主妇》中的出演集数是她在《超人》中的出演集数的两倍吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 红细胞约占人体血液的40-50％。\nQuestion: 人体内白细胞的数量是否比红细胞多？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 政治家约翰·乔治·比斯出生于卡林顿。\nQuestion: 约翰·乔治·比斯的出生地在康沃尔附近吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 恐龙在数百万年前就灭绝了。\nQuestion: 欧洲的历史包括恐龙时代吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 保罗·班扬是荒诞故事中的一位传奇巨人。\nQuestion: 从理论上讲，保罗·班扬 (Paul Bunyan) 对于城市规划师来说是不是一个糟糕的选择？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 植物进行光合作用需要三种元素：氢、氧和碳。\nQuestion: 植物进行光合作用所需的所有元素都存在于火星大气中吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 比尔·奈出生于 1955 年\nQuestion: 比尔·奈投票给了富兰克林·德拉诺·罗斯福吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 在美洲，“吉普赛人”这个词被罗姆人视为一种侮辱性的词语。\nQuestion: 非罗姆人使用“吉普赛”这个词可以吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 16 世纪时，以色列国被奥斯曼帝国控制。 \nQuestion: 以色列国在 16 世纪是否拥有一个伊斯兰帝国？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 美国农业部建议每天至少摄入 3500 毫克钾。\nQuestion: 7 根西葫芦是否能满足美国农业部规定的钾每日推荐量？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 第一辆广泛生产的汽车是 T 型车。\nQuestion: 英国汽车 Mini 是第一辆制造出来的汽车吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 可以用烤箱代替脱水机对辣椒进行脱水。\nQuestion: 不用脱水机可以制作辣椒粉吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 孟加拉猫是食肉动物。\nQuestion: 孟加拉猫只吃煎饼能活下来吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 漂泊信天翁可以飞越海上至少 15,000 公里（不到 10,000 英里）才能返回陆地。 \nQuestion: 一只流浪信天翁能够不间断地从布加勒斯特飞到纽约吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 纽约公共图书馆是纽约市的一个公共借阅图书馆系统\nQuestion: 纽约公共图书馆出售 Alpo 产品吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 托尼·班尼特的全名是 Anthony Dominick Benedetto。\nQuestion: 托尼·贝内特 (Tony Bennett) 的中间名是否与前 UFC 冠军相同？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 黑寡妇指的是为了钱谋杀丈夫并再婚的女人。\nQuestion: 黑寡妇会用桃子吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 火人节常常吸引大量年轻人，由于天气和风格原因，他们通常穿着极简的衣服。 \nQuestion: 人们在火人节上比平常更容易晒伤吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 拉胡尔德拉维德（Rahul Dravid）是一名职业板球运动员\nQuestion: 拉胡尔德拉维德 (Rahul Dravid) 曾经踢过球吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海洋研究涉及许多领域或科学。\nQuestion: 一位海洋学家会研究多门科学吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 漫画的黄金时代发生在 20 世纪 30 年代到 50 年代之间。\nQuestion: 超级英雄小说是以数字形式发明的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 美国黑熊幼崽出生时的平均体型只有8英寸。\nQuestion: 两只刚出生的美国黑熊幼崽可以睡在一张特大号床上吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Aldi 通过收取袋子费用、批量购买以及避免购买品牌商品来削减成本。 \nQuestion: Aldi 的食品会因为过期而打折吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 黑胡椒由黑胡椒粒制成。\nQuestion: 黑胡椒的主要成分是甜椒粉吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: “受身”是指武术中摔倒或接受的艺术\nQuestion: 受身会停止动能吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: BLT 是一种由培根、生菜和西红柿组成的三明治。\nQuestion: 在卡萨布兰卡买 BLT 三明治难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Snowdown 每年降水量约为 200 英寸 \nQuestion: 斯诺登山每年的降水量会淹没一根直立的保龄球瓶吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 拉姆齐·麦克唐纳 (Ramsay MacDonald) 在斯坦利·鲍德温 (Stanley Baldwin) 之前担任首相。\nQuestion: 斯坦利·鲍德温之前或之后有一位女首相吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 白头鹰的飞行速度可达每小时 99 英里。\nQuestion: 白头鹰会在 B-52 之前传递紧急信息吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 职业拳击手的脸部经常会被击中。\nQuestion: 职业拳击手的牙科费用能低吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 苏斯博士的妻子自杀了。\nQuestion: 苏斯博士的一生没有悲剧吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 杰克逊·波洛克的父母都出生并成长于爱荷华州廷利。\nQuestion: 杰克逊·波洛克的父母小时候不需要宣誓效忠吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Shamu 是海洋世界吉祥物虎鲸的名字。\nQuestion: 圣地亚哥县是 Shamu 的故乡吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古代多神教在西方文化中普遍不再流行。\nQuestion: 飞天面条怪是古代万神殿的一部分吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伊丽莎白二世女王是英国及其英联邦的君主\nQuestion: 伊丽莎白二世统治巴利阿里群岛吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 足球大战于 1969 年 7 月 14 日打响。\nQuestion: 足球大战至少持续了一个月吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 洛伦佐·德·美第奇是佛罗伦萨的一位伟大艺术赞助人，也是列奥纳多·达·芬奇的赞助人。\nQuestion: 洛伦佐·德·美第奇对达·芬奇的赞助是独家的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最后的晚餐是基督教中耶稣和他的十二门徒之间的一顿晚餐。\nQuestion: 有人参加伊斯兰教的最后的晚餐吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 鱼生活在水中。 \nQuestion: 孟加拉猫会害怕抓鱼吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 贝尼托·墨索里尼身高 5 英尺 6.1⁄2 英寸。\nQuestion: 贝尼托·墨索里尼穿的鞋子比哈夫·比约恩松穿的鞋子大吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 鲍比·金达尔 (Bobby Jindal) 就读于巴吞鲁日磁铁高中。\nQuestion: 鲍比·金达尔 (Bobby Jindal) 的高中吉祥物会吃粗磨谷物吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 国会大厦位于华盛顿特区市中心国家广场的一端。\nQuestion: 美国国会大厦位于白宫附近吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伐木可产生纸浆等产品。\nQuestion: 如果没有伐木工，获取卫生纸会很困难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伊基·波普 (Iggy Pop) 的出生名字是詹姆斯·纽厄尔·奥斯特伯格 (James Newell Osterberg Jr.)。\nQuestion: 伊基·波普 (Iggy Pop) 的名字是随他父亲的名字吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 预防性医疗保健包括性传播疾病 (STI/STD) 筛查。 \nQuestion: 预防性医疗保健能减少性传播疾病的传播吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 美女与野兽中有一座城堡，里面充满了可以自己移动并说话的物品。 \nQuestion: 《美女与野兽》中无生命的物体是否活了过来？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 美国班迪球协会负责管理美国境内的主要班迪球比赛。\nQuestion: 班迪球有可能在德克萨斯州流行吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 钙是骨骼健康的重要营养素。\nQuestion: 对于骨骼生长来说，羽衣甘蓝比菠菜更有益吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 亚马逊大部分是热带丛林。\nQuestion: 穿越亚马逊河流是否会危及生命？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 任天堂最初于 1983 年发布，使用卡带格式的游戏。\nQuestion: 最初的任天堂是否有与 Playstation 3 相同格式的游戏？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 斐波纳契数列是一个数字序列，它将一个数字添加到它之前的一个数字上，并永远持续下去。\nQuestion: 斐波那契数列是否比在圆周率 (Pi) 中发现的每个数字都长？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 洁癖是心理学家用来描述对细菌、微生物、污染和感染的病态恐惧的术语。\nQuestion: 有洁癖的人能参加柔道吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 美国的秋季从九月持续到十二月底。\nQuestion: 秋天是在美国收集熊皮的好时机吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 《Stupid Girls》的视频中有这样一个场景：Pink 和一个女人在浴室里共用一把牙刷来催吐。\nQuestion: 有没有能激发饮食失调患者兴趣的粉红音乐视频？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Al Unser Jr. 是一名赛车手\nQuestion: 小阿尔·昂塞尔赢得了太空竞赛吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 魔兽世界是一个软件。\nQuestion: 魔兽世界比一条面包重吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Metroid 由任天堂创作并发行。\nQuestion: 艺电从《银河战士》的销售中获利了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 大多数幼儿园教师在公立学校工作。\nQuestion: 幼儿园老师会讲授《新约》吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 艾米怀恩豪斯 (Amy Winehouse) 因在演出前喝醉而闻名。\nQuestion: 艾米怀恩豪斯的现场表演总是很完美吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 披萨上使用的凤尾鱼通常整条浸泡在油或水中。 \nQuestion: 凤尾鱼披萨里有骨头吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 标准 NBA 篮球的直径约为 9.5 英寸\nQuestion: 你能把篮球藏在沙猫的耳朵里吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伊凡雷帝因其残酷的统治而被冠以“恐怖”的称号。\nQuestion: 伊凡雷帝的父亲和祖父有更好听的昵称吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乳腺癌是发生在哺乳动物乳腺组织中的疾病。\nQuestion: 阿米巴变形虫能免受乳腺癌的侵害吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 圆周率 (Pi) 是圆的周长与直径的比值，等于 3.14。\nQuestion: 在 20 世纪 80 年代的中国，Pi 是可以接受的子女数量吗？",
+        "output": "No"
+    }
+]

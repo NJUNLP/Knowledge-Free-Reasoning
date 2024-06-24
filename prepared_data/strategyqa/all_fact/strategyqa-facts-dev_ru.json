@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В Олбани, штат Джорджия, проживает около 75 000 человек. В Олбани, штат Нью-Йорк, проживает почти 100 000 человек.\nQuestion: Будет ли Олбани в Джорджии насчитывать сто тысяч жителей раньше, чем Нью-Йорк?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Основной язык, на котором говорят на Сент-Винсенте и Гренадинах, — винсентский креольский. Винсентский креольский язык основан на английском языке с элементами французского, антильского креольского языка и языков коренных народов Южной Америки и Африки.\nQuestion: Является ли язык, используемый в Сент-Винсенте и Гренадинах, английским?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Жадность – это стремление к богатству и власти. Преступления «белых воротничков» включают в себя кражу денег или активов у людей.  По данным Министерства юстиции, 5–10% арестов на 100 000 арестов приходится на преступления «белых воротничков». Чревоугодие — это чрезмерное увлечение едой или подобными вещами. По данным Национального центра статистики здравоохранения, 39,8% взрослых в США имеют избыточный вес.\nQuestion: Является ли жадность самым распространенным из семи смертных грехов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Средняя глубина Японского моря составляет 5748 футов (1752 метра), а максимальная глубина — 12 276 футов (3742 метра). Гора Фудзи имеет высоту 3776,24 метра (12 389,2 фута). \nQuestion: Будет ли вершина горы Фудзи выступать из Японского моря? ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Самая популярная песня Лил Джона на рекламных щитах была «Да». Да, это была совместная работа Лил Джона, Ашера и Лудакриса. The Lox — рэп-трио, состоящее из Styles P, Sheek Louch и Jadakiss.\nQuestion: Была ли песня Lil Jon, занявшая первое место в Billboard, результатом сотрудничества с участником The Lox?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Майами — город в штате Флорида. Флорида — самый южный штат на восточном побережье Америки.\nQuestion: Майами — город на западном побережье Америки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Генеральная ассамблея Вирджинии имеет 140 мест. Швейцарская гвардия — почетный караул Ватикана, состоящий из 135 человек.\nQuestion: Сможет ли Швейцарская гвардия занять места на Генеральной Ассамблее Вирджинии?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Португальская колониальная война велась между Португалией и несколькими группами, включая Народное движение за освобождение Анголы. Швейцария сохраняла нейтралитет во Второй мировой войне и не вмешивалась. Португалия держалась в стороне от мировых дел во время Второй мировой войны.\nQuestion: Разделяла ли какая-либо страна, участвовавшая в португальской колониальной войне, роль Швейцарии во Второй мировой войне?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: На древнеанглийском языке говорили англосаксы, германское племя, населявшее Англию. Пикты — кельтоязычный народ, живший на территории современной Шотландии. Пиктский язык вымер к 1100 году нашей эры и был заменен гэльским. Гэльский и древнеанглийский — совершенно разные языки из разных ветвей индоевропейской языковой семьи. Гэльский словарный запас сильно отличается от древнеанглийского, и глаголы также спрягаются по-другому.\nQuestion: Будет ли пикт спутать со староанглийским?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Карьера Лила Уэйна началась в 1995 году, когда ему было 12 лет, когда он подписал контракт с Birdman и присоединился к Cash Money Records в качестве самого молодого участника лейбла. Водительские права необходимы для легального управления транспортным средством самостоятельно в США. Возраст, подходящий для первого получения водительских прав, существенно варьируется от штата к штату: от 14 лет и трех месяцев в Южной Дакоте до 17 лет в Нью-Джерси.\nQuestion: Мог ли Лил Уэйн самостоятельно управлять транспортным средством на законных основаниях в начале своей карьеры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Распятие – символ христианства Подавляющее большинство населения Пакистана — мусульмане.\nQuestion: Вероятно ли, что вы найдете распятие в Карачи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лицензия Creative Commons позволяет бесплатно распространять произведение, защищенное авторским правом. Работы, которые считаются общественным достоянием, не требуют авторских прав или разрешения на использование. Любое произведение, созданное до 1923 года, находится в общественном достоянии. Картина Сандро Ботичелли «Рождение Венеры» написана в 1486 году.\nQuestion: Был ли человек продан лицензии Creative Commons на произведение Ботичелли «Рождение Венеры» сорванным?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Средний вес шестилетнего ребенка составляет 45 фунтов. Один галлон морской воды весит чуть больше 8 фунтов.\nQuestion: Могут ли десять галлонов морской воды раздавить шестилетнего ребенка?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Анчоусы – это разновидность мелкой рыбы. Анчоусы сосредоточены в умеренных водах Атлантического, Индийского и Тихого океанов. Анчоусы редко встречаются в более холодных водах.\nQuestion: В водах с более холодной температурой обитает больше анчоусов, чем в более теплых?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 3D-принтеры имеют ограничения с точки зрения точности. Стандартный выход сопла составляет около 0,4 мм. Поэтому, если вы планируете печатать что-то толщиной менее 0,4 мм, полезного предмета вы не получите. Аденовирусы — это вирусы среднего размера (90–100 нм), без оболочки (без внешнего липидного бислоя) с икосаэдрическим нуклеокапсидом, содержащим двухцепочечный ДНК-геном.\nQuestion: Способна ли 3D-печать создать аденовирус?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Джордж Фокс был основателем Религиозного общества друзей, широко известного как квакеры или друзья. Квакеры выступают за мир и ненасилие. Забивание камнями является особенно жестоким и жестоким методом смертной казни.\nQuestion: Поддержал бы Джордж Фокс забивание камнями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «Звездные войны» — один из наиболее широко пародируемых сериалов. Товары из «Звездных войн», от футболок до костюмов на Хэллоуин, широко доступны и в изобилии. \nQuestion: Обязательно ли смотреть «Звездные войны», чтобы узнать, кто такой Дарт Вейдер?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Булева алгебра — это раздел алгебры, в котором значения переменных представляют собой значения истинности и ложности, обычно обозначаемые 1 и 0 соответственно.  Математику в 1 и 0 еще называют двоичным или машинным языком. Компьютеры программируются на машинном языке.\nQuestion: Может ли компьютер быть полностью запрограммирован на основе булевой алгебры?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кристина Агилера — судья по голосу. Келли Кларксон — судья по голосу. Судьи только поворачивают стулья в сторону участников.  Келли Кларксон не участвовала в соревнованиях по голосу.\nQuestion: Кристина Агилера развернула свое кресло для Келли Кларксон в «Голосе»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Наркан — это лекарство, которое спасает жизнь человеку, у которого произошла передозировка опиатами. Эми Уайнхаус умерла от алкогольного отравления. Наркан не действует при передозировке алкоголем.\nQuestion: Можно ли было бы предотвратить смерть Эми Уайнхаус с помощью «Наркана»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Наиболее распространенные цвета меха мангустов — коричневый и серый. Цвет Desert Camouflage состоит из коричневого цвета Café Au Lait и пастельного серого.\nQuestion: Есть ли у мангуста естественный камуфляж для пустыни?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Крылья Баффало — это жареные куриные крылышки, покрытые острым соусом. Острые блюда придают пикантность капсаицину из перца.\nQuestion: Если кто-то любит крылышки буйвола, нравится ли ему капсаицин?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Брюс Ли поступил в Вашингтонский университет в 1961 году. Брюс Ли бросил колледж в начале 1964 года. Брюс Ли переехал в Окленд, чтобы жить с Джеймсом Йиммом Ли в 1964 году.\nQuestion: Брюс Ли отсутствовал на выпускной церемонии Вашингтонского университета в 1964 году?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Брук Шилдс окончила Принстонский университет. По версии новостей США, Принстон считается национальным колледжем номер 1. По версии новостей США, Пенсильванский университет занимает шестое место в рейтинге национальных колледжей. По состоянию на 2018 год Принстон принимает только около 6 процентов абитуриентов. По состоянию на 2018 год Пенсильванский университет принимает около 9% абитуриентов.\nQuestion: Сможет ли Брук Шилдс добиться успеха в Пенсильванском университете?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Марист расположен вдоль реки Гудзон. В колледже Марист есть команды по гребле как для мужчин, так и для женщин.\nQuestion: Придется ли студентам Мариста подавать петицию, чтобы получить команду по гребле?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Мемы лолкотов часто имеют формат JPEG. Средний размер JPEG составляет от 10 до 30 КБ. Один гигабайт равен 1 000 000 кб. Первый iPhone имел от 4 до 16 ГБ встроенной памяти. \nQuestion: Может ли сотня тысяч лолкотов поместиться на iPhone первого поколения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Человеческое перенаселение является результатом превышения рождаемости над уровнем смертности в стране. Русев – профессиональный борец, родившийся в Болгарии. Население Болгарии сократилось на 0,7% в 2018 году.\nQuestion: Стоит ли Русеву беспокоиться о перенаселении населения на его родине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Персики имеют нечеткую красную, оранжевую и желтую кожицу. Принцесса Пич — персонаж вселенной Nintendo Mario. Платье принцессы Пич розовое, длиной в пол.\nQuestion: Платье принцессы Пич напоминает плод персика?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Наличие психических заболеваний в анамнезе лишает большинство людей права служить в Вооруженных Силах. Психиатрические пациенты наблюдаются для лечения психических заболеваний.\nQuestion: Могут ли психиатрические пациенты присоединиться к ВВС США?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing — поисковая система, представляющая собой цифровой объект. Корзина — это физический объект. Физические объекты не могут содержать цифровые объекты.\nQuestion: Могу ли я держать Bing в корзине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Процессор — это основной чип на плате компьютера, который выделяет много тепла. Производители компьютеров обычно включают в себя специальную систему охлаждения процессора в дополнение к вентиляторам основной платы.\nQuestion: Имеет ли центральный процессор обычно отдельный вентилятор?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Сирил Рамафоса — президент ЮАР. Генеральный секретарь НАТО является выходцем из одной из стран-членов НАТО. ЮАР не является членом НАТО\nQuestion: Может ли Сирил Рамафоса стать генеральным секретарем НАТО?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бруклинские и нью-йоркские бублики известны во всем мире своим высоким качеством. Бруклинская пицца считается лучшей в стране. \nQuestion: Бруклин известен своими хлебобулочными изделиями?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Боксерское восстание произошло в 1899–1901 гг. Королевские ВВС были сформированы 1 апреля 1918 года.\nQuestion: Участвовали ли Королевские ВВС в Боксерском восстании?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Франсуа Миттеран родился в 1916 году. Наполеон Бонапарт умер в 1821 году.\nQuestion: Служил ли Франсуа Миттеран во французской армии под началом Наполеона Бонапарта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Амеба – одноклеточный организм. Рак – это неправильный рост массы клеточной ткани, состоящей из множества неправильно сформированных клеток.\nQuestion: Могут ли амебы заболеть раком?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Холера – это разновидность бактерий. Бактерии считаются живыми существами.\nQuestion: Холера жива?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Сладкий картофель имеет гладкую кожуру и оранжевый цвет. У ананасов короткий коренастый стебель с жесткими восковыми листьями, а плоды желтого цвета.\nQuestion: Кто-нибудь обычно путает сладкий картофель с ананасом?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пингвины обитают в глубоких и очень холодных частях южного полушария. Майами расположен в северном полушарии и имеет очень теплый климат.\nQuestion: Часто ли можно встретить пингвина в Майами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лимфома — серьезный тип рака, который может начаться с опухолей в лимфатических узлах. Лимфома может привести к смерти, если ее не лечить.\nQuestion: Опухоли в лимфатических узлах можно игнорировать?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В «Капитане Америка: Гражданская война» Железный Человек и Капитан Америка стали врагами из-за разногласий. Железный Человек вызвал Человека-Паука, чтобы он сразился со своей командой все еще верных Мстителей. Сокол был одним из лучших друзей Капитана Америки и поддерживал Капитана в конфликте. Таким образом, во время битвы между Мстителями в фильме Человек-паук и Сокол были в противоположных командах.\nQuestion: Сражался ли Человек-Паук против Сокола в MCU?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В йоге как упражнение поза Натараджасара представляет собой божественный танец Шивы. Эта поза новая, возникшая в начале 20 века. Физические упражнения – это деятельность, которая поддерживает физическую форму.\nQuestion: Является ли божественный танец Шивы древней позой для физической подготовки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Шрам — злой лев из диснеевского «Короля Льва». Приспешники Шрама — это группа гиен. Существует бродвейская версия «Короля Льва».\nQuestion: Появляются ли гиены в бродвейском мюзикле?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Обезьяны-совы плодоядны и предпочитают маленькие спелые фрукты, если таковые имеются. Клубника различается по размеру, но обычно ее размер составляет менее 2 дюймов в поперечнике и дюйм в диаметре. Клубника – это разновидность фруктов.\nQuestion: Понравится ли сове-обезьяне клубника?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: M60 Patton — армейский танк весом несколько тонн. Одним из самых крупных животных, которых съела змея, была импала, которая весила 130 фунтов.\nQuestion: Может ли змея проглотить M60 Patton?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Мстители — комикс, созданный компанией Marvel. Marvel и DC — конкурирующие компании, каждая из которых имеет собственную линейку продуктов и товаров. \nQuestion: Будут ли комиксы «Мстители» неуместны в магазине DC Comics?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Персидский залив имеет площадь 96 912 квадратных миль. Нью-Джерси имеет площадь 7 417 квадратных миль.\nQuestion: Может ли Персидский залив поместиться в Нью-Джерси?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Псайлок — супергерой Marvel, настоящее имя — Бетси Брэддок. Бетси Брэддок — рост 5 футов 11 дюймов и вес 155 фунтов. Актриса Николь Кидман ростом 5 футов 11 дюймов весит 137 фунтов. Актрисы постоянно набирают вес ради ролей, как, например, Шарлиз Терон, которая набрала 30 фунтов для фильма «Монстр».\nQuestion: Является ли Николь Кидман идеальным выбором на роль Псайлок, учитывая ее рост и вес?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Берни Сандерс – пенсионер Пожилые люди из-за пределов Нью-Йорка, Нью-Джерси или Коннектикута должны заплатить 17 долларов за посещение.\nQuestion: Мог ли Берни Сандерс посетить Метрополитен-музей двадцать раз менее чем за двести долларов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Организация Planned Parenthood специализируется на репродуктивном здравоохранении. Специалисты по планированию семьи обязаны согласно HIPAA не раскрывать какую-либо информацию о пациентах. \nQuestion: Может ли программа Planned Parenthood сообщить вашему университету, что у вас есть вирус простого герпеса?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ахиллес был греческим героем, убитым стрелой в пятку. Леголас — эльф-лучник из «Властелина колец», который может невероятно быстро стрелять стрелами. Среди спутников Ахилла были воины-люди, такие как Аякс и Одиссей. В число спутников Леголаса входит Гэндальф, волшебник высокого уровня, способный произносить множество смертоносных заклинаний.\nQuestion: Сможет ли Ахиллес одолеть Леголаса в гипотетической битве?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бухарест, Румыния, расположен в Восточной Европе. Египет расположен в Африке. Большая часть Африки находится к югу от Европы.\nQuestion: Бухарест расположен к югу от Египта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Вещи плавают только в том случае, если они менее плотны, чем окружающий материал. Камни плотнее воздуха. Атмосфера Земли состоит из воздуха.\nQuestion: Будет ли камень плавать в атмосфере Земли?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рога носорога используются для народного лечения полового бессилия. Носорогов убивают, чтобы удалить рога.\nQuestion: Убивали ли носорогов, чтобы улучшить сексуальную жизнь человека?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ABBA — шведская поп-группа, состоящая из четырех участников. The Mamas &amp; The Papas — американская группа, состоящая из четырех участников. Участниками группы ABBA являются Бьорн Ульвеус (мужчина), Бенни Андерссон (мужчина), Агнета Фельтског (женщина) и Анни-Фрид Люнгстад (женщина). Участниками The Mamas &amp; The Papas являются Джон Филлипс (мужчина), Денни Доэрти (мужчина), Кэсс Эллиот (женщина) и Мишель Филлипс (женщина).\nQuestion: Имеет ли ABBA гендерную конфигурацию, похожую на The Mamas &amp; The Papas?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 13-я поправка была ратифицирована в 1865 году. Луиза Мэй Олкотт умерла в 1888 году.\nQuestion: Вспомнил бы автор «Маленьких женщин» о ратификации 13-й поправки?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 55% пользовательской базы Reddit происходит из США. Сессии Конгресса открываются произнесением Обязательства, как и многие правительственные заседания на местном уровне, а также встречи, проводимые многими частными организациями. Все штаты, кроме Калифорнии, Гавайев, Айовы, Вермонта и Вайоминга, требуют регулярного произнесения клятвы в государственных школах.\nQuestion: Знакомо ли большинство пользователей Reddit с «Клятвой верности»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Дети отправляют рождественские письма Деду Морозу. По легенде, Санта-Клаус живет на Северном полюсе.\nQuestion: Отправляют ли дети рождественские письма на Южный полюс?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Группа Maroon 5 образовалась в 2001 году. Последние выступления Нирваны состоялись в 1994 году.\nQuestion: Maroon 5 поехали в тур с Nirvana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эвандеру Холифилду в конце 2020 года исполнится 58 лет. Стив Уорд является обладателем старейшего титула боксера в мире в возрасте 59 лет.\nQuestion: Установит ли возвращение Эвандера Холифилда в бокс в 2020 году возрастной рекорд?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Тело Пост Мэлоуна покрыто множеством татуировок. Наиболее распространенным методом нанесения татуировки в наше время является электрическая тату-машинка, которая вводит чернила в кожу с помощью одной иглы или группы игл, припаянных к стержню, прикрепленному к вибрирующему устройству.\nQuestion: Боится ли Пост Мэлоун игл?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Испано-американская война длилась с 21 апреля 1898 года по 13 августа 1898 года. Уильям МакКинли был президентом США с 4 марта 1897 года по 14 сентября 1901 года. Уильям МакКинли скончался от огнестрельных ранений после покушения. Авраам Линкольн умер вскоре после того, как его застрелил Джон Уилкс Бут.\nQuestion: Постигла ли президент США во время испано-американской войны такую же кончину, как Авраам Линкольн?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бог создал Еву из кости, которую он отделил от Адама. Поскольку Ева была создана из Адама, они имели схожую ДНК и считались близнецами или, по крайней мере, братьями и сестрами. Будучи единственными людьми в то время, они вместе создали семью.\nQuestion: Была ли Ева вовлечена в кровосмесительные отношения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лил Уэйн родился Дуэйн Майкл Картер. Джей-Зи родился Шон Кори Картер. Лил Уэйн получил 5 премий Грэмми. Джей-Зи получил 22 премии «Грэмми».\nQuestion: Рэпер с похожим настоящим именем Лил Уэйн имеет более четырехкратную премию Грэмми Уэйна?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Температура кипения никеля 3003 Кельвина. Температура внешнего ядра Земли составляет 3000–4500 Кельвинов.\nQuestion: Будет ли никель кипеть во внешнем ядре Земли?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Доротея Вендлинг — певица, родившаяся в Штутгарте, Германия. Компания Porsche была основана в 1931 году в Штутгарте, Германия.\nQuestion: Была ли Доротея Вендлинг родом из того же места, где родился Porsche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хирургия используется для устранения медицинских проблем или физических изменений в организме. Экзистенциальный кризис – это метафизическое недуг.\nQuestion: Может ли операция предотвратить экзистенциальный кризис?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Великий шейх – так звали Авиценну. Авиценна родился в 980 году. Аль Фараби умер около 950 г. \nQuestion: Был ли Аль-Фараби учеником Великого Шейха?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хлор, смешанный с натрием, представляет собой хлорид натрия, также известный как поваренная соль. Поваренная соль – одна из наиболее часто употребляемых приправ во всех культурах.\nQuestion: Опасно ли употребление хлора в смеси с натрием?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пекарская дюжина означает 13 чего-либо. Бразильское джиу-джитсу было основано Карлосом и Хелио Грейси.   У Хелио Грейси было девять детей. У Карлоса Грейси было 11 детей.\nQuestion: Было ли у основателей бразильского джиу-джитсу Грейси хотя бы с десяток детей на двоих?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dolce &amp; Gabbana была основана в 1985 году. Вольфганг Амадей Моцарт умер в 1791 году.\nQuestion: Моцарт когда-нибудь покупал что-нибудь у Dolce &amp; Gabbana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Судьи в 1700-х годах во время судебных заседаний носили напудренные парики и широкие мантии. Многие ортодоксальные пресвитериане утверждают, что Библия запрещает такие украшения, как парики и украшения. Библейский стих из 1 Тимофею 2:8-9 предостерегает от украшения себя предметами.\nQuestion: Будет ли ортодоксальный пресвитерианин возражать против одежды судьи 1700-х годов?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хайку – это короткое японское стихотворение, состоящее из 5, 7 и 5 слогов. «Строки о древности микробов», также известные как «Блохи», считаются самым коротким стихотворением. Строки о древности микробов составлены из одной короткой фразы: Адам. Были они.\nQuestion: Неужели «Строки о древности микробов» короче любого хайку?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лилли Вачовски — транс-женщина, режиссёр «Матрицы». Лена Вачовски — транс-женщина, режиссёр «Матрицы». Сестры Вачовски активно говорят о просмотре своих фильмов через «линзу транснесса»\nQuestion: Выступают ли режиссеры «Матрицы» за права трансгендеров?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Экзамен по вождению позволяет оценить способность управлять транспортным средством в соответствии с правилами дорожного движения. Северный морской котик не имеет права легально водить машину.\nQuestion: Сдаст ли северный морской котик экзамен по вождению?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: По состоянию на 2018 год у Taco Bell более 7072 ресторана. На пике популярности у Роя Роджерса было более 600 ресторанов. По состоянию на 2019 год у Роя Роджерса 48 локаций.\nQuestion: Будет ли каждый год в Taco Bell входить и выходить больше людей, чем Рой Роджерс?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Красное море – один из самых соленых водоемов в мире. Желтый окунь — пресноводная окунёвая рыба, обитающая на большей части территории Северной Америки.\nQuestion: Было бы необычно найти желтого окуня в Красном море?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Генерал Зод — злодей. Apple не позволяет кинематографистам дарить злодеям айфоны.\nQuestion: Предпочел бы генерал Зод iPhone Samsung Galaxy S4?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Самые ранние письменные записи указывают на то, что египтяне и вавилоняне использовали все элементарные арифметические операции еще в 2000 году до нашей эры. Неандертальцы — вымерший вид или подвид архаичных людей, живших в Евразии примерно 40 000 лет назад.\nQuestion: Использовали ли неандертальцы арифметику?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гончая — это охотничья собака, используемая для выслеживания добычи. К гончим относятся, среди прочего, басенджи, таксы и бигли. Снупи — собака из фильмов и книг Чарли Брауна. Снупи — бигль.\nQuestion: Было ли животное в фильме «Ты хороший спорт, Чарли Браун» гипотетически собакой?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «И тогда никого не было» — детективный роман Агаты Кристи. Джоан Роулинг наиболее известна своим фэнтезийным сериалом о волшебниках «Гарри Поттер». Роберт Гэлбрейт — автор детективного криминального романа «Зов кукушки». Роберт Гэлбрейт — это псевдоним, под которым пишет Джоан Роулинг.\nQuestion: Есть ли какие-нибудь книги Джоан Роулинг в жанре «И никого не стало?»",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Джей-Зи родился в 1969 году. Луи Армстронг умер в 1971 году.\nQuestion: Сотрудничал ли Jay-Z когда-нибудь с Луи Армстронгом?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Метры являются частью метрической системы. Великобритания использует метрическую систему измерений.\nQuestion: В Великобритании длина измеряется в метрах?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Колумб был родом из Генуи, которая находится на территории нынешней Италии. Его экспедиции финансировались испанской монархией.\nQuestion: Христофор Колумб плавал, представляя другую страну, чем его родной дом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Губы и кожа синеют в ответ на недостаток кислорода. Когда приток кислорода недостаточен, чье-то здоровье может оказаться под угрозой. Губы могут посинеть из-за сильного холода.\nQuestion: Синие губы — это нормально?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Джон Брауэр Миннох был американцем, который в своем пиковом весе был самым тяжелым человеком, когда-либо зарегистрированным, его вес составлял 1400 фунтов. Нервная анорексия, Нервная анорексия — расстройство пищевого поведения, характеризующееся низким весом, ограничением в еде, страхом набрать вес и сильным желанием похудеть. Многие люди, страдающие анорексией, считают себя полными, хотя на самом деле у них недостаточный вес.\nQuestion: Страдал ли Джон Брауэр Миннох нервной анорексией?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Шахерезада была персонажем ближневосточного фольклора, который отсрочил свою казнь, рассказывая королю длинные истории. Пьеса Шекспира «Отелло» содержала 26 450 слов. «Гамлет» — самая длинная пьеса Шекспира, состоящая из 4000 строк и 30 000 слов.\nQuestion: Будет ли «Отелло» пьесой Шекспира, которая позволит Шахерезаде чаще проводить время с королем?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хума Абедин была заместителем главы администрации Хиллари Клинтон в 2009 году. Хума Абедин — американская мусульманка. Крещение – христианская традиция\nQuestion: Был ли крещен заместитель руководителя администрации Хиллари Клинтон в 2009 году?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Журавли, которых кормят люди, могут проявлять домашние наклонности и редко клюют людей. Казуар, известный как самая опасная птица в мире, становится очень агрессивным и даже убивает людей и собак.\nQuestion: Является ли казуар более безопасным домашним животным, чем журавль?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Новая Англия расположена в Соединенных Штатах Америки. Великобританию и Новую Англию разделяет большой океан.\nQuestion: Не могли бы вы поехать из Новой Англии в Сэйнсбери?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Второклассникам часто семь или восемь лет. Произведения Вудхауса предназначены для взрослой аудитории.\nQuestion: Будет ли П.Г. Вудхаус преподаваться во втором классе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В «Приключениях Алисы в стране чудес» одним из персонажей является гусеница, которая курит кальян. Кальян – это кальян, используемый для курения табачных изделий. Гусеница разговаривает с Алисой, составляя буквы из дыма, который выдувает.\nQuestion: В «Приключениях Алисы в стране чудес» употребление табака кажется приятным?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Верховный суд — высшая судебная инстанция США. Саймон Коуэлл — судья британского конкурса талантов. Члены Верховного суда назначаются, а не избираются.\nQuestion: Может ли Саймон Коуэлл проголосовать за следующего судью Верховного суда?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В 1933 году из-за Великой депрессии было около 15 миллионов человек безработными. В 1930-х годах стадион «Тайгер» вмещал около 50 000 человек.\nQuestion: Смогут ли все безработные из-за Великой депрессии 1933 года поместиться на стадионе «Тайгер»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Донателло создал бронзовую статую Давида высотой более пяти футов. Средний рост взрослого мужчины составляет пять футов и девять дюймов. Самый высокий взрослый мужчина в истории имел рост восемь футов и одиннадцать дюймов. Потолок Сикстинской капеллы имеет высоту шестьдесят восемь футов.\nQuestion: Может ли взрослый мужчина встать на бронзового Давида Донателло и коснуться потолка Сикстинской капеллы?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Арабо-израильский конфликт начался сотни лет назад. Англия оккупировала территорию нынешнего Израиля до 1945 года, когда Израиль стал независимым. Во время войны Израиля за независимость Англия объединилась со своими арабскими соседями для борьбы с израильскими повстанцами.\nQuestion: Была ли Англия непосредственно вовлечена в арабо-израильский конфликт?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «Приключения Алисы в стране чудес» были опубликованы в 1865 году. Впервые «Макбет» был исполнен в 1606 году.\nQuestion: Вдохновили ли «Приключения Алисы в стране чудес» Макбета?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Азиатский черный медведь — животное, обитающее в местах обитания деревьев. Разноцветным называют все, что состоит из более чем одного цвета. Сианский черный медведь имеет черную шерсть с белым V-образным пятном.\nQuestion: Азиатский черный медведь разноцветный?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лейтенант Ричардс был пиратом, плававшим вместе с Чёрной Бородой. У лейтенанта Ричардса было много обязанностей, и он был назначен командиром корабля «Месть Боннета». В Королевском флоте и военно-морских силах Содружества заместитель командира судна известен как первый лейтенант. Лейтенанты Королевского флота отвечают за других членов экипажа и имеют множество обязанностей.\nQuestion: Лейтенанты пиратов похожи на лейтенантов ВМФ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Абзацы Lorem Ipsum предназначены для временного использования. Веб-дизайнеры всегда удаляют абзацы lorem ipsum перед запуском.\nQuestion: Должен ли готовый веб-сайт содержать абзацы lorem ipsum?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бобровые плотины часто приводят к затоплению территорий вокруг них. Затопление может привести к разрыхлению почвы. Разрыхленная почва может привести к падению деревьев.  Наводнение может привести к эрозии почвы.\nQuestion: Страдает ли земля в непосредственной близости от бобровых плотин?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Премия «Империя» за лучший дебют была вручена актеру в дебютной роли. Уилл Феррелл дебютировал в 1995 году.\nQuestion: Будет ли сложно Уиллу Ферреллу получить премию Empire Award как лучший новичок?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Серебряный юбилей приходится на 25-й год брака. Синтия Пауэлл вышла замуж за Джона Леннона в 1962 году. Синтия Пауэлл и Джон Леннон развелись в 1968 году.\nQuestion: Синтия Пауэлл отпраздновала серебряную годовщину с Джоном Ленноном?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Аль Пачино родился в 1940 году. Вторая мировая война проходила в 1939-1945 годах. Первая роль Аль Пачино в кино состоялась в 1969 году.\nQuestion: Снимался ли Аль Пачино в кино во время Второй мировой войны?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гуджаратский сценарий - это сценарий абугида. Кандзи - это принятый логографический сценарий. \nQuestion: Является ли письмо гуджарати той же категорией письма, что и кандзи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Округ Моррис был назван в честь полковника Льюиса Морриса. Полковник Льюис Моррис был главным судьей Нью-Йорка.\nQuestion: Был ли округ Моррис назван в честь главного судьи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Очень Большой Телескоп наблюдает за космическим пространством. Самая большая гора на Земле находится под океаном.\nQuestion: Сможет ли Очень Большой Телескоп наблюдать самую большую гору на Земле?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Метан – это газ, который загрязняет окружающую среду и приводит к изменениям температуры. Автомобили производят 2,7 тонны метана в год. Коровы производят 4 тонны метана в год.\nQuestion: Коровий метан безопаснее для окружающей среды, чем автомобили?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Водные лыжи – это вид спорта, который предполагает скольжение по поверхности больших водоемов. Марокко является одной из ведущих стран, страдающих от засухи.\nQuestion: Является ли Марокко идеальным местом для катания на водных лыжах?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: По состоянию на июнь 2020 года акции Amazon достигли 2500 долларов за акцию. Базовый пакет подписки Netflix стоит 8,99 долларов в месяц по состоянию на 2020 год.\nQuestion: Может ли одна акция Amazon купить двадцатилетнюю подписку на Netflix?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Никола Тесла построил сооружение под названием Башня Уорденклиф в Шорхэме, Нью-Йорк. Шорхэм был местом расположения атомной электростанции в 70-х и 80-х годах.\nQuestion: Есть ли радиация там, где когда-то работал Никола Тесла?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гарлемский ренессанс произошел в 1920-е годы. Аль Капоне жил в 1920-е годы.\nQuestion: Мог ли Аль Капоне читать произведения Гарлемского Возрождения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Blue Lives Matter — контрдвижение в США, которое поддерживает полицейских и сотрудников правоохранительных органов. Grand Theft Auto III допускает неоправданное насилие в отношении полицейских в игре.\nQuestion: Поддержат ли члены Blue Lives Matter все элементы Grand Theft Auto III?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Новый год наступает 1 января каждого года. День недели, на который приходится какая-либо дата, каждый год меняется на один. Если бы високосный год не разрывал цикл, Новый год приходился бы на среду каждого седьмого года.\nQuestion: Всегда ли Новый год приходится на среду?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Нимфа клеща размером с маковое зернышко. Размер макового семени около 1 мм. Стандарты ISO 838 устанавливают размер дырокола 6 мм.\nQuestion: Может ли нимфовый клещ пройти через стандартный дырокол?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Самолет Boeing 737-800 в 2019 году стоит 106 миллионов долларов. Картина «Сальватор Мунди», приписываемая Леонардо да Винчи, является самой дорогой картиной, когда-либо проданной. «Сальватор Мунди» продан за более чем 450 миллионов долларов.\nQuestion: Может ли арт-дилер купить Боинг 737-800 с картиной Да Винчи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Питер Гриффин — сотрудник пивоварни в Куахоге.  Питер много лет работал на пивоварне и, как ожидается, знаком с процессом производства пива.\nQuestion: Должен ли Питер Гриффин быть экспертом в пивоварении?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rowe 550 — автомобиль китайской автомобильной компании SAIC. Rowe 550 дебютировал на Шанхайском автосалоне 2007 года. Летние Олимпийские игры 2008 года в Пекине прошли в столице Китайской Народной Республики.\nQuestion: Смогли бы вы поехать на Rowe 550 на летние Олимпийские игры 2008 года?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эми Уайнхаус умерла в 2011 году. «Звездные войны: Изгой-один» вышла в 2016 году.\nQuestion: Была ли Эми Уайнхаус поклонницей «Звездных войн: Изгой-один»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Снупи стал талисманом безопасности в НАСА Награда «Серебряный Снупи» вручается астронавтами НАСА сотрудникам и подрядчикам за выдающиеся достижения в области безопасности полетов.  Джесси В. Мур получил предупреждения об истории отказов уплотнительных колец, используемых на шаттле «Челленджер», но не предпринял никаких действий. Джесси В. Мур был заместителем администратора, отвечавшим за программу шаттлов НАСА во время взрыва Челленджера. Уплотнительные кольца были сильно замешаны в фатальном взрыве.\nQuestion: Является ли Джесси В. Мур потенциальным лауреатом награды НАСА на тему Снупи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  Взрослые медоеды имеют высоту в плечах от 23 до 28 см (от 9,1 до 11,0 дюймов) и длину тела 55–77 см (22–30 дюймов), плюс хвост добавляет еще 12–30 см (4,7–11,8 дюйма). Тридцатидюймовые духовки являются стандартом для большинства домов и кухонь. Внутренние размеры духовки составляют примерно 25 дюймов в ширину и 16 дюймов в высоту. Глубина духовки будет примерно 16 дюймов. \nQuestion: Поместится ли медоед в духовке?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Плева – это излишки измельченного зерна. Некоторые мельницы используют гидроэнергию для помола зерна.\nQuestion: Производится ли солома с помощью гидроэнергетики?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Жена Пауло Коэльо – Кристина Ойтисика. Кристина Ойтисика — бразильская художница. Художники зарабатывают на жизнь рисованием вещей, которое делается их руками. Речь обычно осуществляется ртом.\nQuestion: Жена Пауло Коэльо зарабатывает на жизнь речью?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Спасательные шлюпки используются на водоемах с жидкой водой. Море Гука — географический объект на поверхности Марса. На Марсе нет водоемов с жидкой водой\nQuestion: Может ли спасательная шлюпка спасти людей в море Гука?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Fiat Chrysler состоит из двух объединенных автомобильных компаний Fiat и Chrysler. Fiat — итальянская компания со штаб-квартирой в Амстердаме. Chrysler базируется в Соединенных Штатах Америки. Вместе они владеют 10 автомобильными брендами, но ни один из них не имеет азиатского происхождения.\nQuestion: Fiat Chrysler ассоциируется с японскими автомобилями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Аид был греческим богом смерти и подземного мира. Осирис был египетским богом подземного мира.\nQuestion: Будут ли Аид и Осирис гипотетически конкурировать за недвижимость в Подземном мире?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Аэропорт Джона Уэйна находится в округе Ориндж. Аэропорт Джона Уэйна находится в непосредственной близости от жилых районов. В округе Ориндж, штат Калифорния, действует Постановление об общем авиационном шуме.  Коммерческие пилоты отключат двигатель самолета по прибытии и вылете из округа Ориндж, штат Калифорния. \nQuestion: Требует ли округ Ориндж, Калифорния, чтобы самолеты были тихими?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Июнь 2020 года ознаменовался глобальной пандемией. Во время глобальной пандемии крупные мероприятия не могут проводиться в полной мере.\nQuestion: Был ли Парк де Пренс полностью работоспособен в июне 2020 года?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Большинство рабочих мест в сфере розничной торговли требуют, чтобы сотрудники могли поднимать, толкать и тянуть 25–50 фунтов.  Должности в сфере розничной торговли требуют от сотрудников регулярного взаимодействия с покупателями. Различные виды инвалидности могут ограничить способность человека взаимодействовать с общественностью.\nQuestion: Розничная торговля — это работа, на которую может подойти каждый?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Порох относится к категории слабовзрывчатых веществ. Маломощные взрывчатые вещества горят на дозвуковой скорости.\nQuestion: Может ли взрыв на складе пороха вызвать сверхзвуковую ударную волну?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Хлор при добавлении в воду образует бытовой отбеливатель. Бытовой отбеливатель можно приобрести в большинстве долларовых магазинов.\nQuestion: Можно ли купить хлор в долларовом магазине?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Крокодилы относятся к семейству Crocodylinae. Аллигаторы относятся к семейству Alligatoridae. Crocodylinae и Alligatoridae принадлежат к отряду Crocodilia.\nQuestion: Морские крокодилы связаны с аллигаторами?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Персефона – богиня растительности.  Божество растительности — это божество природы, чье исчезновение и новое появление или жизнь, смерть и возрождение воплощают цикл роста растений. Ландшафтные архитекторы занимаются планированием и планировкой садов и других растений.\nQuestion: Будет ли Персефона хорошим консультантом ландшафтного архитектора?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В составе экипажа миссии «Аполлон-15» было 3 астронавта. Одноколесный велосипед имеет только одно седло и обычно им управляет только один человек.\nQuestion: Будут ли у экипажа «Аполлона-15» трудности с ездой на одноколесном велосипеде?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Фрегаты – это разновидность парусного корабля. Для использования многих функций кораблей требуется веревка.\nQuestion: Нужны ли канаты для управления фрегатом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ясон изменил Медее с Креусой Доктор Дисреспект изменил жене с другой женщиной\nQuestion: Есть ли у Джейсона что-нибудь общее с доктором Неуважением?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Целиакия – это заболевание, при котором организм не может перерабатывать глютен. Глютен – это белок, содержащийся в пшенице. Спагетти готовят из молотой пшеницы и воды.\nQuestion: Следует ли страдающему целиакией избегать спагетти?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Коалы — травоядные животные. Основной продукт питания коал — эвкалипт. \nQuestion: Коалы предпочитают эвкалипт мясу?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бодибилдеры хотят нарастить мышечную массу и снизить уровень жира Мясо лося нежнее говядины Мясо лося содержит больше белка, чем говядина Белок помогает наращивать мышцы\nQuestion: Будет ли бодибилдер предпочитать бургер из лося гамбургеру из говядины?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Плотность объекта определяет, будет ли он плавать. Предмет будет плавать, если он менее плотный, чем жидкость, в которую он помещен. Ртуть жидкая при комнатной температуре. Плотность ртути 13,56 г/см3. Плотность копейки 7,15 г/см3.\nQuestion: Можно ли перевезти монету по ртутному морю?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Багз Банни — антропоморфный серо-белый кролик. Кролики поедают кору оливковых деревьев и могут нанести значительный вред, особенно молодым деревьям.\nQuestion: Повредит ли Багз Банни оливковому дереву в реальном мире?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Усталость надпочечников — это заболевание, при котором организм не вырабатывает достаточно гормонов, и человек устает. Брюссельская капуста – это продукты, богатые витамином С. Когда уровень стресса повышается, надпочечникам требуется больше витамина С, и он расходуется очень быстро.\nQuestion: Брюссельская капуста особенно полезна при усталости надпочечников?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Действие «Гриффинов» происходит в вымышленном городе Куахог, штат Род-Айленд. Род-Айленд — штат на восточном побережье Америки.\nQuestion: Действие «Гриффинов» происходит на западном побережье Америки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Mitsubishi — японский производитель автомобилей. Mitsubishi управляет заводом в Каталао, Бразилия. Уберландия находится чуть менее чем в 70 милях от Каталао.\nQuestion: Может ли кто-нибудь в Уберландии работать на Mitsubishi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ханна Никсон была матерью Ричарда Никсона. Ричард Никсон подал в отставку из-за неэтичных действий, которые он совершил во время Уотергейтского скандала. Родители обычно не гордятся своими детьми, когда они действуют аморально или неэтично.\nQuestion: Будет ли Ханна Никсон гордиться Ричардом Никсоном после Уотергейтского скандала?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эдди Мерфи родился в 1961 году. Автомобильные телефоны не стали обычным явлением в автомобилях Америки до 1984 года.\nQuestion: Мог ли Эдди Мерфи в детстве набрать 911 в машине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эдмунд Хиллари был альпинистом, поднявшимся на Эверест. Гора Эверест достигает высоты 29 029 футов. Гора Уичпруф — самая маленькая гора в мире. Гора Уичпруф возвышается всего на 486 футов над уровнем моря.\nQuestion: Будет ли гора Уичпруф легкой задачей для Эдмунда Хиллари?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В радуге присутствуют следующие цвета: красный, оранжевый, желтый, зеленый, синий, индиго и фиолетовый. Флаг Габона — зеленый, желтый и синий.\nQuestion: Цвета флага Габона встречаются в радуге?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Моллимок — это разновидность альбатроса. Любое место, недоступное для альбатросов вообще, недоступно для отдельных видов альбатросов.\nQuestion: Живут ли моллюмы там, где не могут альбатросы?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Щипцы для завивки — это инструмент, используемый для завивки волос с помощью тепла. Для занятий керлингом необходимы метлы для керлинга, камни (камни) и туфли для керлинга. Изменение структуры волос не имеет практической пользы для керлинга.\nQuestion: Нужна ли плойка при завивке?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эму — разновидность нелетающих птиц. Лоси — это олени, которые являются млекопитающими.\nQuestion: Эму связаны с лосями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille — ресторан классической французской кухни в Нью-Йорке. Сальса – основной продукт мексиканской кухни.\nQuestion: Сочтет ли шеф-повар La Grenouille сальса странной просьбой?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В книге «Boom!» System of a Down осуждает глобализацию. Ведущий вокалист группы System of a Down открыто выступает против глобализации. \nQuestion: Выступают ли System of a Down против глобализации?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кофе можно выращивать только в субтропическом и экваториальном климате. Новая Англия расположена во влажно-континентальном климате.\nQuestion: Может ли кто-нибудь из Новой Англии получить прибыль от выращивания кофе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В настольном теннисе выигрывает игрок, первым набравший 11 очков. 11 – простое число.\nQuestion: Используются ли в настольном теннисе простые числа?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Годовая плата за карту Capital One Venture составляет около 95 долларов США. В Церкви Сатаны взимается единовременный пожизненный членский взнос в размере 225 долларов.\nQuestion: Является ли членство в Capital One Venture сроком на 5 лет более рентабельным, чем членство в Церкви Сатаны?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Людвиг ван Бетховен умер в 1827 году. EDM зародилась в середине-конце 20 века.\nQuestion: Нравилось ли Бетховену слушать EDM?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster представлял собой сервис обмена музыкой P2P. Metallica подала в суд на Napster с требованием удалить их песни из программы, поскольку они не получали от этого прибыли.\nQuestion: Metallica защищает свою музыку?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кэрри Андервуд стала победительницей четвертого сезона American Idol. Кэрри Андервуд продала чуть более 65 миллионов альбомов. Келли Кларксон продала чуть более 25 миллионов альбомов.\nQuestion: Келли Кларксон превзошла по продажам победителя четвертого сезона American Idol?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Европейская дикая кошка обитает в континентальной Европе, Шотландии, Турции и на Кавказе. Чернохвостый кролик обитает в Мексике и на западе США.\nQuestion: Боятся ли чернохвостые кролики европейской дикой кошки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Карл Фридрих Гаусс родился в 1777 году. Чтобы поговорить с кем-то, находящимся за 100 миль, нужен телефон. Телефон был изобретен в 1876 году.\nQuestion: Мог ли Карл Фридрих Гаусс поговорить с кем-то за 100 миль?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лайонел Ричи — американский певец, воспитавший Николь Ричи. Николь Ричи родилась у брата Шейлы Э, Питера Майкла Эсковедо. Лайонел Ричи усыновил Николь Ричи от Питера Майкла Эсковедо. Приемные родители не считаются родственниками биологических родителей.\nQuestion: Лайонел Ричи родственник Шейлы Э?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Нет никаких требований к тому, чтобы продукты питания продавались по датам.  Сроки реализации большинства продуктов питания указываются арабскими цифрами.\nQuestion: Требует ли FDA продажи по датам, используя римские цифры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Морские лачуги поют на морских судах Орегонская тропа была наземной тропой эмиграции.\nQuestion: Пели ли путешественники морские лачуги на Орегонской тропе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лейкофобия – боязнь белого цвета. Флаг США окрашен в красный, белый и синий цвета. Людям обычно не нравится сталкиваться со своими страхами лицом к лицу.\nQuestion: Будет ли человеку с лейкофобией нравиться смотреть на флаг Соединенных Штатов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Актриса Тери Хэтчер снялась в общей сложности в 180 эпизодах сериала «Отчаянные домохозяйки». Тери Хэтчер снялась в фильме «Лоис и Кларк: Новые приключения Супермена», основанном на комиксе о Супермене. Тери Хэтчер снялась в 87 эпизодах сериала «Лоис и Кларк: Новые приключения Супермена».\nQuestion: Тери Хэтчер продержалась в сериале «Отчаянные домохозяйки» в два раза больше серий, чем в сериале «Супермен»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эритроциты составляют около 40-50% состава крови человека. Лейкоциты составляют около 1% крови в организме человека.\nQuestion: Превышают ли количество лейкоцитов эритроцитов в организме человека?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Политик Джон Джордж Байс родился в Каллингтоне. Корнуолл — это место, расположенное на юго-западе Англии. Каллингтон — небольшой город на юго-востоке Корнуолла.\nQuestion: Было ли место рождения Джона Джорджа Байса недалеко от Корнуолла?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Динозавры вымерли много миллионов лет назад. Напротив, древние люди начали записывать историю лишь несколько тысяч лет назад.\nQuestion: Включает ли история Европы эпоху динозавров?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пол Баньян был легендарным великаном из небылиц. Градостроителям необходимо проектировать здания и потолки в городах. Пол Баньян жил в деревне с гигантским синим быком. Потолки квартир в Нью-Йорке в среднем составляют около 8 футов в высоту. Пол Баньян был ростом более семи футов.\nQuestion: Будет ли Пол Баньян гипотетически плохим выбором для городского планировщика?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Растениям для фотосинтеза необходимы три элемента: водород, кислород и углерод. Атмосфера Марса состоит из углекислого газа, азота, аргона и следовых количеств водяного пара, кислорода, угарного газа, водорода и других благородных газов.\nQuestion: Все ли элементы, необходимые растениям для фотосинтеза, присутствуют в атмосфере Марса?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Билл Най родился в 1955 году. Последние выборы Франклина Делано Рузвельта состоялись в 1944 году.\nQuestion: Голосовал ли Билл Най за Франклина Делано Рузвельта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В Америке цыгане считают слово «цыган» оскорблением. Леди Гага подверглась критике в Интернете за использование слова «Gypsy» в названии и тексте песни.\nQuestion: Считается ли допустимым использование слова «цыган» нецыганскими людьми?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Земля Израиля находилась под контролем Османской империи в 16 веке.  Религией Османской империи был суннитский ислам. \nQuestion: Была ли Земля Израиля в 16 веке частью исламской империи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Министерство сельского хозяйства США рекомендует употреблять не менее 3500 мг калия в день. В одном кабачке содержится 512 мг калия.\nQuestion: Смогут ли 7 кабачков удовлетворить дневную рекомендацию Министерства сельского хозяйства США по калию?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Первым широко выпускаемым автомобилем стала Модель Т. Модель Т была выпущена в 1908 году. Производство Mini началось в 1959 году.\nQuestion: Был ли британский автомобиль Mini первым произведенным автомобилем?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Перцы можно сушить в духовке вместо дегидратора. Солнечный свет и тепло на протяжении веков использовались для сушки перца и других продуктов.\nQuestion: Можно ли приготовить перец без дегидратора?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бенгальские кошки — хищники. Блинчики не содержат мяса. Хищники, чтобы выжить, едят только мясо. \nQuestion: Сможет ли бенгальская кошка выжить, питаясь только блинами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Странствующий альбатрос может путешествовать по морю не менее 15 000 км (чуть менее 10 000 миль), прежде чем вернуться на сушу.  От Бухареста до Нью-Йорка 4766 миль или 7670 км.\nQuestion: Может ли странствующий альбатрос без отдыха перелететь из Бухареста в Нью-Йорк?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Публичная библиотека Нью-Йорка — это система публичных библиотек в Нью-Йорке. Alpo производит корма для домашних животных и сопутствующие товары.\nQuestion: Продает ли Нью-Йоркская публичная библиотека продукцию Alpo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Полное имя Тони Беннета — Энтони Доминик Бенедетто. Доминик Круз — двукратный чемпион UFC в легчайшем весе.\nQuestion: Второе имя Тони Беннета принадлежит бывшему чемпиону UFC?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Женщина-черная вдова — это женщина, которая убивает своих мужей ради денег и снова выходит замуж. Персиковые косточки содержат амигдалин, разновидность цианида. Цианид ядовит для человека.\nQuestion: Полезны ли бы женщине-черной вдове персики?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Burning Man часто привлекает множество молодых людей, которые обычно носят минимум одежды из-за погоды и стиля.  Фестиваль Burning Man проходит под жарким летним солнцем и часто не в затененных местах.\nQuestion: Люди чаще, чем обычно, получают солнечные ожоги на Burning Man?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рахул Дравид был профессиональным игроком в крикет. Удары с игры являются частью американского футбола.\nQuestion: Рахул Дравид когда-нибудь забивал мяч с игры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Изучение океанов затрагивает многие области науки. Чтобы правильно изучить конкретную тему исследования, океанограф должен понимать, как его наука взаимодействует с другими задействованными науками.\nQuestion: Много ли наук изучает отдельный океанограф?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Золотой век комиксов пришелся на период с 1930-х по 1950-е годы. Shatter был первым комиксом, нарисованным в цифровом формате и коммерчески опубликованным.\nQuestion: Была ли фантастика о супергероях изобретена в цифровом формате?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Средний размер детеныша американского черного медведя при рождении составляет всего 8 дюймов. Размер двуспальной кровати составляет 76х80 дюймов.\nQuestion: Могут ли два новорожденных детеныша американского черного медведя поместиться на кровати размера «king-size»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Aldi сокращает расходы, взимая плату за сумки, покупая оптом и избегая товаров известных брендов.  Aldi убирает со своих полок испорченные продукты или продукты с истекшим сроком годности сразу после их выявления.\nQuestion: Имеются ли скидки на продукты Aldi из-за того, что они просрочены?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Черный перец изготавливается из горошин черного перца. Черный перец горошком растет на растении Piper Nigrum. Болгарский перец происходит из растения capsicum annuum.\nQuestion: Является ли молотый болгарский перец основным ингредиентом черного перца?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: «Принятие укеми» относится к искусству падения или приема в боевых искусствах. При выполнении укеми обычно требуется, чтобы человек, выполняющий его, двигал своим телом так, чтобы свести к минимуму травмы, и поэтому при этом используется кинетическая энергия.\nQuestion: Остановит ли укеми кинетическую энергию?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: BLT — это сэндвич, состоящий из бекона, салата и помидоров. Касабланка преимущественно мусульманская Ислам запрещает употребление свинины и продуктов из свинины.\nQuestion: Трудно ли получить BLT в Касабланке?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В снегопаде выпадает около 200 дюймов осадков в год.  Стандартная кегля для боулинга имеет высоту один фут три дюйма.\nQuestion: Могут ли ежегодные осадки на Сноудоне затопить вертикальную кеглю для боулинга?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Стэнли Болдуину на посту премьер-министра предшествовал Рамзи Макдональд. Стэнли Болдуина на посту премьер-министра сменил Невилл Чемберлен.\nQuestion: Была ли женщина премьер-министром непосредственно до или после Стэнли Болдуина?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Белоголовый орлан может развивать скорость до 99 миль в час. B-52 — американский бомбардировщик, способный развивать скорость до 650 миль в час.\nQuestion: Сможет ли белоголовый орлан передать срочное сообщение раньше B-52?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Профессиональные боксеры часто получают удары в лицо. Даже при наличии капы в боксе часто случаются травмы зубов. Средняя стоимость одной зубной коронки составляет от 500 до 3000 долларов.\nQuestion: Могут ли профессиональные боксеры рассчитывать на низкие расходы на стоматологию?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Жена доктора Сьюза покончила жизнь самоубийством. В более поздние годы у доктора Сьюза диагностировали рак.\nQuestion: Прожил ли доктор Сьюз жизнь без трагедий?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Родители Джексона Поллока родились и выросли в Тингли, штат Айова. Все штаты, кроме Калифорнии, Гавайев, Айовы, Вермонта и Вайоминга, требуют регулярного произнесения клятвы в государственных школах.\nQuestion: Разве родители Джексона Поллока не были обязаны произносить «Клятву верности» в детстве?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Шаму — это имя косатки-талисмана Sea World. В каждом морском мире есть Шаму. В Сан-Диего есть локация Sea World.\nQuestion: Является ли округ Сан-Диего домом Шаму?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Древние политеистические религии, как правило, больше не популярны в западной культуре. Церковь Летающего Макаронного Монстра была основана в 2006 году после создания самого ФШМ в 2005 году.\nQuestion: Является ли Летающий Макаронный Монстр частью древнего пантеона?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Королева Елизавета II — монарх Соединенного Королевства и его Содружества. Балеарские острова являются частью страны Испания.\nQuestion: Правит ли Елизавета II Балеарскими островами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Футбольная война началась 14 июля 1969 года. Оно закончилось 20 июля 1969 года. Поэтому оно не длилось даже целой недели.\nQuestion: Футбольная война длилась хотя бы месяц?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Лоренцо Медичи был великим покровителем искусств Флоренции и покровителем Леонардо да Винчи. Лоренцо Медичи был также покровителем художника Сандро Ботичелли. У Леонардо да Винчи было много покровителей, включая Людовико Сфорца и Чезаре Борджиа.\nQuestion: Было ли покровительство Лоренцо Медичи исключительно да Винчи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Тайная вечеря — это трапеза между Иисусом и его двенадцатью учениками в христианстве. В исламе Иисус – один из многих почитаемых пророков. В исламе Иисус возвращается во время Второго пришествия, чтобы сразиться с «Ложным Мессией» и установить мир на земле.\nQuestion: Отмечается ли кто-нибудь на Тайной вечере в исламе?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рыбы живут в воде.  Многие владельцы бенгалов говорят, что их бенгалы естественным образом извлекают предметы. Бенгальские кошки часто любят играть в воде.\nQuestion: Будет ли бенгальская кошка бояться ловить рыбу?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бенито Муссолини имел рост 5 футов 6 1/2 дюйма. Рост Хафтора Бьернссона 6 футов 9 дюймов. Размер обуви увеличивается пропорционально росту.\nQuestion: Бенито Муссолини носил туфли большего размера, чем Хафтор Бьернссон?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Бобби Джиндал учился в средней школе Baton Rouge Magnet. Талисман средней школы Baton Rouge Magnet — бульдог. Киббл — еще одно название сухой формы корма для собак и домашних животных.\nQuestion: Будет ли школьный талисман Бобби Джиндала есть сухой корм?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Здание Капитолия расположено в конце Национальной аллеи в центре Вашингтона. Белый дом расположен рядом с памятником Вашингтону, недалеко от торгового центра.\nQuestion: Расположен ли Капитолий США рядом с Белым домом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В результате лесозаготовок производятся такие продукты, как целлюлоза. Целлюлоза используется для изготовления бумажных изделий, таких как туалетная бумага.\nQuestion: Было бы трудно достать туалетную бумагу, если бы не было лесорубов?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Настоящее имя Игги Попа — Джеймс Ньюэлл Остерберг-младший. Отцом Игги Попа был Джеймс Ньюэлл Остерберг-старший.\nQuestion: Был ли Игги Поп назван в честь своего отца?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Профилактическая медицинская помощь включает в себя обследование на ИППП/ЗППП.  Увеличение тестирования на ИППП позволяет гражданам защитить себя от инфекции и сдержать вспышки.\nQuestion: Может ли профилактическое здравоохранение снизить передачу ИППП?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В «Красавице и чудовище» есть замок, полный предметов, которые двигаются и говорят сами по себе.  Неодушевленный предмет – это тот, который никоим образом не является живым. Среди главных героев «Красавицы и чудовища» — говорящая чашка и дерзкая тряпка.\nQuestion: Оживают ли неодушевленные предметы в «Красавице и чудовище»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Американская ассоциация хоккея с мячом управляет основными играми в хоккей с мячом в Соединенных Штатах. В Американской ассоциации хоккея с мячом не зарегистрировано ни одной команды из Техаса. Виды спорта, связанные со льдом и снегом, как правило, более популярны в холодном климате. В Техасе чрезвычайно жаркий климат.\nQuestion: Станет ли хоккей с мячом популярным в Техасе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Кальций является важным питательным веществом для здоровья костей. В одной порции капусты содержится больше кальция, чем в шпинате.\nQuestion: Является ли капуста более полезной для роста костей, чем шпинат?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Амазонас — это в основном тропические джунгли. В тропических джунглях обитают опасные существа. Опасные существа подвергают опасности жизни людей.\nQuestion: Ставит ли прогулка по Амазонасу угрозу жизни человека?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nintendo была первоначально выпущена в 1983 году и использовала игры в формате картриджей. Sony Playstation 3 была выпущена в 2006 году и имела игры в формате компакт-диска.\nQuestion: Были ли у оригинальной Nintendo игры того же формата, что и у Playstation 3?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Число Фибоначчи — это последовательность чисел, которая добавляет число к предыдущему и продолжается вечно. Пи — это последовательность чисел, 2,7 триллиона цифр были обнаружены в 2010 году.\nQuestion: Является ли числовая последовательность Фибоначчи длиннее, чем каждое число, обнаруженное в числе Пи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Гермафобия — это термин, используемый психологами для описания патологического страха перед микробами, бактериями, микробами, загрязнением и инфекцией. Если вы занимаетесь дзюдо, вы также обнаружите, что находитесь в непосредственной близости от людей, с которыми тренируетесь, а также катаетесь по матовому полу.  Кроме того, во время занятий дзюдо вы будете потеть и кататься на общем коврике.\nQuestion: Сможет ли гермафоб заниматься дзюдо?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Осень длится с сентября до конца декабря в США. Медведи впадают в спячку с сентября по апрель, и их почти не видно.\nQuestion: Осень — хорошее время для сбора медвежьих шкур в США?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: В клипе «Stupid Girls» есть сцена, где Пинк и женщина пользуются зубной щеткой, чтобы вызвать рвоту в ванной. Изображения или обсуждение очистительной деятельности могут спровоцировать людей с расстройствами пищевого поведения.\nQuestion: Есть ли музыкальные клипы Pink, которые вызывают интерес у пациентов с расстройством пищевого поведения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эл Унсер-младший — автогонщик. Космическая гонка — соревнование между Советским Союзом и Соединенными Штатами за освоение космоса.\nQuestion: Эл Унсер-младший выиграл космическую гонку?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft — это часть программного обеспечения. Программное обеспечение является цифровым. Цифровые предметы не имеют веса. \nQuestion: World of Warcraft тяжелее буханки хлеба?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Metroid был создан и издан Nintendo. Electronic Arts — компания по производству видеоигр, конкурент Nintendo. Компании обычно не могут получать прибыль от работы, принадлежащей другой компании. Компании обычно не делятся прибылью со своими конкурентами.\nQuestion: Получала ли Electronic Arts прибыль от продаж Metroid?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Большинство учителей детских садов работают в государственных школах. Государственные школы придерживаются принципа разделения церкви и государства и не имеют какой-либо общей религии. Учащиеся всех религий могут посещать государственную школу.\nQuestion: Будет ли воспитатель детского сада проводить урок по Новому Завету?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Эми Уайнхаус была известна тем, что напивалась перед выступлениями. Эми Уайнхаус забыла слова своих песен во время своего последнего выступления.\nQuestion: Всегда ли Эми Уайнхаус прекрасно выступала вживую?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Анчоусы, используемые в пицце, обычно упаковывают целиком в масле или воде.  Анчоусы в пицце обычно не нарезают и не разделывают на филе.\nQuestion: Есть ли кости в пицце с анчоусами?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Диаметр стандартного баскетбольного мяча НБА составляет около 9,5 дюймов. Ухо песчаной кошки вырастает до 2,8 дюймов в высоту.\nQuestion: Можно ли спрятать баскетбольный мяч в ухе песчаного кота?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ивана Грозного прозвали Грозным из-за его сурового правления. Отца Ивана Грозного Василия III Ивановича прозвали Василием Адекватным. Деда Ивана Грозного, Ивана III Васильевича, звали Иваном Великим.\nQuestion: Были ли прозвища покрасивее у отца и деда Ивана Грозного?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Рак молочной железы – заболевание, возникающее в тканях молочных желез млекопитающих. Амебы — это одноклеточные организмы, у которых отсутствует ткань молочной железы.\nQuestion: Защищены ли амебы от рака молочной железы?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Пи, отношение длины окружности к диаметру, равно 3,14. В 1980-х годах Китай ввел политику одного ребенка. Людей, нарушивших политику одного ребенка в Китае, штрафовали на крупные суммы, а некоторых подвергали стерилизации.\nQuestion: Было ли число Пи приемлемым количеством детей в Китае 1980-х годов?",
+        "output": "No"
+    }
+]

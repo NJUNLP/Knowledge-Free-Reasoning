@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Albany, GA ha circa 75.000 persone\nQuestion: L’Albany in Georgia raggiungerà i centomila occupanti prima di quello di New York?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La lingua principale parlata a Saint Vincent e Grenadine è il creolo vincenziano.\nQuestion: La lingua usata a Saint Vincent e Grenadine è radicata nell&#39;inglese?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L’avidità è un desiderio di ricchezza e potere.\nQuestion: L’avidità è il più diffuso dei sette peccati capitali?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La profondità media del Mar del Giappone è di 1.752 metri (5.748 piedi) e la profondità massima è di 3.742 metri (12.276 piedi).\nQuestion: La cima del Monte Fuji sporgerebbe dal Mar del Giappone? ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La canzone più alta in classifica di Lil Jon è stata Yeah.\nQuestion: La canzone di Lil Jon più in classifica su Billboard è stata una collaborazione con un membro dei The Lox?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Miami è una città nello stato della Florida.\nQuestion: Miami è una città sulla costa occidentale americana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;Assemblea Generale della Virginia ha 140 seggi.\nQuestion: La Guardia Svizzera può occupare i presidenti dell’Assemblea Generale della Virginia?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La guerra coloniale portoghese fu tra il Portogallo e diversi gruppi tra cui il Movimento popolare per la liberazione dell&#39;Angola.\nQuestion: Qualche paese nella guerra coloniale portoghese ha condiviso il ruolo della Svizzera nella seconda guerra mondiale?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;inglese antico era parlato dagli anglosassoni, una tribù germanica che abitava in Inghilterra.\nQuestion: Un Pitto verrebbe confuso dall&#39;inglese antico?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La carriera di Lil Wayne iniziò nel 1995, all&#39;età di 12 anni, quando firmò un contratto con la Birdman e si unì alla Cash Money Records come il membro più giovane dell&#39;etichetta.\nQuestion: Lil Wayne poteva guidare legalmente un veicolo da solo all&#39;inizio della sua carriera?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il crocifisso è un simbolo del cristianesimo\nQuestion: È probabile che troverai un crocifisso a Karachi?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Una licenza Creative Commons consente la distribuzione gratuita di un&#39;opera altrimenti protetta da copyright.\nQuestion: A qualcuno è stata rubata la licenza Creative Commons per La Nascita di Venere di Boticelli?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il peso medio di un bambino di sei anni è di 45 libbre.\nQuestion: Potrebbero dieci litri d&#39;acqua di mare schiacciare un bambino di sei anni?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le acciughe sono un tipo di piccoli pesci.\nQuestion: Vivono più acciughe in acque a temperature più fredde che in acque più calde?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le stampanti 3D presentano limitazioni in termini di precisione. L&#39;uscita standard dell&#39;ugello è di circa 0,4 mm. Pertanto, se hai intenzione di stampare qualcosa di inferiore a 0,4 mm, non otterrai un articolo utile.\nQuestion: La stampa 3D è in grado di produrre adenovirus?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: George Fox fu il fondatore della Società religiosa degli amici, comunemente nota come Quaccheri o Amici.\nQuestion: George Fox sarebbe favorevole alla lapidazione?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Star Wars è una delle serie di film più parodiate mai prodotte.\nQuestion: È necessario guardare Star Wars per sapere chi è Darth Vader?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;algebra booleana è il ramo dell&#39;algebra in cui i valori delle variabili sono i valori di verità vero e falso, solitamente indicati rispettivamente con 1 e 0. \nQuestion: È possibile programmare un computer interamente in algebra booleana?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Christina Aguilera è una giudice della voce.\nQuestion: Christina Aguilera ha girato la sedia per Kelly Clarkson in The Voice?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Narcan è un farmaco che salva la vita a qualcuno in overdose da oppiacei.\nQuestion: La morte di Amy Winehouse sarebbe stata evitata con Narcan?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I colori più comuni della pelliccia delle manguste sono il marrone e il grigio.\nQuestion: Una mangusta ha una mimetizzazione naturale per il deserto?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le Buffalo Wings sono ali di pollo fritte ricoperte da una salsa piccante.\nQuestion: Se qualcuno ama le ali di bufalo, apprezza la capsaicina?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bruce Lee si iscrisse all&#39;Università di Washington nel 1961.\nQuestion: Bruce Lee era assente alla cerimonia di laurea dell&#39;Università di Washington del 1964?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Brooke Shields si è laureata all&#39;Università di Princeton.\nQuestion: Brooke Shields potrebbe avere successo all&#39;Università della Pennsylvania?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Marist si trova lungo il fiume Hudson.\nQuestion: Gli studenti della Marist dovrebbero presentare una petizione per ottenere una squadra di canottaggio?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I meme di Lolcat sono spesso in formato jpeg\nQuestion: Centomila lolcat potrebbero stare su un iPhone di prima generazione?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La sovrappopolazione umana deriva dal fatto che il tasso di natalità supera il tasso di mortalità in un paese.\nQuestion: Rusev deve preoccuparsi della sovrappopolazione umana nella sua terra natale?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le pesche hanno la buccia sfocata di colore rosso, arancione e giallo.\nQuestion: Il vestito della principessa Peach assomiglia a un frutto di pesca?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Avere una storia di malattia mentale squalifica la maggior parte delle persone dall&#39;arruolarsi nelle forze armate.\nQuestion: I pazienti psichiatrici sono i benvenuti ad arruolarsi nell’aeronautica degli Stati Uniti?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing è un motore di ricerca, che è un oggetto digitale.\nQuestion: Posso tenere Bing in un cestino?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La CPU è il chip principale sulla scheda di un computer e genera molto calore.\nQuestion: L&#39;unità di elaborazione centrale dispone solitamente di una ventola dedicata?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Cyril Ramaphosa è il presidente del Sudafrica\nQuestion: Cyril Ramaphosa può diventare segretario generale della NATO?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I bagel di Brooklyn e New York sono conosciuti in tutto il mondo per la loro alta qualità.\nQuestion: Brooklyn è conosciuta per i suoi prodotti a base di pane?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La ribellione dei Boxer ebbe luogo dal 1899 al 1901\nQuestion: La Royal Air Force ha combattuto nella Ribellione dei Boxer?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: François Mitterand è nato nel 1916.\nQuestion: François Mitterrand prestò servizio sotto Napoleone Bonaparte nell&#39;esercito francese?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un&#39;ameba è un organismo unicellulare.\nQuestion: Le amebe possono ammalarsi di cancro?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il colera è un tipo di batterio.\nQuestion: Il colera è vivo?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le patate dolci hanno una buccia liscia e sono di colore arancione.\nQuestion: Qualcuno di solito confonderebbe una patata dolce con un ananas?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I pinguini sono originari delle zone profonde e molto fredde dell&#39;emisfero meridionale.\nQuestion: Sarebbe comune trovare un pinguino a Miami?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il linfoma è un tipo grave di cancro che può iniziare con tumori nei linfonodi.\nQuestion: I tumori ai linfonodi sono ignorabili?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: In Captain America: Civil War, Iron Man e Captain America divennero nemici a seguito di un disaccordo.\nQuestion: Spiderman ha combattuto contro Falcon nel MCU?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nello yoga come esercizio, la posa chiamata Natarajasara rappresenta la danza divina di Shiva\nQuestion: La danza divina di Shiva è un&#39;antica posa di forma fisica?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Scar è il leone malvagio nel Re Leone della Disney.\nQuestion: Le iene compaiono in un musical di Broadway?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le scimmie gufo sono frugivore e preferiscono i frutti piccoli e maturi quando disponibili.\nQuestion: Una scimmia gufo apprezzerebbe una fragola?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un M60 Patton è un carro armato militare che pesa diverse tonnellate.\nQuestion: Un serpente può ingoiare un M60 Patton?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Gli Avengers sono un fumetto prodotto dalla Marvel.\nQuestion: Avengers Comics sarebbe fuori posto in un negozio DC Comics?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Golfo Persico ha un&#39;area di miglia quadrate 96,912.\nQuestion: Il Golfo Persico può adattarsi al New Jersey?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Psylocke è un supereroe Marvel il cui vero nome è Betsy Braddock.\nQuestion: Nicole Kidman è la scelta ideale per interpretare Psylocke in base all&#39;altezza e al peso?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bernie Sanders è un anziano\nQuestion: Bernie Sanders potrebbe visitare il Metropolitan Museum of Art venti volte per meno di duecento dollari?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Planned Parenthood è specializzata in assistenza sanitaria riproduttiva.\nQuestion: Planned Parenthood può comunicare alla tua università che hai il virus dell&#39;Herpes simplex?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Achille era un eroe greco ucciso da una freccia al tallone.\nQuestion: Achille dominerebbe Legolas in un ipotetico combattimento?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bucarest, la Romania si trova nell&#39;Europa orientale.\nQuestion: Bucarest si trova a sud dell&#39;Egitto?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le cose galleggiano solo se sono meno dense del materiale circostante.\nQuestion: Una roccia galleggerà nell&#39;atmosfera della Terra?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I corni di rinoceronte sono usati per il trattamento popolare dell&#39;impotenza sessuale.\nQuestion: I rinoceronti sono stati uccisi per migliorare la vita sessuale umana?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Gli ABBA erano un gruppo pop svedese composto da quattro membri.\nQuestion: Gli ABBA hanno una configurazione di genere simile a The Mamas &amp; The Papas?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il 13° emendamento fu ratificato nel 1865.\nQuestion: L&#39;autore di Piccole Donne si sarebbe ricordato della ratifica del 13° Emendamento?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il 55% della base utenti di Reddit proviene dagli Stati Uniti.\nQuestion: La maggior parte degli utenti Reddit ha familiarità con il Pledge of Allegiance?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I bambini inviano lettere di Natale a Babbo Natale.\nQuestion: I bambini spediscono le letterine di Natale al Polo Sud?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I Maroon 5 si sono formati nel 2001.\nQuestion: I Maroon 5 sono andati in tour con i Nirvana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Evander Holyfield compirà 58 anni alla fine del 2020.\nQuestion: Un ritorno di boxe di Evander Holyfield 2020 stabilirebbe il record di età?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il corpo di Post Malone è ricoperto da numerosi tatuaggi.\nQuestion: Post Malone ha paura degli aghi?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La guerra ispano-americana durò dal 21 aprile 1898 al 13 agosto 1898.\nQuestion: Il presidente degli Stati Uniti durante la guerra ispano-americana subì una morte simile a quella di Abraham Lincoln?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dio creò Eva da un osso rimosso da Adamo.\nQuestion: Eva era coinvolta in una relazione incestuosa?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lil Wayne è nato Dwayne Michael Carter.\nQuestion: Il rapper con un vero nome simile a Lil Wayne ha più di quadruplicato i Grammy Awards di Wayne?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il punto di ebollizione del nichel è 3003 Kelvin\nQuestion: Il nichel bollerebbe nel nucleo esterno della terra?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dorothea Wendling era una cantante nata a Stoccarda, in Germania.\nQuestion: Dorothea Wendling era dello stesso luogo di origine della Porsche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La chirurgia viene utilizzata per correggere problemi medici o apportare modifiche fisiche al corpo\nQuestion: La chirurgia può prevenire una crisi esistenziale?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Grande Sceicco era il nome di Avicenna\nQuestion: Al-Farabi era uno studente del Grande Sceicco?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il cloro mescolato con il sodio è il cloruro di sodio, noto anche come sale da cucina.\nQuestion: È pericoloso consumare cloro mescolato con sodio?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La dozzina di un fornaio si riferisce a 13 di qualsiasi cosa.\nQuestion: I fondatori del jiu-jitsu brasiliano Gracie avevano almeno una dozzina di figli tra loro?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dolce&amp;Gabbana nasce nel 1985.\nQuestion: Mozart ha mai comprato qualcosa da Dolce &amp; Gabbana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I giudici del 1700 indossavano parrucche incipriate e ampie vesti durante i procedimenti giudiziari.\nQuestion: Un presbiteriano ortodosso si opporrebbe all&#39;abbigliamento da giudice del 1700?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un haiku è una breve poesia giapponese che segue una struttura di 5, 7, 5 sillabe.\nQuestion: Lines on the Antiquity of Microbes è più breve di qualsiasi haiku?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lilly Wachowski è una donna trans che è stata regista di Matrix.\nQuestion: I registi di Matrix sostengono i diritti dei transgender?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un esame di guida misura la capacità di guidare secondo il codice della strada.\nQuestion: Una foca del nord supererebbe un esame di guida?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Taco Bell ha oltre 7.072 ristoranti nel 2018.\nQuestion: Ogni anno entreranno e usciranno più persone da Taco Bell che da Roy Rogers?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Mar Rosso è uno dei corpi d&#39;acqua più salati del mondo.\nQuestion: Sarebbe insolito trovare un pesce persico giallo nel Mar Rosso?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il generale Zod è un cattivo.\nQuestion: Il Generale Zod preferirebbe un iPhone al Samsung Galaxy S4?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le prime testimonianze scritte indicano che gli egiziani e i babilonesi utilizzavano tutte le operazioni aritmetiche elementari già nel 2000 a.C.\nQuestion: I Neanderthal usavano l&#39;aritmetica?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il segugio è un tipo di cane da caccia utilizzato per inseguire le prede.\nQuestion: L&#39;animale in Sei un buon sport, Charlie Brown, ipoteticamente era un segugio?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: E poi non ci furono nessuno era un romanzo giallo scritto da Agatha Christie.\nQuestion: Qualcuno dei libri di JK Rowling appartiene al genere E poi non c&#39;erano nessuno?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Jay-Z è nato nel 1969.\nQuestion: Jay-Z ha mai collaborato con Louis Armstrong?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I metri fanno parte del sistema metrico.\nQuestion: Nel Regno Unito le lunghezze vengono misurate in metri?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Colombo era originario di Genova, nell&#39;attuale Italia.\nQuestion: Cristoforo Colombo salpò rappresentando un paese diverso da quello della sua casa originale?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le labbra e la pelle diventano blu in risposta alla mancanza di ossigeno.\nQuestion: Le labbra blu sono normali?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Jon Brower Minnoch era un uomo americano che, al suo picco di peso, era l&#39;essere umano più pesante mai registrato, pesando 1.400 libbre.\nQuestion: Jon Brower Minnoch soffriva di anoressia nervosa?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Scheherazade era un personaggio del folklore mediorientale che ritardò la sua esecuzione raccontando lunghe storie al re.\nQuestion: Otello sarebbe l&#39;opera di Shakespeare in grado di far guadagnare a Scheherazade la maggior parte del tempo con il re?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Huma Abedin era il vice capo dello staff di Hillary Clinton nel 2009\nQuestion: Il vice capo dello staff di Hillary Clinton nel 2009 è stato battezzato?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le gru nutrite dagli esseri umani possono mostrare tendenze domestiche e raramente beccano gli umani.\nQuestion: Un casuario è più sicuro di una gru?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il New England si trova negli Stati Uniti d&#39;America.\nQuestion: Potresti guidare dal New England a un Sainsbury&#39;s?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Gli alunni della seconda hanno spesso sette o otto anni.\nQuestion: PG Wodehouse verrebbe insegnato in seconda elementare?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: In Le avventure di Alice nel Paese delle Meraviglie, uno dei personaggi è un bruco che fuma il narghilè.\nQuestion: L&#39;uso del tabacco viene fatto sembrare divertente in Le avventure di Alice nel Paese delle Meraviglie?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Corte Suprema è la più alta corte degli Stati Uniti.\nQuestion: Simon Cowell può votare per il prossimo giudice della Corte Suprema?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nel 1933 a causa della Grande Depressione c’erano circa 15 milioni di disoccupati.\nQuestion: Tutti i disoccupati a causa della Grande Depressione del 1933 potevano entrare nel Tiger Stadium?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Donatello ha creato una statua del David in bronzo alta più di un metro e mezzo.\nQuestion: Può un maschio adulto stare in piedi sul David di bronzo di Donatello e toccare il soffitto della Cappella Sistina?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il conflitto arabo-israeliano è iniziato centinaia di anni fa.\nQuestion: L’Inghilterra era direttamente coinvolta nel conflitto arabo-israeliano?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le Avventure di Alice nel Paese delle Meraviglie fu pubblicato nel 1865\nQuestion: Le avventure di Alice nel Paese delle Meraviglie hanno ispirato Macbeth?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;orso nero asiatico è un animale che vive in habitat con alberi.\nQuestion: L&#39;orso nero asiatico è multicolore?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il tenente Richards era un pirata che navigava al fianco di Barbanera.\nQuestion: I luogotenenti pirati sono come i luogotenenti della marina?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I paragrafi di Lorem Ipsum sono destinati ad essere temporanei.\nQuestion: Un sito web finito dovrebbe avere paragrafi di lorem ipsum?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le dighe dei castori spesso portano ad inondazioni nelle aree circostanti.\nQuestion: La terra in prossimità delle dighe dei castori soffre?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;Empire Award per il miglior esordiente è stato assegnato a un attore al debutto.\nQuestion: Sarebbe difficile per Will Ferrell vincere l&#39;Empire Award come miglior esordiente?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un anniversario d&#39;argento avviene durante il 25° anno di matrimonio.\nQuestion: Cynthia Powell ha festeggiato un anniversario d&#39;argento con John Lennon?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Al Pacino è nato nel 1940.\nQuestion: Al Pacino recitò in un film durante la Seconda Guerra Mondiale?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La scrittura gujarati è una scrittura abugida\nQuestion: La scrittura gujarati è la stessa categoria di scrittura del Kanji?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La contea di Morris prende il nome dal colonnello Lewis Morris.\nQuestion: La contea di Morris prende il nome da un capo della giustizia?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Very Large Telescope osserva lo spazio.\nQuestion: Il Very Large Telescope può osservare la montagna più grande della Terra?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il metano è un gas che inquina l’ambiente e provoca sbalzi di temperatura.\nQuestion: Il metano vaccino è più sicuro per l’ambiente rispetto alle automobili?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lo sci nautico è uno sport che prevede lo scivolamento sulla superficie di grandi specchi d&#39;acqua.\nQuestion: Il Marocco è un luogo ideale per lo sci nautico?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le azioni di Amazon hanno raggiunto i 2.500 dollari per azione a giugno 2020.\nQuestion: Potrebbe mai una azione Amazon acquistare un abbonamento ventennale a Netflix?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nikola Tesla costruì una struttura chiamata Wardenclyffe Tower a Shoreham, New York\nQuestion: Ci sono radiazioni dove una volta lavorava Nikola Tesla?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Rinascimento di Harlem ebbe luogo negli anni &#39;20.\nQuestion: Al Capone avrebbe potuto leggere opere del Rinascimento di Harlem?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Blue Lives Matter è un contromovimento negli Stati Uniti che sostiene gli agenti di polizia e il personale delle forze dell&#39;ordine.\nQuestion: I membri di Blue Lives Matter supporteranno ogni elemento di Grand Theft Auto III?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Capodanno cade il 1° gennaio di ogni anno.\nQuestion: Il Capodanno cade sempre di mercoledì?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La zecca della ninfa ha le dimensioni di un seme di papavero.\nQuestion: Potrebbe una zecca di ninfa passare attraverso un perforatore standard?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;aereo Boeing 737-800 costa 106 milioni di dollari nel 2019.\nQuestion: Un mercante d&#39;arte può acquistare un Boeing 737-800 con un dipinto di Leonardo?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Peter Griffin è un impiegato di un birrificio a Quahog. \nQuestion: Peter Griffin dovrebbe essere un esperto nell&#39;arte della produzione della birra?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Rowe 550 era un&#39;autovettura prodotta dalla casa automobilistica cinese SAIC.\nQuestion: Potresti guidare una Rowe 550 alle Olimpiadi estive del 2008?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Amy Winehouse è morta nel 2011.\nQuestion: Amy Winehouse era una fan di Star Wars: Rogue One?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Snoopy è stata una mascotte della sicurezza nella NASA\nQuestion: Jesse W. Moore è un potenziale destinatario di un premio a tema Snoopy della NASA?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  I tassi del miele adulti misurano da 23 a 28 cm (da 9,1 a 11,0 pollici) di altezza alle spalle e 55–77 cm (22–30 pollici) di lunghezza del corpo, con la coda che aggiunge altri 12–30 cm (4,7–11,8 pollici).\nQuestion: Un tasso del miele entrerebbe in un forno?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La pula è il materiale in eccesso del grano macinato.\nQuestion: La pula viene prodotta dall’energia idroelettrica?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La moglie di Paulo Coelho è Christina Oiticica.\nQuestion: La moglie di Paulo Coelho si guadagna da vivere grazie alla parola?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le scialuppe di salvataggio vengono utilizzate su corpi di acqua liquida\nQuestion: Può una scialuppa di salvataggio salvare le persone nel Mare di Hooke?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Fiat Chrysler è composta dalle due società automobilistiche fuse Fiat e Chrysler.\nQuestion: Fiat Chrysler è associata alle auto giapponesi?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ade era il dio greco della morte e degli inferi.\nQuestion: Ade e Osiride sarebbero ipoteticamente in competizione per le proprietà immobiliari negli Inferi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;aeroporto John Wayne si trova nella contea di Orange.\nQuestion: Orange County, in California, richiede che gli aerei siano silenziosi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il giugno del 2020 è stato segnato da una pandemia globale.\nQuestion: Il Parco dei Principi è stato pienamente operativo nel giugno 2020?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La maggior parte dei lavori al dettaglio richiede che i dipendenti siano in grado di sollevare, spingere e tirare 25-50 libbre. \nQuestion: Il commercio al dettaglio è un lavoro per cui chiunque può essere adatto?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La polvere da sparo è classificata come a basso esplosivo\nQuestion: Un’esplosione in un deposito di polvere da sparo provocherebbe un’onda d’urto supersonica?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il cloro, se aggiunto all&#39;acqua, crea candeggina domestica.\nQuestion: Puoi comprare il cloro in un negozio di dollari?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I coccodrilli appartengono alla famiglia dei Crocodylinae.\nQuestion: I coccodrilli d&#39;acqua salata sono imparentati con gli alligatori?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Persefone è una dea della vegetazione. \nQuestion: Persefone sarebbe un buon consulente per un architetto paesaggista?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;equipaggio della missione Apollo 15 era composto da 3 astronauti.\nQuestion: L&#39;equipaggio dell&#39;Apollo 15 avrebbe difficoltà a guidare un monociclo?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le fregate sono una specie di veliero.\nQuestion: Sono necessarie delle corde per manovrare una fregata?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Giasone tradì Medea con Creusa\nQuestion: Jason ha qualcosa in comune con il dottor Disrespect?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La celiachia è una malattia in cui il corpo non riesce a processare il glutine.\nQuestion: Un celiaco dovrebbe evitare gli spaghetti?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I koala sono erbivori.\nQuestion: I Koala preferiscono l&#39;eucalipto alla carne?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I bodybuilder vogliono costruire muscoli e mantenere basso il grasso\nQuestion: Un body builder preferirebbe un hamburger di alce a uno di manzo?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La densità di un oggetto determina se galleggerà.\nQuestion: Si può trasportare una moneta lungo un mare di mercurio?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bugs Bunny è un coniglio antropomorfo grigio e bianco.\nQuestion: Bugs Bunny danneggerebbe un ulivo nel mondo reale?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L’affaticamento adenale è un disturbo in cui il corpo non produce abbastanza ormoni e le persone si stancano.\nQuestion: I cavolini di Bruxelles sono particolarmente utili contro l&#39;affaticamento surrenale?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I Griffin è ambientato nella città immaginaria di Quahog, nel Rhode Island.\nQuestion: I Griffin è ambientato sulla costa occidentale americana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Mitsubishi è una casa automobilistica giapponese\nQuestion: Qualcuno a Uberlandia può lavorare per Mitsubishi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Hannah Nixon era la madre di Richard Nixon.\nQuestion: Hannah Nixon sarebbe orgogliosa di Richard Nixon dopo lo scandalo Watergate?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Eddie Murphy è nato nel 1961.\nQuestion: Potrebbe Eddie Murphy chiamare il 911 in macchina da bambino?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Edmund Hillary era un alpinista che scalò il Monte Everest.\nQuestion: Mount Wycheproof sarebbe un gioco da ragazzi per Edmund Hillary?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Gli arcobaleni contengono i seguenti colori: rosso, arancione, giallo, verde, blu, indaco e viola.\nQuestion: I colori della bandiera del Gabon si trovano nell&#39;arcobaleno?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un mollymawk è un tipo di albatro\nQuestion: I mollymawk vivono dove gli albatros non possono?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un ferro arricciacapelli è uno strumento utilizzato per rendere i capelli ricci utilizzando il calore.\nQuestion: Per arricciare è necessario un ferro arricciacapelli?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Gli emù sono un tipo di uccelli incapaci di volare.\nQuestion: Gli emù sono imparentati con gli alci?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille è un classico ristorante di cucina francese a New York.\nQuestion: Lo chef di La Grenouille troverebbe la salsa una strana richiesta?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: In Boom!, System of a Down condanna la globalizzazione.\nQuestion: I System of a Down sono contrari alla globalizzazione?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il caffè può essere coltivato solo nei climi subtropicali ed equatoriali\nQuestion: Qualcuno del New England può trarre profitto dalla coltivazione del caffè?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Una partita di ping-pong viene vinta dal giocatore che realizza per primo 11 punti.\nQuestion: Il ping pong utilizza i numeri primi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La carta Capital One Venture ha una tariffa annuale di circa $ 95.\nQuestion: Essere membro di Capital One Venture per 5 anni è più conveniente che essere membro di Church of Satan?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ludwig van Beethoven morì nel 1827.\nQuestion: A Beethoven piaceva ascoltare l&#39;EDM?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster era un servizio di condivisione di musica P2P.\nQuestion: I Metallica sono protettivi nei confronti della loro musica?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Carrie Underwood è stata la vincitrice della quarta stagione di American Idol.\nQuestion: Kelly Clarkson ha venduto più del vincitore della quarta stagione di American Idol?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il gatto selvatico europeo è originario dell&#39;Europa continentale, della Scozia, della Turchia e del Caucaso.\nQuestion: Le lepri dalla coda nera temono il gatto selvatico europeo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Carl Friedrich Gauss nacque nel 1777.\nQuestion: Carl Friedrich Gauss potrebbe parlare con qualcuno a 100 miglia di distanza?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lionel Richie è un cantante americano e ha cresciuto Nicole Richie.\nQuestion: Lionel Richie è imparentato con Sheila E?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Non è previsto che gli alimenti abbiano una data di scadenza. \nQuestion: La FDA richiede date di scadenza utilizzando numeri romani?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le canzoni marinaresche vengono cantate sulle navi marittime\nQuestion: I viaggiatori cantavano canti marinareschi sull&#39;Oregon Trail?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La leucofobia è la paura del colore bianco.\nQuestion: A qualcuno affetto da leucofobia piacerebbe guardare la bandiera degli Stati Uniti?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;attrice Teri Hatcher ha completato un totale di 180 episodi di Desperate Housewives.\nQuestion: Teri Hatcher è durata il doppio degli episodi di Desperate Housewives rispetto al suo show su Superman?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I globuli rossi rappresentano circa il 40-50% di ciò che costituisce il sangue umano.\nQuestion: I globuli bianchi sono più numerosi dei globuli rossi nel corpo umano?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il politico John George Bice è nato a Callington.\nQuestion: Il luogo di nascita di John George Bice era vicino alla Cornovaglia?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I dinosauri si estinsero molti milioni di anni fa.\nQuestion: La storia dell’Europa comprende l’era dei dinosauri?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Paul Bunyan era un gigante leggendario delle storie fantastiche.\nQuestion: Paul Bunyan sarebbe ipoteticamente una scelta sbagliata per un urbanista?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le piante hanno bisogno di tre elementi per la fotosintesi: idrogeno, ossigeno e carbonio.\nQuestion: Nell&#39;atmosfera di Marte sono presenti tutti gli elementi necessari alle piante per la fotosintesi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bill Nye è nato nel 1955\nQuestion: Bill Nye ha votato per Franklin Delano Roosevelt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: &quot;Gypsy&quot; è considerato un insulto nelle Americhe da parte dei rom.\nQuestion: L&#39;uso della parola zingaro da parte di persone non rom è considerato accettabile?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Terra d&#39;Israele era controllata dall&#39;Impero Ottomano nel XVI secolo. \nQuestion: La Terra d&#39;Israele possedeva un impero islamico nel XVI secolo?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;USDA raccomanda almeno 3500 mg di potassio al giorno.\nQuestion: 7 zucchine soddisferebbero la raccomandazione giornaliera dell&#39;USDA sul potassio?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La prima vettura ampiamente prodotta fu il Modello T.\nQuestion: L&#39;auto britannica, la Mini, è stata la prima automobile prodotta?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I peperoni possono essere disidratati nel forno invece che in un disidratatore.\nQuestion: È possibile preparare la paprika senza disidratatore?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I gatti del Bengala sono carnivori.\nQuestion: Può un gatto del Bengala sopravvivere mangiando solo frittelle?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;albatro errante può percorrere almeno 15.000 km (poco meno di 10.000 miglia) sul mare prima di tornare sulla terra. \nQuestion: Potrebbe un albatro errante volare da Bucarest a New York senza riposarsi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Biblioteca pubblica di New York è un sistema bibliotecario pubblico di prestito a New York City\nQuestion: La Biblioteca Pubblica di New York vende prodotti Alpo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il nome completo di Tony Bennett è Anthony Dominick Benedetto.\nQuestion: Il secondo nome di Tony Bennett è condiviso da un ex campione UFC?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Una donna vedova nera si riferisce a una donna che uccide i suoi mariti per soldi e si risposa.\nQuestion: Una vedova nera avrebbe interesse per le pesche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il Burning Man attira spesso molti giovani che in genere indossano abiti minimali a causa del clima e dello stile. \nQuestion: Le persone hanno più probabilità del normale di prendersi scottature al Burning Man?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rahul Dravid era un giocatore professionista di cricket\nQuestion: Rahul Dravid ha mai calciato un canestro?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lo studio degli oceani coinvolge molti campi o scienze.\nQuestion: Un singolo oceanografo studia molte scienze?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;età d&#39;oro dei fumetti si è verificata tra gli anni &#39;30 e &#39;50.\nQuestion: La narrativa sui supereroi è stata inventata in formato digitale?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La dimensione media di un cucciolo di orso nero americano è di soli 8 pollici alla nascita.\nQuestion: Due cuccioli di orso nero americano appena nati potrebbero stare in un letto king size?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Aldi riduce i costi addebitando i bagagli, acquistando all&#39;ingrosso ed evitando articoli di marca. \nQuestion: Gli alimenti Aldi sono scontati perché scaduti?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il pepe nero è ottenuto da grani di pepe nero.\nQuestion: I peperoni macinati sono l’ingrediente principale del pepe nero?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: &quot;Prendere ukemi&quot; si riferisce all&#39;arte di cadere o ricevere nelle arti marziali\nQuestion: Prendere ukemi arresta l’energia cinetica?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un BLT è un panino composto da pancetta, lattuga e pomodoro\nQuestion: È difficile ottenere un BLT a Casablanca?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il nevicato ottiene circa 200 pollici di precipitazioni all&#39;anno \nQuestion: Le precipitazioni annuali su Snowdon sommergerebbero un birillo da bowling verticale?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Stanley Baldwin è stato preceduto da Ramsay MacDonald come Primo Ministro.\nQuestion: Una donna è stata Primo Ministro direttamente prima o dopo Stanley Baldwin?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un&#39;aquila calva può viaggiare fino a 99 MPH.\nQuestion: L&#39;aquila calva consegnerebbe un messaggio urgente prima del B-52?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I pugili professionisti spesso ricevono pugni in faccia.\nQuestion: I pugili professionisti possono aspettarsi di avere fatture dentistiche basse?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La moglie del dottor Seuss si è suicidata.\nQuestion: Il dottor Seuss ha vissuto una vita senza tragedie?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I genitori di Jackson Pollock sono entrambi nati e cresciuti a Tingley, Iowa.\nQuestion: I genitori di Jackson Pollock non erano tenuti a pronunciare il Giuramento di Fedeltà da bambini?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Shamu è il nome dell&#39;orca mascotte di Sea World.\nQuestion: La contea di San Diego è la casa di uno Shamu?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le antiche religioni politeiste generalmente non sono più popolari nella cultura occidentale.\nQuestion: Il Mostro Volante degli Spaghetti fa parte di un antico pantheon?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La regina Elisabetta II è la monarca del Regno Unito e del suo Commonwealth\nQuestion: Elisabetta II regna sulle Isole Baleari?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La guerra del calcio iniziò il 14 luglio 1969.\nQuestion: La Guerra del Calcio è durata almeno un mese?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lorenzo de Medici fu un grande mecenate delle arti a Firenze e fu mecenate di Leonardo Da Vinci.\nQuestion: Il mecenatismo di Lorenzo de&#39; Medici nei confronti di Da Vinci era esclusivo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;Ultima Cena fu un pasto tra Gesù e i suoi dodici discepoli nel cristianesimo.\nQuestion: Qualcuno nell&#39;Ultima Cena viene celebrato nell&#39;Islam?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: I pesci vivono nell&#39;acqua. \nQuestion: Un gatto del Bengala avrebbe paura di catturare un pesce?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Benito Mussolini era alto 5&#39; 6½&quot;.\nQuestion: Benito Mussolini indossava scarpe più grandi di Hafþór Björnsson?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bobby Jindal ha frequentato la Baton Rouge Magnet High School.\nQuestion: La mascotte del liceo di Bobby Jindal mangerebbe crocchette?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;edificio del Campidoglio si trova a un&#39;estremità del National Mall nel centro di Washington DC.\nQuestion: Il Campidoglio degli Stati Uniti si trova vicino alla Casa Bianca?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il disboscamento produce prodotti come la polpa.\nQuestion: Sarebbe difficile procurarsi la carta igienica se non ci fossero i taglialegna?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il nome di nascita di Iggy Pop era James Newell Osterberg Jr.\nQuestion: Iggy Pop prende il nome da suo padre?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;assistenza sanitaria preventiva comprende screening per malattie sessualmente trasmissibili/MST. \nQuestion: L’assistenza sanitaria preventiva può ridurre la trasmissione delle malattie sessualmente trasmissibili?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Bella e la Bestia presenta un castello pieno di oggetti che si muovono e parlano da soli. \nQuestion: Gli oggetti inanimati prendono vita in La Bella e la Bestia?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;American Bandy Association governa le principali rappresentazioni di Bandy negli Stati Uniti.\nQuestion: Bandy potrebbe diventare popolare in Texas?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il calcio è un nutriente importante per la salute delle ossa.\nQuestion: Per la crescita delle ossa, il cavolo riccio è più benefico degli spinaci?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;Amazzonia è prevalentemente giungla tropicale.\nQuestion: Attraversare l&#39;Amazzonia mette a rischio la vita di una persona?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nintendo è stata originariamente rilasciata nel 1983 e utilizzava giochi in formato cartuccia.\nQuestion: La Nintendo originale aveva giochi nello stesso formato della Playstation 3?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il numero di Fibonaacci è una sequenza di numeri che aggiunge un numero a quello precedente e va avanti all&#39;infinito.\nQuestion: La sequenza numerica di Fibonacci è più lunga di ogni numero scoperto in Pi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Germafobia è un termine usato dagli psicologi per descrivere una paura patologica di germi, batteri, microbi, contaminazione e infezione.\nQuestion: Una germofobia potrebbe partecipare al Judo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;autunno va da settembre alla fine di dicembre negli Stati Uniti.\nQuestion: L&#39;autunno è un buon momento per raccogliere pelli di orso negli Stati Uniti?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il video di &quot;Stupid Girls&quot; presenta una scena in cui Pink e una donna condividono uno spazzolino da denti per indurre il vomito in bagno.\nQuestion: Ci sono video musicali Pink che suscitano l&#39;interesse dei pazienti con disturbi alimentari?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Al Unser Jr. è un pilota automobilistico\nQuestion: Al Unser Jr. ha vinto la corsa allo spazio?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft è un software.\nQuestion: World of Warcraft è più pesante di una pagnotta?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Metroid è stato creato e pubblicato da Nintendo.\nQuestion: Electronic Arts ha tratto profitto dalle vendite di Metroid?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La maggior parte degli insegnanti della scuola materna lavora nelle scuole pubbliche.\nQuestion: Una maestra d&#39;asilo farebbe una lezione sul Nuovo Testamento?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Amy Winehouse era nota per essersi ubriacata prima e durante i set.\nQuestion: Amy Winehouse si è sempre esibita perfettamente dal vivo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le acciughe utilizzate sulla pizza sono tipicamente confezionate intere sott&#39;olio o acqua. \nQuestion: Ci sono lische nella pizza alle acciughe?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il diametro di un pallone da basket NBA standard è di circa 9,5 pollici\nQuestion: Puoi nascondere un pallone da basket nell&#39;orecchio di un gatto della sabbia?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ivan il Terribile fu soprannominato terribile a causa del suo duro governo.\nQuestion: Il padre e il nonno di Ivan il Terribile avevano soprannomi più carini?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il cancro al seno è una malattia che si verifica nei tessuti mammari dei mammiferi.\nQuestion: Le amebe sono sicure dal cancro al seno?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Pi, il rapporto tra la circonferenza di un cerchio e il diametro, è uguale a 3,14.\nQuestion: Pi era un numero accettabile di bambini nella Cina degli anni ’80?",
+        "output": "No"
+    }
+]

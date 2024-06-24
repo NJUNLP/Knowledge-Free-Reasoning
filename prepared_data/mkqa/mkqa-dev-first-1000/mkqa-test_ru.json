@@ -1,0 +1,5002 @@
+[
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как долго строились башни-близнецы",
+        "output": "11.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт love you like there's no tomorrow",
+        "output": "Янг, Крис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколкьо всего сезонов в королевах крика",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз the lakers вышли в плейофф",
+        "output": "2013"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько серий в сезоне очень странных дел",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i hear you knocking but you can't come in",
+        "output": "Эдмундс, Дэйв"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто придумал шоу голос",
+        "output": "Джон де Мол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда начался и закончился период Дикого Запада",
+        "output": "1865"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда рэмс играли в супербоуле",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню  oh what a night",
+        "output": "The Four Seasons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто пел i want to be with you everywhere",
+        "output": "Fleetwood Mac"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл mary magdalene в jesus christ superstar",
+        "output": "Эллиман, Ивонн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал Книгу Причитаний в Библии",
+        "output": "Иеремия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего подписчиков в Instagram",
+        "output": "Криштиану Роналду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ккая серия сериала офис называется  the roast",
+        "output": "Стресс помощь"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто в мире производит больше всего фисташек",
+        "output": "Иран"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называется стадион the arizona cardinals",
+        "output": "стадион университета Финикса"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто спел \"i've never been to me\"",
+        "output": "Шарлин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько штатов покрывают Скалистые горы",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто спел let's go all the way",
+        "output": "Sly Fox"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл america's got talent в 2015 году",
+        "output": "Пол Зердин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "возрастной лимит для girl scouts",
+        "output": "5.0 18.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз steelers играли с panthers",
+        "output": "2019-08-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда последний раз Республиканцы выигрывали народное голосование",
+        "output": "2004"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз cubs выигрывали мировые серии",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла монета фунта",
+        "output": "2017-03-28"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда майкл джордан был отобран в нба",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда в последний раз в Конституцию вносились поправки",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто является персонажами в Поющие под дождём",
+        "output": "О’Коннор, Дональд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "насколько длинный средний вагон грузового поезда",
+        "output": "55.0 67.0 английский фут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i'll make a man out of you",
+        "output": "Осмонд, Донни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Том Брэди выиграл своё первое кольцо",
+        "output": "2002"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где будет проводится кубок мира",
+        "output": "Катар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каковы имена персонажей из сериала \"Твинисы\"",
+        "output": "Джуди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто играет роль Черной Пантеры в фильме \"Чёрная Пантера\"?",
+        "output": "Боузман, Чедвик"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой номер канала у CW на directv",
+        "output": "385.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда заканчивается amazing world of gumball",
+        "output": "2019-06-24"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел what is love baby don't hurt me",
+        "output": "The Album"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как назывется активный ингредиент во всех дезинфицирующих средствах для рук одобренных fda",
+        "output": "этанол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла Genie in a Bottle",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимался в фильме bridge over the river kwai",
+        "output": "Уильям Холден"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называли рыцарей круглого стола",
+        "output": "Гарет Белоручка"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является ведущим america has talent",
+        "output": "Саймон Коуэлл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет lord it's hard to be humble",
+        "output": "Мак Дэвис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню  take me to church",
+        "output": "Хозиер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда выходит фильм жажда скорости",
+        "output": "2014-03-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какие модели участвуют в \"price is right\"",
+        "output": "Мелисса Ордуэй"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто вёл север в гражданской войне в сша",
+        "output": "Авраам Линкольн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сыграл белоснежку в однажды в сказке",
+        "output": "Джиннифер Гудвин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто является долгожителем когда-либо жившем на земле?",
+        "output": "Жанна Кальман"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько раз австралия выиграла кубок мира по крикету",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i will always love you first - Долли Партон или Уитни Хьюстон",
+        "output": "Вагонер, Портер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут первого президента америки",
+        "output": "Джордж Вашингтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называется колледж в фильме зверинец",
+        "output": "Зверинец"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Актеры из фильма Угнать за 60 секунд",
+        "output": "Анджелина Джоли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько сезонов у Шоу Косби",
+        "output": "8.0 времена года"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где проводился первый кубок мира по крикету",
+        "output": "1975"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является богом подземного мира в греческой мифологии",
+        "output": "Аид"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел don't smile at me",
+        "output": "2017-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Шарлин Дарлинг в шоу Энди Гриффита",
+        "output": "Магги Питерсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто капитан сборной Вест-Индии по крикету",
+        "output": "Джейсон Холдер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое самое большое озеро в новой зеландии",
+        "output": "Таупо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто автор долгого пути",
+        "output": "Бих, Ишмаэль"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда США покинули вьетнамскую войну",
+        "output": "1973-03-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого играла Харли Квинн в отряде самоубийц",
+        "output": "Марго Робби"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова численность населения штата Мэн",
+        "output": "1338000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл tj в head of the class",
+        "output": "Билли Коннолли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто играет Питера Квилла в Стражах Галактики?",
+        "output": "Крис Прэтт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда был выпущен Samsung Galaxy s6 Edge",
+        "output": "2015-04-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "актерский состав сериала 100 шагов успеть до старших классов",
+        "output": "Джек Де Сена"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поет песню \"Someone That I Used to Know\"?",
+        "output": "Готье"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько галлонов в бочке виски",
+        "output": "53.0 имперский галлон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сражался в Америке во время революции",
+        "output": "Великобритания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Bennie And The Jets вышла",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз у сша не было внешнего долга",
+        "output": "1835-01-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню you're my everything",
+        "output": "Santa Esmeralda"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню i love the nightlife",
+        "output": "Алисия Бриджес"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Команды никогда не выигрывавшие мировую серию",
+        "output": "Сиэтл Маринерс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто известен как орлеанская дева",
+        "output": "Жанна д’Арк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто первым пробежал милю за четыре минуты",
+        "output": "Роджер Баннистер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел i've got spurs that jingle jangle jingle",
+        "output": "Отри, Джин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какая битва была первой в Войне во Вьетнаме?",
+        "output": "Битва в долине Йа-Дранг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл в супер кубке в этом году",
+        "output": "Лос-Анджелес Рэмс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является главным хирургом США",
+        "output": "Джером Адамс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл рейчел в оригинальном Бегущий по лезвию",
+        "output": "Шон Янг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится самый длинный мост в сша",
+        "output": "Пончартрейн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто придумал День отца",
+        "output": "Сонора Смарт Додд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "откуда происходит фамилия Гусман",
+        "output": "Испания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт песню  please don't go",
+        "output": "KC and the Sunshine Band"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто держит рекорд по самому большому числу rushing yards за одну игру",
+        "output": "Эдриан Петерсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто самый богатый когда-либо живущий человек",
+        "output": "Манса Муса"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего подписчиков на youtube в мире",
+        "output": "T-Series"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где в нью-форке расположена таймс сквер",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "бьет ли фул хаус стрит в покере",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая радиостанция у the pittsburgh pirates",
+        "output": "KDKA-FM"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто тренер the toronto raptors",
+        "output": "Нёрс, Ник"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню you were always on my mind",
+        "output": "Уэйн Карсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой актер играет Джона Вика?",
+        "output": "Киану Ривз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет take a look at me now",
+        "output": "Фил Коллинз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет back in the high life again",
+        "output": "Уинвуд, Стив"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт going to the chapel and we're gonna get married",
+        "output": "The Dixie Cups"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Из чего состоит американский флаг",
+        "output": "Нейлон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "откуда появилась Статя Свободы",
+        "output": "Либерти"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет come together right now over me",
+        "output": "The Beatles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто главный актер в сериале стрела",
+        "output": "Кэти Кэссиди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого в главной лиге бейсбола самая лучшая статистика",
+        "output": "Нью-Йорк Янкиз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел now that we found love what are we gonna do with it",
+        "output": "Heavy D"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл белль в красавице и чудовище",
+        "output": "Эмма Уотсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда написана while my guitar gently weeps",
+        "output": "1968"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню fox on the run",
+        "output": "Sweet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Чему равно 10 в степени 10",
+        "output": "10000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова была сила Землетрясения в Лос-Анджелесе 1994 года",
+        "output": "6.7"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт bartender i really did it this time",
+        "output": "Rehab"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое население на данный момент в Финиксе, Аризона",
+        "output": "1626000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего грэмми за все время",
+        "output": "Шолти, Георг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каково текущее население Альбукерке, Нью-Мексико",
+        "output": "558545.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню i can see clearly now",
+        "output": "Рэй Чарлз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "который был первым президентом в южной африке",
+        "output": "Нельсон Мандела"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда была построена Статуя Свободы?",
+        "output": "1875-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню here comes the sun",
+        "output": "Джордж Харрисон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называется первый цветной фильм",
+        "output": "С нашим королем и королевой через Индию"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько серий во втором сезоне my hero academia",
+        "output": "25.0 эпизод"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда выходит график Премьер лиги",
+        "output": "2019-06-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню sugar pie honey bunch",
+        "output": "The Four Tops"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где проводится игра зала славы",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой приз за победу в Ты думаешь, ты можешь станцевать?",
+        "output": "250000.0 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поёт \"Fly Me to the Moon\"?",
+        "output": "Фрэнк Синатра"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышел \"Могучие рейнджеры: мистическая сила\"?",
+        "output": "2006-02-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько игр в НБА играет каждая команда?",
+        "output": "82.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "что за девушка играет в Пятьдесят оттенков серого",
+        "output": "Дакота Джонсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет кота в коте в шляпе",
+        "output": "Майк Майерс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто озвучивает голос Винни в гриффинах",
+        "output": "Тони Сирико"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел what doesn't kill you makes you stronger",
+        "output": "Келли Кларксон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выигрывал мировые серии за последние пять лет",
+        "output": "Хьюстон Астрос"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла Call of Duty: World at War",
+        "output": "2008-11-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто имеет наибольшее количество хитов кантри",
+        "output": "Джордж Стрейт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню what condition my condition was in",
+        "output": "Бетти ЛаВетт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл маму в том шоу из 70-х",
+        "output": "Рапп, Дебра Джо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каково население Самтера, Южная Каролина",
+        "output": "39982.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда гей парад в чикаго иллинойс",
+        "output": "2019-06-30"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл гастона в фильме красавица и чудовище",
+        "output": "Люк Эванс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько святых дней обязательства в католической церкви",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт wild thing you make my heart sing",
+        "output": "The Troggs"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "был ли когда-нибудь ураган по имени Кэти",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню have you ever seen the rain",
+        "output": "Creedence Clearwater Revival"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда была написана декларация о правах человека",
+        "output": "1948"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где сняли телешоу очень странные дела",
+        "output": "Атланта"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие команды участвуют в Atlantic Sun Conference?",
+        "output": "Университет Либерти"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню \"You Broke Up with Me\"?",
+        "output": "Уокер Хейз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая самая высока зафиксированная температура в нью йорке",
+        "output": "108.0 градус Фаренгейта"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кому принадлежит большинство в Конгрессе на данный момент",
+        "output": "Республиканская партия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где была битва при Геттисберге",
+        "output": "Пенсильвания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда \"Чикаго Кабс\" выиграли Мировую серию?",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто попал в премьер-лигу в прошлом году",
+        "output": "Кардифф Сити"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое слово в английском языке имеет больше всего слогов",
+        "output": "pneumonoultramicroscopicsilicovolcanoconiosis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая столица у штата Нью-Мексико",
+        "output": "Санта-Фе"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто удерживает рекорд по задержке дыхания?",
+        "output": "Том Сиетас"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был злодеем в Стражах Галактики",
+        "output": "Ронан Обвинитель"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "входит ли республика ирландия в соединенное королевство",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый эпизод комедии Дуракам везёт",
+        "output": "1981-09-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз Надаль выиграл Уимблдон",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Эйвери в dog with a blog",
+        "output": "Ханнелиус, Джи"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал поэму twinkle twinkle little star",
+        "output": "Джейн Тейлор"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет never met a girl like you before",
+        "output": "Эдвин Коллинз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда была создана five nights at freddy's",
+        "output": "2014-08-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел фильм black panther",
+        "output": "2018-02-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл johnny cash в i walk the line",
+        "output": "Хоакин Феникс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт all i need is the air that i breathe",
+        "output": "The Hollies"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел didn't i blow your mind this time",
+        "output": "The Delfonics"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел чарли и шоколадная фабрика",
+        "output": "2005-07-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "со скольки лет можно пить в турции",
+        "output": "18.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "пел ли Том Круз в rock of ages",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где расположен зал славы гольфа",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда состоялась премьера \"Красавицы и Чудовища\" на Бродвее",
+        "output": "1994-04-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где происходит действие в Первый мститель: Другая война",
+        "output": "Вашингтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый старый зарегистрированный человек за все время",
+        "output": "Жанна Кальман"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как называются части фильма Матрица?",
+        "output": "Матрица"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут собаку из истории игрушек",
+        "output": "Спиралька"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каким было последнее извержение вулкана в США",
+        "output": "2018"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал i got you under my skin",
+        "output": "Коул Портер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый длинный бейсбольный матч Высшей лиги был в истории",
+        "output": "Самая длинная профессиональная игра в бейсбол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто первый бейсмен в Yankees",
+        "output": "Войт, Люк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является первым человеком гулявшим по Луне",
+        "output": "Нил Армстронг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько футбольных команд из нфл в калифорнии",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда человек ступил на луну",
+        "output": "июль 20, 1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько школ лиги плюща в сша",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню Walk like a man",
+        "output": "Валли, Фрэнки"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал take it to the limit от eagles",
+        "output": "Фрай, Гленн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где сняли телешоу кухня",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый старый играющий игрок в нба",
+        "output": "Картер, Винс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет дядю Джоша в girl meets world",
+        "output": "Юрайа Шелтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каков диаметр земли по экватору",
+        "output": "7917.5 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Челси в Two And A Half Men",
+        "output": "Тейлор, Дженнифер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как много американских войск погибло во Вьетнамской войне",
+        "output": "58220.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сказал neither a borrower or a lender be",
+        "output": "Полоний"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто спел did it my way первым",
+        "output": "Фрэнк Синатра"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню  jim dandy to the rescue",
+        "output": "Бейкер, Лаверн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится самый большой магазин в мире",
+        "output": "Республика Корея"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый высокооплачиваемый игрок в млб",
+        "output": "Траут, Майк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел those were the days my friends",
+        "output": "Хопкин, Мэри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел Индиана Джонс: В поисках утраченного ковчега",
+        "output": "1981-06-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "самый первый ресторан фаст фуда в мире",
+        "output": "McDonald’s"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Каков минимальный возраст окончания школы в Великобритании?",
+        "output": "18.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Гэндальфа во Властелине колец",
+        "output": "Иэн Маккеллен"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто пел \"these boots were made for walking\"",
+        "output": "Синатра, Нэнси"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был самым старым игроком в НФЛ",
+        "output": "Джордж Бланда"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого самый большой Jumbotron в НФЛ",
+        "output": "Хьюстон Тексанс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Уилла Хортона в Дни нашей жизни",
+        "output": "Гай Уилсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сенаторы штата калифорния",
+        "output": "Файнстайн, Дайэнн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню first time ever i saw your face",
+        "output": "Роберта Флэк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каков вес iphone 7",
+        "output": "4.87 Ounce"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "на какой фазе клеточного цикла происходит репликация ДНК",
+        "output": "S-фаза"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто заменил джонни карсона в вечернем шоу",
+        "output": "Джей Лено"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько вершин у пирамиды с квадратным основанием",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда снят первый сезон очень странных дел",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз янки выигрывали Мировую серию",
+        "output": "2009"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимался в День, когда Земля остановилась",
+        "output": "Майкл Ренни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел wake me up before you go go",
+        "output": "Wham!"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая высота над уровнем моря в Лас-Вегасе, Невада",
+        "output": "610.0 метр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда снимут новый сезон ривердейла",
+        "output": "2019-10-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда были установлены правила колонизации Африки",
+        "output": "1884"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком округе находится Черри Хилл Нью Джерси",
+        "output": "Камден"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как по другому называется Красный Крест",
+        "output": "Международное движение Красного Креста и Красного Полумесяца"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл the national college football championship в прошлом году",
+        "output": "Алабама Кримсон Тайд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал страх и ненависть в лас вегасе",
+        "output": "Хантер Стоктон Томпсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "что за воздушная база находится рядом с пенсакотой флорида",
+        "output": "Станция Воздушно-Морских Сил Пенсакола"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут жену Фреда Флинстоуна",
+        "output": "Уильма Флинтстон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел оригинальный фильм годзилла",
+        "output": "1954-10-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего перехватов в истории нба",
+        "output": "Стоктон, Джон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл жену в everybody loves raymond",
+        "output": "Хитон, Патриция"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда появилась сказка \"Красавице и Чудовище\"",
+        "output": "1740"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто актеры в фильме РЭД",
+        "output": "Мэри-Луиз Паркер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько в США ветряных турбин",
+        "output": "57636.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называются новые звездные войны",
+        "output": "Звёздные войны. Эпизод IX"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню arms of an angel",
+        "output": "Маклахлан, Сара"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт песню these boots are made for walking",
+        "output": "Синатра, Нэнси"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Браун, Милли Бобби в Очень странные дела",
+        "output": "Одиннадцатая"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Ледяного короля в adventure time",
+        "output": "Томас Кенни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда diamondbacks  выиграли мировые серии",
+        "output": "2001"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто тренер Кливленд Кавальерс",
+        "output": "Джон Бейлин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла песня tainted love",
+        "output": "1981"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда ливерпуль в последний раз выигрывал в премьер лиге",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как назывался ураган, обрушившийся на Пуэрто-Рико?",
+        "output": "Мария"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый маленький штат в соединенных штатах америки",
+        "output": "Род-Айленд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый пожилой человек взошедший на эверест",
+        "output": "Миура, Юитиро"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз \"Атланта Брэйвз\" выиграл Мировую серию?",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Лестер Сити выиграл Премьер-лигу",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "С какого возраста можно выпивать в Канаде",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие песни элтон джон написал для короля льва",
+        "output": "Circle of Life"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является номером один в списке Форбс",
+        "output": "Безос, Джеффри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого исключили из премьер лиги в прошлом году",
+        "output": "Кардифф Сити"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда шотландия стала частью великобритании",
+        "output": "1707"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто забил больше всего голов в истории Лиги чемпионов",
+        "output": "Криштиану Роналду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сказал и теперь остальная часть истории",
+        "output": "Пол Харви"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел ain't no sunshine when she's gone",
+        "output": "Уизерс, Билл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто победил в матче всех звезд Главной лиги бейсбола в прошлом году",
+        "output": "Американская лига"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню my boyfriend's back",
+        "output": "The Angels"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел when you say nothing at all",
+        "output": "Китинг, Ронан"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого из гимнастов больше всего медалей",
+        "output": "Байлз, Симона"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где начинается и заканчивается река Колумбия",
+        "output": "Колумбия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какая ярмарка в США самая большая",
+        "output": "Ярмарка штата Миннесота"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого красный носовой чип или дол",
+        "output": "дэйл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимался в фильме под планетой обезьян",
+        "output": "Чарлтон Хестон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие четыре части парка дисней",
+        "output": "Epcot"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько унций в шоте ликера",
+        "output": "1.5 Ounce"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполняет песню в стиле кантри \"how do you like me now\"",
+        "output": "Кит, Тоби"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где снимали оранжевый хит сезона",
+        "output": "Нью-Йорк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где было снято кино чувство и чувственность",
+        "output": "Девон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимается в фильме 50 оттенков серого",
+        "output": "Дженнифер Эль"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Аргентина выиграла их первый кубок мира",
+        "output": "1978"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой футбольный клуб является самым успешным в мире",
+        "output": "Реал Мадрид"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "на какой день попадает День труда в 2018",
+        "output": "2018-09-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет пэм в шоу 70-х",
+        "output": "Пламб, Ив"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел sitting by the dock of the bay",
+        "output": "Реддинг, Отис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда the colorado rockies победили в мировой серии",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является текущим министром обороны Индии",
+        "output": "Раджнатх Сингх"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел i can't get no satisfaction",
+        "output": "The Rolling Stones"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто говорит за кадром в celebs go dating",
+        "output": "Роб Беккетт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда гавайи стали штатом сша",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышел фильм \"Пятьдесят оттенков серого\"?",
+        "output": "2015-02-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда был снят фильм Пиф-паф ой-ой-ой",
+        "output": "1968-12-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню call me the breeze",
+        "output": "Джей Джей Кейл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где происходят события сериала Офис",
+        "output": "Пенсильвания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда был снят league of their own",
+        "output": "1992-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой элемент периодической таблицы имеет самую высокую температуру плавления?",
+        "output": "углерод"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поет we don't need no education",
+        "output": "Pink Floyd"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого последним казнили firing squad",
+        "output": "Гарднер, Ронни Ли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько всего поправок в сша",
+        "output": "27.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет everything i do i do for you",
+        "output": "Брайан Адамс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько очков Стефен Карри имеет за карьеру",
+        "output": "16315.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполняет песню \"oh what a night\"",
+        "output": "The Four Seasons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Откуда появились красноухие пресноводные черепахи",
+        "output": "Мексиканский залив"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда период свободных агентов начинается в нба",
+        "output": "1988"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимался в дневнике слабака",
+        "output": "Рэйчел Харрис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню don't stop thinking about tomorrow",
+        "output": "Fleetwood Mac"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая цена была на газ в 1979 году",
+        "output": "0.86 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был вторым человеком ступившим на луну",
+        "output": "Базз Олдрин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто больше всех выиграл мировую серию",
+        "output": "Нью-Йорк Янкиз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько золота в форте ноксе",
+        "output": "147300000.0 Ounce"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Откуда Фез из 70 show",
+        "output": "Хоум"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Персия сменила название на Иран",
+        "output": "1935"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт if it's meant to be",
+        "output": "Биби Рекса"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Графа Олафа в сериале unfortunate events",
+        "output": "Нил Патрик Харрис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какое расстояние между Атлантой, штат Джорджия и Мобил, штат Алабама",
+        "output": "328.1 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько миль от Уэйко, Техас до Далласа, Техас",
+        "output": "95.0 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет to make you feel my love",
+        "output": "Адель"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню too much time on my hands",
+        "output": "Styx"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько титулов НБА выиграл Майкл Джордан",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел e all live in a yellow submarine",
+        "output": "The Beatles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как далеко corpus christi texas от austin texas",
+        "output": "216.9 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Lynyrd Skynyrd выпустила sweet home alabama",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Илай Мэннинг всё ещё квотербек Giants",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто придумал фразу let sleeping dogs lie",
+        "output": "Джеффри Чосер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто написал i can't make you love me",
+        "output": "Майк Рейд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз Ливерпуль выигрывал трофей",
+        "output": "2019"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет в Принц из Беверли-Хиллз",
+        "output": "Татьяна Али"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая самая горячая зарегистрированная температура на земле",
+        "output": "134.1 градус Фаренгейта"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда во франции последний раз пользовались гильотиной",
+        "output": "1981-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл питера паркера в the amazing spider man",
+        "output": "Эндрю Гарфилд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где производят wells blue bunny ice cream",
+        "output": "Плимут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда в эфире \"Семейство Кардашян\"",
+        "output": "2007-10-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько титулов нба у коби брайанта",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел i never promised you a rose garden",
+        "output": "Линн Андерсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню abraham martin and john",
+        "output": "The Miracles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла первая игра легенда зельды",
+        "output": "1986-02-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как далеко находится Сан-Диего от Тихуаны Мексика",
+        "output": "31.9 километр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называют главу мафии",
+        "output": "босс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько унций в ручке водки",
+        "output": "59.2 Ounce"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышла \"Барби: Жизнь в доме мечты\"?",
+        "output": "2012-05-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню i fought the law and the law won",
+        "output": "The Clash"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда были построены башни близнецы в нью йорке",
+        "output": "2006-04-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сыграл железного человека в волшебнике страны оз",
+        "output": "Хейли, Джек"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню i wear my sunglasses at night",
+        "output": "Кори Харт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз Стилерз играли в Супер Боул?",
+        "output": "2011-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимался в фильме король и я",
+        "output": "Рита Морено"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда была подписана Декларация независимости",
+        "output": "1776-08-02"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком городе происходят события ferris bueller's day off",
+        "output": "Чикаго"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находятся самые точные часы в мире?",
+        "output": "Северная Америка"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел оригинальный фильм Челюсти",
+        "output": "1975-06-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню you can leave your hat on",
+        "output": "Рэнди Ньюман"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько игроков в списке НФЛ",
+        "output": "53.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая численность населения в уиллистоне северная дакота",
+        "output": "25586.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как зовут архангелов",
+        "output": "Архангел Гавриил"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл волшебника страны оз в разных фильмах",
+        "output": "Волшебник страны Оз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был последним убитым президентом США",
+        "output": "Джон Фицджеральд Кеннеди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда перестали выпускать the wheat penny",
+        "output": "1958"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда в Лас-Вегасе построили MGM Grand",
+        "output": "1993-12-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда the padres выиграли мировую серию",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл плей-офф суперкубока",
+        "output": "Нью-Ингленд Пэтриотс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда Филадельфия Филлис выиграла Мировую серию",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "выигрывали ли cleveland browns Суперкубок",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие имена у участников в bts",
+        "output": "J-Hope"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был первым действующим президентом соединенных штатов",
+        "output": "Джордж Вашингтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда Великобритания вошла в Европейский союз?",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Из какого фильма вышла песня \"A whole new world\"?",
+        "output": "Аладдин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кем является актер, который снимается в рекламе allstate",
+        "output": "Деннис Хэйсберт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое расстояние от шарлотт северная каролина до чарльстона южная каролина",
+        "output": "209.5 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каково население palm bay флорида",
+        "output": "114194.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где будет проводится олимпиада в 2024 году",
+        "output": "Франция"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз кто-то ходил по Луне",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "является ли вашингтон округ колумбия одним из 50 штатов",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет amy what you wanna do",
+        "output": "Пьюр Прери Лиг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда \"Блэкхокс\" выиграли Кубок Стэнли",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл черного шерифа в сверкающих сёдлах",
+        "output": "Литтл, Кливон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто самый высокий человек в мире?",
+        "output": "Уодлоу, Роберт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда the minnesota vikings play играют свою первую игру",
+        "output": "1961-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько минут в боксерском раунде",
+        "output": "3.0 минута"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт All i want for Christmas is you",
+        "output": "Мэрайя Кэри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел i think it's going to rain today",
+        "output": "Рэнди Ньюман"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто судьи в  america got talent",
+        "output": "Саймон Коуэлл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл NBA Rookie 2017 года",
+        "output": "Брогдон, Малкольм"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько страниц в книгах harry potter",
+        "output": "3407.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько страниц в первой книге The Land of Stories?",
+        "output": "438.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько стоит Пиастр",
+        "output": "50.0 2000.0 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "чье лицо на однодолларовой купюре",
+        "output": "Джордж Вашингтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда отмечается день детей в индии",
+        "output": "11-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел splish splash i was taking a bath",
+        "output": "Дарин, Бобби"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько президентов было в сша",
+        "output": "45.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком возрасте королева елизавета стала королевой",
+        "output": "27.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i got the moves like jagger",
+        "output": "Maroon 5"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал музыку к land of hope and glory",
+        "output": "Эдуард Элгар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню when will i be loved",
+        "output": "Ронстадт, Линда"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел the bluest skies are in seattle",
+        "output": "Перри Комо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто принимал the colts, когда они играли в Суперкубке",
+        "output": "Нью-Йорк Джетс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько серий во втором сезоне attack on titan",
+        "output": "12.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Хортона в horton hears a who",
+        "output": "Джим Керри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда resh prince of bel вышел в эфир",
+        "output": "1990-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал книгу по ком звонит колокол",
+        "output": "Эрнест Хемингуэй"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто получил больше всего технических фолов в нба",
+        "output": "Уоллес, Рашид"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто были первыми членами canned heat",
+        "output": "Боб Хайт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню  take this job and shove it",
+        "output": "David Allan Coe"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню the house of the rising sun",
+        "output": "Джорджтя Тёрнер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда появились первые христианские общины в британии",
+        "output": "I век"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где играют the red river rivalry",
+        "output": "Даллас"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл тур де франс в прошлом году",
+        "output": "Берналь, Эган"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда была написана книга излом времени",
+        "output": "1960"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто оригинальный исполнитель the house of the rising sun",
+        "output": "The Animals"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто  пел \"Can You Feel the Love Tonight\"?",
+        "output": "Нейтан Лейн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто были актеры, которые играли Джеймса Бонда",
+        "output": "Пирс Броснан"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет finally it's happened to me",
+        "output": "Сиси Пенистон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называются пять великих озёр",
+        "output": "Мичиган (озеро)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие почтовые индексы в нью джерси",
+        "output": "609.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто в прошлом году стал победителем в чемпионате по поеданию хот-догов?",
+        "output": "Джоуи Честнат"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто озвучивает tiana в princess and the frog",
+        "output": "Аника Нони Роуз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько планет в нашей солнечной системе",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие основные центры у юго-западных авиакомпаний",
+        "output": "Чикаго"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком году вышел фильм the sound of music",
+        "output": "1965"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел фильм Белоснежка",
+        "output": "1937"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая самая низкая точка Земли",
+        "output": "Мёртвое море"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько дней прошло с тех пор, как Мичиган победил штат Огайо?",
+        "output": "2892.0 суток"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышел оригинальный фильм \"Изгоняющий дьявола\"",
+        "output": "1973-12-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню i'm coming home",
+        "output": "Diddy – Dirty Money"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Король-лев вышел в кинотеатрах",
+        "output": "2019-07-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто та актриса, которая играет Джинни Уизли",
+        "output": "Бонни Райт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько парков в Нью-Йорке",
+        "output": "1700.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая средня зарплата в сша",
+        "output": "56516.0 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполнил роль мамы в сериале \"Все любят Рэймонда\"",
+        "output": "Робертс, Дорис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "происхождение фамилии collins",
+        "output": "Ирландия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут детей в гадкий я",
+        "output": "Эдит"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню it's been awhile",
+        "output": "Staind"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл french open по теннису в этом году",
+        "output": "Кравиц, Кевин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла игра Пятница 13-е",
+        "output": "2017-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был первым Председателем Верховного суда США",
+        "output": "Джей, Джон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел оригинал песни hooked on a feeling",
+        "output": "Томас, Би Джей"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какая песня была самая популярная в 1981 году?",
+        "output": "Bette Davis Eyes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "что за актёр играет мэтьюса в  лонгмайере",
+        "output": "Занн МаКларнон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится Seven Mile Bridge в Ключах",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел оригинальную песню red red wine",
+        "output": "Даймонд, Нил"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда нужно было родиться, чтобы считаться миллениалом",
+        "output": "1981-1996"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто имеет наибольшее количество подписчиков в Инстаграме",
+        "output": "Криштиану Роналду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел фильм Бунтарь без причины",
+        "output": "1955"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз манчестер юнайтед выигрывал лигу чемпионов",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл билли в Пролетая над гнездом кукушки",
+        "output": "Брэд Дуриф"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто спел we're not gonna take it",
+        "output": "Twisted Sister"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая вторая самая большая страна в южной америке",
+        "output": "Аргентина"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько глав в книге The Westing Game",
+        "output": "30.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда произошло чудо на Гудзоне",
+        "output": "2009-01-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше побед в нфл",
+        "output": "Чикаго Беарз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый старый игрок в гольф выигравший турнир pga",
+        "output": "Снид, Сэм"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего золотых перчаток в истории mlb",
+        "output": "Иван Родригес"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каково население Фарго, Северная Дакота",
+        "output": "122359.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет here we go again on my own",
+        "output": "Whitesnake"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого в the al было самое высокое среднее значение в 2011",
+        "output": "Кабрера, Мигель"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где живут лоси в Соединенных Штатах",
+        "output": "Айдахо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто оригинальный ведущий the price is right",
+        "output": "Билл Каллен"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "В каком слое эпидермиса происходит деление и замена клеток?",
+        "output": "Базальный слой"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова высота Розуэлл Нью-Мексико",
+        "output": "3573.0 английский фут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто кандидат от демократической партии в 2020",
+        "output": "Джо Байден"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут персонажей из stranger things",
+        "output": "Одиннадцатая"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда выйдет следующий фильм marvel",
+        "output": "2019-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал послание коринфянам в библии",
+        "output": "Апостол Павел"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был первоначальным барабанщиком guns and roses",
+        "output": "Стивен Адлер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каково было население США в 1970 году",
+        "output": "203200000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие официальные цвета alpha chi omega",
+        "output": "оливковый"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто написал песни для фильма \"Поющие под дождём\"",
+        "output": "Артур Фрид"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой фильм является самым кассовым в мире",
+        "output": "Мстители: Финал"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой актёр играет джеймса бонда",
+        "output": "Мур, Роджер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая столица у Объединенных арабских эмиратов",
+        "output": "Абу-Даби"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл на гитаре в песне the monkees valerie",
+        "output": "Луис Шелтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто озвучивает Элли в \"Последние из нас\"?",
+        "output": "Эшли Джонсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько сезонов в chicago pd",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда будет проводиться следующий Чемпионат мира по футболу",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто the offensive coordinator в the tampa bay buccaneers",
+        "output": "Байрон Лефтвич "
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто был последним человеком, казненным расстрельной командой в Соединенных Штатах?",
+        "output": "Гарднер, Ронни Ли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Где снимали шестой сезон \"Игры престолов\"",
+        "output": "Хорватия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого играет Том Хэнкс в Истории игрушек",
+        "output": "Шериф Вуди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого самый высокий процент на базе в главной лиге бейсбола",
+        "output": "Уильямс, Тед"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда США объявили войну во Вьетнаме",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой аэропорт самый большой в соединённых штатах",
+        "output": "Международный аэропорт Хартсфилд-Джексон Атланта"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто по",
+        "output": "Крей, Роберт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сказал we have not yet begun to fight",
+        "output": "Джон Пол Джонс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет we are never getting back together",
+        "output": "Тейлор Свифт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда впервые были использованы электрические огни для новогодней ёлки",
+        "output": "1882"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл в супер кубке в 2014",
+        "output": "Сиэтл Сихокс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая температура в пало альто калифорния",
+        "output": "69.0 градус Фаренгейта"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сказал life is a bowl of cherries",
+        "output": "Браун, Лев"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто четвертый премьер министр индии",
+        "output": "Десаи Морарджи"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие страны входят в состав ЕС",
+        "output": "Германия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какие три самых густонаселенных штата в Соединенных Штатах",
+        "output": "Флорида"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "В чем разница между тихоокеанским  и горным временем",
+        "output": "1.0 часов"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько голосов получил каждый штат по статьям конфедерации",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто входит в сборную Англии на чемпионате мира",
+        "output": "Тонга"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел days of our lives",
+        "output": "1965-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый высокий водопад в США",
+        "output": "Олоупена"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится разлом сан андреас",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько эпизодов в уолтонах",
+        "output": "221.0 эпизод"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда the detroit tigers выиграли мировую серию",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Man City начал играть в Премьер-лиге",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какая высота горы Пайкс Пик в Колорадо?",
+        "output": "4302.0 метр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел капитан америка первый мститель",
+        "output": "2011-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл в Улицы Сан Франциско",
+        "output": "Хэтч, Ричард"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый телефон с сенсорным экраном",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое имя у the wicked witch of the west",
+        "output": "Элфаба"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Новая Зеландия стала британской колонией",
+        "output": "1840"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда гарри поттер и проклятое дитя идёт на бродвее",
+        "output": "2018-04-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Где происходит действие \"Золушки\"",
+        "output": "Франция"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является солистом в pearl jam",
+        "output": "Эдди Веддер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто находится в дивизионе патриотов Новой Англии",
+        "output": "Нью-Йорк Джетс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто является квотербеком в Цинциннати Бенгалс?",
+        "output": "Далтон, Энди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько раз Англия выигрывала Кубок Мира",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто спел песню I can't live without you",
+        "output": "Нилссон, Гарри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда последний раз \"Бостон Брюинз\" выигрывали чемпионат",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл больше всего этапов tour de france",
+        "output": "Меркс, Эдди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал \"какую запутанную паутину мы плетем\"",
+        "output": "Вальтер Скотт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто придумал теорию эффекта бабочки",
+        "output": "Лоренц, Эдвард Нортон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда снята серия черного зеркала shut up and dance",
+        "output": "Великобритания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "является ли Гавайи частью североамериканского континента",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие животные находятся в списке исчезающих видов",
+        "output": "Дальневосточный леопард"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл тур де франс в 1985",
+        "output": "Ино, Бернар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько атомных электростанций в калифорнии",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "За сколько команд играл Шак в НБА",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком сезоне умер хершель в ходячих мертвецах",
+        "output": "9.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл последний женский кубок мира",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "что такое моторы в паравозике томасе",
+        "output": "Берт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда последний раз пакистан выигрывал кубок мира",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут создателя roblox",
+        "output": "Эрик Кассель"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком отеле была Стрельба в Лас-Вегасе",
+        "output": "Мандалай-Бэй"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие актеры снимались в большом лебовски",
+        "output": "Джефф Бриджес"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет злую девочку в Дневниках принцессы",
+        "output": "Мэнди Мур"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где предполагаемо происходят события в notebook",
+        "output": "Сибрук-Айленд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда появилось черно-белое телевидение",
+        "output": "1936"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл персонажей в lion king",
+        "output": "Чиветел Эджиофор"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является стартовым защитником the vikings",
+        "output": "Кирк Казинс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1 л равен скольким мл",
+        "output": "1000.0 миллилитр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто играет Роуз в Два с половиной человека?",
+        "output": "Мелани Лински"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал Невероятный мир глазами Энцо",
+        "output": "Стайн, Гарт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда начинается следующий сезон лиги чемпионов",
+        "output": "2019-10-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл финал лиги чемпионов в прошлом году",
+        "output": "Ливерпуль"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда построили втц",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поет песню \"straight from the heart\"",
+        "output": "Брайан Адамс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "который выиграл Уимблдонский турнир в мужском разряде в этом году",
+        "output": "Новак Джокович"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Каков возраст легального употребления алкоголя на Филиппинах?",
+        "output": "18.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда начинается сезон ураганов в сша",
+        "output": "06-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут желтую машину в тачках",
+        "output": "Круз Рамирез"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто набрал больше всего очков в нба",
+        "output": "Карим Абдул-Джаббар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько костей в теле человека",
+        "output": "206.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько книг Как приручить дракона",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где был построен самый первый Макдональдс",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда опубликован the lion the witch and the wardrobe",
+        "output": "1950-10-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Анастейшу Стил в fifty shades of grey",
+        "output": "Дакота Джонсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой актёр играет доктор стрэнджа",
+        "output": "Бенедикт Камбербэтч"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является тренером cleveland cavaliers",
+        "output": "Джон Бейлин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда the rams выиграли супер кубок",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто основал первый частный детский дом в Нью-Йорке",
+        "output": "Александр Гамильтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где было выражение \"еще не конец, пока толстая дама не запоет\"",
+        "output": "Дэн Кук"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где была последняя смерть от firing squad",
+        "output": "2010-06-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как называется человек, который ест только рыбу",
+        "output": "Пескетарианство"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой самый большой город в континентальных Соединенных Штатах?",
+        "output": "Джэксонвилл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто снимался в Дракон: История жизни Брюса Ли",
+        "output": "Джейсон Скотт Ли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышли стражи галактики",
+        "output": "2014-08-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как долго служит американский сенатор",
+        "output": "6.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "чем были гавайи до того как стали штатом",
+        "output": "царство"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Рика и Морти в Рик и Морти",
+        "output": "Ройланд, Джастин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где был снят фильм Боевой фургон",
+        "output": "Мексика"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова текущая высота Эвереста",
+        "output": "8848.0 метр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл большинство сезонов Голоса",
+        "output": "Блэйк Шелтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Халка в тв сериале",
+        "output": "Билл Биксби"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел i want to know your name",
+        "output": "The Whispers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является голосом Маленькой Русалочки",
+        "output": "Джоди Бенсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню i saw the sign",
+        "output": "Ace of Base"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто одержал победу в серии игр Главной Лиги Бейсбола в 2002 году",
+        "output": "Лос-Анджелес Энджелс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый фильм Пятница 13-е",
+        "output": "1980-01-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является самым высоким человеком в НФЛ",
+        "output": "Ричард Слай"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда перестали использовать проводку с использованием роликов и трубок",
+        "output": "1940"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая плотность континентальной коры",
+        "output": "2.833 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут хамелеона в tangled",
+        "output": "Паскаль"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как далеко des moines от waterloo iowa",
+        "output": "128.7 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Сиэтл Суперсоникс переехал в Оклахома-Сити",
+        "output": "2008–09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда началась и закончилась Корейская война",
+        "output": "1950-06-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт loving you is easy cause you're beautiful",
+        "output": "Рипертон, Минни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл труп в Большое разочарование",
+        "output": "Кевин Костнер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в честь кого назван кубок чемпионата Национальной футбольной лиги",
+        "output": "Ломбарди, Винс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт do you think you're better off alone",
+        "output": "Alice Deejay"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего хитов из minnesota twins",
+        "output": "Сэм Райс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько стран на африканском континенте",
+        "output": "54.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая самая умная птица в мире",
+        "output": "Кеа"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет боромира во властелине колец",
+        "output": "Шон Бин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел i say a little prayer for you",
+        "output": "Уорвик, Дайон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл в Война Алой и Белой розы",
+        "output": "Марианна Зегебрехт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "За кого играл Кевин Дюрант до Уорриорз",
+        "output": "Оклахома-Сити Тандер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл us open по гольфу в этом году",
+        "output": "Гэри Вудлэнд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "существует ли международный мужской день",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто оригинальный исполнитель where is the love",
+        "output": "Роберта Флэк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сыграл рамси болтона в играх престолов",
+        "output": "Иван Реон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел star wars a new hope",
+        "output": "1977-05-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какова численность населения Силвер-Спринг, штат Мэлиленд",
+        "output": "71452.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько альбомов имеет Dave Matthews Band",
+        "output": "105.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел заглавную песню в ситкоме \"Малкольм в центре внимания\"?",
+        "output": "They Might Be Giants"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько миль от Атланты штат Джорджия до Нью-Йорка?",
+        "output": "862.9 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько команд нба никогда не выигрывали чемпионат",
+        "output": "11.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как долго находится yonge street в Торонто Канада",
+        "output": "1178.0 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько раз манчестер юнайтед выигрывали в лиге чемпионов",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие официальные языки Южной Африки",
+        "output": "африкаанс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является генеральным менеджером Нью-Йорк Янкиз",
+        "output": "Брайан Кэшман"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз the blackhawks выигрывали кубок стэнли",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет thomas в the bold and the beautiful",
+        "output": "Адам Грегори"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет в ночи в музее",
+        "output": "Оуэн Уилсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый высокий центровой в нба",
+        "output": "Мурешан, Георге"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является капитаном сборной Австралии по крикету",
+        "output": "Тим Пейн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кому проиграли the steelers в супер кубке",
+        "output": "Грин Бэй Пэкерз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто у Нью-Йорк Джетс начинает Квотербеком",
+        "output": "Сэм Дарнольд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как долго длится срок полномочий представителя?",
+        "output": "2.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится отель в котором сняли сияние",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у какого квотербека в Национальной футбольной лиги больше всего ярдов на пасе?",
+        "output": "Брис, Дрю"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут главных героев в гарри поттере",
+        "output": "Гермиона Грейнджер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда lsu в последний раз выигрывали национальный чемпионат",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком году вышел мультфильм история игрушек",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком году вышел фильм свободные",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько peachtree street существует в атланте",
+        "output": "71.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню every breath you take",
+        "output": "The Police"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто являются первоначальными членами lynyrd skynyrd",
+        "output": "Ван Зант, Рональд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда в последний раз \"Селтикс\" выигрывали чемпионат",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто лидирует в НБА по перехватам мяча в этом году",
+        "output": "Джордж, Пол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто имеет лучший рекорд в профессиональном бейсболе",
+        "output": "Нью-Йорк Янкиз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каково население Лоуэр-Мэйнленда?",
+        "output": "2759000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как называется аэропорт в городе Финикс?",
+        "output": "Финикс Скай-Харбор"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню мне так одиноко что могу заплакать",
+        "output": "Уильямс, Хэнк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел zing went the strings of my heart",
+        "output": "Джуди Гарленд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл первый сезон big brother",
+        "output": "Эдди Мак-Ги"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Лоис Лейн в оригинальном Супермене",
+        "output": "Марго Киддер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько взлетно-посадочных полос в аэропорте гэтвик",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Что означает asi в полиции",
+        "output": "Помощник субинспектора полиции"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто брат в everybody loves raymond",
+        "output": "роберт бэроун"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Список самых высоких зданий в Нью-Йорке",
+        "output": "Всемирный торговый центр 1"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда был снят фильм Индиана Джонс и Последний крестовый поход",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кем являются все президенты горы Рашмор",
+        "output": "Авраам Линкольн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сказал perfect is the enemy of good",
+        "output": "Вольтер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "самый большой штат сша по количеству населения",
+        "output": "Калифорния"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Прентисс вернется в Мыслить как преступник",
+        "output": "Пэйджет Брюстер (Прентисс) вернулась в качестве гостя в 2014 году и в 11 сезоне в эпизоде «Дань» в начале 2016 года"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько сезонов было в очень странных делах",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто заработал больше всего очков в препьер лиге в этом году",
+        "output": "Садио Мане"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто произнёс британцы идут британцы идут",
+        "output": "Ревир, Пол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой высоты Expedition Everest в Диснейуорлде",
+        "output": "199.0 английский фут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый молодой гном в Хоббите",
+        "output": "Торин Дубощит"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всех очков за все время в нба",
+        "output": "Карим Абдул-Джаббар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл paladin в have gun will travel",
+        "output": "Ричард Бун"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "У кого в истории Главной лиги бейсбола лучший показатель среднего количества ударов",
+        "output": "Кобб, Тай"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколкьо шёл секс в большом городе",
+        "output": "6.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет henry mills в once upon a time",
+        "output": "Джаред Гилмор"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как звали чудовище в красавице и чудовище",
+        "output": "Адам"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню \"When a Man Loves a Woman\"?",
+        "output": "Следж, Перси"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называется фаза расслабления в сердечном цикле",
+        "output": "Диастола"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько раз seahawks были в плей-офф",
+        "output": "17.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто набрал наибольшее количество очков в истории нба",
+        "output": "Карим Абдул-Джаббар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл последнюю игру Golden State Warriors",
+        "output": "Лос-Анджелес Лейкерс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как звали гиен в lion king",
+        "output": "Шензи"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как далеко Крествью , Флорида от Дестина, Флорида",
+        "output": "36.4 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый первый мультфильм про диснеевскую принцессу?",
+        "output": "Белоснежка и семь гномов"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал how much is that doggie in the window",
+        "output": "Боб Мэрилл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "рыба каких видов водится в озере Верхнее?",
+        "output": "Светлопёрый судак"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поет \"will i see you again\"",
+        "output": "The Three Degrees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "актерский состав телешоу полиция Чикаго",
+        "output": "Скверсьяти, Марина"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где проводится the tour de france",
+        "output": "Франция"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышел фильм \"Отточенное лезвие\"",
+        "output": "1996-11-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет главную тему в сериале outlander",
+        "output": "Бэр Маккрири"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Где находится Метрополитен-музей?",
+        "output": "Нью-Йорк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у ВВС-1 есть спасательная капсула",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называют Микки Мауса во Франции",
+        "output": "Микки Маус"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто в little mix старше всех",
+        "output": "Джесси Нельсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет барни стинсона в как я встретил вашу маму",
+        "output": "Нил Патрик Харрис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда перестали выпускать монеты 50 центов",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет listen to the rhythm of the falling rain",
+        "output": "Каскады"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполняет песню \"tied to the whipping post\"",
+        "output": "The Allman Brothers Band"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда была подписана конституция соединенных штатов",
+        "output": "1787-09-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называются великие озера в мичигане",
+        "output": "Мичиган (озеро)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз the phillies вышли в мировую серию",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл последние 10 чемпионатов ncaa по футболу",
+        "output": "Алабама Кримсон Тайд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл больше всего медалей на Олимпийских играх",
+        "output": "Майкл Фелпс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько лет фронтмену three days grace",
+        "output": "41.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто человек в желтой шляпе",
+        "output": "Тед Шеклфорд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является талисманом arizona diamondbacks",
+        "output": "Рысь Бакстер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая самая длинная дистанция, которую кто-либо пробежал",
+        "output": "350.0 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был девушкой Энди в шоу ЭндиГриффита",
+        "output": "Хелен Крамп"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько миль от Тампы, штат Флорида до Майами, штат Флорида",
+        "output": "280.0 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова высота виноградной лозы в Калифорнии",
+        "output": "1499.0 английский фут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто является квотербеком команды Нью-Ингленд Пэтриотс",
+        "output": "Том Брэди"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда была создана Всеобщая декларация прав человека",
+        "output": "1948-12-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какого года rankie goes to hollywood power of love",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится самая маленькая кость в теле",
+        "output": "среднее ухо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько отсеков у человеческого желудка",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у какой команды нфл больше всего побед в истории",
+        "output": "Чикаго Беарз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где происходит действие love it or list it",
+        "output": "Онтарио"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда выйдет в эфир первый эпизод ghost adventures",
+        "output": "2018-10-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Первая британская команда, выигравшая Европейский Трофей",
+        "output": "Селтик"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько есть эпизодов episodes of game of thrones",
+        "output": "73.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто победил в первом в америке есть таланты",
+        "output": "Бьянка Райан"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой высоты голливудская башня террора",
+        "output": "61.0 метр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл edith bunker в all in the family",
+        "output": "Джин Степлтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет in the arms of an angel",
+        "output": "Маклахлан, Сара"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл чемпионат мира по бейсболу в 2017 году",
+        "output": "Хьюстон Астрос"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл национальный чемпионат по футболу среди колледжей в прошлом году",
+        "output": "Алабама Кримсон Тайд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда сделали оригинал charlie and the chocolate factory",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "что означает быстрый в отношении ударов",
+        "output": "БЫСТРЫЙ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел the first cut is the deepest",
+        "output": "Род Стюарт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда нужно родиться, чтобы быть Миллениалом",
+        "output": "1981.0 1996.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел you make my dreams come true",
+        "output": "Daryl Hall & John Oates"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится Остров кукол",
+        "output": "Мексика"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню  take a walk on the wild side",
+        "output": "Лу Рид"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько погибло в Стрельбе в Лас-Вегасе",
+        "output": "58.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл маму в Сбрось маму с поезда",
+        "output": "Рэмси, Энн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто делает дизельные двигатели для jeep grand cherokee",
+        "output": "В.М. Мотори"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел the first time i ever saw your face",
+        "output": "Роберта Флэк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый фильм guardians of the galaxy",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда марк слоан умирает в Анатомия страсти",
+        "output": "2012-09-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "из какого мюзикла песня i enjoy being a girl from",
+        "output": "Флауэр Драм Сонг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал слова к candle in the wind",
+        "output": "Топин, Берни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто проводит Кубок Мира в 2026",
+        "output": "Мексика"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел jurassic world fallen kingdom",
+        "output": "2018-05-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел pretty little liars",
+        "output": "2010-06-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "есть ли режим кампании в rainbow six siege",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел фильм король лев",
+        "output": "2019-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько серий в \"Игре престолов\"",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где был открыт первый ресторан Макдональдс",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый высокий питчер в MLB",
+        "output": "Джон Рауч"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл дочь в national lampoon's christmas vacation",
+        "output": "Эллен Хэмилтон Латцен"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько в америке стоит биг мак",
+        "output": "5.58 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где играю мировую серию детской лиги",
+        "output": "Пенсильвания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "КТо написал произведение \"Красавица и чудовище\"?",
+        "output": "Габриэль Сюзанна Барбо де Вильнёв"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто написал песню \"i believe in you\"",
+        "output": "Роджер Кук"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел заглавную песню из сериала Лаверна и Ширли",
+        "output": "Синди Грекко"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет риджа форрестера в молодых и дерзких",
+        "output": "Ронн Мосс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком году появились flaming hot cheetos",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько игр играет команда a college baseball",
+        "output": "56.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню 30 days in the hole",
+        "output": "Humble Pie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал музыку к властелину колец",
+        "output": "Говард Шор"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышло кино отличный гамбургер",
+        "output": "1997-07-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто является спикером Палаты представителей США",
+        "output": "Нэнси Пелоси"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто записал ain't no mountain high enough",
+        "output": "Гэй, Марвин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является актрисой в gone with the wind",
+        "output": "Макдэниел, Хэтти"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова самая восточная точка в США",
+        "output": "Мэн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого самые крупные победы в гольфе",
+        "output": "Никлаус, Джек"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый большой остров в средиземном море",
+        "output": "Сицилия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где жила дороти в волшебнике страны оз",
+        "output": "Канзас"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел это моя вечеринка и я буду плакать если мне хочется",
+        "output": "Гор, Лесли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где произошла the battle of alamo",
+        "output": "Техас"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько виноделен в штате Вашингтон",
+        "output": "900.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая численность населения в ютике нью йорк",
+        "output": "60635.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел are we human or are we dancers",
+        "output": "The Killers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут племянника скуби ду",
+        "output": "Скрэппи-Ду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где находится самая глубокая часть океана",
+        "output": "Бездна Челленджера"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда разводы были легализованы в сша",
+        "output": "1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько раз the penguins выигрывали кубок стэнли",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый быстрый серийный автомобиль в мире",
+        "output": "Bugatti"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько этажей в самом высоком здании сша",
+        "output": "104.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называется руль на корабле",
+        "output": "Штурвал"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "что за машина была у придурков из хаззарда",
+        "output": "Dodge Charger (B-body)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько финалов нба выиграли the bulls",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто имел первое представление о самолете",
+        "output": "братья Райт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл в этом Уимблдонский турнир в женском одиночном разряде",
+        "output": "Simona Halep"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где пройдёт следующий кубок мира",
+        "output": "Катар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл paula  в an officer and a gentleman",
+        "output": "Дебра Уингер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт keep on rollin with the flow",
+        "output": "Рич, Чарли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл \"новичок года\" НБА",
+        "output": "Дончич, Лука"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого наивысшее среднее значение в этом году",
+        "output": "Кобб, Тай"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто актёры в фильме офицер и джентельмен",
+        "output": "Дебра Уингер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Манди Бакстер в last man standing",
+        "output": "Эфраим, Молли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где живет Генерал‑губернатор Канады?",
+        "output": "Оттава"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кому принадлежат слова \"В жизни ничего не обещано, кроме смерти\"",
+        "output": "Канье Уэст"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Розового Рейнджера в Могучих рейнджерах",
+        "output": "Кимберли Харт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где начинается и заканчивается река Йеллоустоун",
+        "output": "Миссури"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Майкл Джордан впервые начал играть в баскетбол",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у какой страны белый флаг с красным крестом",
+        "output": "Дания"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого играет samuel l jackson в star wars",
+        "output": "Мейс Винду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл супербоул falcons или patriots",
+        "output": "Нью-Ингленд Пэтриотс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда в этом году стартует Мотоциклетное ралли в Стурджисе",
+        "output": "2019-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто тренер женской бскетбольной команды нотр дам",
+        "output": "Муффет Макгроу"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого играл брэдли уолш в улице коронации",
+        "output": "Дэнни Болдуин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является нынешним вице-президентом Индии",
+        "output": "Венкая Найду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто прототип фильма danny collins",
+        "output": "Стив Тилстон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто играет Скотти в новом \"Звездном пути\"",
+        "output": "Саймон Пегг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой флаг имеет белый фон с красным крестом",
+        "output": "Королевство Англия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда состоится следующий чемпионат мира?",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько было всего сезонов игры престолов",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда перестали вделать crown victoria",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько всего монархов было в британии с 1900 года",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда candlestick park в сан франциско был построен",
+        "output": "1960-04-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый фильм о Хоббите?",
+        "output": "2012-12-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "участники группы u2",
+        "output": "Боно"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда был сделан первый Форд \"Model T\"",
+        "output": "1908"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню  never gonna give you up",
+        "output": "Рик Эстли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какое наибольшее количество результативных передач в игре НБА",
+        "output": "Скайлз, Скотт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню \"Hold Your Head Up\"",
+        "output": "Арджент, Род"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню you make me feel",
+        "output": "Кинг, Кэрол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i fought the law and the law won",
+        "output": "The Clash"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто озвучил джесси в истории игрушек",
+        "output": "Джоан Кьюсак"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова длина африканского слона",
+        "output": "24.6 английский фут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышел фильм \"Мамма Mia!\"?",
+        "output": "2008-07-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз raiders выходили в Суперкубок",
+        "output": "2003-01-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню you don't own me",
+        "output": "Дэвид Уайт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько населения в grand forks bc",
+        "output": "4049.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто озвучивает голос Тихони в Тролли",
+        "output": "Зоуи Дешанель"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда вышел первый \"Безумный Макс\"",
+        "output": "1980-02-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ккая песня была хитом номер 1 у роя орбисона",
+        "output": "Running Scared"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как называется последний фильм \"Звездные войны\"?",
+        "output": "Звёздные войны. Эпизод IX"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько шестидесятиочковых игр сыграл коби брайант",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню in the garden of eden",
+        "output": "Iron Butterfly"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где в сша находится лондон бридж",
+        "output": "Аризона"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько колец супер кубка у the 49ers",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл больше всех игр в нба",
+        "output": "Голден Стэйт Уорриорз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый mario kart",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой язык в Антигуа и Барбуда",
+        "output": "английский язык"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "нут это горох или боб",
+        "output": "бобы"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто присоединился к Лос-Анджелес Лейкерс",
+        "output": "Дэвис, Энтони"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел заглавную песню для Лодка любви",
+        "output": "Джек Джонс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто спел что-то в the way she moves",
+        "output": "The Beatles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню where have all the flowers gone",
+        "output": "Сигер, Пит"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт  play that funky music white boy",
+        "output": "Вайлд Черри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт песню  i want you to want me",
+        "output": "Cheap Trick"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сыграл мисс хани в фильме матильда",
+        "output": "Эмбет Дэвидц"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт we can learn to love again",
+        "output": "Пинк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт i'm on the edge of glory",
+        "output": "Леди Гага"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько серий во втором сезоне очень странных дел",
+        "output": "25.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Гонконг вернулся в Китай",
+        "output": "1997-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт  i like the way you move",
+        "output": "OutKast"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто пел песню \"I'm Only Human\"?",
+        "output": "Rag'n'Bone Man"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто исполняет песню \"this guys in love with you\"",
+        "output": "Герб Алперт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой аэропорт США самый большой по размеру",
+        "output": "Международный аэропорт Хартсфилд-Джексон Атланта"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько есть пантеров в зале славы НФЛ",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где начинается и заканчивается Аппалачская тропа",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда началась игра престолов",
+        "output": "2011-04-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню the lion sleeps tonight",
+        "output": "The Tokens"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто является министром образования США",
+        "output": "Девоc, Бетси"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню nobody knows it but me",
+        "output": "Тони Рич"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз the detroit lions выиграли чемпионат",
+        "output": "1957"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой средний рост баскетболиста нба",
+        "output": "6.7 английский фут"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выступал на прошлогоднем суперкубке",
+        "output": "Джастин Тимберлейк"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда выпущена the house of the rising sun",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл чарли в фильме хорошо быть тихоней",
+        "output": "Логан Лерман"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда сделан фильм 9 to 5",
+        "output": "1980-12-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню there is no arizona",
+        "output": "Джейми О’Нил"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню mother nature's son",
+        "output": "Леннон — Маккартни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет it don't hurt like it used to",
+        "output": "Каррингтон, Билли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел killing me softly with his song",
+        "output": "The Fugees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Дункана в some kind of wonderful",
+        "output": "Элиас Котеас"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет привяжи желтую ленту вокруг старого дуба",
+        "output": "Tony Orlando and Dawn"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто играет Эмили Валентайн в Беверли-Хиллз, 90210",
+        "output": "Кристин Элиз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая гора была самой высокой в мире до открытия эвереста",
+        "output": "Чогори"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда был выпущен macbook pro с тачбаром",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каков средний рост мужчины",
+        "output": "175.4 сантиметр"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое самое высокое здание в Филиппинах",
+        "output": "Гранд Хаятт Манила"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где аризона даймондбэкс проводит весенние тренировки",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какое расстояние между Спартанбергом, штат Южная Каролина и Гринвиллем, штат Южная Каролина",
+        "output": "31.8 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда перестали пользоваться электрическим стулом",
+        "output": "2008-02-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кем были звезды из singing in the rain",
+        "output": "Дебби Рейнольдс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в какой части нью-йорка тайм сквер",
+        "output": "Мидтаун"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого в истории нба больше всего потеряных мячей",
+        "output": "Карл Мэлоун"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто сыграл джорджа джефферсона во все в семье",
+        "output": "Шерман Хемсли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел you are the sunshine of my life",
+        "output": "Макрей, Кармен"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего побед в Мастерс в гольфе",
+        "output": "Никлаус, Джек"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал серию книг the hairy maclary",
+        "output": "Линли Додд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел гарри поттер и дары смерти",
+        "output": "2007-07-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Как далено находится Льюисвилл, Техас от Арлингтона, Техас?",
+        "output": "31.0 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто является булочником в into the woods",
+        "output": "Чип Цин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Гавайи присоединились к США",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие имена у четыреч черепашек ниндзя",
+        "output": "Леонардо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню i need you now",
+        "output": "Lady Antebellum"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поет \" i'm easy like sunday morning\"",
+        "output": "Commodores"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где будет проходить летняя олимпиада 2020 года",
+        "output": "Токио"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как далеко evansville indiana от indianapolis indiana",
+        "output": "172.3 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько клеток мозга в мозгу",
+        "output": "100000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто имеет больше хоумранов в бейсболе среди колледжей",
+        "output": "Пит Инкавилья"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какая самая высокая точка в Нью-Мексико",
+        "output": "Уилер Пик"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "каким является наибольший возможный счет в yahtzee",
+        "output": "1535.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое население в Твин Фоллс штат Айдахо",
+        "output": "49202.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой порядок у фильмов в саге сумерки",
+        "output": "Сумерки. Сага. Новолуние"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла breath of the wild",
+        "output": "2017-03-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда Арка была построена в Сент-Луисе",
+        "output": "1963-02-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню can't get no satisfaction",
+        "output": "Мик Джаггер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет don't blame it on me",
+        "output": "Келвин Харрис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто фронтмен the beautiful south",
+        "output": "Пол Хитон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего золотых медалей в Олимпийских играх",
+        "output": "Майкл Фелпс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз человек был на луне",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню band on the run",
+        "output": "Пол Маккартни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто главный герой в Отточенное лезвие",
+        "output": "Карл Чилдерс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько голов за карьеру имеет Уэйн Гретцки",
+        "output": "894.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как назывался вулкан, уничтоживший Помпеи",
+        "output": "Везувий"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая самая северная точка в континентальных сша",
+        "output": "Энгл Тауншип"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего подписчиков в инстаграме",
+        "output": "Криштиану Роналду"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как звали призрака в christmas past",
+        "output": "Джейкоб Марли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое расстояние до огасты джорджия от южной каролины",
+        "output": "66.4 миля"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал песню  you don't know what it's like",
+        "output": "Econoline Crush"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько галлонов воды в озере Мичиган",
+        "output": "6000000000000000.0 имперский галлон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто играет отца в сериале \"Никки, Рикки, Дикки и Дон\"?",
+        "output": "Брайан Степанек"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Где день равен ночи?",
+        "output": "мартовское равноденствие"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел In the Heat of the Night",
+        "output": "1988-03-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню you can ring my bell",
+        "output": "Уорд, Анита"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто отец в это мы",
+        "output": "Мэтисон, Тим"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Сколько страниц в первой книге о Гарри Поттере",
+        "output": "223.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл последнюю формулу Гран-при",
+        "output": "Льюис Хэмилтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел you'll always find me in the kitchen at parties",
+        "output": "Джона Льюи"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда выйдет новый сезон сериала Чёрный список",
+        "output": "2019-01-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Соединенные Штаты находятся в северном или южном полушарии",
+        "output": "Северное полушарие"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Когда открылось первое казино в Атлантик-Сити",
+        "output": "1978-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "В каком возрасте можно легально употреблять алкоголь в Голландии",
+        "output": "18.0 лет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой рекорд для The 100-yard dash  ?",
+        "output": "9.58 секунда"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько очков максимально когда-либо зарабатывал Джордан",
+        "output": "63.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполнил роль молодого Тома Риддла в Гарри Поттере",
+        "output": "Хиро Файнс-Тиффин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто держит рекорд по количеству съеденных хот-догов",
+        "output": "Джоуи Честнат"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой актер играл jax в sons of anarchy",
+        "output": "Чарли Ханнам"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого в нба был самый высокий процент попаданий",
+        "output": "Джордан, Деандре"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет  i'm giving up on you",
+        "output": "Э Грейт Биг Уорлд"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько сезонов Аббатства Даунтон",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где происходит действие call me by your name",
+        "output": "Италия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто имеет наибольшее количество homers  в MLB",
+        "output": "Барри Бондс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто был первый человек который придумал аниме",
+        "output": "Тэдзука, Осаму"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой есть медицинский термин для потоотделения",
+        "output": "Гематидроз"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда был построен bay bridge в Мэриленде",
+        "output": "1952"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как нзовут кенгуру в Винни-Пухе",
+        "output": "Крошка Ру"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел фильм стражи галактики",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая зарплата у президента сша",
+        "output": "400000.0 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто автор текста гимна О, благодать",
+        "output": "Ньютон, Джон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда снят suite life of zack and cody",
+        "output": "2005-03-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какая река самая большая в США",
+        "output": "Миссисипи"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт if he ever singles you up",
+        "output": "Джордан Дэвис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком году вышел фильм disorderlies",
+        "output": "1987-08-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл прошлогодний Финал Кубка Англии по футболу",
+        "output": "Манчестер Сити"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто написал песню \"in the year 2525\"?",
+        "output": "Zager and Evans"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "На ком женился Тэд в сериале \"Как я встретил вашу маму\"",
+        "output": "Мама"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз  Колорадо Рокиз выигрывали Мировую серию",
+        "output": "2012"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Майка Брейди в сериале \"Семейка Брейди\"?",
+        "output": "Рид, Роберт (актёр)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт this heart needs a second chance",
+        "output": "38 Special"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько очков вы получаете за страйк в боулинге",
+        "output": "10.0 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какое сейчас население в лос анджелесе",
+        "output": "4000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Миранду Бейли в Анатомии страсти",
+        "output": "Уилсон, Чандра"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i can't fight this feeling",
+        "output": "REO Speedwagon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел thats the night the lights went out in georgia",
+        "output": "Лоуренс, Вики"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто пел песню \"whiter shade of pale\"",
+        "output": "Procol Harum"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет high on the mountain of love",
+        "output": "Риверс, Джонни"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда америка была вовлечена во вьетнамскую войну",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто поет песню \"I can't live if living is without you\"?",
+        "output": "Нилссон, Гарри"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "старейший президент который у нас был",
+        "output": "Дональд Трамп"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто главный автор декларации независимости",
+        "output": "Томас Джефферсон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "с какого дня начинается неделя",
+        "output": "воскресенье"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел have you seen the most beautiful girl in the world",
+        "output": "Рич, Чарли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в каком графстве находится Рапид-Сити южная дакота",
+        "output": "Пеннингтон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда США получили независимость от Великобритании",
+        "output": "1776-07-04"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какая минимальная зарплата в сша сейчас",
+        "output": "7.25 американский доллар"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "как зовут обезьяну в фильме Аладдин",
+        "output": "Абу"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда аполлон-11 впервые приземлился на поверхность луны",
+        "output": "1969-07-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выдвинул the theory of everything",
+        "output": "Стивен Хокинг"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "в какой стране европы наибольшая численность населения",
+        "output": "Россия"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет i'm in the corner watching you kiss her",
+        "output": "Калум Скотт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда сша отказались от золотого стандарта",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла Scars to Your Beautiful",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всех чемпионатов в nba",
+        "output": "Расселл, Билл"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "чьё лицо на куппюре в 100 долларов",
+        "output": "Бенджамин Франклин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "актеры в фильме Тройной форсаж: Токийский дрифт",
+        "output": "Сон Кан"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполнил роль Феликса в \"Однажды в сказке\"",
+        "output": "Паркер Крофт"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел первый фильм форсаж",
+        "output": "2001-06-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играет Реджину Миллс в once upon a time",
+        "output": "Паррилла, Лана"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто открыл закон сохранения массы",
+        "output": "Антуан Лоран Лавуазье"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто известен как художник света",
+        "output": "Кинкейд, Томас"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какой самый большой город в Великобритании",
+        "output": "Лондон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какие самые крупные мегаполисы в США",
+        "output": "Большой Хьюстон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел песню build me up buttercup",
+        "output": "The Foundations"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько букв в датском алфавите",
+        "output": "29.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел фильм \"Ледниковый период 5: Столкновение неизбежно\"?",
+        "output": "2016-06-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт working my way back to you babe",
+        "output": "The Spinners"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл Чарли в Вилли Вонка и шоколадная фабрика",
+        "output": "Питер Острум"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто владеет отелем плаза в нью йорке",
+        "output": "Катара Хоспиталити"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кому принадлежит Тадж-Махал в Атлантик-Сити",
+        "output": "Hard Rock Cafe"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто написал книги Библии в Новом Завете",
+        "output": "Апостол Павел"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто самый низкий игрок когда либо игравший в млб",
+        "output": "Эдди Гедель"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел get rich or die trying",
+        "output": "2003-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого самый большой контракт в НБА",
+        "output": "Дюрант, Кевин"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "откуда песня you are my sunshine",
+        "output": "США"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет песню blinded by the light",
+        "output": "Manfred Mann"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "где будет финал Лиги чемпионов",
+        "output": "Мадрид"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз the cowboys выигрывали суперкубок",
+        "output": "1993-01-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт because the night belongs to lovers",
+        "output": "Патти Смит"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышла песня stacy's mom",
+        "output": "2003"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "у кого больше всего подписчиков на ютубе",
+        "output": "T-Series"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда впервые выпустили монету 50 центов",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда была написана конституция США",
+        "output": "1787"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл траппера Джона в сериале mash",
+        "output": "Уэйн Роджерс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто играл маму в Все любят Рэймонда",
+        "output": "Робертс, Дорис"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто пел get by with a little help from my friends",
+        "output": "Dustin the Turkey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "сколько мировых кубков выиграла женская сборная США",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда пурэто рико стала частью сша",
+        "output": "1898"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кого обыграли the cubs в мировой серии",
+        "output": "Кливленд Индианс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл женский Национальный чемпионат по баскетболу",
+        "output": "Бейлорский университет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "какова крейсерская скорость Боинга 737",
+        "output": "564.0 миля в час"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто Реактивный Енот в стражах галактики",
+        "output": "Шон Ганн"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кем сказано Быть или не быть вот в чем вопрос",
+        "output": "Гамлет"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поёт it's just the way it is",
+        "output": "Хорнсби, Брюс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл прошлогодний чемпионат колледжа по футболу",
+        "output": "Клемсон Тайгерс футбол"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какие актеры исполняли роль Джеймса Бонда",
+        "output": "Мур, Роджер"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет can't take my eyes off of you",
+        "output": "Валли, Фрэнки"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто выиграл последний мужской кубок мира fifa",
+        "output": "Франция"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз the cleveland browns выиграли игру плей-офф",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "кто поет cecilia you're breaking my heart",
+        "output": "The Vamps"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда вышел волшебник из страны Оз",
+        "output": "1939-08-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто на обложке игры FIFA 17",
+        "output": "Марко Ройс"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто сыграл Глорию в телесериале \"Все в семье\"",
+        "output": "Струтерс, Салли"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Какой генерал стал императором Франции после французской революции",
+        "output": "Наполеон I"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Кто исполняет главную песню сериала \"Придурки из Хаззарда\"",
+        "output": "Дженнингс, Вэйлон"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "конфеты которые начинаются на т",
+        "output": "Toblerone"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "когда в последний раз bengals были в плей-офф",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Где снимался фильм \"Оседлай ветер\"",
+        "output": "Колорадо"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "на каком флаге изображены одна звезда и красные и белые полосы",
+        "output": "Либерия"
+    }
+]

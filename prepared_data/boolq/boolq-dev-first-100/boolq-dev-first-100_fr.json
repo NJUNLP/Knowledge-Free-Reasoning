@@ -1,0 +1,402 @@
+[
+    {
+        "question": "L&#39;éthanol consomme-t-il plus d&#39;énergie que celui produit ?",
+        "answer": false
+    },
+    {
+        "question": "La taxe d&#39;habitation et la taxe foncière sont-elles identiques ?",
+        "answer": true
+    },
+    {
+        "question": "La douleur est-elle ressentie dans une partie manquante du corps ou dans une zone paralysée ?",
+        "answer": true
+    },
+    {
+        "question": "Harry Potter et l&#39;évasion de Gringotts est-il un tour de montagnes russes ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il une différence entre l’hydroxyzine hcl et l’hydroxyzine pam ?",
+        "answer": true
+    },
+    {
+        "question": "La root beer de Barq est-elle un produit Pepsi ?",
+        "answer": false
+    },
+    {
+        "question": "Un nombre impair peut-il être divisé par un nombre pair ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il un mot avec q sans u ?",
+        "answer": true
+    },
+    {
+        "question": "Pouvez-vous conduire au Canada avec notre permis ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il des barrages pour la troisième place à la Coupe du monde ?",
+        "answer": true
+    },
+    {
+        "question": "Les mineurs peuvent-ils boire avec leurs parents à New York ?",
+        "answer": true
+    },
+    {
+        "question": "La lignée de la série est-elle basée sur une histoire vraie ?",
+        "answer": false
+    },
+    {
+        "question": "Est-ce mauvais de se laver les cheveux avec du gel douche ?",
+        "answer": true
+    },
+    {
+        "question": "Le foie fait-il partie du système excréteur ?",
+        "answer": true
+    },
+    {
+        "question": "Les bêtes fantastiques et où les trouver sont-elles une préquelle ?",
+        "answer": true
+    },
+    {
+        "question": "Y aura-t-il une saison 8 de Vampire Diaries ?",
+        "answer": true
+    },
+    {
+        "question": "Le film Strangers était-il basé sur une histoire vraie ?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;université de Durham fait-elle partie du groupe Russell ?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;émission télévisée The Resident est-elle terminée pour la saison ?",
+        "answer": true
+    },
+    {
+        "question": "Le citrate de magnésium contient-il de l&#39;acide citrique ?",
+        "answer": true
+    },
+    {
+        "question": "La boîte postale précède-t-elle l&#39;adresse postale ?",
+        "answer": false
+    },
+    {
+        "question": "Une bougie d&#39;allumage fait-elle tourner un moteur ?",
+        "answer": true
+    },
+    {
+        "question": "Une cape et un manteau sont-ils identiques ?",
+        "answer": true
+    },
+    {
+        "question": "Est-ce que cela coûte de l’argent de renoncer à notre citoyenneté ?",
+        "answer": true
+    },
+    {
+        "question": "Un feu 7 est-il la même chose qu&#39;un Kindle ?",
+        "answer": true
+    },
+    {
+        "question": "Peut-on boire de l&#39;alcool avec ses parents dans le Wisconsin ?",
+        "answer": true
+    },
+    {
+        "question": "Les manchots ont-ils des plumes qui sortent de l&#39;épiderme ?",
+        "answer": true
+    },
+    {
+        "question": "Avez-vous besoin de roder une voiture ?",
+        "answer": false
+    },
+    {
+        "question": "La forêt enchantée de l&#39;Oregon est-elle toujours ouverte ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il un parcours de golf à l&#39;Indy 500 ?",
+        "answer": true
+    },
+    {
+        "question": "Deadpool a-t-il un enfant dans les comics ?",
+        "answer": true
+    },
+    {
+        "question": "Fabriquent-ils encore des cigarettes Benson &amp; Hedges ?",
+        "answer": true
+    },
+    {
+        "question": "L’impôt fédéral sur le revenu est-il la même chose que la sécurité sociale ?",
+        "answer": false
+    },
+    {
+        "question": "Un capteur de régime moteur est-il la même chose qu&#39;un capteur de vilebrequin ?",
+        "answer": true
+    },
+    {
+        "question": "Le Temple maudit d&#39;Indiana Jones est-il une préquelle ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il une prochaine partie d&#39;Avengers Infinity War ?",
+        "answer": true
+    },
+    {
+        "question": "Le Toyota Highlander est-il sur un châssis de camion ?",
+        "answer": false
+    },
+    {
+        "question": "Est-il légal de faire une reprise d&#39;une chanson ?",
+        "answer": true
+    },
+    {
+        "question": "Le carbone peut-il former des liaisons covalentes polaires avec l’hydrogène ?",
+        "answer": false
+    },
+    {
+        "question": "Y a-t-il une suite au film La Boussole d&#39;Or ?",
+        "answer": false
+    },
+    {
+        "question": "Le jour de Colomb est-il une fête nationale aux États-Unis ?",
+        "answer": true
+    },
+    {
+        "question": "New Balance et Nike sont-ils la même entreprise ?",
+        "answer": false
+    },
+    {
+        "question": "Existe-t-il une autoroute qui va d&#39;un océan à l&#39;autre ?",
+        "answer": true
+    },
+    {
+        "question": "Les tomates en purée sont-elles identiques à la sauce tomate ?",
+        "answer": false
+    },
+    {
+        "question": "Peut-il y avoir un mot sans voyelle ?",
+        "answer": true
+    },
+    {
+        "question": "Est-ce que seul le gagnant reçoit de l’argent au point de bascule ?",
+        "answer": true
+    },
+    {
+        "question": "Existe-t-il un vautour à tête rouge ?",
+        "answer": true
+    },
+    {
+        "question": "Quelqu&#39;un a-t-il réussi un trou d&#39;un coup sur un par 5 ?",
+        "answer": true
+    },
+    {
+        "question": "Les jets et les géants partagent-ils un stade ?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;équipe féminine américaine de football participe-t-elle à la coupe du monde ?",
+        "answer": true
+    },
+    {
+        "question": "Une équipe africaine peut-elle gagner la coupe du monde ?",
+        "answer": true
+    },
+    {
+        "question": "Un marteau peut-il être utilisé comme une arme ?",
+        "answer": true
+    },
+    {
+        "question": "Est-ce qu&#39;il y a encore des chasses au renard en Angleterre ?",
+        "answer": false
+    },
+    {
+        "question": "Pouvez-vous porter une chemise à manches courtes avec une veste asu ?",
+        "answer": true
+    },
+    {
+        "question": "Le Wisconsin a-t-il déjà participé à la série mondiale des petites ligues ?",
+        "answer": false
+    },
+    {
+        "question": "Damon et Elena se retrouvent-ils dans la saison 3 ?",
+        "answer": false
+    },
+    {
+        "question": "Y a-t-il un joueur de la NFL qui manque une main ?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;autre fille Boleyn fait-elle partie d&#39;une série ?",
+        "answer": true
+    },
+    {
+        "question": "Existe-t-il un groupe appelé les cinq battements de cœur ?",
+        "answer": false
+    },
+    {
+        "question": "Le mont Everest fait-il partie de l&#39;Himalaya ?",
+        "answer": true
+    },
+    {
+        "question": "Un emt-basic peut-il démarrer une intraveineuse ?",
+        "answer": false
+    },
+    {
+        "question": "Aucun court de Wimbledon n’a-t-il un toit ?",
+        "answer": false
+    },
+    {
+        "question": "Quelqu&#39;un est-il revenu du 3-0 en finale de la NBA ?",
+        "answer": false
+    },
+    {
+        "question": "Les ondes radio voyagent-elles à la vitesse de la lumière ?",
+        "answer": true
+    },
+    {
+        "question": "Est-ce que quelqu&#39;un de l&#39;équipe de hockey américaine de 1980 a joué dans la LNH ?",
+        "answer": true
+    },
+    {
+        "question": "Tous les triangles ont-ils au moins deux angles aigus ?",
+        "answer": true
+    },
+    {
+        "question": "Baylor et Mary Hardin Baylor sont-ils la même école ?",
+        "answer": true
+    },
+    {
+        "question": "Peut-on être condamné à la peine de mort en tant que mineur ?",
+        "answer": false
+    },
+    {
+        "question": "L&#39;équipe indienne de football s&#39;est-elle qualifiée pour la FIFA 2018 ?",
+        "answer": false
+    },
+    {
+        "question": "Le t rex et le tyrannosaure rex sont-ils identiques ?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;ancien canal de Panama est-il toujours utilisé ?",
+        "answer": true
+    },
+    {
+        "question": "Avez-vous besoin d&#39;un ami pour posséder des munitions ?",
+        "answer": true
+    },
+    {
+        "question": "La barbe à papa bleue et rose a-t-elle le même goût ?",
+        "answer": false
+    },
+    {
+        "question": "Est-ce que tuer un oiseau moqueur a remporté un Oscar ?",
+        "answer": true
+    },
+    {
+        "question": "Existe-t-il une île flottante ?",
+        "answer": true
+    },
+    {
+        "question": "Les femelles furets meurent-elles si elles ne s&#39;accouplent pas ?",
+        "answer": true
+    },
+    {
+        "question": "Tous les jeux Xbox 360 fonctionneront-ils sur Xbox One ?",
+        "answer": false
+    },
+    {
+        "question": "Existe-t-il une artère brachiocéphalique droite et gauche ?",
+        "answer": false
+    },
+    {
+        "question": "Les finalistes du classement Survivant gagnent-ils de l&#39;argent ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il une suite à l&#39;amour qui trouve un foyer ?",
+        "answer": false
+    },
+    {
+        "question": "Y aura-t-il une deuxième saison du 22.11.63 ?",
+        "answer": false
+    },
+    {
+        "question": "Y a-t-il des centrales nucléaires aux États-Unis ?",
+        "answer": true
+    },
+    {
+        "question": "Y a-t-il un bris d&#39;égalité dans le dernier set à Wimbledon ?",
+        "answer": false
+    },
+    {
+        "question": "Les tours jumelles étaient-elles le centre du commerce mondial ?",
+        "answer": true
+    },
+    {
+        "question": "Deion Sanders a-t-il déjà remporté une série mondiale ?",
+        "answer": false
+    },
+    {
+        "question": "Un berger allemand est-il pareil qu&#39;un alsacien ?",
+        "answer": true
+    },
+    {
+        "question": "Une grenouille saute-t-elle de l&#39;eau bouillante ?",
+        "answer": true
+    },
+    {
+        "question": "Est-il possible de créer de la masse à partir de l&#39;énergie ?",
+        "answer": true
+    },
+    {
+        "question": "Existe-t-il un film avec 0 sur les tomates pourries ?",
+        "answer": true
+    },
+    {
+        "question": "La Jaguar est-elle de type propulsion arrière ?",
+        "answer": true
+    },
+    {
+        "question": "Une cuillère à soupe est-elle plus grosse qu&#39;une cuillère à dessert ?",
+        "answer": true
+    },
+    {
+        "question": "Est-ce la dernière saison de Bund&#39;d ?",
+        "answer": true
+    },
+    {
+        "question": "Le président vit-il à la Maison Blanche ?",
+        "answer": true
+    },
+    {
+        "question": "Le ganglion de la racine dorsale transporte-t-il des informations sensorielles ?",
+        "answer": true
+    },
+    {
+        "question": "Est-ce qu&#39;Anne avec un e est filmée à Pei ?",
+        "answer": true
+    },
+    {
+        "question": "La fréquence angulaire et la vitesse angulaire sont-elles identiques ?",
+        "answer": false
+    },
+    {
+        "question": "Quelqu&#39;un peut-il mourir d&#39;une balle tirée en l&#39;air ?",
+        "answer": true
+    },
+    {
+        "question": "Salt Lake City est-elle la plus grande ville de l&#39;Utah ?",
+        "answer": true
+    },
+    {
+        "question": "La poursuite des voitures a-t-elle été écrite pour Grey&#39;s Anatomy ?",
+        "answer": false
+    },
+    {
+        "question": "La fille du monde perdu est-elle morte ?",
+        "answer": false
+    }
+]

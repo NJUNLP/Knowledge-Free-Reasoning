@@ -1,0 +1,402 @@
+[
+    {
+        "question": "エタノールを製造するにはより多くのエネルギーが必要ですか?",
+        "answer": false
+    },
+    {
+        "question": "住宅税と固定資産税は同じですか？",
+        "answer": true
+    },
+    {
+        "question": "体の欠損部分や麻痺した部分に痛みを感じますか?",
+        "answer": true
+    },
+    {
+        "question": "『ハリー・ポッターとグリンゴッツからの脱出』はジェットコースターのような作品ですか?",
+        "answer": true
+    },
+    {
+        "question": "ヒドロキシジンHCLとヒドロキシジンPAMには違いがありますか?",
+        "answer": true
+    },
+    {
+        "question": "バークのルートビアはペプシの製品ですか？",
+        "answer": false
+    },
+    {
+        "question": "奇数は偶数で割ることができますか？",
+        "answer": true
+    },
+    {
+        "question": "u なしで q を含む単語はありますか?",
+        "answer": true
+    },
+    {
+        "question": "アメリカの免許証でカナダで運転できますか？",
+        "answer": true
+    },
+    {
+        "question": "ワールドカップでは3位決定戦がありますか？",
+        "answer": true
+    },
+    {
+        "question": "ニューヨークでは未成年者は親と一緒に飲酒できますか？",
+        "answer": true
+    },
+    {
+        "question": "番組「Bloodline」は実話に基づいているのですか?",
+        "answer": false
+    },
+    {
+        "question": "シャワージェルで髪を洗うのは悪いことでしょうか？",
+        "answer": true
+    },
+    {
+        "question": "肝臓は排泄器官の一部ですか？",
+        "answer": true
+    },
+    {
+        "question": "『ファンタスティック・ビーストと魔法使いの旅』は前編ですか？",
+        "answer": true
+    },
+    {
+        "question": "ヴァンパイア・ダイアリーズのシーズン8はありますか？",
+        "answer": true
+    },
+    {
+        "question": "映画「ストレンジャーズ」は実話に基づいているのですか？",
+        "answer": true
+    },
+    {
+        "question": "ダーラム大学はラッセルグループに属していますか?",
+        "answer": true
+    },
+    {
+        "question": "テレビ番組「レジデント」は今シーズン終了ですか?",
+        "answer": true
+    },
+    {
+        "question": "クエン酸マグネシウムにはクエン酸が含まれていますか？",
+        "answer": true
+    },
+    {
+        "question": "私書箱は住所の前に来ますか?",
+        "answer": false
+    },
+    {
+        "question": "スパークプラグはエンジンを動かし続けるのでしょうか?",
+        "answer": true
+    },
+    {
+        "question": "ケープとマントは同じものですか？",
+        "answer": true
+    },
+    {
+        "question": "国籍を放棄するにはお金がかかりますか？",
+        "answer": true
+    },
+    {
+        "question": "Fire 7はKindleと同じですか？",
+        "answer": true
+    },
+    {
+        "question": "ウィスコンシン州では両親と一緒にお酒を飲むことはできますか？",
+        "answer": true
+    },
+    {
+        "question": "ペンギンには表皮から生えた羽毛がありますか？",
+        "answer": true
+    },
+    {
+        "question": "車を慣らす必要がありますか?",
+        "answer": false
+    },
+    {
+        "question": "オレゴンのエンチャンテッドフォレストはまだ開いていますか？",
+        "answer": true
+    },
+    {
+        "question": "インディ500にはゴルフコースはありますか？",
+        "answer": true
+    },
+    {
+        "question": "漫画ではデッドプールに子供がいますか？",
+        "answer": true
+    },
+    {
+        "question": "ベンソン＆ヘッジスのタバコはまだ製造されていますか？",
+        "answer": true
+    },
+    {
+        "question": "連邦所得税は社会保障と同じですか?",
+        "answer": false
+    },
+    {
+        "question": "エンジン速度センサーはクランクシャフトセンサーと同じですか?",
+        "answer": true
+    },
+    {
+        "question": "『インディ・ジョーンズ 魔宮の伝説』は前編ですか？",
+        "answer": true
+    },
+    {
+        "question": "アベンジャーズ インフィニティ ウォーの次のパートはありますか?",
+        "answer": true
+    },
+    {
+        "question": "トヨタ ハイランダーはトラックのフレームに乗っていますか?",
+        "answer": false
+    },
+    {
+        "question": "曲のカバーをするのは合法ですか?",
+        "answer": true
+    },
+    {
+        "question": "炭素は水素と極性共有結合を形成できますか？",
+        "answer": false
+    },
+    {
+        "question": "映画「黄金の羅針盤」の続編はありますか？",
+        "answer": false
+    },
+    {
+        "question": "コロンブスデーはアメリカ合衆国の国民の祝日ですか？",
+        "answer": true
+    },
+    {
+        "question": "ニューバランスとナイキは同じ会社ですか？",
+        "answer": false
+    },
+    {
+        "question": "東海岸から西海岸まで走る州間高速道路はありますか?",
+        "answer": true
+    },
+    {
+        "question": "ピューレトマトはトマトソースと同じですか？",
+        "answer": false
+    },
+    {
+        "question": "母音のない単語は存在するのでしょうか?",
+        "answer": true
+    },
+    {
+        "question": "ティッピングポイントでは勝者だけがお金を得るのですか?",
+        "answer": true
+    },
+    {
+        "question": "ヒメコンドルというものは存在するのでしょうか？",
+        "answer": true
+    },
+    {
+        "question": "パー5でホールインワンを達成した人はいますか?",
+        "answer": true
+    },
+    {
+        "question": "ジェッツとジャイアンツは同じスタジアムを使っているのですか？",
+        "answer": true
+    },
+    {
+        "question": "アメリカ女子サッカーチームはワールドカップに出場しますか？",
+        "answer": true
+    },
+    {
+        "question": "アフリカのチームはワールドカップで優勝できるでしょうか？",
+        "answer": true
+    },
+    {
+        "question": "ハンマーは武器として使用できますか？",
+        "answer": true
+    },
+    {
+        "question": "イギリスでは今でもキツネ狩りが行われているのでしょうか？",
+        "answer": false
+    },
+    {
+        "question": "半袖シャツをASUジャケットと合わせて着てもいいですか？",
+        "answer": true
+    },
+    {
+        "question": "ウィスコンシン州はリトルリーグワールドシリーズに出場したことがありますか？",
+        "answer": false
+    },
+    {
+        "question": "デイモンとエレナはシーズン3で付き合うのでしょうか？",
+        "answer": false
+    },
+    {
+        "question": "NFL には片手を失った選手はいますか?",
+        "answer": true
+    },
+    {
+        "question": "もう一人のブーリン家の娘はシリーズの一部ですか?",
+        "answer": true
+    },
+    {
+        "question": "五つの鼓動と呼ばれるグループはありますか？",
+        "answer": false
+    },
+    {
+        "question": "エベレスト山はヒマラヤ山脈の一部ですか？",
+        "answer": true
+    },
+    {
+        "question": "EMT-Basic は IV を開始できますか?",
+        "answer": false
+    },
+    {
+        "question": "ウィンブルドンの第1コートには屋根がないのですか?",
+        "answer": false
+    },
+    {
+        "question": "NBAファイナルで3勝0敗から逆転したチームはある？",
+        "answer": false
+    },
+    {
+        "question": "電波は光速で伝わりますか？",
+        "answer": true
+    },
+    {
+        "question": "1980 年の米国ホッケー チームから NHL でプレーした人はいますか?",
+        "answer": true
+    },
+    {
+        "question": "すべての三角形には少なくとも 2 つの鋭角がありますか?",
+        "answer": true
+    },
+    {
+        "question": "ベイラー大学とメアリー・ハーディン・ベイラー大学は同じ学校ですか？",
+        "answer": true
+    },
+    {
+        "question": "未成年でも死刑になる可能性はありますか？",
+        "answer": false
+    },
+    {
+        "question": "インドのサッカーチームはFIFA 2018に出場できましたか?",
+        "answer": false
+    },
+    {
+        "question": "T-レックスとティラノサウルス・レックスは同じですか？",
+        "answer": true
+    },
+    {
+        "question": "旧パナマ運河はまだ使われていますか？",
+        "answer": true
+    },
+    {
+        "question": "弾薬を所持するには仲間が必要ですか?",
+        "answer": true
+    },
+    {
+        "question": "青い綿菓子とピンクの綿菓子は同じ味ですか？",
+        "answer": false
+    },
+    {
+        "question": "『アラバマ物語』はアカデミー賞を受賞したのですか？",
+        "answer": true
+    },
+    {
+        "question": "浮島というものはあるのでしょうか？",
+        "answer": true
+    },
+    {
+        "question": "メスのフェレットは交尾しないと死んでしまうのでしょうか？",
+        "answer": true
+    },
+    {
+        "question": "すべての Xbox 360 ゲームは Xbox One でも動作しますか?",
+        "answer": false
+    },
+    {
+        "question": "右腕頭動脈と左腕頭動脈はありますか？",
+        "answer": false
+    },
+    {
+        "question": "サバイバーの準優勝者は賞金を獲得するのでしょうか?",
+        "answer": true
+    },
+    {
+        "question": "「Love Finds a Home」の続編はありますか？",
+        "answer": false
+    },
+    {
+        "question": "11.22.63 の第二シーズンはありますか?",
+        "answer": false
+    },
+    {
+        "question": "アメリカには原子力発電所がありますか？",
+        "answer": true
+    },
+    {
+        "question": "ウィンブルドンの最終セットにはタイブレークがありますか？",
+        "answer": false
+    },
+    {
+        "question": "ツインタワーは世界貿易センターでしたか？",
+        "answer": true
+    },
+    {
+        "question": "デオン・サンダースはワールドシリーズで優勝したことがありますか？",
+        "answer": false
+    },
+    {
+        "question": "ジャーマンシェパードはアルザス犬と同じですか？",
+        "answer": true
+    },
+    {
+        "question": "カエルは沸騰したお湯から飛び出しますか？",
+        "answer": true
+    },
+    {
+        "question": "エネルギーから質量を作り出すことは可能ですか?",
+        "answer": true
+    },
+    {
+        "question": "ロッテントマトで0点の映画ってありますか？",
+        "answer": true
+    },
+    {
+        "question": "ジャガーSタイプは後輪駆動ですか？",
+        "answer": true
+    },
+    {
+        "question": "大さじはデザートスプーンより大きいですか?",
+        "answer": true
+    },
+    {
+        "question": "これはバンクドの最後のシーズンですか？",
+        "answer": true
+    },
+    {
+        "question": "大統領はホワイトハウスに住んでいるのですか？",
+        "answer": true
+    },
+    {
+        "question": "背根神経節は感覚入力を伝達しますか?",
+        "answer": true
+    },
+    {
+        "question": "アン・ウィズ・ア・イーはPEIで撮影されましたか？",
+        "answer": true
+    },
+    {
+        "question": "角周波数と角速度は同じですか?",
+        "answer": false
+    },
+    {
+        "question": "空中に発射された銃弾で人が死ぬことはありますか？",
+        "answer": true
+    },
+    {
+        "question": "ソルトレイクシティはユタ州で最大の都市ですか？",
+        "answer": true
+    },
+    {
+        "question": "車を追いかけるシーンはグレイズ・アナトミーのために書かれたのですか?",
+        "answer": false
+    },
+    {
+        "question": "失われた世界の少女は死んだのか？",
+        "answer": false
+    }
+]

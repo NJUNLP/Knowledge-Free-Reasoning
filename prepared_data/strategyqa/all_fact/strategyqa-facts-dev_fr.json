@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Albany, Géorgie, compte environ 75 000 habitants Albany, New York, compte près de 100 000 habitants\nQuestion: L&#39;Albany en Géorgie atteindra-t-il cent mille occupants avant celui de New York ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La langue principale parlée à Saint-Vincent-et-les Grenadines est le créole vincentien. Le créole vincentien est basé sur l&#39;anglais, avec des éléments de français, de créole antillais et de langues indigènes sud-américaines et africaines.\nQuestion: La langue utilisée à Saint-Vincent-et-les Grenadines est-elle ancrée dans l&#39;anglais ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La cupidité est un désir de richesse et de pouvoir. La criminalité en col blanc implique que des entreprises volent de l&#39;argent ou des biens à des personnes.  Selon les statistiques du ministère de la Justice, 5 à 10 % des arrestations pour 100 000 arrestations concernaient des crimes en col blanc. La gourmandise est l&#39;excès de nourriture ou de choses similaires. 39,8 % des adultes américains étaient classés en surpoids selon le National Center for Health Statistics.\nQuestion: La cupidité est-elle le plus répandu des sept péchés capitaux ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La profondeur moyenne de la mer du Japon est de 5 748 pieds (1 752 mètres) et sa profondeur maximale est de 12 276 pieds (3 742 mètres). Le mont Fuji mesure 3 776,24 mètres (12 389,2 pieds) de hauteur. \nQuestion: Le sommet du Mont Fuji dépasserait-il de la mer du Japon ? ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La chanson la mieux classée de Lil Jon sur le panneau d&#39;affichage était Yeah. Oui, c&#39;était une collaboration entre Lil Jon, Usher et Ludacris. The Lox est un trio de rap composé de : Styles P, Sheek Louch et Jadakiss.\nQuestion: La chanson Billboard la mieux classée de Lil Jon est-elle une collaboration avec un membre de The Lox ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Miami est une ville de l&#39;État de Floride. La Floride est l’État le plus méridional de la côte est américaine.\nQuestion: Miami est-elle une ville de la côte ouest américaine ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;Assemblée générale de Virginie compte 140 sièges. La Garde Suisse est une garde d&#39;honneur de la Cité du Vatican composée de 135 hommes.\nQuestion: La Garde suisse peut-elle occuper les sièges de l’Assemblée générale de Virginie ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La guerre coloniale portugaise opposait le Portugal à plusieurs groupes, dont le Mouvement populaire pour la libération de l&#39;Angola. La Suisse est restée neutre pendant la Seconde Guerre mondiale et n’a pas été impliquée. Le Portugal est resté en dehors des affaires mondiales pendant la Seconde Guerre mondiale.\nQuestion: Un pays impliqué dans la guerre coloniale portugaise a-t-il partagé le rôle de la Suisse dans la Seconde Guerre mondiale ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le vieil anglais était parlé par les Anglo-Saxons, une tribu germanique qui habitait l&#39;Angleterre. Les Pictes étaient un peuple de langue celtique qui vivait dans ce qui est aujourd&#39;hui l&#39;Écosse. La langue picte a disparu vers 1100 après JC et a été remplacée par le gaélique. Le gaélique et le vieil anglais sont des langues complètement différentes appartenant à différentes branches de la famille des langues indo-européennes. Le vocabulaire gaélique est très différent du vieil anglais et les verbes sont également conjugués différemment.\nQuestion: Un Picte serait-il confondu avec le vieil anglais ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La carrière de Lil Wayne débute en 1995, à l&#39;âge de 12 ans, lorsqu&#39;il signe chez Birdman et rejoint Cash Money Records en tant que plus jeune membre du label. Un permis de conduire est requis pour conduire légalement un véhicule par vous-même aux États-Unis. L&#39;âge admissible pour obtenir un premier permis de conduire varie considérablement d&#39;un État à l&#39;autre, de 14 ans et trois mois dans le Dakota du Sud à 17 ans dans le New Jersey.\nQuestion: Lil Wayne pouvait-il légalement conduire seul un véhicule au début de sa carrière ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le crucifix est un symbole du christianisme La grande majorité de la population pakistanaise est musulmane\nQuestion: Êtes-vous susceptible de trouver un crucifix à Karachi ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Une licence Creative Commons permet la distribution gratuite d’une œuvre autrement protégée par le droit d’auteur. Les œuvres considérées comme relevant du domaine public ne nécessitent ni droit d&#39;auteur ni autorisation d&#39;utilisation. Toute œuvre créée avant 1923 relève du domaine public. Le tableau La Naissance de Vénus de Sandro Boticelli date de 1486.\nQuestion: Une personne a-t-elle vendu une licence Creative Commons pour La Naissance de Vénus de Boticelli ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le poids moyen d&#39;un enfant de six ans est de 45 livres. Un gallon d&#39;eau de mer pèse un peu plus de 8 livres.\nQuestion: Dix gallons d’eau de mer pourraient-ils écraser un enfant de six ans ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;anchois est un type de petit poisson. Les anchois sont concentrés dans les eaux tempérées des océans Atlantique, Indien et Pacifique. Les anchois se trouvent rarement dans les eaux plus froides.\nQuestion: Est-ce que plus d’anchois vivent dans des eaux à température plus froide que dans des eaux plus chaudes ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les imprimantes 3D présentent des limites en termes de précision. Le débit de buse standard est d&#39;environ 0,4 mm. Par conséquent, si vous envisagez d’imprimer quelque chose d’une taille inférieure à 0,4 mm, vous n’obtiendrez pas un élément utile. Les adénovirus sont des virus de taille moyenne (90 à 100 nm), non enveloppés (sans bicouche lipidique externe) avec une nucléocapside icosaédrique contenant un génome d&#39;ADN double brin.\nQuestion: L&#39;impression 3D est-elle capable de fabriquer des adénovirus ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: George Fox fut le fondateur de la Société religieuse des Amis, communément connue sous le nom de Quakers ou Friends. Les Quakers prônent la paix et la non-violence. La lapidation est une méthode de peine capitale particulièrement violente et brutale.\nQuestion: George Fox serait-il favorable à la lapidation ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Star Wars est l’une des séries de films les plus parodiées jamais produites. Les produits Star Wars, des t-shirts aux costumes d&#39;Halloween, sont largement disponibles et abondants. \nQuestion: Est-il nécessaire de regarder Star Wars pour savoir qui est Dark Vador ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;algèbre booléenne est la branche de l&#39;algèbre dans laquelle les valeurs des variables sont les valeurs de vérité vraies et fausses, généralement notées respectivement 1 et 0.  Les mathématiques en 1 et 0 sont aussi appelées langage binaire ou langage machine. Les ordinateurs sont programmés en langage machine.\nQuestion: Un ordinateur peut-il être entièrement programmé en algèbre booléenne ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Christina Aguilera est juge sur la voix. Kelly Clarkson est juge sur la voix. Les juges ne retournent leur chaise que pour les concurrents.  Kelly Clarkson n&#39;a pas concouru sur la voix.\nQuestion: Christina Aguilera a-t-elle retourné sa chaise pour Kelly Clarkson sur The Voice ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Narcan est un médicament qui sauve la vie d’une personne faisant une surdose d’opiacés. Amy Winehouse est décédée d&#39;une intoxication alcoolique. Narcan ne peut pas travailler sur les surdoses d&#39;alcool.\nQuestion: La mort d&#39;Amy Winehouse aurait-elle été évitée grâce à Narcan ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les couleurs de fourrure les plus courantes des mangoustes sont le brun et le gris. Le coloris Desert Camouflage est composé de marron Café Au Lait et de Gris Pastel.\nQuestion: Une mangouste a-t-elle un camouflage naturel pour le désert ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les ailes de buffle sont des ailes de poulet frites recouvertes d&#39;une sauce épicée. Les aliments épicés reçoivent leur piquant de la capsaïcine des poivrons.\nQuestion: Si quelqu’un aime les ailes de bison, aime-t-il la capsaïcine ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bruce Lee s&#39;est inscrit à l&#39;Université de Washington en 1961. Bruce Lee abandonna ses études au début de 1964. Bruce Lee a déménagé à Oakland pour vivre avec James Yimm Lee en 1964.\nQuestion: Bruce Lee était-il absent à la cérémonie de remise des diplômes de l&#39;Université de Washington en 1964 ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Brooke Shields est diplômée de l&#39;Université de Princeton. Princeton est classée université nationale numéro 1 par les médias américains. L&#39;Université de Pennsylvanie est classée 6e université nationale par les médias américains. Princeton n&#39;admet qu&#39;environ 6 % des candidats en 2018. L&#39;Université de Pennsylvanie accepte environ 9 % des candidats en 2018.\nQuestion: Brooke Shields pourrait-elle réussir à l’Université de Pennsylvanie ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Marist est situé le long de la rivière Hudson. Le collège mariste dispose d&#39;équipes d&#39;aviron pour hommes et femmes.\nQuestion: Les étudiants de Marist devraient-ils faire une pétition pour obtenir une équipe d&#39;aviron ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les mèmes Lolcat sont souvent au format JPEG La taille moyenne d&#39;un jpeg est de 10 à 30 ko Un gigaoctet équivaut à 1 000 000 Ko Le premier iPhone avait entre 4 Go et 16 Go de stockage \nQuestion: Cent mille lolcats pourraient-ils tenir sur un iPhone de première génération ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La surpopulation humaine résulte du fait que le taux de natalité dépasse le taux de mortalité dans un pays. Rusev est un lutteur professionnel né en Bulgarie. La population de la Bulgarie a diminué de 0,7 % en 2018.\nQuestion: Rusev doit-il s&#39;inquiéter de la surpopulation humaine dans son pays natal ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les pêches ont une peau floue rouge, orange et jaune. La princesse Peach est un personnage de l&#39;univers Nintendo Mario. La robe de la princesse Peach est rose et longue jusqu&#39;au sol.\nQuestion: La robe de la princesse Peach ressemble-t-elle à une pêche ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Avoir des antécédents de maladie mentale empêche la plupart des gens de rejoindre les forces armées. Des patients psychiatriques sont consultés pour la prise en charge de maladies mentales.\nQuestion: Les patients psychiatriques sont-ils les bienvenus dans l’armée de l’air américaine ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing est un moteur de recherche, qui est un objet numérique. Un panier est un objet physique. Les objets physiques ne peuvent pas contenir d&#39;objets numériques.\nQuestion: Puis-je conserver Bing dans un panier ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le processeur est la puce principale de la carte mère d&#39;un ordinateur et génère beaucoup de chaleur. Les fabricants d&#39;ordinateurs incluent généralement un système de refroidissement dédié sur le processeur en plus des ventilateurs de la carte principale.\nQuestion: L&#39;unité centrale de traitement dispose-t-elle généralement d&#39;un ventilateur dédié ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Cyril Ramaphosa est le président de l&#39;Afrique du Sud Le secrétaire général de l&#39;OTAN est issu d&#39;un des pays membres de l&#39;OTAN L&#39;Afrique du Sud n&#39;est pas membre de l&#39;OTAN\nQuestion: Cyril Ramaphosa peut-il devenir secrétaire général de l&#39;Otan ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les bagels de Brooklyn et de New York sont connus dans le monde entier pour leur haute qualité. La pizza de Brooklyn est considérée comme la meilleure du pays. \nQuestion: Brooklyn est-elle connue pour ses produits de boulangerie ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La rébellion des Boxers a eu lieu de 1899 à 1901. La Royal Air Force a été créée le 1er avril 1918.\nQuestion: La Royal Air Force a-t-elle combattu lors de la rébellion des Boxers ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: François Mitterrand est né en 1916. Napoléon Bonapart meurt en 1821.\nQuestion: François Mitterrand a-t-il servi sous Napoléon Bonapart dans l&#39;armée française ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Une amibe est un organisme unicellulaire. Le cancer est la croissance anormale d’une masse de tissu cellulaire, constituée de nombreuses cellules mal formées.\nQuestion: Les amibes peuvent-elles contracter le cancer ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le choléra est un type de bactérie. Les bactéries sont considérées comme des êtres vivants.\nQuestion: Le choléra est-il vivant ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les patates douces ont une peau lisse et sont de couleur orange. Les ananas ont une tige courte et trapue avec des feuilles coriaces et cireuses et le fruit est de couleur jaune.\nQuestion: Quelqu’un confondrait-il généralement une patate douce avec un ananas ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les manchots sont originaires des régions profondes et très froides de l’hémisphère sud. Miami est située dans l&#39;hémisphère nord et bénéficie d&#39;un climat très chaud.\nQuestion: Serait-il courant de trouver un pingouin à Miami ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le lymphome est un type de cancer grave qui peut débuter par des tumeurs des ganglions lymphatiques. Le lymphome peut tuer s’il n’est pas traité.\nQuestion: Les tumeurs des ganglions lymphatiques sont-elles ignorables ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dans Captain America : Civil War, Iron Man et Captain America sont devenus ennemis suite à un désaccord. Iron Man a convoqué Spiderman pour se battre avec son équipe de Avengers toujours fidèles. Falcon était l&#39;un des meilleurs amis de Captain America et a soutenu le capitaine dans le conflit. Par conséquent, Spiderman et Falcon faisaient partie d’équipes opposées lors de la bataille inter-Avenger dans le film.\nQuestion: Spiderman s&#39;est-il battu contre Falcon dans le MCU ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dans le yoga comme exercice, la pose appelée Natarajasara représente la danse divine de Shiva. Cette pose est nouvelle, originaire du début du 20e siècle L&#39;exercice est une activité qui maintient la forme physique\nQuestion: La danse divine de Shiva est-elle une ancienne pose de remise en forme physique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Scar est le lion maléfique du Roi Lion de Disney. Les serviteurs de Scar sont un groupe de hyènes. Il existe une version scénique du Roi Lion à Broadway.\nQuestion: Les hyènes apparaissent-elles dans une comédie musicale à Broadway ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les singes hiboux sont frugivores et préfèrent les petits fruits mûrs lorsqu&#39;ils sont disponibles. Les fraises varient en taille mais mesurent généralement moins de 2 pouces de diamètre et un pouce de diamètre. Les fraises sont une sorte de fruit.\nQuestion: Un singe hibou apprécierait-il une fraise ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un M60 Patton est un char militaire qui pèse plusieurs tonnes. L’un des plus gros animaux mangés par un serpent était un impala qui pesait 130 livres.\nQuestion: Un serpent peut-il avaler un M60 Patton ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les Avengers sont une bande dessinée produite par Marvel. Marvel et DC sont des sociétés rivales, chacune ayant sa propre gamme de produits et de marchandises. \nQuestion: Avengers Comics ne serait-il pas à sa place dans un magasin DC Comics ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le golfe Persique a une superficie de 96 912 milles carrés. Le New Jersey a une superficie de 7 417 milles carrés.\nQuestion: Le golfe Persique peut-il s’intégrer au New Jersey ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Psylocke est un super héros Marvel dont le vrai nom est Betsy Braddock. Betsy Braddock mesure 5&#39;11 et pèse 155 livres. L&#39;actrice Nicole Kidman mesure 5&#39;11 et pèse 137 livres. Les actrices prennent tout le temps du poids pour des rôles, comme Charlize Theron qui a pris 30 kilos pour le film Monster.\nQuestion: Nicole Kidman est-elle le choix idéal pour jouer à Psylocke en fonction de sa taille et de son poids ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bernie Sanders est une personne âgée Les personnes âgées de l&#39;extérieur de New York, du New Jersey ou du Connecticut doivent payer 17 $ par visite.\nQuestion: Bernie Sanders pourrait-il visiter le Metropolitan Museum of Art vingt fois pour moins de deux cents dollars ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Planned Parenthood est spécialisé dans les soins de santé reproductive. Les praticiens de Planned Parenthood sont tenus par la HIPAA de ne divulguer aucune information sur les patients. \nQuestion: Planned Parenthood peut-il dire à votre université que vous avez le virus de l&#39;herpès simplex ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Achille était un héros grec tué d&#39;une flèche dans le talon. Legolas est un archer elfe du Seigneur des Anneaux qui peut tirer des flèches incroyablement rapidement. Les compagnons d&#39;Achille comprenaient des guerriers humains tels qu&#39;Ajax et Ulysse. Les compagnons de Legolas incluent Gandalf qui est un sorcier de haut niveau, capable de lancer de nombreux sorts mortels.\nQuestion: Achille dominerait-il Legolas dans un combat hypothétique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bucarest, en Roumanie, est située en Europe de l&#39;Est. L’Égypte est située en Afrique. La majeure partie de l&#39;Afrique se trouve au sud de l&#39;Europe.\nQuestion: Bucarest est-elle située au sud de l’Égypte ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les objets ne flottent que s’ils sont moins denses que la matière environnante. Les roches sont plus denses que l&#39;air. L&#39;atmosphère terrestre est composée d&#39;air.\nQuestion: Une roche flottera-t-elle dans l’atmosphère terrestre ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les cornes de rhinocéros sont utilisées pour le traitement traditionnel de l&#39;impuissance sexuelle. Les rhinocéros sont tués pour leur enlever leurs cornes.\nQuestion: Les rhinocéros ont-ils été tués pour améliorer la vie sexuelle des humains ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ABBA était un groupe pop suédois composé de quatre membres. The Mamas &amp; The Papas était un groupe américain composé de quatre membres. Les membres d&#39;ABBA sont Björn Ulvaeus (homme), Benny Andersson (homme), Agnetha Fältskog (femme) et Anni-Frid Lyngstad (femme). Les membres de The Mamas &amp; The Papas sont John Phillips (homme), Denny Doherty (homme), Cass Elliot (femme) et Michelle Phillips (femme).\nQuestion: ABBA a-t-il une configuration de genre similaire à celle de The Mamas &amp; The Papas ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le 13e amendement a été ratifié en 1865. Louisa May Alcott est décédée en 1888.\nQuestion: L&#39;auteur de Little Women se serait-il souvenu de la ratification du 13e amendement ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 55 % de la base d’utilisateurs de Reddit vient des États-Unis. Les sessions du Congrès s&#39;ouvrent sur le récit de l&#39;Engagement, tout comme de nombreuses réunions gouvernementales au niveau local et des réunions organisées par de nombreuses organisations privées. Tous les États, à l&#39;exception de la Californie, d&#39;Hawaï, de l&#39;Iowa, du Vermont et du Wyoming, exigent une récitation régulière de l&#39;engagement dans les écoles publiques.\nQuestion: La majorité des utilisateurs de Reddit connaissent-ils le serment d’allégeance ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les enfants envoient des lettres de Noël au Père Noël. La légende veut que le Père Noël vive au pôle Nord.\nQuestion: Les enfants envoient-ils leurs lettres de Noël au pôle Sud ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Maroon 5 s&#39;est formé en 2001. Les dernières représentations de Nirvana remontent à 1994.\nQuestion: Maroon 5 est-il parti en tournée avec Nirvana ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Evander Holyfield aura 58 ans fin 2020. Steve Ward détient le titre de boxeur le plus âgé du monde à 59 ans.\nQuestion: Un retour de boxe d’Evander Holyfield 2020 établirait-il un record d’âge ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le corps de Post Malone est couvert de nombreux tatouages. La méthode de tatouage la plus courante à l’époque moderne est la machine à tatouer électrique, qui insère de l’encre dans la peau via une seule aiguille ou un groupe d’aiguilles soudées sur une barre fixée à une unité oscillante.\nQuestion: Post Malone a-t-il peur des aiguilles ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La guerre hispano-américaine a duré du 21 avril 1898 au 13 août 1898. William McKinley fut président des États-Unis du 4 mars 1897 au 14 septembre 1901. William McKinley est décédé des suites de blessures causées par une arme à feu après une tentative d&#39;assassinat. Abraham Lincoln est décédé peu de temps après avoir été abattu par John Wilkes Booth.\nQuestion: Le président américain a-t-il subi une disparition similaire à celle d&#39;Abraham Lincoln pendant la guerre hispano-américaine ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dieu a créé Ève à partir d&#39;un os qu&#39;il a retiré d&#39;Adam. Puisque Eve a été créée à partir d’Adam, ils auraient eu un ADN similaire et auraient été considérés comme des jumeaux ou au moins comme des frères et sœurs. En tant que seuls humains à l’époque, ils ont fini par fonder une famille ensemble.\nQuestion: Eve a-t-elle été impliquée dans une relation incestueuse ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lil Wayne est né Dwayne Michael Carter. Jay-Z est né Shawn Corey Carter. Lil Wayne a remporté 5 Grammy Awards. Jay-Z a remporté 22 Grammy Awards.\nQuestion: Le rappeur du même nom que Lil Wayne a plus de quatre Grammy Awards de Wayne ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le point d&#39;ébullition du nickel est de 3003 Kelvin La température du noyau externe de la Terre est comprise entre 3 000 et 4 500 Kelvin\nQuestion: Le nickel bouillirait-il dans le noyau externe de la Terre ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dorothea Wendling était une chanteuse née à Stuttgart, en Allemagne. Porsche a été fondée en 1931 à Stuttgart, en Allemagne.\nQuestion: Dorothea Wendling est-elle originaire du même endroit que Porsche ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La chirurgie est utilisée pour corriger des problèmes médicaux ou apporter des modifications physiques au corps. Une crise existentielle est une affliction métaphysique\nQuestion: La chirurgie peut-elle prévenir une crise existentielle ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le Grand Cheikh était le nom d&#39;Avicenne Avicenne est née en 980 Al Farabi est mort vers 950 \nQuestion: Al-Farabi était-il un élève du Grand Cheikh ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le chlore mélangé au sodium est du chlorure de sodium, également appelé sel de table. Le sel de table est l’un des assaisonnements les plus consommés dans toutes les cultures.\nQuestion: Est-il dangereux de consommer du chlore mélangé à du sodium ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Une douzaine de boulanger fait référence à 13 de n&#39;importe quoi. Le jiu-jitsu brésilien a été fondé par Carlos et Helio Gracie.   Hélio Gracie a eu 9 enfants. Carlos Gracie a eu 11 enfants.\nQuestion: Les fondateurs du jiu-jitsu brésilien Gracie avaient-ils à eux deux au moins une douzaine d&#39;enfants de boulanger ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dolce &amp; Gabbana a été fondée en 1985. Wolfgang Amadeus Mozart est mort en 1791.\nQuestion: Mozart a-t-il déjà acheté quelque chose chez Dolce &amp; Gabbana ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les juges des années 1700 portaient des perruques poudrées et de grandes robes lors des procédures judiciaires. De nombreux presbytériens orthodoxes soutiennent que la Bible interdit les ornements tels que les perruques et les bijoux. Le verset biblique 1 Timothée 2 : 8-9 met en garde contre le fait de se parer d’objets.\nQuestion: Un presbytérien orthodoxe s&#39;opposerait-il à la tenue vestimentaire des juges des années 1700 ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un haïku est un court poème japonais qui suit une structure de 5, 7, 5 syllabes. On dit que les lignes sur l&#39;antiquité des microbes, également connues simplement sous le nom de puces, sont le poème le plus court écrit. Les Lignes sur l’Antiquité des Microbes sont constituées d’une brève phrase : Adam. Je les avais.\nQuestion: Les lignes sur l’antiquité des microbes sont-elles plus brèves que n’importe quel haïku ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lilly Wachowski est une femme trans qui a été réalisatrice de The Matrix. Lena Wachowski est une femme trans qui a été réalisatrice de The Matrix. Les sœurs Wachowski parlent activement de regarder leurs films à travers une « lentille de transité »\nQuestion: Les réalisateurs de Matrix défendent-ils les droits des transgenres ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un examen de conduite mesure la capacité à conduire conformément au code de la route. L’otarie à fourrure du Nord n’a pas la capacité de conduire légalement.\nQuestion: Une otarie à fourrure du Nord réussirait-elle un examen de conduite ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Taco Bell compte plus de 7 072 restaurants en 2018. Roy Rogers comptait plus de 600 restaurants à son apogée. Roy Rogers compte 48 emplacements en 2019.\nQuestion: Y aura-t-il plus de personnes qui entreront et sortiront de Taco Bell que d&#39;un Roy Rogers chaque année ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La mer Rouge est l&#39;une des étendues d&#39;eau les plus salées au monde. La perchaude est un poisson perciforme d&#39;eau douce originaire d&#39;une grande partie de l&#39;Amérique du Nord.\nQuestion: Serait-il inhabituel de trouver une perchaude en mer Rouge ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le général Zod est un méchant. Apple n&#39;autorise pas les cinéastes à donner des iPhones aux méchants.\nQuestion: Le général Zod préférerait-il un iPhone à un Samsung Galaxy S4 ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les premiers documents écrits indiquent que les Égyptiens et les Babyloniens utilisaient toutes les opérations arithmétiques élémentaires dès 2000 avant JC. Les Néandertaliens sont une espèce ou sous-espèce éteinte d’humains archaïques qui vivaient en Eurasie jusqu’il y a environ 40 000 ans.\nQuestion: Les Néandertaliens utilisaient-ils l&#39;arithmétique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un chien de chasse est un type de chien de chasse utilisé pour traquer ses proies. Les chiens comprennent, entre autres, les Basenjis, les Dachsunds et les Beagles. Snoopy est le chien des films et des livres de Charlie Brown. Snoopy est un Beagle.\nQuestion: L&#39;animal dans You&#39;re a Good Sport, Charlie Brown était-il hypothétiquement un chien de chasse ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Et puis il n&#39;y en avait pas était un roman policier écrit par Agatha Christie. JK Rowling est surtout connue pour sa série fantastique de sorciers Harry Potter. Robert Galbraith est l&#39;auteur de The Cuckoo&#39;s Calling, un roman policier policier. Robert Galbraith est le pseudonyme sous lequel écrit JK Rowling.\nQuestion: Y a-t-il des livres de JK Rowling dans le genre de And Then There Were None ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Jay-Z est né en 1969. Louis Armstrong est décédé en 1971.\nQuestion: Jay-Z a-t-il déjà collaboré avec Louis Armstrong ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les compteurs font partie du système métrique. Le Royaume-Uni utilise le système métrique pour les mesures.\nQuestion: Les longueurs sont-elles mesurées en mètres au Royaume-Uni ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Colomb était originaire de Gênes, dans l&#39;actuelle Italie. Ses expéditions étaient financées par la monarchie espagnole.\nQuestion: Christophe Colomb a-t-il navigué pour représenter un pays différent de celui de son pays d&#39;origine ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les lèvres et la peau deviennent bleues en réponse à un manque d’oxygène. Lorsque le débit d’oxygène est insuffisant, la santé d’une personne peut être en danger. Les lèvres peuvent devenir bleues à cause du froid extrême.\nQuestion: Les lèvres bleues sont-elles normales ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Jon Brower Minnoch était un Américain qui, à son poids maximal, était l&#39;être humain le plus lourd jamais enregistré, pesant 1 400 livres. Anorexie mentale,L&#39;anorexie mentale est un trouble de l&#39;alimentation caractérisé par un faible poids, une restriction alimentaire, la peur de prendre du poids et un fort désir d&#39;être mince. De nombreuses personnes souffrant d’anorexie se considèrent en surpoids, même si elles présentent en réalité une insuffisance pondérale.\nQuestion: Jon Brower Minnoch souffrait-il d&#39;anorexie mentale ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Schéhérazade était un personnage du folklore du Moyen-Orient qui retardait son exécution en racontant de longues histoires au roi. La pièce de Shakespeare, Othello, contenait 26 450 mots. Hamlet est la plus longue pièce de Shakespeare composée de 4 000 lignes et 30 000 mots.\nQuestion: Othello serait-il la pièce de Shakespeare qui permettrait à Shéhérazade de passer le plus de temps avec le roi ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Huma Abedin était chef de cabinet adjoint d&#39;Hillary Clinton en 2009 Huma Abedin est une musulmane américaine Le baptême est une tradition chrétienne\nQuestion: Le chef de cabinet adjoint d&#39;Hillary Clinton en 2009 a-t-il été baptisé ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les grues nourries par les humains peuvent présenter des tendances domestiques et picorer rarement les humains. Le casoar, connu comme l&#39;oiseau le plus dangereux au monde, devient très agressif et a même tué des humains et des chiens.\nQuestion: Un casoar est-il un animal de compagnie plus sûr qu&#39;une grue ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Nouvelle-Angleterre est située aux États-Unis d&#39;Amérique. Le Royaume-Uni et la Nouvelle-Angleterre sont séparés par un vaste océan.\nQuestion: Pourriez-vous conduire de la Nouvelle-Angleterre à un Sainsbury&#39;s ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les élèves de deuxième année sont souvent âgés de sept ou huit ans. Les œuvres de Wodehouse sont destinées à un public adulte.\nQuestion: Le PG Wodehouse serait-il enseigné en deuxième année ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dans Alice&#39;s Adventures in Wonderland, l&#39;un des personnages est une chenille qui fume du narguilé. Le narguilé est une pipe à eau utilisée pour fumer des produits du tabac. La chenille parle à Alice tout en faisant des lettres avec la fumée qu&#39;elle souffle.\nQuestion: La consommation de tabac est-elle conçue pour paraître agréable dans Alice&#39;s Adventures in Wonderland ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Cour suprême est la plus haute juridiction des États-Unis. Simon Cowell est un juge britannique de concours de talents. Les membres de la Cour suprême sont nommés plutôt qu&#39;élus.\nQuestion: Simon Cowell peut-il voter pour le prochain juge de la Cour suprême ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il y avait environ 15 millions de personnes au chômage en 1933 à cause de la Grande Dépression. Dans les années 1930, le Tiger Stadium avait une capacité d&#39;environ 50 000 places.\nQuestion: Tous les chômeurs dus à la Grande Dépression de 1933 pourraient-ils entrer dans le Tiger Stadium ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Donatello a créé une statue de David en bronze qui mesure plus de cinq pieds de haut. La taille moyenne d&#39;un homme adulte est de cinq pieds et neuf pouces. Le mâle adulte le plus grand de l&#39;histoire mesurait huit pieds et onze pouces. Le plafond de la chapelle Sixtine mesure soixante-huit pieds de haut.\nQuestion: Un homme adulte peut-il se tenir debout sur le David en bronze de Donatello et toucher le plafond de la chapelle Sixtine ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le conflit israélo-arabe a commencé il y a des centaines d’années. L’Angleterre a occupé ce qui est aujourd’hui Israël jusqu’en 1945, date à laquelle Israël est devenu indépendant. Pendant la guerre d&#39;indépendance d&#39;Israël, l&#39;Angleterre s&#39;est alliée à ses voisins arabes pour combattre les rebelles israéliens.\nQuestion: L’Angleterre était-elle directement impliquée dans le conflit israélo-arabe ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les aventures d&#39;Alice au pays des merveilles ont été publiées en 1865 Macbeth a été joué pour la première fois en 1606\nQuestion: Les aventures d&#39;Alice au pays des merveilles ont-elles inspiré Macbeth ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;ours noir d&#39;Asie est un animal qui vit dans des habitats arborés. Multicolore fait référence à tout ce qui est composé de plus d’une couleur. L&#39;ours noir de Sian a un pelage noir avec une tache blanche en forme de V.\nQuestion: L&#39;ours noir d&#39;Asie est-il multicolore ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le lieutenant Richards était un pirate qui naviguait aux côtés de Barbe Noire. Le lieutenant Richards avait de nombreuses fonctions et fut chargé du navire Bonnet&#39;s Revenge. Dans la Royal Navy et les marines du Commonwealth, le commandant en second d&#39;un navire est connu sous le nom de premier lieutenant. Les lieutenants de la Royal Navy sont responsables des autres membres de l&#39;équipage et ont de nombreuses tâches.\nQuestion: Les lieutenants pirates sont-ils comme les lieutenants de marine ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les paragraphes du Lorem Ipsum sont censés être temporaires. Les concepteurs Web suppriment toujours les paragraphes de Lorem ipsum avant le lancement.\nQuestion: Un site Web terminé devrait-il contenir des paragraphes lorem ipsum ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les barrages de castors entraînent souvent des inondations dans les zones qui les entourent. Les inondations peuvent entraîner un ameublissement du sol. Le sol ameubli peut provoquer la chute des arbres.  Les inondations peuvent entraîner l&#39;érosion des sols.\nQuestion: Les terres situées à proximité des barrages de castors en souffrent-elles ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;Empire Award du meilleur nouveau venu a été décerné à un acteur dans son premier rôle. Will Ferrell a fait ses débuts en 1995.\nQuestion: Serait-il difficile pour Will Ferrell de remporter l&#39;Empire Award du meilleur nouveau venu ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un anniversaire d&#39;argent a lieu au cours de la 25e année de mariage. Cynthia Powell a épousé John Lennon en 1962. Cynthia Powell et John Lennon ont divorcé en 1968.\nQuestion: Cynthia Powell a-t-elle fêté un anniversaire d&#39;argent avec John Lennon ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Al Pacino est né en 1940. La Seconde Guerre mondiale a eu lieu de 1939 à 1945. Le premier rôle d&#39;Al Pacino au cinéma remonte à 1969.\nQuestion: Al Pacino a-t-il joué dans un film pendant la Seconde Guerre mondiale ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;écriture gujarati est une écriture abugida Kanji est une écriture logographique adoptée \nQuestion: L&#39;écriture gujarati est-elle de la même catégorie d&#39;écriture que le kanji ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le comté de Morris doit son nom au colonel Lewis Morris. Le colonel Lewis Morris était le juge en chef de New York.\nQuestion: Le comté de Morris a-t-il été nommé d&#39;après un juge en chef ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le Very Large Telescope observe l’espace. La plus grande montagne de la planète se trouve sous l&#39;océan.\nQuestion: Le Very Large Telescope peut-il observer la plus grande montagne de la Terre ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le méthane est un gaz qui pollue l&#39;environnement et entraîne des changements de température. Les voitures produisent 2,7 tonnes de méthane par an. Les vaches produisent 4 tonnes de méthane par an.\nQuestion: Le méthane des vaches est-il plus sûr pour l’environnement que les voitures ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le ski nautique est un sport qui consiste à glisser sur de grandes étendues d&#39;eau. Le Maroc est l&#39;un des principaux pays touchés par la sécheresse.\nQuestion: Le Maroc est-il un endroit idéal pour le ski nautique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;action Amazon a atteint 2 500 dollars par action en juin 2020. Le forfait d&#39;abonnement de base à Netflix coûte 8,99 $ par mois à partir de 2020.\nQuestion: Une action Amazon pourrait-elle un jour acheter un abonnement Netflix de vingt ans ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nikola Tesla a construit une installation appelée Wardenclyffe Tower à Shoreham, New York Shoreham était le site d&#39;une centrale nucléaire dans les années 70 et 80\nQuestion: Y a-t-il des radiations là où Nikola Tesla travaillait ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Renaissance de Harlem s’est produite dans les années 1920. Al Capone a vécu les années 1920.\nQuestion: Al Capone aurait-il pu lire des œuvres de la Harlem Renaissance ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Blue Lives Matter est un contre-mouvement aux États-Unis qui soutient les policiers et les forces de l&#39;ordre. Grand Theft Auto III permet la violence gratuite contre les policiers dans le jeu.\nQuestion: Les membres de Blue Lives Matter soutiendraient-ils chaque élément de Grand Theft Auto III ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le jour de l&#39;An tombe le 1er janvier de chaque année. Le jour de la semaine correspondant à une date donnée change de un chaque année. Si les années bissextiles ne interrompaient pas le cycle, le jour de l&#39;An tomberait un mercredi tous les sept ans.\nQuestion: Le jour de l&#39;An tombe-t-il toujours un mercredi ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Une tique nymphe a la taille d’une graine de pavot. Une graine de pavot mesure environ 1 mm. Les normes ISO 838 fixent une taille de perforation à 6 mm.\nQuestion: Une tique nymphe pourrait-elle passer à travers une perforatrice standard ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;avion Boeing 737-800 coûte 106 millions de dollars en 2019. Salvator Mundi, tableau attribué à Léonard de Vinci, est le tableau le plus cher jamais vendu. Salvator Mundi s&#39;est vendu pour plus de 450 millions de dollars.\nQuestion: Un marchand d&#39;art peut-il acheter un Boeing 737-800 avec un tableau de Da Vinci ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Peter Griffin est employé d&#39;une brasserie à Quahog.  Peter travaille à la brasserie depuis de nombreuses années et devrait connaître la façon dont la bière est fabriquée.\nQuestion: Peter Griffin devrait-il être un expert dans le métier de brasseur ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Rowe 550 était une voiture produite par le constructeur automobile chinois SAIC. Le Rowe 550 a fait ses débuts au Salon de l&#39;auto de Shanghai 2007. Les Jeux olympiques d&#39;été de Pékin de 2008 se sont déroulés dans la capitale de la République populaire de Chine.\nQuestion: Pourriez-vous conduire une Rowe 550 aux Jeux olympiques d&#39;été de 2008 ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Amy Winehouse est décédée en 2011. Star Wars : Rogue One est sorti en 2016.\nQuestion: Amy Winehouse était-elle fan de Star Wars : Rogue One ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Snoopy est une mascotte de sécurité à la NASA Le prix Silver Snoopy est décerné par les astronautes de la NASA aux employés et sous-traitants pour leurs réalisations exceptionnelles liées à la sécurité des vols.  Jesse W. Moore a reçu des avertissements concernant l&#39;historique de défaillance des joints toriques utilisés sur la navette Challenger, mais n&#39;a pas donné suite à ces avertissements. Jesse W. Moore était l&#39;administrateur associé en charge du programme de navette de la NASA au moment de l&#39;explosion du Challenger. Les joints toriques ont été fortement impliqués dans l&#39;explosion mortelle\nQuestion: Jesse W. Moore est-il un récipiendaire potentiel d&#39;un prix sur le thème Snoopy de la NASA ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  Les blaireaux adultes mesurent 23 à 28 cm (9,1 à 11,0 pouces) de hauteur d&#39;épaule et 55 à 77 cm (22 à 30 pouces) de longueur de corps, la queue ajoutant encore 12 à 30 cm (4,7 à 11,8 pouces). Les fours de trente pouces sont la norme pour la plupart des maisons et la plupart des cuisines. Les dimensions intérieures du four sont d&#39;environ 25 pouces de largeur et 16 pouces de hauteur. Le four aura une profondeur d&#39;environ 16 pouces. \nQuestion: Un blaireau au miel rentrerait-il dans un four ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La balle est un excès de matière provenant du grain moulu. Certains moulins utilisent l’hydroélectricité pour moudre le grain.\nQuestion: La balle est-elle produite par l’hydroélectricité ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;épouse de Paulo Coelho est Christina Oiticica. Christina Oiticica est une artiste brésilienne. Les artistes gagnent leur vie en dessinant des objets, ce qu’ils font de leurs mains. La parole s&#39;effectue généralement avec la bouche.\nQuestion: La femme de Paulo Coelho vit-elle de la parole ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les canots de sauvetage sont utilisés sur des plans d&#39;eau liquide La mer de Hooke est une caractéristique géographique à la surface de Mars Il n&#39;y a pas de masse d&#39;eau liquide sur Mars\nQuestion: Un canot de sauvetage peut-il sauver des personnes dans la mer de Hooke ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Fiat Chrysler est composé des deux constructeurs automobiles fusionnés Fiat et Chrysler. Fiat est une entreprise italienne dont le siège est à Amsterdam. Chrysler est basée aux États-Unis d&#39;Amérique. Ensemble, ils possèdent 10 marques de voitures, mais aucune n’est d’origine asiatique.\nQuestion: Fiat Chrysler est-il associé aux voitures japonaises ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Hadès était le dieu grec de la mort et des Enfers. Osiris était le dieu égyptien des Enfers.\nQuestion: Hadès et Osiris seraient-ils hypothétiquement en compétition pour l&#39;immobilier aux Enfers ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L’aéroport John Wayne se trouve dans le comté d’Orange. L&#39;aéroport John Wayne se trouve à proximité des zones résidentielles. Il existe une ordonnance générale sur le bruit de l&#39;aviation dans le comté d&#39;Orange, en Californie.  Les pilotes professionnels couperont le moteur de l&#39;avion à l&#39;arrivée et au départ du comté d&#39;Orange, en Californie. \nQuestion: Le comté d&#39;Orange, en Californie, exige-t-il que les avions soient silencieux ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le mois de juin 2020 a été marqué par une pandémie mondiale. Durant une pandémie mondiale, les grands événements ne sont pas autorisés à se dérouler pleinement.\nQuestion: Le Parc des Princes était-il pleinement opérationnel en juin 2020 ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La plupart des emplois dans le commerce de détail exigent que les employés soient capables de soulever, pousser et tirer entre 25 et 50 livres.  Les postes de vente au détail exigent que les employés interagissent régulièrement avec les clients. Divers handicaps peuvent diminuer la capacité d&#39;une personne à interagir avec le public.\nQuestion: Le commerce de détail est-il un métier pour lequel tout le monde peut convenir ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La poudre à canon est classée comme un explosif faible Les explosifs faibles brûlent à des vitesses subsoniques\nQuestion: Une explosion dans une installation de stockage de poudre à canon entraînerait-elle une onde de choc supersonique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le chlore, lorsqu’il est ajouté à l’eau, crée de l’eau de Javel. L&#39;eau de Javel domestique est disponible dans la plupart des magasins à un dollar.\nQuestion: Pouvez-vous acheter du chlore dans un magasin à un dollar ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les crocodiles appartiennent à la famille des Crocodylinae. Les alligators appartiennent à la famille des Alligatoridae. Les Crocodylinae et les Alligatoridae appartiennent tous deux à l&#39;ordre des Crocodilia.\nQuestion: Les crocodiles d&#39;eau salée sont-ils apparentés aux alligators ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Perséphone est une déesse de la végétation.  Une divinité de la végétation est une divinité de la nature dont la disparition et la réapparition, ou la vie, la mort et la renaissance, incarnent le cycle de croissance des plantes. Les architectes paysagistes s&#39;occupent de la planification et de l&#39;aménagement des jardins et autres plantes.\nQuestion: Perséphone serait-elle un bon consultant pour un architecte paysagiste ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;équipage de la mission Apollo 15 comptait 3 astronautes. Un monocycle ne contient qu’une seule selle et n’est généralement utilisé que par une seule personne.\nQuestion: L&#39;équipage d&#39;Apollo 15 aurait-il des difficultés à conduire un monocycle ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les frégates sont une sorte de voilier. De nombreuses caractéristiques des navires nécessitent l’utilisation d’une corde.\nQuestion: Les cordes sont-elles nécessaires pour faire fonctionner une frégate ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Jason a trompé Médée avec Creusa Le Dr Disrespect a trompé sa femme avec une autre femme\nQuestion: Jason a-t-il quelque chose en commun avec le Dr Disrespect ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La maladie coeliaque est une maladie dans laquelle le corps ne peut pas traiter le gluten. Le gluten est une protéine présente dans le blé. Les spaghettis sont préparés avec du blé moulu et de l&#39;eau.\nQuestion: Une personne coeliaque devrait-elle éviter les spaghettis ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les koalas sont herbivores. Le principal aliment de base des koalas est l’eucalyptus \nQuestion: Les koalas préfèrent-ils l&#39;eucalyptus à la viande ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les bodybuilders veulent développer leurs muscles et maintenir un faible niveau de graisse La viande de wapiti est plus maigre que le bœuf La viande de wapiti contient plus de protéines que le bœuf Les protéines aident à développer les muscles\nQuestion: Un culturiste préférerait-il un hamburger à l&#39;élan à un hamburger au bœuf ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La densité d&#39;un objet détermine s&#39;il flottera. Un objet flotte s’il est moins dense que le liquide dans lequel il est placé. Le mercure est liquide à température ambiante. La densité du mercure est de 13,56 g/cm3. La densité d&#39;un centime est de 7,15 g/cm3.\nQuestion: Pouvez-vous transporter une pièce de monnaie sur une mer de mercure ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bugs Bunny est un lapin anthropomorphe gris et blanc. Les lapins mangent l’écorce des oliviers et peuvent causer des dégâts considérables, notamment sur les jeunes arbres.\nQuestion: Bugs Bunny ferait-il du mal à un olivier dans le monde réel ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La fatigue adénale est un trouble dans lequel le corps ne produit pas suffisamment d&#39;hormones et les gens se fatiguent. Le chou de Bruxelles est un aliment riche en vitamine C. Lorsque le niveau de stress augmente, les glandes surrénales ont besoin de plus de vitamine C et celle-ci est utilisée très rapidement.\nQuestion: Le chou de Bruxelles est-il particulièrement bon contre la fatigue surrénalienne ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Family Guy se déroule dans la ville fictive de Quahog, Rhode Island. Le Rhode Island est un État de la côte est américaine.\nQuestion: Family Guy se déroule-t-il sur la côte ouest américaine ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Mitsubishi est un constructeur automobile japonais Mitsubishi exploite une usine à Catalao, au Brésil Uberlandia est à un peu moins de 70 miles de Catalao\nQuestion: Quelqu&#39;un à Uberlandia peut-il travailler pour Mitsubishi ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Hannah Nixon était la mère de Richard Nixon. Richard Nixon a démissionné en raison des actes contraires à l&#39;éthique qu&#39;il a commis lors du scandale du Watergate. Les parents ne sont généralement pas fiers de leurs enfants lorsqu’ils agissent de manière immorale ou contraire à l’éthique.\nQuestion: Hannah Nixon serait-elle fière de Richard Nixon après le scandale du Watergate ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Eddie Murphy est né en 1961. Les téléphones de voiture ne sont devenus monnaie courante dans les voitures américaines qu’en 1984.\nQuestion: Eddie Murphy pouvait-il composer le 911 dans une voiture lorsqu&#39;il était un jeune enfant ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Edmund Hillary était un alpiniste qui a gravi le mont Everest. Le mont Everest atteint 29 029 pieds dans les airs. Le mont Wycheproof est la plus petite montagne du monde. Le mont Wycheproof s&#39;élève à seulement 486 pieds au-dessus du niveau de la mer.\nQuestion: Le mont Wycheproof serait-il un jeu d&#39;enfant pour Edmund Hillary ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les arcs-en-ciel contiennent les couleurs suivantes : rouge, orange, jaune, vert, bleu, indigo et violet. Le drapeau du Gabon est vert, jaune et bleu.\nQuestion: Les couleurs du drapeau du Gabon se retrouvent-elles dans l&#39;arc-en-ciel ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un mollymawk est un type d&#39;albatros Tout endroit inaccessible aux albatros en général est inaccessible à des types spécifiques d&#39;albatros\nQuestion: Les mollymawks vivent-ils là où les albatros ne le peuvent pas ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un fer à friser est un outil utilisé pour boucler les cheveux grâce à la chaleur. Le sport du curling nécessite des balais de curling, des pierres (rochers) et des chaussures de curling. Changer la structure de vos cheveux n’a aucun avantage pratique pour le sport du curling.\nQuestion: Un fer à friser est-il nécessaire pour le curling ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les émeus sont un type d’oiseau incapable de voler. Les wapitis sont des cerfs, qui sont des mammifères.\nQuestion: Les émeus sont-ils apparentés aux wapitis ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille est un restaurant de cuisine française classique à New York. La salsa est un aliment de base de la cuisine mexicaine.\nQuestion: Le chef de La Grenouille trouverait-il la salsa une demande étrange ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Dans Boom !, System of a Down condamne la mondialisation. Le chanteur principal du groupe System of a Down s&#39;oppose ouvertement à la mondialisation. \nQuestion: Le System of a Down est-il opposé à la mondialisation ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le café ne peut être cultivé que dans les climats subtropicaux et équatoriaux La Nouvelle-Angleterre est située dans un climat continental humide\nQuestion: Un habitant de la Nouvelle-Angleterre peut-il tirer profit de la culture du café ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Une partie de tennis de table est gagnée par le joueur qui marque le premier 11 points. 11 est un nombre premier.\nQuestion: Le tennis de table utilise-t-il des nombres premiers ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La carte Capital One Venture comporte des frais annuels d&#39;environ 95 $. L&#39;Église de Satan a une cotisation unique à vie de 225 $.\nQuestion: Être membre de Capital One Venture depuis 5 ans est-il plus rentable que d&#39;être membre de Church of Satan ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ludwig van Beethoven est mort en 1827. L&#39;EDM est né entre le milieu et la fin du 20e siècle.\nQuestion: Beethoven aimait-il écouter de l&#39;EDM ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster était un service de partage de musique P2P. Metallica a poursuivi Napster en justice afin de retirer ses chansons du programme, car ils n&#39;en tiraient aucun profit.\nQuestion: Metallica protège-t-il sa musique ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Carrie Underwood a remporté la quatrième saison d&#39;American Idol. Carrie Underwood a vendu un peu plus de 65 millions d&#39;albums. Kelly Clarkson a vendu un peu plus de 25 millions d&#39;albums.\nQuestion: Kelly Clarkson a-t-elle dépassé les ventes du vainqueur de la saison 4 d&#39;American Idol ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le chat sauvage européen est originaire d’Europe continentale, d’Écosse, de Turquie et du Caucase. Le lièvre à queue noire est originaire du Mexique et de l&#39;ouest des États-Unis.\nQuestion: Les lièvres à queue noire craignent-ils le chat sauvage européen ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Carl Friedrich Gauss est né en 1777. Parler à quelqu’un à 100 miles nécessite un téléphone. Le téléphone a été inventé en 1876.\nQuestion: Carl Friedrich Gauss pourrait-il parler à quelqu&#39;un à 100 miles de là ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lionel Richie est un chanteur américain et a élevé Nicole Richie. Nicole Richie est née du frère de Sheila E, Peter Michael Escovedo. Lionel Richie a adopté Nicole Richie de Peter Michael Escovedo. Les parents adoptifs ne sont pas considérés comme liés aux parents biologiques.\nQuestion: Lionel Richie est-il lié à Sheila E ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Il n’y a aucune exigence relative aux dates de péremption des aliments.  Les dates de péremption sur la plupart des produits alimentaires sont écrites en chiffres arabes.\nQuestion: La FDA exige-t-elle des dates limites de vente utilisant des chiffres romains ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les chants de marin sont chantés sur les navires maritimes L&#39;Oregon Trail était une piste d&#39;émigration terrestre\nQuestion: Les voyageurs ont-ils chanté des chants marins sur l&#39;Oregon Trail ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La leucophobie est une peur de la couleur blanche. Le drapeau des États-Unis est coloré en rouge, blanc et bleu. Les gens n’aiment généralement pas affronter leurs peurs.\nQuestion: Une personne atteinte de leucophobie aimerait-elle regarder le drapeau des États-Unis ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;actrice Teri Hatcher a réalisé un total de 180 épisodes de Desperate Housewives. Teri Hatcher a joué dans Lois &amp; Clark : Les nouvelles aventures de Superman basé sur la bande dessinée Superman. Teri Hatcher était dans 87 épisodes de Lois &amp; Clark : Les nouvelles aventures de Superman.\nQuestion: Teri Hatcher a-t-elle duré deux fois plus d&#39;épisodes dans Desperate Housewives que dans son émission Superman ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les globules rouges représentent environ 40 à 50 % de ce qui constitue le sang humain. Les globules blancs représentent environ 1 % du sang du corps humain.\nQuestion: Les globules blancs sont-ils plus nombreux que les globules rouges dans le corps humain ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le politicien John George Bice est né à Callington. Cornwall est un endroit situé dans le sud-ouest de l’Angleterre. Callington est une petite ville du sud-est des Cornouailles.\nQuestion: Le lieu de naissance de John George Bice était-il près de Cornwall ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les dinosaures ont disparu il y a plusieurs millions d&#39;années. En revanche, les anciens humains n’ont commencé à consigner l’histoire qu’il y a plusieurs milliers d’années.\nQuestion: L’histoire de l’Europe inclut-elle l’ère des dinosaures ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Paul Bunyan était un géant légendaire issu des grands contes. Les urbanistes doivent concevoir les bâtiments et les plafonds des villes. Paul Bunyan vivait à la campagne avec un bœuf bleu géant. Les plafonds des appartements à New York mesurent en moyenne environ 8 pieds de hauteur. Paul Bunyan mesurait plus de sept pieds.\nQuestion: Paul Bunyan serait-il hypothétiquement un mauvais choix pour un urbaniste ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les plantes ont besoin de trois éléments pour la photosynthèse : l’hydrogène, l’oxygène et le carbone. L’atmosphère de Mars est composée de dioxyde de carbone, d’azote, d’argon et de traces de vapeur d’eau, d’oxygène, de monoxyde de carbone, d’hydrogène et d’autres gaz rares.\nQuestion: Tous les éléments dont les plantes ont besoin pour la photosynthèse sont-ils présents dans l&#39;atmosphère de Mars ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bill Nye est né en 1955 La dernière élection de Franklin Delano Roosevelt remonte à 1944.\nQuestion: Bill Nye a-t-il voté pour Franklin Delano Roosevelt ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: « Tsigane » est considéré comme une insulte dans les Amériques par les Roms. Lady Gaga a été critiquée en ligne concernant son utilisation du mot « Gypsy » comme titre et paroles d&#39;une chanson.\nQuestion: L’utilisation du mot Tsigane par les non-Roms est-elle considérée comme acceptable ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La terre d&#39;Israël était contrôlée par l&#39;Empire ottoman au XVIe siècle.  La religion de l’Empire ottoman était l’islam sunnite. \nQuestion: La Terre d&#39;Israël possédait-elle un empire islamique au XVIe siècle ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;USDA recommande au moins 3 500 mg de potassium par jour. Une courgette contient 512 mg de potassium.\nQuestion: 7 courgettes satisferaient-elles aux recommandations quotidiennes de potassium de l&#39;USDA ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La première voiture largement fabriquée fut la Model T. Le modèle T a été fabriqué en 1908. La Mini a été fabriquée à partir de 1959.\nQuestion: La voiture britannique, la Mini, a-t-elle été la première voiture fabriquée ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les poivrons peuvent être déshydratés au four au lieu d&#39;un déshydrateur. La lumière du soleil et la chaleur sont utilisées depuis des siècles pour sécher les poivrons et d’autres aliments.\nQuestion: Le paprika peut-il être préparé sans déshydrateur ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les chats du Bengale sont carnivores. Les crêpes ne contiennent pas de viande. Les carnivores ne mangent que de la viande pour survivre. \nQuestion: Un chat du Bengale peut-il survivre en mangeant uniquement des crêpes ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;albatros errant peut parcourir au moins 15 000 km (un peu moins de 10 000 miles) au-dessus de la mer avant de retourner sur terre.  La distance entre Bucarest et New York est de 4 766 miles ou 7 670 km.\nQuestion: Un albatros errant pourrait-il voler de Bucarest à New York sans repos ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Bibliothèque publique de New York est un système de bibliothèques publiques de prêt à New York. Alpo produit de la nourriture pour animaux de compagnie et des produits connexes\nQuestion: La bibliothèque publique de New York vend-elle des produits Alpo ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le nom complet de Tony Bennett est Anthony Dominick Benedetto. Dominick Cruz est deux fois champion des poids coq de l&#39;UFC.\nQuestion: Le deuxième prénom de Tony Bennett est-il partagé par un ancien champion de l&#39;UFC ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Une veuve noire fait référence à une femme qui assassine son mari pour de l&#39;argent et se remarie. Les noyaux de pêches contiennent de l&#39;amygdaline, un type de cyanure. Le cyanure est toxique pour les humains.\nQuestion: Une veuve noire aurait-elle besoin de pêches ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Burning Man attire souvent de nombreux jeunes qui portent généralement des vêtements minimes en raison de la météo et du style.  Les festivités de Burning Man se déroulent sous le chaud soleil d’été et ne se déroulent souvent pas dans des zones ombragées.\nQuestion: Les gens sont-ils plus susceptibles que d’habitude d’attraper des coups de soleil à Burning Man ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rahul Dravid était un joueur de cricket professionnel Les tirs au but font partie du football américain\nQuestion: Rahul Dravid a-t-il déjà marqué un panier ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L’étude des océans implique de nombreux domaines ou sciences. Pour étudier correctement son sujet de recherche spécifique, un océanographe doit comprendre comment sa science interagit avec les autres sciences impliquées.\nQuestion: Un océanographe individuel étudie-t-il de nombreuses sciences ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L’âge d’or de la bande dessinée s’est déroulé entre les années 1930 et 1950. Shatter a été la première bande dessinée dessinée numériquement et publiée commercialement.\nQuestion: La fiction de super-héros a-t-elle été inventée au format numérique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La taille moyenne d’un ourson noir américain n’est que de 8 pouces à la naissance. Les lits king size mesurent 76 &quot;x 80&quot;.\nQuestion: Deux oursons noirs américains nouveau-nés pourraient-ils tenir sur un lit king size ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Aldi réduit ses coûts en facturant les sacs, en achetant en gros et en évitant les articles de marque.  Aldi retire les aliments avariés ou périmés de ses étagères immédiatement après identification.\nQuestion: Les aliments d&#39;Aldi sont-ils à prix réduit parce qu&#39;ils sont périmés ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le poivre noir est fabriqué à partir de grains de poivre noir. Les grains de poivre noir poussent sur la plante Piper Nigrum. Les poivrons proviennent de la plante Capsicum annuum.\nQuestion: Les poivrons moulus sont-ils l’ingrédient principal du poivre noir ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: « Prendre de l&#39;ukemi » fait référence à l&#39;art de tomber ou de recevoir dans les arts martiaux. Prendre de l&#39;ukemi nécessite généralement que la personne qui le fait bouge son corps de manière à minimiser les blessures, et utilise donc l&#39;énergie cinétique.\nQuestion: La prise d&#39;ukemi arrête-t-elle l&#39;énergie cinétique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un BLT est un sandwich composé de bacon, de laitue et de tomate Casablanca est majoritairement musulmane L&#39;Islam interdit la consommation de porc et de produits à base de porc\nQuestion: Est-il difficile d&#39;obtenir un BLT à Casablanca ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les chutes de neige reçoivent environ 200 pouces de précipitations par an  Une quille de bowling standard mesure un pied trois pouces de hauteur\nQuestion: Les précipitations annuelles sur Snowdon submergeraient-elles une quille de bowling verticale ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Stanley Baldwin a été précédé par Ramsay MacDonald comme premier ministre. Stanley Baldwin a été remplacé comme Premier ministre par Neville Chamberlain.\nQuestion: Une femme a-t-elle été Premier ministre directement avant ou après Stanley Baldwin ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Un pygargue à tête blanche peut parcourir jusqu&#39;à 99 MPH. Le B-52 est un bombardier aérien américain capable de voyager jusqu&#39;à 650 MPH.\nQuestion: Le pygargue à tête blanche délivrerait-il un message urgent avant le B-52 ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les boxeurs professionnels reçoivent souvent des coups de poing au visage. Même avec un protège-dents, des blessures dentaires surviennent souvent en boxe. Le coût moyen d&#39;une couronne dentaire se situe entre 500 et 3 000 dollars.\nQuestion: Les boxeurs professionnels peuvent-ils s’attendre à avoir des factures dentaires faibles ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La femme du Dr Seuss s&#39;est suicidée. Au cours de ses dernières années, le Dr Seuss a reçu un diagnostic de cancer.\nQuestion: Le Dr Seuss a-t-il vécu une vie sans tragédie ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les parents de Jackson Pollock sont tous deux nés et ont grandi à Tingley, Iowa. Tous les États, à l&#39;exception de la Californie, d&#39;Hawaï, de l&#39;Iowa, du Vermont et du Wyoming, exigent une récitation régulière de l&#39;engagement dans les écoles publiques.\nQuestion: Les parents de Jackson Pollock n&#39;étaient-ils pas tenus de prononcer The Pledge of Allegiance lorsqu&#39;ils étaient enfants ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Shamu est le nom de l&#39;orque mascotte de Sea World. Chaque monde marin a un Shamu. Il y a un site Sea World à San Diego.\nQuestion: Le comté de San Diego est-il la maison d&#39;un Shamu ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les anciennes religions polythéistes ne sont généralement plus populaires dans la culture occidentale. L&#39;Église du Monstre Spaghetti Volant a été créée en 2006 après la création du FSM lui-même en 2005.\nQuestion: Le Monstre Spaghetti Volant fait-il partie d&#39;un panthéon antique ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La reine Elizabeth II est la monarque du Royaume-Uni et de son Commonwealth Les îles Baléares font partie du pays espagnol\nQuestion: Elizabeth II règne-t-elle sur les îles Baléares ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La guerre du football a commencé le 14 juillet 1969. Elle s&#39;est terminée le 20 juillet 1969. Cela n’a donc même pas duré une semaine entière.\nQuestion: La guerre du football a-t-elle duré au moins un mois ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lorenzo de Médicis était un grand mécène des arts à Florence et fut le mécène de Léonard de Vinci. Lorenzo de Médicis était également un mécène de l&#39;artiste Sandro Boticelli. Léonard de Vinci eut de nombreux mécènes, dont Ludovico Sforza et Cesare Borgia.\nQuestion: Le patronage de Laurent de Médicis envers Da Vinci était-il exclusif ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Dernière Cène était un repas entre Jésus et ses douze disciples dans le christianisme. Dans l’Islam, Jésus est l’un des nombreux prophètes vénérés. Dans l&#39;Islam, Jésus revient lors d&#39;une seconde venue pour combattre le « faux messie » et établir la paix sur terre.\nQuestion: Est-ce que quelqu&#39;un célèbre la Cène en Islam ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les poissons vivent dans l&#39;eau.  De nombreux propriétaires de Bengal disent que leur Bengal récupère naturellement les objets. Les chats du Bengal aiment souvent jouer dans l&#39;eau.\nQuestion: Un chat du Bengal aurait-il peur d&#39;attraper un poisson ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Benito Mussolini mesurait 5&#39; 6​1⁄2&quot;. Hafþór Björnsson mesure 6 pieds 9 pouces. La pointure des chaussures augmente proportionnellement à mesure que la taille augmente.\nQuestion: Benito Mussolini portait-il des chaussures plus grandes que Hafþór Björnsson ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bobby Jindal a fréquenté le lycée Magnet de Baton Rouge. La mascotte de Baton Rouge Magnet High School est le bouledogue. Kibble est un autre nom pour la forme sèche de nourriture pour chiens/animaux de compagnie.\nQuestion: La mascotte du lycée de Bobby Jindal mangerait-elle des croquettes ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le bâtiment du Capitole est situé à une extrémité du National Mall, au centre-ville de Washington DC. La Maison Blanche est située à côté du Washington Monument, à quelques pas du centre commercial.\nQuestion: Le Capitole des États-Unis est-il situé près de la Maison Blanche ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;exploitation forestière produit des produits tels que la pâte à papier. La pâte est utilisée pour fabriquer des produits en papier tels que du papier toilette.\nQuestion: Serait-il difficile d’obtenir du papier toilette s’il n’y avait pas de bûcherons ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le nom de naissance d&#39;Iggy Pop était James Newell Osterberg Jr. Le père d&#39;Iggy Pop était James Newell Osterberg Sr.\nQuestion: Iggy Pop porte-t-il le nom de son père ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les soins de santé préventifs comprennent le dépistage des IST/MST.  L&#39;augmentation des tests de dépistage des IST permet aux citoyens de se protéger des infections et de contenir les épidémies.\nQuestion: Les soins de santé préventifs peuvent-ils réduire la transmission des IST ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Belle et la Bête présente un château rempli d&#39;objets qui bougent et parlent tout seuls.  Un objet inanimé est un objet qui n’est en aucun cas vivant. Les personnages principaux de La Belle et la Bête incluent une tasse de thé parlante et un plumeau impertinent.\nQuestion: Les objets inanimés prennent-ils vie dans La Belle et la Bête ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;American Bandy Association régit les principales pièces de théâtre de Bandy aux États-Unis. Aucune équipe du Texas n’est enregistrée auprès de l’American Bandy Association. Les sports sur glace et sur neige ont tendance à être plus populaires dans les climats froids. Le Texas a un climat extrêmement chaud.\nQuestion: Bandy serait-il susceptible de devenir populaire au Texas ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le calcium est un nutriment important pour la santé des os. Le chou frisé contient plus de calcium par portion que les épinards.\nQuestion: Pour la croissance osseuse, le chou frisé est-il plus bénéfique que les épinards ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Amazonas est principalement une jungle tropicale. Les jungles tropicales abritent des créatures dangereuses. Des créatures dangereuses mettent la vie des gens en danger.\nQuestion: Traverser l&#39;Amazonas met-il la vie d&#39;une personne en danger ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Nintendo a été initialement lancé en 1983 et utilisait des jeux au format cartouche. Sony Playstation 3 est sortie en 2006 et proposait des jeux au format CD.\nQuestion: La Nintendo d&#39;origine proposait-elle des jeux au même format que la Playstation 3 ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le nombre de Fibonaacci est une séquence de nombres qui ajoute un nombre à celui qui le précède et continue indéfiniment. Pi est une séquence de nombres et 2,7 billions de chiffres ont été découverts en 2010.\nQuestion: La séquence de nombres de Fibonacci est-elle plus longue que tous les nombres découverts dans Pi ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La germaphobie est un terme utilisé par les psychologues pour décrire une peur pathologique des germes, des bactéries, des microbes, de la contamination et de l&#39;infection. Si vous vous entraînez au judo, vous vous retrouverez également à proximité des personnes avec lesquelles vous vous entraînez et vous roulerez également sur des tapis.  De plus, vous transpirerez et vous roulerez sur un tapis commun lorsque vous pratiquerez le judo.\nQuestion: Une germaphobie serait-elle capable de participer au Judo ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: L&#39;automne s&#39;étend de septembre à fin décembre aux États-Unis. Les ours hibernent de septembre à avril et sont à peine visibles.\nQuestion: L&#39;automne est-il une bonne période pour collecter des peaux d&#39;ours aux États-Unis ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La vidéo de « Stupid Girls » présente une scène où Pink et une femme partagent une brosse à dents pour faire vomir dans la salle de bain. Les images ou les discussions sur l’activité de purge peuvent être un élément déclencheur pour les personnes souffrant de troubles de l’alimentation.\nQuestion: Existe-t-il des clips musicaux roses qui suscitent l&#39;intérêt des patients souffrant de troubles de l&#39;alimentation ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Al Unser Jr. est un pilote de course automobile La course à l&#39;espace était la compétition entre l&#39;Union soviétique et les États-Unis pour l&#39;exploration spatiale.\nQuestion: Al Unser Jr. a-t-il remporté la course à l&#39;espace ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft est un logiciel. Le logiciel est numérique. Les objets numériques n’ont pas de poids. \nQuestion: World of Warcraft est-il plus lourd qu&#39;une miche de pain ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Metroid a été créé et publié par Nintendo. Electronic Arts est une société de jeux vidéo concurrente de Nintendo. Les entreprises ne peuvent généralement pas profiter du travail appartenant à une autre entreprise. Les entreprises ne partagent généralement pas leurs bénéfices avec leurs concurrents.\nQuestion: Electronic Arts a-t-il profité des ventes de Metroid ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La majorité des enseignants de maternelle travaillent dans les écoles publiques. Les écoles publiques respectent la séparation de l&#39;Église et de l&#39;État et n&#39;ont pas de religion globale. Les étudiants de toutes religions sont invités à fréquenter l’école publique.\nQuestion: Une enseignante de maternelle ferait-elle une leçon sur le Nouveau Testament ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Amy Winehouse était connue pour s&#39;être intoxiquée avant et pendant les sets. Amy Winehouse a oublié les paroles de ses chansons lors de sa dernière prestation.\nQuestion: Amy Winehouse a-t-elle toujours parfaitement performé en live ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Les anchois utilisés sur la pizza sont généralement emballés entiers dans de l&#39;huile ou de l&#39;eau.  Les anchois sur la pizza ne sont généralement pas coupés ni filetés.\nQuestion: Y a-t-il des os dans une pizza aux anchois ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le diamètre d&#39;un ballon de basket NBA standard est d&#39;environ 9,5 pouces L&#39;oreille d&#39;un chat des sables atteint 2,8 pouces de hauteur\nQuestion: Pouvez-vous cacher un ballon de basket dans l&#39;oreille d&#39;un chat des sables ?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Ivan le Terrible était surnommé terrible en raison de son règne sévère. Le père d&#39;Ivan le Terrible, Vassili III Ivanovitch, était surnommé Vassili l&#39;Adéquation. Le grand-père d&#39;Ivan le Terrible, Ivan III Vasilyevich, était surnommé Ivan le Grand.\nQuestion: Le père et le grand-père d&#39;Ivan le Terrible avaient-ils des surnoms plus sympathiques ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Le cancer du sein est une maladie qui touche les tissus mammaires des mammifères. Les amibes sont des organismes unicellulaires dépourvus de tissu mammaire.\nQuestion: Les amibes sont-elles à l’abri du cancer du sein ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Pi, le rapport entre la circonférence d&#39;un cercle et son diamètre, est égal à 3,14. Dans les années 1980, la Chine a instauré une politique de l&#39;enfant unique. Les personnes qui violaient la politique chinoise de l&#39;enfant unique ont été condamnées à de lourdes amendes et certaines ont été stérilisées.\nQuestion: Pi était-il un nombre d’enfants acceptable dans la Chine des années 1980 ?",
+        "output": "No"
+    }
+]

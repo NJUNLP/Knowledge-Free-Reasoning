@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Benötigt die Herstellung von Ethanol mehr Energie als die Produktion?",
+        "answer": false
+    },
+    {
+        "question": "Sind Haussteuer und Grundsteuer dasselbe?",
+        "answer": true
+    },
+    {
+        "question": "Werden Schmerzen in einem fehlenden Körperteil oder einem gelähmten Bereich wahrgenommen?",
+        "answer": true
+    },
+    {
+        "question": "Ist „Harry Potter und die Flucht vor Gringotts“ eine Achterbahnfahrt?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es einen Unterschied zwischen Hydroxyzin HCL und Hydroxyzin PAM?",
+        "answer": true
+    },
+    {
+        "question": "Ist Barqs Root Beer ein Pepsi-Produkt?",
+        "answer": false
+    },
+    {
+        "question": "Kann eine ungerade Zahl durch eine gerade Zahl geteilt werden?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es ein Wort mit q ohne u?",
+        "answer": true
+    },
+    {
+        "question": "Können Sie mit einem US-Führerschein in Kanada fahren?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es ein Entscheidungsspiel um den dritten Platz bei der Weltmeisterschaft?",
+        "answer": true
+    },
+    {
+        "question": "Dürfen Minderjährige in New York mit ihren Eltern trinken?",
+        "answer": true
+    },
+    {
+        "question": "Basiert die Blutlinie der Serie auf einer wahren Geschichte?",
+        "answer": false
+    },
+    {
+        "question": "Ist es schlecht, die Haare mit Duschgel zu waschen?",
+        "answer": true
+    },
+    {
+        "question": "Ist die Leber Teil des Ausscheidungssystems?",
+        "answer": true
+    },
+    {
+        "question": "Ist „Phantastische Tierwesen und wo sie zu finden sind“ ein Prequel?",
+        "answer": true
+    },
+    {
+        "question": "Wird es eine 8. Staffel von Vampire Diaries geben?",
+        "answer": true
+    },
+    {
+        "question": "Basierte der Film „Strangers“ auf einer wahren Geschichte?",
+        "answer": true
+    },
+    {
+        "question": "Ist die Universität Durham Teil der Russell-Gruppe?",
+        "answer": true
+    },
+    {
+        "question": "Ist die Staffel der Fernsehsendung „The Resident“ zu Ende?",
+        "answer": true
+    },
+    {
+        "question": "Ist in Magnesiumcitrat Zitronensäure enthalten?",
+        "answer": true
+    },
+    {
+        "question": "Kommt das Postfach vor der Straßenadresse?",
+        "answer": false
+    },
+    {
+        "question": "Hält eine Zündkerze einen Motor am Laufen?",
+        "answer": true
+    },
+    {
+        "question": "Ist ein Cape und ein Umhang dasselbe?",
+        "answer": true
+    },
+    {
+        "question": "Kostet es Geld, die US-Staatsbürgerschaft aufzugeben?",
+        "answer": true
+    },
+    {
+        "question": "Ist ein Fire 7 dasselbe wie ein Kindle?",
+        "answer": true
+    },
+    {
+        "question": "Darf man in Wisconsin mit seinen Eltern Alkohol trinken?",
+        "answer": true
+    },
+    {
+        "question": "Haben Pinguine Federn, die aus der Epidermis wachsen?",
+        "answer": true
+    },
+    {
+        "question": "Müssen Sie ein Auto einfahren?",
+        "answer": false
+    },
+    {
+        "question": "Ist der Zauberwald in Oregon noch geöffnet?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es beim Indy 500 einen Golfplatz?",
+        "answer": true
+    },
+    {
+        "question": "Hat Deadpool in den Comics ein Kind?",
+        "answer": true
+    },
+    {
+        "question": "Werden noch Benson &amp; Hedges-Zigaretten hergestellt?",
+        "answer": true
+    },
+    {
+        "question": "Ist die Bundeseinkommensteuer dasselbe wie die Sozialversicherung?",
+        "answer": false
+    },
+    {
+        "question": "Ist ein Motordrehzahlsensor dasselbe wie ein Kurbelwellensensor?",
+        "answer": true
+    },
+    {
+        "question": "Ist „Der Tempel des Todes“ von Indiana Jones ein Prequel?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es einen nächsten Teil von Avengers: Infinity War?",
+        "answer": true
+    },
+    {
+        "question": "Befindet sich der Toyota Highlander auf einem LKW-Rahmen?",
+        "answer": false
+    },
+    {
+        "question": "Ist es legal, ein Cover eines Songs zu machen?",
+        "answer": true
+    },
+    {
+        "question": "Kann Kohlenstoff mit Wasserstoff polare kovalente Bindungen bilden?",
+        "answer": false
+    },
+    {
+        "question": "Gibt es eine Fortsetzung des Films „Der goldene Kompass“?",
+        "answer": false
+    },
+    {
+        "question": "Ist der Columbus Day in den Vereinigten Staaten ein Nationalfeiertag?",
+        "answer": true
+    },
+    {
+        "question": "Sind New Balance und Nike dasselbe Unternehmen?",
+        "answer": false
+    },
+    {
+        "question": "Gibt es eine Autobahn, die von Küste zu Küste führt?",
+        "answer": true
+    },
+    {
+        "question": "Sind pürierte Tomaten dasselbe wie Tomatensoße?",
+        "answer": false
+    },
+    {
+        "question": "Kann es ein Wort ohne Vokal geben?",
+        "answer": true
+    },
+    {
+        "question": "Bekommt am Wendepunkt nur der Gewinner Geld?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es so etwas wie einen Truthahngeier?",
+        "answer": true
+    },
+    {
+        "question": "Hat jemand auf einem Par 5 ein Hole-in-One geschlagen?",
+        "answer": true
+    },
+    {
+        "question": "Teilen sich die Jets und Giants ein Stadion?",
+        "answer": true
+    },
+    {
+        "question": "Ist die US-Frauenfußballmannschaft bei der Weltmeisterschaft dabei?",
+        "answer": true
+    },
+    {
+        "question": "Kann eine afrikanische Mannschaft die Weltmeisterschaft gewinnen?",
+        "answer": true
+    },
+    {
+        "question": "Kann ein Hammer als Waffe verwendet werden?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es in England noch Fuchsjagden?",
+        "answer": false
+    },
+    {
+        "question": "Kann man ein kurzärmeliges Hemd mit einer Asu-Jacke tragen?",
+        "answer": true
+    },
+    {
+        "question": "War Wisconsin jemals in der Little League World Series?",
+        "answer": false
+    },
+    {
+        "question": "Kommen Damon und Elena in Staffel 3 zusammen?",
+        "answer": false
+    },
+    {
+        "question": "Gibt es einen NFL-Spieler, dem eine Hand fehlt?",
+        "answer": true
+    },
+    {
+        "question": "Ist „The Other Boleyn Girl“ Teil einer Serie?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es eine Gruppe namens „Die fünf Herzschläge“?",
+        "answer": false
+    },
+    {
+        "question": "Ist der Mount Everest ein Teil des Himalaya?",
+        "answer": true
+    },
+    {
+        "question": "Kann ein Rettungssanitäter eine Infusion legen?",
+        "answer": false
+    },
+    {
+        "question": "Hat keiner der Courts in Wimbledon ein Dach?",
+        "answer": false
+    },
+    {
+        "question": "Hat irgendjemand im NBA-Finale einen 3:0-Rückstand aufgeholt?",
+        "answer": false
+    },
+    {
+        "question": "Bewegen sich Radiowellen mit Lichtgeschwindigkeit?",
+        "answer": true
+    },
+    {
+        "question": "Hat jemand aus der US-Hockeymannschaft von 1980 in der NHL gespielt?",
+        "answer": true
+    },
+    {
+        "question": "Haben alle Dreiecke mindestens zwei spitze Winkel?",
+        "answer": true
+    },
+    {
+        "question": "Sind Baylor und Mary Hardin Baylor dieselbe Schule?",
+        "answer": true
+    },
+    {
+        "question": "Kann man als Minderjähriger mit der Todesstrafe belegt werden?",
+        "answer": false
+    },
+    {
+        "question": "Hat sich die indische Fußballmannschaft für die FIFA 2018 qualifiziert?",
+        "answer": false
+    },
+    {
+        "question": "Sind T-Rex und Tyrannosaurus Rex dasselbe?",
+        "answer": true
+    },
+    {
+        "question": "Ist der alte Panamakanal noch in Betrieb?",
+        "answer": true
+    },
+    {
+        "question": "Brauchen Sie einen Kumpel, der Munition besitzt?",
+        "answer": true
+    },
+    {
+        "question": "Schmecken blaue und rosa Zuckerwatte gleich?",
+        "answer": false
+    },
+    {
+        "question": "Hat „Wer die Nachtigall stört“ einen Oscar gewonnen?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es so etwas wie eine schwimmende Insel?",
+        "answer": true
+    },
+    {
+        "question": "Sterben weibliche Frettchen, wenn sie sich nicht paaren?",
+        "answer": true
+    },
+    {
+        "question": "Funktionieren alle Xbox 360-Spiele auf der Xbox One?",
+        "answer": false
+    },
+    {
+        "question": "Gibt es eine rechte und eine linke Arteria brachiocephalica?",
+        "answer": false
+    },
+    {
+        "question": "Gewinnen die Zweitplatzierten bei Survivor Geld?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es eine Fortsetzung von „Love Finds A Home“?",
+        "answer": false
+    },
+    {
+        "question": "Wird es eine zweite Staffel von 11.22.63 geben?",
+        "answer": false
+    },
+    {
+        "question": "Gibt es in den USA Atomkraftwerke?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es im letzten Satz von Wimbledon einen Tiebreaker?",
+        "answer": false
+    },
+    {
+        "question": "Waren die Zwillingstürme das World Trade Center?",
+        "answer": true
+    },
+    {
+        "question": "Hat Deion Sanders jemals eine World Series gewonnen?",
+        "answer": false
+    },
+    {
+        "question": "Ist ein Deutscher Schäferhund dasselbe wie ein Deutscher Schäferhund?",
+        "answer": true
+    },
+    {
+        "question": "Springt ein Frosch aus kochendem Wasser?",
+        "answer": true
+    },
+    {
+        "question": "Ist es möglich, aus Energie Masse zu erzeugen?",
+        "answer": true
+    },
+    {
+        "question": "Gibt es bei Rotten Tomatoes einen Film mit 0?",
+        "answer": true
+    },
+    {
+        "question": "Hat der Jaguar S-Type Hinterradantrieb?",
+        "answer": true
+    },
+    {
+        "question": "Ist ein Esslöffel größer als ein Dessertlöffel?",
+        "answer": true
+    },
+    {
+        "question": "Ist das die letzte Staffel von Bunk&#39;d?",
+        "answer": true
+    },
+    {
+        "question": "Lebt der Präsident im Weißen Haus?",
+        "answer": true
+    },
+    {
+        "question": "Übermittelt das Spinalganglion sensorische Eingaben?",
+        "answer": true
+    },
+    {
+        "question": "Wird Anne mit einem E auf Pei gefilmt?",
+        "answer": true
+    },
+    {
+        "question": "Sind Winkelfrequenz und Winkelgeschwindigkeit dasselbe?",
+        "answer": false
+    },
+    {
+        "question": "Kann jemand durch eine Kugel in der Luft sterben?",
+        "answer": true
+    },
+    {
+        "question": "Ist Salt Lake City die größte Stadt in Utah?",
+        "answer": true
+    },
+    {
+        "question": "Wurde „Chasing Cars“ für „Grey’s Anatomy“ geschrieben?",
+        "answer": false
+    },
+    {
+        "question": "Ist das Mädchen in der verlorenen Welt gestorben?",
+        "answer": false
+    }
+]

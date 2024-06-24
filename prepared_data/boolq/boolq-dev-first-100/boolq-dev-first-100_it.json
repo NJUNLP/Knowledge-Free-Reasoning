@@ -1,0 +1,402 @@
+[
+    {
+        "question": "L&#39;etanolo richiede più energia di quella prodotta?",
+        "answer": false
+    },
+    {
+        "question": "L&#39;imposta sulla casa e l&#39;imposta sulla proprietà sono le stesse?",
+        "answer": true
+    },
+    {
+        "question": "Il dolore si avverte in una parte del corpo mancante o in un&#39;area paralizzata?",
+        "answer": true
+    },
+    {
+        "question": "Harry Potter e la fuga dalla Gringott sono un giro sulle montagne russe?",
+        "answer": true
+    },
+    {
+        "question": "C&#39;è differenza tra idrossizina hcl e idrossizina pam?",
+        "answer": true
+    },
+    {
+        "question": "La root beer di Barq è un prodotto Pepsi?",
+        "answer": false
+    },
+    {
+        "question": "Un numero dispari può essere diviso per un numero pari?",
+        "answer": true
+    },
+    {
+        "question": "Esiste una parola con q senza u?",
+        "answer": true
+    },
+    {
+        "question": "Puoi guidare in Canada con la nostra patente?",
+        "answer": true
+    },
+    {
+        "question": "C&#39;è uno spareggio per il terzo posto ai Mondiali?",
+        "answer": true
+    },
+    {
+        "question": "I minorenni possono bere con i genitori a New York?",
+        "answer": true
+    },
+    {
+        "question": "Lo show Bloodline è basato su una storia vera?",
+        "answer": false
+    },
+    {
+        "question": "Fa male lavarsi i capelli con il bagnoschiuma?",
+        "answer": true
+    },
+    {
+        "question": "Il fegato fa parte del sistema escretore?",
+        "answer": true
+    },
+    {
+        "question": "Animali fantastici e dove trovarli è un prequel?",
+        "answer": true
+    },
+    {
+        "question": "Ci sarà una stagione 8 di Vampire Diaries?",
+        "answer": true
+    },
+    {
+        "question": "Il film Strangers era basato su una storia vera?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;università di Durham fa parte del gruppo Russell?",
+        "answer": true
+    },
+    {
+        "question": "Lo show televisivo The Resident è finito per la stagione?",
+        "answer": true
+    },
+    {
+        "question": "Il citrato di magnesio contiene acido citrico?",
+        "answer": true
+    },
+    {
+        "question": "La casella postale viene prima dell&#39;indirizzo stradale?",
+        "answer": false
+    },
+    {
+        "question": "Una candela mantiene il motore acceso?",
+        "answer": true
+    },
+    {
+        "question": "Un mantello e un mantello sono la stessa cosa?",
+        "answer": true
+    },
+    {
+        "question": "Rinunciare alla cittadinanza costa denaro?",
+        "answer": true
+    },
+    {
+        "question": "Un Fire 7 è uguale ad un Kindle?",
+        "answer": true
+    },
+    {
+        "question": "Puoi bere alcolici con i tuoi genitori in Wisconsin?",
+        "answer": true
+    },
+    {
+        "question": "I pinguini hanno piume che emergono dall&#39;epidermide?",
+        "answer": true
+    },
+    {
+        "question": "Hai bisogno di rodare un&#39;auto?",
+        "answer": false
+    },
+    {
+        "question": "La foresta incantata dell&#39;Oregon è ancora aperta?",
+        "answer": true
+    },
+    {
+        "question": "C&#39;è un campo da golf all&#39;Indy 500?",
+        "answer": true
+    },
+    {
+        "question": "Deadpool ha un figlio nei fumetti?",
+        "answer": true
+    },
+    {
+        "question": "Producono ancora le sigarette Benson &amp; Hedges?",
+        "answer": true
+    },
+    {
+        "question": "L’imposta federale sul reddito è la stessa cosa della previdenza sociale?",
+        "answer": false
+    },
+    {
+        "question": "Un sensore di velocità del motore è uguale a un sensore dell&#39;albero motore?",
+        "answer": true
+    },
+    {
+        "question": "Il Tempio Maledetto di Indiana Jones è un prequel?",
+        "answer": true
+    },
+    {
+        "question": "C&#39;è qualche parte successiva di Avengers Infinity War?",
+        "answer": true
+    },
+    {
+        "question": "La Toyota Highlander è sul telaio di un camion?",
+        "answer": false
+    },
+    {
+        "question": "È legale fare una cover di una canzone?",
+        "answer": true
+    },
+    {
+        "question": "Il carbonio può formare legami covalenti polari con l’idrogeno?",
+        "answer": false
+    },
+    {
+        "question": "Esiste un seguito del film La bussola d&#39;oro?",
+        "answer": false
+    },
+    {
+        "question": "Il Columbus Day è una festa nazionale negli Stati Uniti?",
+        "answer": true
+    },
+    {
+        "question": "New Balance e Nike sono la stessa azienda?",
+        "answer": false
+    },
+    {
+        "question": "Esiste un&#39;autostrada che va da costa a costa?",
+        "answer": true
+    },
+    {
+        "question": "La passata di pomodoro è uguale alla salsa di pomodoro?",
+        "answer": false
+    },
+    {
+        "question": "Può esistere una parola senza vocale?",
+        "answer": true
+    },
+    {
+        "question": "Solo il vincitore riceve soldi al punto critico?",
+        "answer": true
+    },
+    {
+        "question": "Esiste l&#39;avvoltoio collorosso?",
+        "answer": true
+    },
+    {
+        "question": "Qualcuno ha fatto buca in uno su un par 5?",
+        "answer": true
+    },
+    {
+        "question": "I jet e i giganti condividono uno stadio?",
+        "answer": true
+    },
+    {
+        "question": "La squadra di calcio femminile americana partecipa ai Mondiali?",
+        "answer": true
+    },
+    {
+        "question": "Può una squadra africana vincere la Coppa del Mondo?",
+        "answer": true
+    },
+    {
+        "question": "Un martello può essere usato come arma?",
+        "answer": true
+    },
+    {
+        "question": "In Inghilterra esiste ancora la caccia alla volpe?",
+        "answer": false
+    },
+    {
+        "question": "Puoi indossare una camicia a maniche corte con una giacca Asu?",
+        "answer": true
+    },
+    {
+        "question": "Il Wisconsin è mai stato nelle serie mondiali della Little League?",
+        "answer": false
+    },
+    {
+        "question": "Damon ed Elena si riuniscono nella terza stagione?",
+        "answer": false
+    },
+    {
+        "question": "C&#39;è un giocatore della NFL che perde una mano?",
+        "answer": true
+    },
+    {
+        "question": "L&#39;altra ragazza del re fa parte di una serie?",
+        "answer": true
+    },
+    {
+        "question": "Esiste un gruppo chiamato i cinque battiti del cuore?",
+        "answer": false
+    },
+    {
+        "question": "Il monte Everest fa parte dell&#39;Himalaya?",
+        "answer": true
+    },
+    {
+        "question": "Un emt-basic può avviare una flebo?",
+        "answer": false
+    },
+    {
+        "question": "Nessun campo di Wimbledon ha un tetto?",
+        "answer": false
+    },
+    {
+        "question": "Qualcuno è rimontato dal 3-0 delle finali NBA?",
+        "answer": false
+    },
+    {
+        "question": "Le onde radio viaggiano alla velocità della luce?",
+        "answer": true
+    },
+    {
+        "question": "Qualcuno della squadra di hockey statunitense del 1980 ha giocato nella NHL?",
+        "answer": true
+    },
+    {
+        "question": "Tutti i triangoli hanno almeno due angoli acuti?",
+        "answer": true
+    },
+    {
+        "question": "Baylor e Mary Hardin Baylor sono la stessa scuola?",
+        "answer": true
+    },
+    {
+        "question": "Si può ricevere la pena di morte da minorenni?",
+        "answer": false
+    },
+    {
+        "question": "La squadra di calcio indiana si è qualificata per FIFA 2018?",
+        "answer": false
+    },
+    {
+        "question": "T Rex e Tyrannosaurus Rex sono la stessa cosa?",
+        "answer": true
+    },
+    {
+        "question": "Il vecchio canale di Panama è ancora in uso?",
+        "answer": true
+    },
+    {
+        "question": "Hai bisogno di un amico per possedere munizioni?",
+        "answer": true
+    },
+    {
+        "question": "Lo zucchero filato blu e rosa hanno lo stesso sapore?",
+        "answer": false
+    },
+    {
+        "question": "Uccidere un tordo beffardo ha vinto un premio Oscar?",
+        "answer": true
+    },
+    {
+        "question": "Esiste un&#39;isola galleggiante?",
+        "answer": true
+    },
+    {
+        "question": "I furetti femmine muoiono se non si accoppiano?",
+        "answer": true
+    },
+    {
+        "question": "Tutti i giochi Xbox 360 funzioneranno su Xbox One?",
+        "answer": false
+    },
+    {
+        "question": "Esiste un&#39;arteria brachiocefalica destra e una sinistra?",
+        "answer": false
+    },
+    {
+        "question": "I secondi classificati in Survivor vincono soldi?",
+        "answer": true
+    },
+    {
+        "question": "Esiste un seguito per L&#39;amore trova casa?",
+        "answer": false
+    },
+    {
+        "question": "Ci sarà una seconda stagione del 22.11.63?",
+        "answer": false
+    },
+    {
+        "question": "Negli Stati Uniti ci sono centrali nucleari?",
+        "answer": true
+    },
+    {
+        "question": "C&#39;è un tie-break nel set finale di Wimbledon?",
+        "answer": false
+    },
+    {
+        "question": "Le Torri Gemelle erano il World Trade Center?",
+        "answer": true
+    },
+    {
+        "question": "Deion Sanders ha mai vinto una World Series?",
+        "answer": false
+    },
+    {
+        "question": "Un pastore tedesco è uguale a un alsaziano?",
+        "answer": true
+    },
+    {
+        "question": "Una rana salta fuori dall&#39;acqua bollente?",
+        "answer": true
+    },
+    {
+        "question": "È possibile creare massa dall’energia?",
+        "answer": true
+    },
+    {
+        "question": "Esiste un film con 0 sui pomodori marci?",
+        "answer": true
+    },
+    {
+        "question": "La Jaguar è a trazione posteriore?",
+        "answer": true
+    },
+    {
+        "question": "Un cucchiaio è più grande di un cucchiaio da dessert?",
+        "answer": true
+    },
+    {
+        "question": "È questa l&#39;ultima stagione di bunk&#39;d?",
+        "answer": true
+    },
+    {
+        "question": "Il presidente vive alla Casa Bianca?",
+        "answer": true
+    },
+    {
+        "question": "Il ganglio della radice dorsale trasporta input sensoriali?",
+        "answer": true
+    },
+    {
+        "question": "Anne con una e è filmata su Pei?",
+        "answer": true
+    },
+    {
+        "question": "La frequenza angolare e la velocità angolare sono la stessa cosa?",
+        "answer": false
+    },
+    {
+        "question": "Si può morire per un proiettile sparato in aria?",
+        "answer": true
+    },
+    {
+        "question": "Salt Lake City è la città più grande dello Utah?",
+        "answer": true
+    },
+    {
+        "question": "Inseguire le auto è stato scritto per Grey&#39;s Anatomy?",
+        "answer": false
+    },
+    {
+        "question": "La ragazza nel mondo perduto è morta?",
+        "answer": false
+    }
+]

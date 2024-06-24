@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли Олбани в Джорджии насчитывать сто тысяч жителей раньше, чем Нью-Йорк?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли язык, используемый в Сент-Винсенте и Гренадинах, английским?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли жадность самым распространенным из семи смертных грехов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли вершина горы Фудзи выступать из Японского моря? ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли песня Lil Jon, занявшая первое место в Billboard, результатом сотрудничества с участником The Lox?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Майами — город на западном побережье Америки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли Швейцарская гвардия занять места на Генеральной Ассамблее Вирджинии?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Разделяла ли какая-либо страна, участвовавшая в португальской колониальной войне, роль Швейцарии во Второй мировой войне?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли пикт спутать со староанглийским?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Мог ли Лил Уэйн самостоятельно управлять транспортным средством на законных основаниях в начале своей карьеры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Вероятно ли, что вы найдете распятие в Карачи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли человек продан лицензии Creative Commons на произведение Ботичелли «Рождение Венеры» сорванным?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могут ли десять галлонов морской воды раздавить шестилетнего ребенка?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: В водах с более холодной температурой обитает больше анчоусов, чем в более теплых?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Способна ли 3D-печать создать аденовирус?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Поддержал бы Джордж Фокс забивание камнями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Обязательно ли смотреть «Звездные войны», чтобы узнать, кто такой Дарт Вейдер?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли компьютер быть полностью запрограммирован на основе булевой алгебры?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Кристина Агилера развернула свое кресло для Келли Кларксон в «Голосе»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Можно ли было бы предотвратить смерть Эми Уайнхаус с помощью «Наркана»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Есть ли у мангуста естественный камуфляж для пустыни?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Если кто-то любит крылышки буйвола, нравится ли ему капсаицин?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Брюс Ли отсутствовал на выпускной церемонии Вашингтонского университета в 1964 году?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли Брук Шилдс добиться успеха в Пенсильванском университете?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Придется ли студентам Мариста подавать петицию, чтобы получить команду по гребле?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли сотня тысяч лолкотов поместиться на iPhone первого поколения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Стоит ли Русеву беспокоиться о перенаселении населения на его родине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Платье принцессы Пич напоминает плод персика?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могут ли психиатрические пациенты присоединиться к ВВС США?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могу ли я держать Bing в корзине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Имеет ли центральный процессор обычно отдельный вентилятор?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли Сирил Рамафоса стать генеральным секретарем НАТО?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Бруклин известен своими хлебобулочными изделиями?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Участвовали ли Королевские ВВС в Боксерском восстании?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Служил ли Франсуа Миттеран во французской армии под началом Наполеона Бонапарта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могут ли амебы заболеть раком?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Холера жива?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Кто-нибудь обычно путает сладкий картофель с ананасом?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Часто ли можно встретить пингвина в Майами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Опухоли в лимфатических узлах можно игнорировать?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сражался ли Человек-Паук против Сокола в MCU?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли божественный танец Шивы древней позой для физической подготовки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Появляются ли гиены в бродвейском мюзикле?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Понравится ли сове-обезьяне клубника?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли змея проглотить M60 Patton?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будут ли комиксы «Мстители» неуместны в магазине DC Comics?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли Персидский залив поместиться в Нью-Джерси?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли Николь Кидман идеальным выбором на роль Псайлок, учитывая ее рост и вес?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Мог ли Берни Сандерс посетить Метрополитен-музей двадцать раз менее чем за двести долларов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли программа Planned Parenthood сообщить вашему университету, что у вас есть вирус простого герпеса?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли Ахиллес одолеть Леголаса в гипотетической битве?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Бухарест расположен к югу от Египта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли камень плавать в атмосфере Земли?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Убивали ли носорогов, чтобы улучшить сексуальную жизнь человека?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Имеет ли ABBA гендерную конфигурацию, похожую на The Mamas &amp; The Papas?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Вспомнил бы автор «Маленьких женщин» о ратификации 13-й поправки?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Знакомо ли большинство пользователей Reddit с «Клятвой верности»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Отправляют ли дети рождественские письма на Южный полюс?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Maroon 5 поехали в тур с Nirvana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Установит ли возвращение Эвандера Холифилда в бокс в 2020 году возрастной рекорд?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Боится ли Пост Мэлоун игл?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Постигла ли президент США во время испано-американской войны такую же кончину, как Авраам Линкольн?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли Ева вовлечена в кровосмесительные отношения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Рэпер с похожим настоящим именем Лил Уэйн имеет более четырехкратную премию Грэмми Уэйна?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли никель кипеть во внешнем ядре Земли?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли Доротея Вендлинг родом из того же места, где родился Porsche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли операция предотвратить экзистенциальный кризис?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли Аль-Фараби учеником Великого Шейха?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Опасно ли употребление хлора в смеси с натрием?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было ли у основателей бразильского джиу-джитсу Грейси хотя бы с десяток детей на двоих?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Моцарт когда-нибудь покупал что-нибудь у Dolce &amp; Gabbana?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли ортодоксальный пресвитерианин возражать против одежды судьи 1700-х годов?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Неужели «Строки о древности микробов» короче любого хайку?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Выступают ли режиссеры «Матрицы» за права трансгендеров?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сдаст ли северный морской котик экзамен по вождению?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли каждый год в Taco Bell входить и выходить больше людей, чем Рой Роджерс?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было бы необычно найти желтого окуня в Красном море?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Предпочел бы генерал Зод iPhone Samsung Galaxy S4?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Использовали ли неандертальцы арифметику?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было ли животное в фильме «Ты хороший спорт, Чарли Браун» гипотетически собакой?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Есть ли какие-нибудь книги Джоан Роулинг в жанре «И никого не стало?»",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сотрудничал ли Jay-Z когда-нибудь с Луи Армстронгом?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: В Великобритании длина измеряется в метрах?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Христофор Колумб плавал, представляя другую страну, чем его родной дом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Синие губы — это нормально?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Страдал ли Джон Брауэр Миннох нервной анорексией?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли «Отелло» пьесой Шекспира, которая позволит Шахерезаде чаще проводить время с королем?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли крещен заместитель руководителя администрации Хиллари Клинтон в 2009 году?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли казуар более безопасным домашним животным, чем журавль?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Не могли бы вы поехать из Новой Англии в Сэйнсбери?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли П.Г. Вудхаус преподаваться во втором классе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: В «Приключениях Алисы в стране чудес» употребление табака кажется приятным?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли Саймон Коуэлл проголосовать за следующего судью Верховного суда?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Смогут ли все безработные из-за Великой депрессии 1933 года поместиться на стадионе «Тайгер»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли взрослый мужчина встать на бронзового Давида Донателло и коснуться потолка Сикстинской капеллы?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли Англия непосредственно вовлечена в арабо-израильский конфликт?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Вдохновили ли «Приключения Алисы в стране чудес» Макбета?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Азиатский черный медведь разноцветный?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Лейтенанты пиратов похожи на лейтенантов ВМФ?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Должен ли готовый веб-сайт содержать абзацы lorem ipsum?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Страдает ли земля в непосредственной близости от бобровых плотин?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли сложно Уиллу Ферреллу получить премию Empire Award как лучший новичок?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Синтия Пауэлл отпраздновала серебряную годовщину с Джоном Ленноном?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Снимался ли Аль Пачино в кино во время Второй мировой войны?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли письмо гуджарати той же категорией письма, что и кандзи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли округ Моррис назван в честь главного судьи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли Очень Большой Телескоп наблюдать самую большую гору на Земле?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Коровий метан безопаснее для окружающей среды, чем автомобили?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли Марокко идеальным местом для катания на водных лыжах?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли одна акция Amazon купить двадцатилетнюю подписку на Netflix?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Есть ли радиация там, где когда-то работал Никола Тесла?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Мог ли Аль Капоне читать произведения Гарлемского Возрождения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Поддержат ли члены Blue Lives Matter все элементы Grand Theft Auto III?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Всегда ли Новый год приходится на среду?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли нимфовый клещ пройти через стандартный дырокол?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли арт-дилер купить Боинг 737-800 с картиной Да Винчи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Должен ли Питер Гриффин быть экспертом в пивоварении?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Смогли бы вы поехать на Rowe 550 на летние Олимпийские игры 2008 года?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли Эми Уайнхаус поклонницей «Звездных войн: Изгой-один»?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли Джесси В. Мур потенциальным лауреатом награды НАСА на тему Снупи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Поместится ли медоед в духовке?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Производится ли солома с помощью гидроэнергетики?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Жена Пауло Коэльо зарабатывает на жизнь речью?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли спасательная шлюпка спасти людей в море Гука?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Fiat Chrysler ассоциируется с японскими автомобилями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будут ли Аид и Осирис гипотетически конкурировать за недвижимость в Подземном мире?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Требует ли округ Ориндж, Калифорния, чтобы самолеты были тихими?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли Парк де Пренс полностью работоспособен в июне 2020 года?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Розничная торговля — это работа, на которую может подойти каждый?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли взрыв на складе пороха вызвать сверхзвуковую ударную волну?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Можно ли купить хлор в долларовом магазине?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Морские крокодилы связаны с аллигаторами?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли Персефона хорошим консультантом ландшафтного архитектора?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будут ли у экипажа «Аполлона-15» трудности с ездой на одноколесном велосипеде?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Нужны ли канаты для управления фрегатом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Есть ли у Джейсона что-нибудь общее с доктором Неуважением?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Следует ли страдающему целиакией избегать спагетти?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Коалы предпочитают эвкалипт мясу?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли бодибилдер предпочитать бургер из лося гамбургеру из говядины?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Можно ли перевезти монету по ртутному морю?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Повредит ли Багз Банни оливковому дереву в реальном мире?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Брюссельская капуста особенно полезна при усталости надпочечников?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Действие «Гриффинов» происходит на западном побережье Америки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли кто-нибудь в Уберландии работать на Mitsubishi?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли Ханна Никсон гордиться Ричардом Никсоном после Уотергейтского скандала?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Мог ли Эдди Мерфи в детстве набрать 911 в машине?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли гора Уичпруф легкой задачей для Эдмунда Хиллари?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Цвета флага Габона встречаются в радуге?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Живут ли моллюмы там, где не могут альбатросы?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Нужна ли плойка при завивке?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Эму связаны с лосями?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сочтет ли шеф-повар La Grenouille сальса странной просьбой?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Выступают ли System of a Down против глобализации?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли кто-нибудь из Новой Англии получить прибыль от выращивания кофе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Используются ли в настольном теннисе простые числа?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли членство в Capital One Venture сроком на 5 лет более рентабельным, чем членство в Церкви Сатаны?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Нравилось ли Бетховену слушать EDM?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Metallica защищает свою музыку?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Келли Кларксон превзошла по продажам победителя четвертого сезона American Idol?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Боятся ли чернохвостые кролики европейской дикой кошки?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Мог ли Карл Фридрих Гаусс поговорить с кем-то за 100 миль?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Лайонел Ричи родственник Шейлы Э?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Требует ли FDA продажи по датам, используя римские цифры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Пели ли путешественники морские лачуги на Орегонской тропе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли человеку с лейкофобией нравиться смотреть на флаг Соединенных Штатов?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Тери Хэтчер продержалась в сериале «Отчаянные домохозяйки» в два раза больше серий, чем в сериале «Супермен»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Превышают ли количество лейкоцитов эритроцитов в организме человека?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было ли место рождения Джона Джорджа Байса недалеко от Корнуолла?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Включает ли история Европы эпоху динозавров?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли Пол Баньян гипотетически плохим выбором для городского планировщика?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Все ли элементы, необходимые растениям для фотосинтеза, присутствуют в атмосфере Марса?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Голосовал ли Билл Най за Франклина Делано Рузвельта?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Считается ли допустимым использование слова «цыган» нецыганскими людьми?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли Земля Израиля в 16 веке частью исламской империи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Смогут ли 7 кабачков удовлетворить дневную рекомендацию Министерства сельского хозяйства США по калию?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли британский автомобиль Mini первым произведенным автомобилем?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Можно ли приготовить перец без дегидратора?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли бенгальская кошка выжить, питаясь только блинами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли странствующий альбатрос без отдыха перелететь из Бухареста в Нью-Йорк?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Продает ли Нью-Йоркская публичная библиотека продукцию Alpo?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Второе имя Тони Беннета принадлежит бывшему чемпиону UFC?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Полезны ли бы женщине-черной вдове персики?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Люди чаще, чем обычно, получают солнечные ожоги на Burning Man?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Рахул Дравид когда-нибудь забивал мяч с игры?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Много ли наук изучает отдельный океанограф?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли фантастика о супергероях изобретена в цифровом формате?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могут ли два новорожденных детеныша американского черного медведя поместиться на кровати размера «king-size»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Имеются ли скидки на продукты Aldi из-за того, что они просрочены?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли молотый болгарский перец основным ингредиентом черного перца?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Остановит ли укеми кинетическую энергию?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Трудно ли получить BLT в Касабланке?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могут ли ежегодные осадки на Сноудоне затопить вертикальную кеглю для боулинга?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Была ли женщина премьер-министром непосредственно до или после Стэнли Болдуина?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли белоголовый орлан передать срочное сообщение раньше B-52?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Могут ли профессиональные боксеры рассчитывать на низкие расходы на стоматологию?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Прожил ли доктор Сьюз жизнь без трагедий?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Разве родители Джексона Поллока не были обязаны произносить «Клятву верности» в детстве?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли округ Сан-Диего домом Шаму?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли Летающий Макаронный Монстр частью древнего пантеона?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Правит ли Елизавета II Балеарскими островами?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Футбольная война длилась хотя бы месяц?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было ли покровительство Лоренцо Медичи исключительно да Винчи?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Отмечается ли кто-нибудь на Тайной вечере в исламе?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли бенгальская кошка бояться ловить рыбу?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Бенито Муссолини носил туфли большего размера, чем Хафтор Бьернссон?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли школьный талисман Бобби Джиндала есть сухой корм?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Расположен ли Капитолий США рядом с Белым домом?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было бы трудно достать туалетную бумагу, если бы не было лесорубов?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Был ли Игги Поп назван в честь своего отца?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Может ли профилактическое здравоохранение снизить передачу ИППП?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Оживают ли неодушевленные предметы в «Красавице и чудовище»?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Станет ли хоккей с мячом популярным в Техасе?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли капуста более полезной для роста костей, чем шпинат?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ставит ли прогулка по Амазонасу угрозу жизни человека?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Были ли у оригинальной Nintendo игры того же формата, что и у Playstation 3?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Является ли числовая последовательность Фибоначчи длиннее, чем каждое число, обнаруженное в числе Пи?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Сможет ли гермафоб заниматься дзюдо?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Осень — хорошее время для сбора медвежьих шкур в США?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Есть ли музыкальные клипы Pink, которые вызывают интерес у пациентов с расстройством пищевого поведения?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Эл Унсер-младший выиграл космическую гонку?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: World of Warcraft тяжелее буханки хлеба?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Получала ли Electronic Arts прибыль от продаж Metroid?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Будет ли воспитатель детского сада проводить урок по Новому Завету?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Всегда ли Эми Уайнхаус прекрасно выступала вживую?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Есть ли кости в пицце с анчоусами?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Можно ли спрятать баскетбольный мяч в ухе песчаного кота?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Были ли прозвища покрасивее у отца и деда Ивана Грозного?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Защищены ли амебы от рака молочной железы?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Было ли число Пи приемлемым количеством детей в Китае 1980-х годов?",
+        "output": "No"
+    }
+]

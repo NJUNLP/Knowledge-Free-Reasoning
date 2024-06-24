@@ -1,0 +1,5002 @@
+[
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה זמן לקח לבנות את מגדלי התאומים",
+        "output": "11.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את love you like there's no tomorrow",
+        "output": "קריס יאנג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עונות של scream queens יש",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הפעם האחרונה בה הlakers הגיעו לפלייאוף",
+        "output": "2013"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים יש בעונה של דברים מוזרים",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את i hear you knocking but you can't come in",
+        "output": "דייב אדמונדס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי העלה את התוכנית the voice",
+        "output": "ג'ון דה מול"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי החל והסתיים המערב הישן של אמריקה",
+        "output": "1865"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי \"rams\" שיחק בקערת העל",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "oh what a night מי שר את השיר",
+        "output": "ארבע העונות"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר  אני רוצה להיות איתך בכל מקום",
+        "output": "פליטווד מק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחה את מרי מגדלין בישו כוכב עליון",
+        "output": "איבון אלימן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את הספר מגילת איכה",
+        "output": "ירמיהו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה עוקבים באינסטגרם באינסטגרם",
+        "output": "כריסטיאנו רונאלדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the roast אזה פרק בסדרה המשרד היא",
+        "output": "Stress Relief"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מייצר הכי הרבה פיסטוקים בעולם",
+        "output": "איראן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השם של אצטדיון קרדינלס באריזונה",
+        "output": "אצטדיון אוניברסיטת פיניקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר  i've never been to me",
+        "output": "שרלין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מדינות מכסים הרי הרוקי",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "let's go all the way מי שר",
+        "output": "סלי פוקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ב2015 america's got talent  מי ניצח את",
+        "output": "פוואל זרדין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי מגבלת הגיל עבור צופי בנות",
+        "output": "5.0 18.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "panthersשיחקו נגד ה steelers מתי הפעם האחרונה שה",
+        "output": "2019-08-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שהרפובליקנים ב popular vote",
+        "output": "2004"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה הקאבס זכו בסדרה העולמית",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא המטבע הלירה החדש",
+        "output": "2017-03-28"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי גויס מייקל ג'ורדן ל- nba",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי זו הפעם האחרונה שתוקנה החוקה",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היו הדמויות בשיר אשיר בגשם",
+        "output": "דונלד או'קונור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו האורך הממוצע של freight train car",
+        "output": "55.0 67.0 רגל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'll make a man out of you מי שר",
+        "output": "דוני אוסמונד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי טום בריידי זכה בטבעת הראשונה שלו",
+        "output": "2002"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה עומד להתקיים המונדיאל",
+        "output": "קטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמות הדמויות של הטוויניס",
+        "output": "ג'ודי - מעבר לקשת"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את פנתר שחור בסרט פנתר שחור",
+        "output": "צ'דוויק בוזמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "directvב cw איזה מספר ערוץ זה",
+        "output": "385.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the amazing world of gumball מתי נגמר",
+        "output": "2019-06-24"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is love baby don't hurt me מי שר את",
+        "output": "Haddaway"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו החומר הפעיל בכל חומרי ניקוי הידיים המאושרים על ידי ה-FDA",
+        "output": "אתנול"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "genie in a bottle מתי יצא השיר",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כיכב בסרט הגשר על הנהר קוואי",
+        "output": "ויליאם הולדן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היו שמות אבירי השולחן העגול",
+        "output": "גלהאד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי המארח של לאמריקה יש כישרון",
+        "output": "סיימון קאוול"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "lord it's hard to be humble מי שר את",
+        "output": "מאק דייוויס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר קחי אותי לכנסייה",
+        "output": "הוזייר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הצורך במהירות הסרט יוצא",
+        "output": "2014-03-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הדוגמניות ב-price is right",
+        "output": "ג'יימס או'הלורן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הנהיג את הצפון במלחמת האזרחים",
+        "output": "אברהם לינקולן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילמה את דמות שלגיה בסדרה עד עצם היום הזה",
+        "output": "ג'יניפר גודווין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה האיש הזקן ביותר שאי פעם חי",
+        "output": "ז'אן לואיז קלמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פעמים זכתה אוסטרליה בגביע העולם בקריקט",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "קודם דולי פרטון או ויטני יוסטון  i will always love you מי שר",
+        "output": "דולי פרטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמו של הנשיא הראשון של אמריקה",
+        "output": "ג'ורג' וושינגטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שם המכללה בבית החיות",
+        "output": "בית החיות"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "שחקני הסרט gone in 60 seconds",
+        "output": "אנג'לינה ג'ולי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עונות יש בתוכנית קוסבי",
+        "output": "8.0 עונות השנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נערך גביע העולם בקריקט הראשון",
+        "output": "1975"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו אל העולם התחתון במיתולוגיה היוונית",
+        "output": "האדס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "יצא don't smile at me מתי",
+        "output": "2017-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילמה את שרלן דרלין בתכנית של אנדי גריפית'",
+        "output": "מגי פטרסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הקפטן של ווסט אינדיס בקריקט",
+        "output": "ג'ייסון הולדר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו האגם הגדול ביותר בניו זילנד",
+        "output": "אגם טאופו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא המחבר של דרך ארוכה",
+        "output": "ישמעאל ביה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ארצות הברית עזבה את מלחמת ויאטנם",
+        "output": "1973-03-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את harley quinn ב the suicide squad",
+        "output": "מרגו רובי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה אוכלוסיית מדינת מיין",
+        "output": "1338000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את tj on head of the class",
+        "output": "בילי קונולי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את דמותו של סטאר לורד בשומרי הגלאקסיה",
+        "output": "כריס פראט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא סאמסונג גלאקסי 6 אס edge",
+        "output": "2015-04-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "100 דברים לעשות לפני תיכון",
+        "output": "אוון ג'וינר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "someone that i used to know מי שר",
+        "output": "גוטייה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה גלונים יש בחבית וויסקי",
+        "output": "53.0 גאלון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "נגד מי אמריקה נלחמה במלחמה המהפכנית",
+        "output": "בריטניה הגדולה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא השיר בני והג'טס",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי היית ההפעם האחרונה שארצות הברית לא הייתה בחוב",
+        "output": "1835-01-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר you're my everything",
+        "output": "The Temptations"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i love the nightlife מי שר את",
+        "output": "אליסיה ברידג'ס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "קבוצות שמעולם לא זכו בסדרה עולמית",
+        "output": "סיאטל מארינרס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "maid of orleans מי ידועה כ",
+        "output": "ז'אן ד'ארק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "הראשונה של ארבע דקות מיל sub מי רץ את",
+        "output": "רוג'ר בניסטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i've got spurs that jingle jangle jingle מי שר את",
+        "output": "ג'ין אוטרי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה הקרב הראשון במלחמת וייטנאם",
+        "output": "קרב יה דראנג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק השנה בסופרבול",
+        "output": "לוס אנג'לס ראמס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו ה surgeon general הנוכחי של ארצות הברית",
+        "output": "ג'רום אדמס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקה את רייצ'ל בבלייד ראנר המקורי",
+        "output": "שון יאנג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן נמצא הגשר הארוך ביותר בארצות הברית",
+        "output": "לואיזיאנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי העלה את הרעיון של יום האב",
+        "output": "סונורה סמרט דוד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מאיפה מקור שם המשפחה גוזמן",
+        "output": "ספרד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר  please don't go",
+        "output": " קי.סי ולהקת הסאנשיין "
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מחזיק בשיא הריצה הכי מהירה במשחק",
+        "output": "אדריאן פיטרסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי האדם העשיר ביותר שאי פעם חי",
+        "output": "מנסא מוסא הראשון, מלך מאלי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא היוטיובר עם מספר המשתתפים הגבוהה ביותר",
+        "output": "טי סיריז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה בניו יורק נמצא כיכר times",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם פול האוס גובר על סטרייט בפוקר",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזו תחנת רדיו משודר שודדי פיטסבורג",
+        "output": "KDKA-FM"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי המאמן של טורונטו ראפטורס",
+        "output": "ניק נורס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר",
+        "output": "ג'וני כריסטופר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא השחקן שמגלם את ג'ון וויק",
+        "output": "קיאנו ריבס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר תסתכלי עלי עכשיו",
+        "output": "פיל קולינס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "back in the high life again מי שר את",
+        "output": "סטיב וינווד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "going to the chapel and we're gonna get married מי שר",
+        "output": "The Dixie Cups"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ממה עשוי הדגל האמריקני",
+        "output": "ניילון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מאיפה הגיע פסל החירות",
+        "output": "ליברטי איילנד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את come together right now over me",
+        "output": "הביטלס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא השחקן הראשי בתוכנית החץ",
+        "output": "קייטי קסידי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את הרקורד הטוב ביותר בליגה הבכירה",
+        "output": "ניו יורק יאנקיז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "now that we found love what are we gonna do with it מי שר",
+        "output": "היווי ד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילמה את דמותה של בלה בהיפה והחיה",
+        "output": "אמה ווטסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נכתב השיר while my guitar gently weeps",
+        "output": "1968"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "fox on the run מי שר את השיר",
+        "output": "סוויט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה זה 10 בחזקת 10",
+        "output": "10000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הייתה עוצמתה של רעידת האדמה של נורת'רידג'",
+        "output": "6.7"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את bartender i really did it this time",
+        "output": "Rehab"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה האוכלוסייה הנוכחית של פיניקס אריזונה",
+        "output": "1626000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה פרסי גראמי בכל הזמנים",
+        "output": "גאורג שולטי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי האוכלוסייה הנוכחית של אלבוקרקי במקסיקו החדשה",
+        "output": "558545.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר i can see clearly now",
+        "output": "ריי צ'ארלס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה הנשיא הראשון בדרום אפריקה",
+        "output": "נלסון מנדלה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הם בנו את פסל החירות",
+        "output": "1875-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "here comes the sun מי כתב את השיר",
+        "output": "ג'ורג' האריסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה הסרט הראשון בצבע",
+        "output": "עם המלך והמלכה שלנו דרך הודו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים יש בעונה השנייה של אקדמיית הגיבורים שלי",
+        "output": "25.0 אפיזודה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יוצא לוח הזמנים של ליגת העל",
+        "output": "2019-06-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר חבורת דבש פאי סוכר",
+        "output": "ארבע הפסגות"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה שוחק משחק היכל התהילה",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו פרס הזכייה בתוכנית אתה חושב שאתה יכול לרקוד",
+        "output": "250000.0 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר fly me to the moon",
+        "output": "פרנק סינטרה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט power rangers mystic force",
+        "output": "2006-02-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה משחקים משחקות כל קבוצה ב אנ בי איי",
+        "output": "82.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הילדה שמשחקת בחמישים גוונים של אפור",
+        "output": "דקוטה ג'ונסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את החתול בחתול תעלול",
+        "output": "מייק מאיירס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מבצע את קולה של ויני על באיש משפחה",
+        "output": "טוני סיריקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את מה שלא הורג אותך מחזק אותך",
+        "output": "קלי קלרקסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ניצח את אליפות העולם בחמש שנים האחרונות",
+        "output": "יוסטון אסטרוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצאה הקריאה של העולם במלחמה",
+        "output": "2008-11-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה להיטי קאנטרי מספר 1",
+        "output": "ג'ורג' סטרייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what condition my condition was in מי שר את השיר",
+        "output": "בטי לווט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילמה את דמות האמא בסדרה מופע שנות ה-70",
+        "output": "דברה ג'ו ראפ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה האוכלוסייה של \"סאמטר\" דרום קרוליינה",
+        "output": "39982.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי מצעד הגייז בשיקגו אילינוי",
+        "output": "2019-06-30"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילם את גאסטון ביפה והחיה",
+        "output": "לוק אוונס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה ימי חובה קדושים יש בכנסייה הקתולית",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "wild thing you make my heart sing מי שר את",
+        "output": "הטרוגס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם היה אי פעם הוריקן בשם קטי",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר האם ראית אי פעם את הגשם",
+        "output": "קרידנס קלירווטר רבייבל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נכתבה הצהרת זכויות האדם",
+        "output": "1948"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה תוכנית הטלוויזיה דברים מוזרים צולמה",
+        "output": "אטלנטה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "אילו צוותים נמצאים בוועידת השמש האטלנטית",
+        "output": "אוניברסיטת ליברטי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב של השיר you broke up with me",
+        "output": "ווקר האייס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הטמפרטורה החמה ביותר שתועדה בניו יורק",
+        "output": "108.0 מעלות פארנהייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את הרוב בקונגרס כיום",
+        "output": "המפלגה הרפובליקנית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה היה קרב גיטסבורג",
+        "output": "פנסילבניה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי בפעם האחרונה שיקגו קאבס זכו בוורלד סיריס",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי עלתה לפריימיר ליג שנה שעברה",
+        "output": "קארדיף סיטי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזו מילה בשפה האנגלית יש את הכי הרבה הברות",
+        "output": "Pneumonoultramicroscopicsilicovolcanoconiosis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי בירת מדינת ניו מקסיקו",
+        "output": "סנטה פה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מחזיק בשיא העולם בעוצרת נשימה הכי ארוכה",
+        "output": "טום סיאטס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה האיש הרע בשומרי הגלקסיה",
+        "output": "רונאן המאשים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "אם הרפובליקה של אירלנד היא חלק מהממלכה המאוחדת",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי היה הפרק הראשון של על שוטים ואנשים",
+        "output": "1981-09-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שנאדל זכה בווימבלדון",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את avery ב dog with a blog",
+        "output": "ג'י הנליוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "twinkle twinkle little star מי כתב את השיר",
+        "output": "ג'יין טיילור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר מעולם לא פגשתי בחורה כמוך",
+        "output": "אדווין קולין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נעשה five nights at freddy's",
+        "output": "2014-08-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט הפנתר השחור",
+        "output": "2018-02-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את ג'וני קאש בהולך בדרכי",
+        "output": "חואקין פיניקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all i need is the air that i breathe מי שר את",
+        "output": "ההוליס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר האם לא הדהמתי אותך הפעם",
+        "output": "The Delfonics"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא צ'ארלי בממלכת השוקולד",
+        "output": "2005-07-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו גיל השתייה החוקי בטורקיה",
+        "output": "18.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "rock of ages-האם טום קרוז שר ב",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נמצא היכל התהילה של עולם הגולף",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי היפה והחיה נפתח בתיאטראות ברודוויי",
+        "output": "1994-04-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה מתרחש קפטן אמריקה חייל החורף",
+        "output": "וושינגטון די. סי."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי האדם החי העתיק ביותר שאי פעם הוקלט",
+        "output": "ז'אן לואיז קלמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהם שמות סרטי מאטריקס",
+        "output": "מטריקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שם הכלב מצעצוע של סיפור",
+        "output": "סלינקי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הייתה התרפצות הר הגעש האחרונה בארצות הברית",
+        "output": "2018"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את  i got you under my skin",
+        "output": "קול פורטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה משחק הבייסבול הארוך ביותר בהיסטוריה בליגה",
+        "output": "משחק בייסבול מקצועי ביותר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו הפירסט בייסמן של היאנקיז",
+        "output": "אדווין אנקרנסיון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה האדם הראשון שהלך על הירח",
+        "output": "ניל ארמסטרונג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה קבוצות NFL בכדורגל יש בקליפורניה",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הלך האדם על הירח",
+        "output": "יולי 20, 1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה ליגות קיסוס יש בארצות הברית",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "walk like a man מי שר את השיר",
+        "output": "פרנקי ואלי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את קח את זה לקצה על ידי הנשרים",
+        "output": "גלן פריי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "המצולם tv show the kitchen איפה",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו שחקן האן-בי-איי הזקן ביותר שעדיין משחק",
+        "output": "וינס קרטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מגלם את הדוד ג'וש בהעולם של ריילי",
+        "output": "אוריה שלטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה קוטר כדור הארץ בקו המשווה",
+        "output": "7917.5 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקה את צ'לסי בשני גברים וחצי",
+        "output": "ג'ניפר טיילור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה חיילי ארה\"ב מתו במלחמת וייטנאם",
+        "output": "58220.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "neither a borrower or a lender be מי אמר",
+        "output": "פולוניוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר ראשון את עשיתי את זה בדרך שלי",
+        "output": "פרנק סינטרה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר ג'ים גנדרן להצלה",
+        "output": "Black Oak Arkansas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה החנות הגדולה ביותר בעולם",
+        "output": "קוריאה הדרומית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו שחקן הבייסבול בעל השכר הגבוה ב-mlb",
+        "output": "אלכס רודריגז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את those were the days my friends",
+        "output": "מרי הופקין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי שוחררו שודדי התיבה האבודה",
+        "output": "1981-06-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הייתה מסעדת המזון המהיר הרשונה אי פעם",
+        "output": "מקדונלד'ס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו גיל העזיבה המינימלי בבתי הספר בבריטניה",
+        "output": "18.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את גנדלף בשר הטבעות",
+        "output": "איאן מק'קלן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "these boots were made for walking מי שר",
+        "output": "ננסי סינטרה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "nfl מי השחקן המבוגר ביותר ששיחק ב",
+        "output": "ג'ורג' בלנדה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAהכי גדול ב jumbotron למי יש את ה",
+        "output": "יוסטון טקסאנס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את וויל הורטון בימי חיינו",
+        "output": "דילן פאטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הם הסנטורים ממדינת קליפורניה",
+        "output": "דיאן פיינסטיין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר הפעם ראשונה שאי פעם ראיתי את הפנים שלך",
+        "output": "רוברטה פלאק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה המשקל של אייפון 7",
+        "output": "4.87 אונקיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתרחש באיזה שלב של מחזור התא  dna-שכפול ה",
+        "output": "שלב S"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי החליף את johnny carson ב the tonight show",
+        "output": "ג'יי לנו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה קודקודים יש בפירמידה בעלת בסיס מרובע",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי צולמה עונה ראשונה של one of stranger things",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שהיאנקיז זכו בסדרה עולמית",
+        "output": "2009"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כיכב בהיום בו עמדה האדמה",
+        "output": "מייקל רניי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "wake me up before you go go מי שר",
+        "output": "Wham!"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הגובה בנבדה שבלס-ווגס",
+        "output": "610.0 מטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הם עושים עונה חדשה של ריברדייל",
+        "output": "2019-10-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נקבעו הכללים להתיישבות באפריקה",
+        "output": "1884"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה מחוז נמצאת צ'רי היל בניו ג'רזי",
+        "output": "מחוז קמדן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו שמו השני של הצלב האדום",
+        "output": "הצלב האדום"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה באליפות המדינה בפוטבול במכללות בשנה שעברה",
+        "output": "פוטבול גאות ארגמן אלבמה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שכתב \"fear and loathing in las vegas\"",
+        "output": "האנטר ס. תומפסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה בסיס חיל האוויר נמצא ליד פנסקולה פלורידה",
+        "output": "Naval Air Station Pensacola"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך קוראים לאשת פרד פלינגסטונס",
+        "output": "וילמה קדמוני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט המקורי של godzilla",
+        "output": "1954-10-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היסטוריה nbaב steals למי יש הכי הרבה",
+        "output": "ג'ון סטוקטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מגלמת את תפקיד האישה בכולם אוהבים את ריימונד",
+        "output": "פטרישיה היטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסיפור של היפה והיחה",
+        "output": "1740"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי השחקנים המשתתפים בסרט רד",
+        "output": "מרי-לואיז פרקר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה טורבינות רוח יש בארצות הברית",
+        "output": "57636.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השם של מלחמת הכוכבים החדש",
+        "output": "מלחמת הכוכבים - פרק 9: עליית סקייווקר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "arms of an angel מי כתב את השיר",
+        "output": "שרה מקלכלן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר",
+        "output": "ננסי סינטרה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "את מי משחקת מילי בובי בראון בדברים מוזרים",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את אייס קינג בהרפתקאות פין וג'ייק",
+        "output": "טום קני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי זכתה diamondbacks  באליפות העולם",
+        "output": "2001"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו המאמן של cleveland cavaliers",
+        "output": "ג'ון ביליין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא השיר אהבה מזוהמת",
+        "output": "1981"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ליברפול זכתה לאחרונה בפרמייר ליג",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו שמה של ההוריקו שהיכתה את פורטו ריקו",
+        "output": "הוריקן מריה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי המדינה הקטנה ביותר בארצות הברית של אמריקה",
+        "output": "רוד איילנד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה האיש הזקן ביותר שטיפס על האוורסט",
+        "output": "Yūichirō Miura"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שאטלנטה ברייבס זכו בוורלד סיריס",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "premier leagueמתי לסטר סיטי זכו ב",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מאיזה גיל מותר לשתות בקנדה",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה שיר  כתב elton john  למלך האריות",
+        "output": "גלגל החיים (שיר)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא מספר אחד ברשימת פורבס",
+        "output": "ג'ף בזוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה קבוצות ירדו ליגה בעונה שעברה פרמייר ליג",
+        "output": "קארדיף סיטי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי סקוטלנד נהייתה חלק מבריטניה",
+        "output": "1707"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה שערים בהיסטוריה של ליגת האלופות",
+        "output": "כריסטיאנו רונאלדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי אמר ועכשיו השאר הסיפור",
+        "output": "פאול הארוי "
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר השמש אינה זורחת כשהיא אינה",
+        "output": "ביל ווית'רס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה שנה שעברה ב",
+        "output": "אמריקן ליג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "my boyfriend's back מי שר את שיר",
+        "output": "המלאכים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את",
+        "output": "רונאן קיטינג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי המתעמל הכי מעוטר בכל הזמנים",
+        "output": "סימון ביילס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה מתחיל ומסתיים נהר קולומביה",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היריד הגדול ביותר בארצות הברית",
+        "output": "Minnesota State Fair"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש אף אדום צ'יפ או דייל",
+        "output": "העמק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כיכב במתחת לכוכב הקופים",
+        "output": "צ'רלטון הסטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהם ארבעת חלקי דיסניוורלד",
+        "output": "ממלכת הקסם"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה אונקיות זה שוט של ליקר",
+        "output": "1.5 אונקיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את שיר הקאנטרי how do you like me now",
+        "output": "טובי קית'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה צולם כתום זה השחור החדש",
+        "output": "ניו יורק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי צולם סרט תבונה ורגישות",
+        "output": "דבון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי בסרט חמישים גוונים של אפור",
+        "output": "ג'ניפר אילי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ארגנטינה זכתה בגביע העולם הראשון שלה",
+        "output": "1978"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא מועדון הבייסבול המצליח בעולם",
+        "output": "ריאל מדריד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה יום נופל יום העבודה ב 2018",
+        "output": "2018-09-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחקת את פאם במופע שנות ה-70",
+        "output": "איב פלמבר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "sitting by the dock of the bay מי שר",
+        "output": "אוטיס רדינג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי זכו קולורדו רוקיס בסדרה העולמית",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר הביטחון הנוכחי של הודו",
+        "output": "ריינאת סינג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את i can't get no satisfaction",
+        "output": "הרולינג סטונז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי עושה את הקריינות בסלבס יוצאים לדייט",
+        "output": "רוב בקט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הוואי נהייתה למדינה בארצות הברית",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא חמישים גוונים של אפור",
+        "output": "2015-02-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נוצר הסרט צ'יטי צ'יטי באנג באנג",
+        "output": "1968-12-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר call me the breeze",
+        "output": "ג'יי ג'יי קייל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה  the office  מצולמת",
+        "output": "פנסילבניה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי צולם",
+        "output": "1992-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה אלמנט בטבלה המחזורית הוא בעל נקודת ההיתוך הגבוהה ביותר",
+        "output": "פחמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את we don't need no education",
+        "output": "פינק פלויד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה האדם האחרון שהוצא להורג על ידי כיתת הירי",
+        "output": "רוני לי גרדנר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה תיקונים יש בארה\"ב",
+        "output": "27.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "everything i do i do for you מי שר",
+        "output": "בריאן אדמס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה נקודות יש לסטפן קרי בקריירה שלו",
+        "output": "16315.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר oh what a night",
+        "output": "ארבע העונות"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מאיפה צבגון אדום-אוזן",
+        "output": "מפרץ מקסיקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "nbaמתי הסוכנות החינמית התחילה ב",
+        "output": "1988"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק ב diary of a wimpy kid",
+        "output": "רוברט קפרון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "don't stop thinking about tomorrow מי שר את השיר",
+        "output": "פליטווד מק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה מחיר הדלק בשנת 1979",
+        "output": "0.86 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי האדם השני שהלך על הירח",
+        "output": "באז אולדרין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכתה בוורלד סיריס הכי הרבה פעמים",
+        "output": "ניו יורק יאנקיז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה זהב יש בפורט נוקס",
+        "output": "147300000.0 אונקיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה פז במופע שנות ה70",
+        "output": "האי הום"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי פרס שינתה את שמה לאירן",
+        "output": "1935"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את",
+        "output": "ביבי רקסה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את הרוזן אולף בסדרה של צרות",
+        "output": "ניל פטריק האריס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהרחק בין אטלנטה ג׳ורג׳יה למוביל אלבמה",
+        "output": "328.1 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מיילים בין וואקו טקסס לבין דאלאס טקסס",
+        "output": "95.0 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר to make you feel my love",
+        "output": "אדל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר too much time on my hands",
+        "output": "styx"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה תארי NBA היו למייקל ג׳ורדם",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את כולנו חיים בצוללת צהובה",
+        "output": "הביטלס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחוק קורפוס כריסטי טקסס מאוסטין טקסס",
+        "output": "216.9 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "sweet home alabama מתי לנרד סקינרד שחרר את",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם איליי מאנינג עדיין הקוורטרבק של הניו יורק ג'איינטס",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "let sleeping dogs lie מי טבע את הביטוי",
+        "output": "ג'פרי צ'וסר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i can't make you love me מי כתב",
+        "output": "מייק רייד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי בפעם האחרונה זכתה ליברפול בגביע",
+        "output": "2019"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מככב בהנסיך המדליק מבל אייר",
+        "output": "טטיאנה עלי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הטמפרטורה החמה ביותר המתועדת בכדור הארץ",
+        "output": "134.1 מעלות פארנהייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שנעשה שימוש בגיליוטינה בצרפת",
+        "output": "1981-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מגלם את פיטר פארקר בספיידרמן המופלא",
+        "output": "אנדרו גארפילד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן מיוצרת גלידת blue bunny של wells",
+        "output": "פלימות'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי שודרה הסדרה משפחת קרדשיאן",
+        "output": "2007-10-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה תארי nba יש לקובי בראיינט",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר i never promised you a rose garden",
+        "output": "לין אנדרסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "abraham martin and john מי שר את השיר",
+        "output": "מרווין גיי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא",
+        "output": "1986-02-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "עמה רחוקה סן דייגו מטיחואנה",
+        "output": "31.9 קילומטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך קוראים לראש המאפיה",
+        "output": "ראש ארגון פשע"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה אונקיות יש בבקבוק וודקה עם ידית",
+        "output": "59.2 אונקיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא ברבי בבית החלומות",
+        "output": "2012-05-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר i fought the law and the law won",
+        "output": "הקלאש"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נבנו מגדלי התאומים בעיר ניו יורק",
+        "output": "2006-04-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את איש הפח בקוסם מארץ עוץ",
+        "output": "ג'ק הולי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i wear my sunglasses at night ששר את השיר",
+        "output": "קורי הארט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שהסטיילרים הלכו לסופרבול",
+        "output": "2011-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כיכב בסרט",
+        "output": "ריטה מורנו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נחתמה לראשונה הכרזת העצמאות",
+        "output": "1776-08-02"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזו עיר זה שמתי ברז למורה",
+        "output": "שיקגו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נמצא השעון המדויק ביותר בעולם",
+        "output": "אמריקה הצפונית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט מלתעות המקורי",
+        "output": "1975-06-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר you can leave your hat on",
+        "output": "רנדי ניומן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFL כמה שחקנים יש בסגל של קבוצת",
+        "output": "53.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה אוכלוסיית דקוטה צפון וויליסטון",
+        "output": "25586.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמותיהם של מלאכי הקשת",
+        "output": "גבריאל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הם כל סרטי הקוסם מארץ עוץ",
+        "output": "הקוסם מארץ עוץ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה הנשיא האחרון שנרצח",
+        "output": "ג'ון פיצג'רלד קנדי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הם הפסיקו להפיק את wheat penny",
+        "output": "1958"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נבנה mgm grand  בלאס וגאס",
+        "output": "1993-12-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי פאדרס ניצח בסדרה העולמית",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בפלייאוף בסופרבול",
+        "output": "ניו אינגלנד פטריוטס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הפילדלפיה פיליז זכו בסדרה העולמית",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "super bowl זכה  browns האם קליוולנד",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמות החברים ב- bts",
+        "output": "קים נאם-ג'ון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה הנשיא הראשון בפועל של ארצות הברית",
+        "output": "ג'ורג' וושינגטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הצטרפה אנגילה לאיחוד האירופי",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "a whole new world מאיזה סרט לקוח השיר",
+        "output": "אלאדין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו השחקן שעושה את allstate בפירסומות",
+        "output": "דניס הייסברט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה המרחק משארלוט שבצפון קרולינה לצ'רלסטון שבדרום קרולינה",
+        "output": "209.5 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי אוכלוסיית פאלם ביי פלורידה",
+        "output": "114194.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה האולימפיאדה מתקיימת בשנת 2024",
+        "output": "צרפת"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שמישהו הלך על הירח",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם וושינגטון די. סי. היא אחת מ-50 המדינות",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את איימי מה את רוצה לעשות",
+        "output": "פיור פריירי ליג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי זכו הבלאקהוקס בגביעת סטנלי",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא השריף השחור באוכפים לוהטים",
+        "output": "קליבון ליטל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי האדם הגבוהה ביותר בעולם",
+        "output": "רוברט וודלו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי משחקים minnesota vikings   את המשחק הראשון שלהם",
+        "output": "1961-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה דקות יש בסיבוב אגרוף",
+        "output": "3.0 דקה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all i want for christmas is you מי שר",
+        "output": "מריה קארי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i think it's going to rain today מי שא את",
+        "output": "רנדי ניומן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהם השופטים ב america got talent",
+        "output": "סיימון קאוול"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בתחרות השנתית של NBA ברוקי 2017",
+        "output": "מלקולם ברוגדון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה דפים יש בספרי הארי פוטר",
+        "output": "3407.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עמודים יש בספר 1 של ארץ האגדות",
+        "output": "438.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה שווה מטבע ספרדית בשם Pieces of Eight",
+        "output": "50.0 2000.0 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "של מי הפנים בשטר הדולר",
+        "output": "ג'ורג' וושינגטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי אנו חוגגים את יום הילדים בהודו",
+        "output": "11-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "splish splash i was taking a bath מי שר",
+        "output": "בובי דארין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה נשיאים היו לארצות הברית",
+        "output": "45.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה גיל הייתה המלכה אליזבת כשהפכה למלכה",
+        "output": "27.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i got the moves like jagger מי שר את המילים",
+        "output": "מארון 5"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "land of hope and glory מי כתב את המוזיקה עבור",
+        "output": "אדוארד אלגר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר מתי אני אהיה נאהבת",
+        "output": "לינדה רונסטאדט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the bluest skies are in seattle מי שר",
+        "output": "פרי קומו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בסופרבול coltsמי שיחק נגד ה",
+        "output": "ניו יורק ג'טס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים יש בעונה השנייה של מתקפת הטיטאנים",
+        "output": "12.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את הורטון בהורטון שומע מישהו",
+        "output": "ג'ים קארי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט הנסיך המדליק מבל אייר",
+        "output": "1990-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את הספר for whom the bell tolls",
+        "output": "ארנסט המינגוויי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "nba-מי קיבל את טכניות פולס ביותר ב",
+        "output": "ראשיד וולאס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הם חברי  canned heat",
+        "output": "בוב הייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר קח את העבודה הזו ודחף אותה",
+        "output": "דוד אלן קו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר בית השמש העולה",
+        "output": "ג'ורג'יה טרנר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי התחילו הקהילות הנוצריות הראשונות בבריטניה",
+        "output": "המאה ה-1"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה משחקים red river rivalry",
+        "output": "דאלאס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בטור דה פראנס בשנה שעברה",
+        "output": "אגן ברנאל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נכתב הספר קמט בזמן",
+        "output": "1960"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את the house of the rising sun המקורי",
+        "output": "The Animals"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את אתה יכול להרגיש את האהבה הלילה",
+        "output": "נייתן ליין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהם השחקנים ששיחקו את james bond",
+        "output": "פירס ברוסנן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את סוף סוף זה קרה לי",
+        "output": "CeCe Peniston"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הוא שמם של חמשת האגמים הגדולים",
+        "output": "ימת מישיגן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהם קודי אזור החיוג  של ניו ג'רזי",
+        "output": "609.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בשנה שעברה בתחרות אכילת נקניקיות",
+        "output": "ג'ואי צ'סטנוט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי עשה את הקול של טיאנה בנסיכה והצפרדע",
+        "output": "אניקה נוני רוז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה כוכבים יש במערכת השמש",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "southwest  מה הם העיקריות של חברת התעופה",
+        "output": "שיקגו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השנה בה הסרט צלילי המוזיקה יצא",
+        "output": "1965"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט שלגיה",
+        "output": "1937"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הנקודה הכי נמוכה בכדור הארץ",
+        "output": "ים המלח"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה ימים עברו מאז שמישיגן ניצחה את אוהיו סטייט",
+        "output": "2892.0 יממה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט המקורי של exorcist",
+        "output": "1973-12-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את ההשיר  i'm coming home",
+        "output": "דידי - כסף מלוכלך"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא מלך האריות בתיאטרון",
+        "output": "2019-07-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי השחקנית שמגלמת את ג'יני וויזלי",
+        "output": "בוני רייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פארקים יש בעיר ניו יורק",
+        "output": "1700.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השכר החציוני בארה\"ב",
+        "output": "56516.0 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילמה את דמות האם בכולם אוהבים את ריימונד",
+        "output": "דוריס רוברטס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "במקור collins  מאיפה שם המשפחה",
+        "output": "אירלנד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהם שמות הילדים ב despicable me",
+        "output": "אדית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר עבר זמן מה",
+        "output": "סטיינד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה באליפות צרפת הפתוחה השנה",
+        "output": "רפאל נדאל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא המשחק יום שישי ה-13",
+        "output": "2017-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה הנשיא הראשון של בית המשפט העליון",
+        "output": "ג'ון ג'יי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "hooked on a feeling מי שר את הגרסה המקורית של",
+        "output": "ב. ג'יי. תומאס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה השיר המפורסם ביותר ב1981",
+        "output": "Bette Davis Eyes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא השחקן שמגלם את mathias ב- longmire",
+        "output": "זאן מקלארנון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נמצא 7 mile bridge בקיז שבפלורידה",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר שר את הגרסה המקורית של יין אדום אדום",
+        "output": "ניל דיימונד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Y מתי הייתה צריך להיוולד כדי להיחשב דור",
+        "output": "1981-1996"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי בכל העולם יש הכי הרבה עוקבים באינסטגרם",
+        "output": "כריסטיאנו רונאלדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא מרד הנעורים",
+        "output": "1955"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שמנצ'סטר יונייטד זכתה באליפות העולם",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילם את בילי בקן הקוקייה",
+        "output": "בראד דוריף"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we're not gonna take it מי שר",
+        "output": "טוויסטד סיסטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי המדינה השנייה בגודלה בדרום אמריקה",
+        "output": "ארגנטינה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים יש במשחק של ווסטינג",
+        "output": "30.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי קרה נס ההדסון",
+        "output": "2009-01-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את הכי זכיות ב- nfl",
+        "output": "שיקגו ברס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "PGA מי שחן הגולף הזקן ביותר שניצח טורניר",
+        "output": "סאם סניד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה כפפות זהב בהיסטוריה של ה- MLB",
+        "output": "גרג מדוקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה מספר התושבים בפארגו שבצפון דקוטה",
+        "output": "122359.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את",
+        "output": "Whitesnake"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את הממוצע ההטלות הגבוה ביותר ב al in 2011",
+        "output": "מיגואל קבררה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן נמצאים איילים בארצות הברית",
+        "output": "איידהו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Price Is Righ מי המארח המקורי של",
+        "output": "ביל קולן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה שכבה של העור אחראית לחלוקת התא והחלפתו",
+        "output": "שכבת תאי בסיס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הגובה של רוזוול בניו מקסיקו",
+        "output": "3573.0 רגל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מתמודד למפלגה הדמוקרטית בשנת 2020",
+        "output": "ג'ו ביידן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהם שמות הדמויות בstranger things",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי מארוול יוציאו סרט חדש",
+        "output": "2019-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את ספר corinthians בתנ\"ך",
+        "output": "פאולוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "guns and roses-מי היה המתופף המקורי ל",
+        "output": "סטיבן אדלר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הייתה אוכלוסיית ארה\"ב ב-1970",
+        "output": "203200000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "alpha chi omega איזה צבעים של",
+        "output": "ירוק זית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השירים לשיר אשיר בגשם",
+        "output": "ארתור פריד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו הסרט שובר הקופות הגבוה ביותר בכל הזמנים",
+        "output": "הנוקמים: סוף המשחק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו השחקן שמגלם את ג'יימס בונד",
+        "output": "רוג'ר מור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה בירת איחוד האמירויות הערביות",
+        "output": "אבו דאבי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ניגן בגיטרה בשיר valerie של המונקיז",
+        "output": "לואי שלטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מבצע את קולו של אילי בהאחרון מבינינו",
+        "output": "אשלי ג'ונסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עונות יש בשיקאגו P.D.",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי תהיה אליפות העולם הבאה",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "שהוא הרכז ההתקפי של tampa bay buccaneers",
+        "output": "ביירון לעפטוויטש"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה האיש האחרון שהוצא להורג על ידי כיתת יורים בארצות הברית",
+        "output": "רוני לי גרדנר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה צולמה עונה שש של משחקי הכס",
+        "output": "קרואטיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "את מי טום הנקס משחק בצעצוע של סיפור",
+        "output": "שריף וודי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את ה on base percentage הגבוה ביותר ב MLB",
+        "output": "טד ויליאמס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הכריזה ארה\"ב על מלחמה בווייטנאם",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה שדה תעופה הוא הגדול ביותר בארצות הברית",
+        "output": "נמל התעופה הבינלאומי הרטספילד-ג'קסון אטלנטה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "don't be afraid of the dark מי שר",
+        "output": "רוברט קרי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי אמר אנחנו עדיין לא התחלנו להילחם",
+        "output": "ג'ון פול ג'ונס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we are never getting back together מי שר",
+        "output": "טיילור סוויפט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי השתמשו לראשונה באורות עץ חג המולד",
+        "output": "1882"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקו בסופרבול ב-2014",
+        "output": "סיאטל סיהוקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הטמפרטורה בפאלו אלטו קליפורניה",
+        "output": "69.0 מעלות פארנהייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "life is a bowl of cherries מי אמר",
+        "output": "אתל מרמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו הנשיא הרביעי אל הודו",
+        "output": "מוראזיי דאסאי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה מדינות הם חלק מהאיחוד האירופאי",
+        "output": "גרמניה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הן שלושת המדינות המאוכלסות ביותר בארצות הברית",
+        "output": "פלורידה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הפרשי זמן  בין זמן פסיפיק לזמן  ההר",
+        "output": "1.0 שעה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה קולות קיבלה כל מדינה צחת סעיף האיחוד",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי בקבוצה של אנגליה באליפות העולם",
+        "output": "טונגה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "days of our lives מתי יצא",
+        "output": "1965-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה המפל הגבוה ביותר בארה\"ב",
+        "output": "מפלי אולופנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נמצא שבר סן אנדראס",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים של the waltons יש",
+        "output": "221.0 אפיזודה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ניצחו דטרויט tigers",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי עלתה man city לליגת העל",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הגובה של פייקס פיק בקולורדו",
+        "output": "4302.0 מטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא קפטן אמריקה",
+        "output": "2011-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק ברחובות סן פרנסיסקו",
+        "output": "מייקל דאגלס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הטלפון עם מסך המגע הראשון",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שם המכשפה מהקוסם מארץ עוץ",
+        "output": "אלפבה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ניו זילנד הפכה למושבה בריטית",
+        "output": "1840"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הארי פוטר והילד המקולל יצא בברודווי",
+        "output": "2018-04-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן מתרחש סיפור סינדרלה",
+        "output": "צרפת"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא הזמר המוביל בפרל ג'אם",
+        "output": "אדי ודר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי נמצא בניו אינגלנד פטריוטס",
+        "output": "ניו יורק ג'טס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הקוורטרבק של הסינסינטי בנגלס",
+        "output": "אנדי דלטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פעמים זכתה אנגליה בגביע העולם",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר אני לא יכול לחיות בלעדיך",
+        "output": "הארי נילסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי פעם אחרונה בוסטון ברואינס זכו בגביע",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה הכי הרבה בטור דה פראנס סטייג'ס",
+        "output": "אדי מרקס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב what a tangled web we weave",
+        "output": "וולטר סקוט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שגילה את תיאוריית אפקט הפרפר",
+        "output": "אדוארד לורנץ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "של מראה שחורה shut up and dance איפה צולם הפרק",
+        "output": "הממלכה המאוחדת"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם הוואי חלק מיבשת צפון אמריקה",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "אילו בעלי חיים נמצאים ברשימת המינים בסכנת הכחדה",
+        "output": "נמר אמור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בטור דה פראנס 1985",
+        "output": "ברנאר אינו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה תחנות כוח גרעיניות יש בקליפוניה",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAבכמה קבוצות שיחק שאק ב",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה עונה מת הארשל במתים המהלכים",
+        "output": "9.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכתה בגביע העולם בכדורגל לנשים האחרון",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמות הקרים בתומס הקטר",
+        "output": "אמילי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הפעם האחרונה שפקיסטן זכו בגביע העולם",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמו של יוצר הרובלוקס",
+        "output": "אריק קאסל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה מלון היה הטבח של לאס וגאס",
+        "output": "מפרץ מאנדליי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהם השחקנים ב big lebowski",
+        "output": "Jeff Bridges"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מגלמת את הבחורה הרעה ביומני הנסיכה",
+        "output": "מנדי מור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה היומן אמור להתקיים",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצאה טלויזיית שחור לבן",
+        "output": "1936"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את הדמויות במלך האריות",
+        "output": "צ'יווטל אגיופור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו ה starting quarterback של קבוצת vikings",
+        "output": "קירק קאזינס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מל יש בליטר אחד",
+        "output": "1000.0 מיליליטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מגלמת את רוז בשני גברים וחצי",
+        "output": "מלאני לינסקי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב אמנות המירוץ בגשם",
+        "output": "גארת'. סטיין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי מתחילה עונת הליגה לאלופות הבאה",
+        "output": "2019-10-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בשנה שעברה בגמר ליגת האלופות",
+        "output": "ליברפול"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי לראשונה נבנה מרכז הסחר העולמי",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר straight from the heart",
+        "output": "בריאן אדמס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ניצח את ווימבלדון הגברים השנה",
+        "output": "נובאק ג'וקוביץ'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה גיל השתייה בפיליפינים",
+        "output": "18.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי מתחילה עונת ההוריקנים בארצות הברית",
+        "output": "06-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו שם המכונית הצהובה במכוניות",
+        "output": "קרוז רמירז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי קלע הכי הרבה נקודות באן-בי-איי",
+        "output": "כרים עבדול-ג'באר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עצמות יש בגוף האדם",
+        "output": "206.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה ספרים של הדרקון הראשון שלי יש",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נבנה סניף המקדונלד'ס הראשון אי פעם נבנה",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא לאור הספר סיפורי נרניה: האריה, המכשפה וארון הבגדים",
+        "output": "1950-10-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את אנסטסיה סטיל ב50 גוונים של אפור",
+        "output": "דקוטה ג'ונסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי השחקן ששיחק את דוקטור סטריינג'",
+        "output": "בנדיקט קמברבאץ'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו מאמן של ה cleveland cavaliers",
+        "output": "ג'ון ביליין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי זכו הראמס בסופרבול",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "שהקים את בית היתומים הפרטי הראשון בעיר ניו יורק",
+        "output": "אלכסנדר המילטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מאיפה הביטוי זה לא נגמר עד שהגברת השמנה תשיר",
+        "output": "דיין קוק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי היה המוות האחרון על ידי כיתת יורים",
+        "output": "2010-06-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך קוראים לאדם שרק אוכל דגים",
+        "output": "פסקטריאניזם"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי העיר הגדולה ביותר ביבשת של ארצות הברית",
+        "output": "ג'קסונוויל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כיכב בדרקון: סיפורו של ברוס לי",
+        "output": "ג'ייסון סקוט לי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצאו שומרי הגלקסיה",
+        "output": "2014-08-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה זמן היא כהונת סנטור בארה\"ב",
+        "output": "6.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שהיה הוואי לפני שהפכה למדינה",
+        "output": "ממלכה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק ריק ומורטי בריק ומורטי",
+        "output": "ג'סטין רוילנד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה הסרט מרכבת המלחמה צולם",
+        "output": "מקסיקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הגובה הנוכחי של הר אוורסט",
+        "output": "8848.0 מטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה ברוב עונות הדה וויס",
+        "output": "בלייק שלטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את האלק בסדרת הטלוויזיה",
+        "output": "ביל ביקסבי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר אני רוצה לדעת את שמך",
+        "output": "The Whispers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "של מי הקול של בת הים הקטנה",
+        "output": "ג'ודי בנסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר ראיתי את הסימן",
+        "output": "אייס אוף בייס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "וורלד סיריס ב 2002 mlb מי זכה",
+        "output": "לוס אנג'לס איינג'לס מאנהיים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט הראשון של יום שישי ה -13",
+        "output": "1980-01-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "nfl-מיהו האיש הגבוה ביותר ב",
+        "output": "ריצ'רד סליי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הם הפסיקו להשתמש בידית וצינור",
+        "output": "1940"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הצפיפות של הקרום היבשתי",
+        "output": "2.833 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמו של הזיקית בפלונטר",
+        "output": "פסקל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחוקה דה מוין מווטרלו איווה",
+        "output": "128.7 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי סיאטל סופרסוניקס עברו לאוקלהומה סיטי",
+        "output": "2008–09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי התחילה והסתיימה מלחמת קוריאה",
+        "output": "1950-06-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "loving you is easy cause you're beautiful מי שר",
+        "output": "מיני ריפרטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילם את הגוויה בהחברים של אלכס",
+        "output": "קווין קוסטנר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "על שם מי נקרא גביע הסופרבול",
+        "output": "וינס לומברדי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "do you think you're better off alone מי שר את",
+        "output": "אליס דיג'יי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "minnesota twinsלמי יש הכי הרבה פגיעות ב",
+        "output": "סם רייס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מדינות נמצאות ביבשת אפריקה",
+        "output": "54.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הוא הציפור הכי חכם בעולם",
+        "output": "נסטור הררי קיאה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מגלם את בורומיר בשר הטבעות",
+        "output": "שון בין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר  i say a little prayer for you",
+        "output": "דיון וורוויק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "war of the roses-מי שיחק ב",
+        "output": "מריאן זגברכט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "durant play for before the warriors  ב את מי שיחק before the warriors",
+        "output": "אוקלהומה סיטי ת'אנדר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה השנה באליפות ארצות הברית הפתוחה בגולף",
+        "output": "גארי וודלנד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם יש דבר כזה יום הגברים הבינלאומי",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the love מי הזמר המקורי של",
+        "output": "רוברטה פלאק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את רמזי בולטון במשחקי הכס",
+        "output": "איוואן רהון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט a new hope  של מלחמת הכוכבים",
+        "output": "1977-05-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה האוכלוסיה של אביב הכסף מרילנד",
+        "output": "71452.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה אלבומים יש ללהקה של \"dave matthews\"",
+        "output": "105.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "malcolm in the middle מי שר את שיר הפתיחה",
+        "output": "They Might Be Giants"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מיילים מאטלנטה ג'ורג'יה לניו יורק",
+        "output": "862.9 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה קבוצות אן-בי-איי מעולם לא זכו באליפות",
+        "output": "11.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בטורונטו שבקנדה yonge כמה ארוך רחוב",
+        "output": "1178.0 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פעמים מאנחטן אונטד זכה בליגת האלופות",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהן השפות הרשמיות של דרום אפריקה",
+        "output": "אפריקאנס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא המנהל הכללי של הניו יורק יאנקיז",
+        "output": "בריאן קשמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הפעם האחרונה ש blackhawks זכו ב stanley cup",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את thomas ב the bold and the beautiful",
+        "output": "אדם גרגורי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק ב  night of the museum",
+        "output": "אוון וילסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו הקשר הגבוהה ביותר בליגת NBA",
+        "output": "גאורגה מורשאן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו הקפטן של קבוצת אוסטרליאן cricket",
+        "output": "טים פיין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי הפסידו ה steelers בסופרבול",
+        "output": "גרין ביי פקרס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו שחקן ההגנת מרכז הפותח של הניו יורק",
+        "output": "סאם דרנולד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה אורך כהונה של נציגים בבית הנבחרים",
+        "output": "2.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "hotel where the shining איפה צולם",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזה קוורטרבק ב- nfl יש הכי הרבה career passing yards",
+        "output": "דרו בריס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השמות של הדמויות הראשיות בהארי פוטר",
+        "output": "הרמיוני גריינג'ר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הפעם האחרונה בה זכו lsu באליפות הלאומית",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזו שנה יצאו סרטי צעצוע של סיפור",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזו שנה יצא הסרט פוטלוס",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחובות peachtree  יש באטלנטה",
+        "output": "71.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "every breath you take מי שר את השיר",
+        "output": "הפוליס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "שהם החברים האוריגינלים של לינארד שיקירד",
+        "output": "רוני ואן זאנט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הפעם האחרונה בה זכו celtics באליפות",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "השנה בחטיפות NBAמי הוביל את ה",
+        "output": "פול ג'ורג'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את השיא הטוב ביותר בכדורסל המקצועי",
+        "output": "ניו יורק יאנקיז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה האוכלוסייה של היבשה התחתית",
+        "output": "2759000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השם של נמל התעופה של פניקס",
+        "output": "נמל התעופה הבינלאומי פיניקס סקיי הרבור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm so lonesome i could cry מי שר שיר",
+        "output": "האנק ויליאמס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "zing went the strings of my heart מי שר את",
+        "output": "ג'ודי גרלנד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "big brother מי ניצח את העונה הראשונה של",
+        "output": "אדי מקגי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את לויס ליין בסופרמן המקורי",
+        "output": "מרגו קידר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מסלולים יש בשדה התעופה גטוויק",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הפירוש של אסי במשטרה",
+        "output": "עוזר פקח משנה של המשטרה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא האח בכולם אוהבים את ריימונד",
+        "output": "רוברט בארון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "רשימת הבניינים הגבוהים ביותר בניו יורק",
+        "output": "מרכז הסחר העולמי החדש"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי צולם אינדיאנה ג'ונס ומסע הצלב האחרון",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הם כל הנשיאים בהר ראשמור",
+        "output": "אברהם לינקולן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "perfect is the enemy of good מי אמר",
+        "output": "וולטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "המדינה הגדולה ביותר בארצות הברית לפי אוכלוסייה",
+        "output": "קליפורניה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי פרנטיס חוזרת למחשבות פליליות",
+        "output": "פג'ט ברוסטר (פרנטיס) חזר להופעת אורח 2014 ואת פרק 11 של עונה 11 \"מחווה\" בתחילת 2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מכה עונות יש לסדרה דברים מוזרים",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כבש הכי הרבה שערים בפרמייר ליג השנה",
+        "output": "סאדיו מאנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי אמר הבריטים באים הבריטים באים",
+        "output": "פול רוויר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה גבוהה expedition everest בדיסניוורלד",
+        "output": "199.0 רגל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא הגמד הצעיר ביותר בהוביט",
+        "output": "תורין צינת-אלון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בכל הזמנים באן בי אי scoring leader מי ה",
+        "output": "כרים עבדול-ג'באר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "have gun will travel ב paladin מי גילם את",
+        "output": "ריצ'רד בון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את החבטה הטובה ביותר בהיסטוריה של ארצות הברית",
+        "output": "טיי קוב"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה זמן שודרה סקס והעיר הגדולה",
+        "output": "6.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את henry mills ב once upon a time",
+        "output": "ג'ארד ס. גילמור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה שם החיה ביפה והחיה",
+        "output": "אדם"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר כשגבר אוהב אישה",
+        "output": "פרסי סלדג'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך נקרא שלב הרגיעה של מחזור הלב",
+        "output": "דיאסטולה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פעמים הגיעה סיאטל סיהוקס לפלייאוף",
+        "output": "17.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי קלעו הכי הרבה נקודות בהיסטוריית ה אנ בי איי",
+        "output": "כרים עבדול-ג'באר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האחרון golden state warriors game מי ניצח את",
+        "output": "לוס אנג'לס לייקרס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שם הצבועים במלך האריות",
+        "output": "שנזי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחוקה קרסטוויו פלורידה מדסטין פלורידה",
+        "output": "36.4 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה סרט הנסיכות הראשון אי פעם",
+        "output": "שלגיה ושבעת הגמדים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את כמה עולה הכלב הזה בחלון",
+        "output": "בוב מריל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הם סוגי הדגים בימת סופיריר",
+        "output": "טרוטת האגמים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר when will i see you again",
+        "output": "The Three Degrees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "צוות השחקנים של תוכנית הטלוויזיה chicago pd",
+        "output": "פטריק פלוגר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן מתקיים הטור דה פראנס",
+        "output": "צרפת"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "sling blade מתי יצא סרט",
+        "output": "1996-11-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את שיר הנושא של הסדרה outlander",
+        "output": "בר מק'קרירי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "נמצא metropolitan museum of art איפה",
+        "output": "ניו יורק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם לאייר פורס 1 יש מתקן בריחה",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך קוראים למיקי מאוס בצרפת",
+        "output": "מיקי מאוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו האיש המבוגר ביותר ב little mix",
+        "output": "ג'סי נלסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את barney stinson באיך הכרתי את אמא",
+        "output": "ניל פטריק האריס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הפסיקו לייצר מטבעות 50 סנט",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "listen to the rhythm of the falling rain מי שר",
+        "output": "The Cascades"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר קשור לעמדת הצלפות",
+        "output": "להקת האחים אולמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נחתמה החוקה של ארצות הברית",
+        "output": "1787-09-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמות של גראט לאיקס של מישיגן",
+        "output": "ימת מישיגן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שה phillies  שיחקו בליגה העולמית",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ncaa מי ניצח את 10 אליפויות הכדורגל האחרונות של",
+        "output": "אוניברסיטת אלבמה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה ביותר מדליות באולימפיאדה",
+        "output": "מייקל פלפס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "three days grace בן כמה הזמר המוביל של",
+        "output": "41.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי האיש עם הכובע הצהוב",
+        "output": "טד שקלפורד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הקמע של אריזונה דיאמונדבקס",
+        "output": "ד. בקסטר הבובקט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו המרחק הארוך ביותר שמישהו אי פעם רץ",
+        "output": "350.0 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הייתה חברה של andy בסרט andy griffith show",
+        "output": "הלן קראמפ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מיילים יש בין טאמפה פלורידה למיאמי פלורידה",
+        "output": "280.0 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי העליה של grapevine in california?",
+        "output": "1499.0 רגל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הקוורטרבק של הניו אינגלנד פטריוטס",
+        "output": "טום בריידי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נוצרה ההכרזה לכל באי עולם בדבר זכויות האדם",
+        "output": "1948-12-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה שנה יצא השיר \"כח האהבה\" מהסרט פרנקי הולך להוליווד",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה העצם הקטנה ביותר בגוף שלך ממוקמת",
+        "output": "אוזן תיכונה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה תאים יש בבטן האדם",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזה קבוצה יש הכי הרבה ניצחונות בהיסטוריה של האנ אפ אל",
+        "output": "שיקגו ברס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נמצא \"love it or list it\"",
+        "output": "אונטריו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי עלה הפרק הראשון של ghost adventures",
+        "output": "2018-10-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "הקבוצה הבריטית הראשונה שזכתה בגביע אירופי",
+        "output": "סלטיק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים יש למשחקי הכס",
+        "output": "73.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ניצח את הראשון בלאמריקה יש כישרון",
+        "output": "ביאנקה ראיין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה גבוה מגדל האימה ההוליוודי",
+        "output": "61.0 מטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את edith bunker ב all in the family",
+        "output": "ג'ין סטייפלטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את בידיים של מלאך",
+        "output": "שרה מקלכלן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה באליפות העולם בבייסבול בשנת 2017",
+        "output": "יוסטון אסטרוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שזכה בשנה שעברה באליפות הלאומית בכדורגל המכללות",
+        "output": "פוטבול גאות ארגמן אלבמה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי עשו את צ'ארלי בממלכת השוקולד המקורי",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "strokesבשביל קשור ל  fast stand  מה זה",
+        "output": "פאסט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את  the first cut is the deepest",
+        "output": "רוד סטיוארט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Yמתי אתה צריך להיוולד כדי להיות חלק מדור ה",
+        "output": "1981.0 1996.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר you make my dreams come true",
+        "output": "Daryl Hall & John Oates"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "נמצא the island of the dolls  איפה",
+        "output": "מקסיקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר take a walk on the wild side",
+        "output": "לו ריד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה נהרגו בירי בלאס-וואס",
+        "output": "58.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקה את אמא מלזרוק את אמא מהרכבת",
+        "output": "אן רמזי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מייצר את מנוע הדיזל בג'יפ grand cherokee",
+        "output": "VM Motori"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "first time i ever saw your face מי שר את",
+        "output": "רוברטה פלאק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט הראשון של שומרי הגלקסיה",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי מארק סלואן מת באנטומיה של גריי",
+        "output": "2012-09-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i enjoy being a girl מאיזה מחזמר לקוח השיר",
+        "output": "שיר תוף הפרחים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "candle in the windמי כתב את המילים ל",
+        "output": "ברני טופין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מארחת את גביע העולם ב-2026",
+        "output": "מקסיקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא jurassic world fallen kingdom",
+        "output": "2018-05-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט שקרניות קטנות",
+        "output": "2010-06-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "campaign in rainbow six siege האם יש קאמפין ב",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט מלך האריות",
+        "output": "2019-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עונו יש במשחקי הכס",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן נפתחה המסעדה הראשונה של מקדונלד",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא הפיטשיר הכי גבוהה באמ אל בי",
+        "output": "ג'ון ראוך"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "national lampoon's christmas vacationמי משחקת את הבת ב",
+        "output": "אלן המילטון לאצן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עולה ביג מק באמריקה",
+        "output": "5.58 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה משחקים את הוורד סירייס לליגות קטנות",
+        "output": "פנסילבניה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את הסיפור היפה והחיה",
+        "output": "גבריאלה-סוזן דה וילנייב"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר i believe in you",
+        "output": "רוג׳ר קוק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את שיר הנושא של the laverne and shirley",
+        "output": "סינדי גרקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק רידג' פורסט ביפים והאמיצים",
+        "output": "רון מוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזו שנה יצא flaming hot cheetos",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "college כמה משחקים משחקת נבחרת הבייסבול",
+        "output": "56.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר 30 יום בבור",
+        "output": "המבל פאי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את ה-score עבור שר הטבעות",
+        "output": "הווארד שור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט גוד בורגר",
+        "output": "1997-07-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא דובר בית הנבחרים של ארצות הברית",
+        "output": "ננסי פלוסי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ain't no mountain high enough מי הקליט את",
+        "output": "מרווין גיי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הם השחקנים בסרט חלף עם הרוח",
+        "output": "האטי מקדניאל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הנקודה המזרחית ביותר בארצות הברית",
+        "output": "מיין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה זכיות משמעותיות בגולף",
+        "output": "ג'ק ניקלאוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה האי הגדול ביותר בים התיכון",
+        "output": "סיציליה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה גרה דורותי בקוסם מארץ עוץ",
+        "output": "קנזס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "it's my party and i'll cry if i want to מי שר",
+        "output": "לסלי גור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה אירע קרב אלמו",
+        "output": "טקסס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה יקבים יש במדינת וושינגטון",
+        "output": "900.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי האוכלוסיה של Utica New York",
+        "output": "60635.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "are we human or are we dancers מי שר",
+        "output": "הקילרס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שמו של בן דוד של scooby doo",
+        "output": "סקובי דו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן נמצא החלק העמוק ביותר של האוקיינוס",
+        "output": "תהום צ'לנג'ר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי היה divorce legalized  בארצות הברית",
+        "output": "1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "stanley cupכמה פעמים זכו הפינגווינים ב",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי מכונית הייצור המהירה ביותר בעולם",
+        "output": "בוגאטי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה קומות יש בבניין הגבוה ביותר באמריקה",
+        "output": "104.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך קוראים להגה בסירה",
+        "output": "גלגל הגה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזו סוג מכונית היה בהדיוק'ס קורעים את האזרד",
+        "output": "מטען דודג '"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "פיינלים ניצחו בולס nba-כמה  ה",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי המציא את המטוס?",
+        "output": "האחים רייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר באליפות וימבלדון לנשים העונה",
+        "output": "Simona Halep"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה יתקיים גביע העולם הבא",
+        "output": "קטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק בפולה בקצין וג'נטלמן",
+        "output": "דברה וינגר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "keep on rollin with the flow מי שר",
+        "output": "קורט וייל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה את רוקי השנה ב-NBA",
+        "output": "לוקה דונצ'יץ'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את ממוצע החבטות הגבוהה ביותר השנה",
+        "output": "טיי קוב"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהם השחקנים בקצין וג'נטלמן",
+        "output": "דברה וינגר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את מנדי בקסטר ב last man standing",
+        "output": "מולי אפרים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה גר מושל קנדה",
+        "output": "אוטווה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי אמר שום דבר בחיים בטוח חוץ מהמוות",
+        "output": "קניה וסט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את הריינג'ר הורוד בפאוור ריינג'רס",
+        "output": "איימי ג'ו ג'ונסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה נהר הילוסטון מתחיל והיכן מסתיים",
+        "output": "מיזורי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי החל מייקל ג'ורדן לראשונה לשחק כדורסל",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזה דגל יש צלב אדום עם לבן",
+        "output": "דנמרק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "את מי גילם סמואל ל. ג'קסון במלחמת הכוכבים",
+        "output": "מייס וינדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "falcons or patriots מי ניצח את הסופרבול,",
+        "output": "ניו אינגלנד פטריוטס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי מתחיל ה sturgis rally השנה",
+        "output": "2019-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מאמנת את קבוצת כדורסל הנשים בנוטרדאם",
+        "output": "מאופט מקגרו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "את מי שיחק ברדלי וולש בקורוניישן סטריט",
+        "output": "דניאל בולדווין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי סגן נשיא הודו הנוכחי",
+        "output": "וניקאיאח נאידו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "על מי מבוסס הסרט דני קולינס",
+        "output": "סטיב טילסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "במסע בין כוכבים החדש scotty  מי שיחק את",
+        "output": "סיימון פג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזה דגל יש רקע לבן עם צלב אדום",
+        "output": "ממלכת אנגליה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "היכן יתקיים המונדיאל הבא",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עונות של משחקי הכס היו",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "crown victoria מתי הפסיקו לייצר את",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה מלכים בריטים היו מאז 1900",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הוקם ה candlestick park בסן פרנסיסקו",
+        "output": "1960-04-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא סרט הוביט הראשון",
+        "output": "2012-12-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהם חברי להקת u2",
+        "output": "בונו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נוצר הדגם הראשון של פורד T",
+        "output": "1908"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר never gonna give you up",
+        "output": "ריק אסטלי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה אסיסטים היו הכי הרבה אי פעם במשחק אן-בי-איי",
+        "output": "סקוט סקיילס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר hold your head up",
+        "output": "רוד ארגנט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "you make me feel מי שר את השיר",
+        "output": "קרול קינג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i fought the law and the law won מי שר",
+        "output": "הקלאש"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי עושה את הקול של ג'סי בצעצוע של סיפור",
+        "output": "ג'ואן קיוזאק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה אורכו של פיל אפריקאי",
+        "output": "24.6 רגל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הסרט מאמא מיה",
+        "output": "2008-07-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שה raiders  שיחקו בסופרבול",
+        "output": "2003-01-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר don't own me",
+        "output": "דייוויד וייט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו גודלה של אוכלוסיית Grand Forks Boundary Country",
+        "output": "4049.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי עושה את הקול של בריג'ט בטרולים הסרט",
+        "output": "זואי דשנל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא mad max הראשון",
+        "output": "1980-02-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה הלהיט מספר אחת הראשון  של רוי אורביסון",
+        "output": "Running Scared"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איך קוראים לסרט האחרון של מלחמת הכוכבים",
+        "output": "מלחמת הכוכבים - פרק 9: עליית סקייווקר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בכמה משחקים קלע קובי ברייאנט 60 נקודות",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר in the garden of eden",
+        "output": "איירון באטרפליי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה ממוקם גשר לונדון בארצות הברית",
+        "output": "אריזונה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה טבעות סופרבול יש לפורטי ניינרס",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בהכי הרבה משחקים בליגת NBA",
+        "output": "גולדן סטייט ווריורס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא ה- Mario Kart הראשון",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי השפה של אנטיגואה וברבודה",
+        "output": "אנגלית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם חומוס הוא אפונה הוא שעועית",
+        "output": "שעועית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "pick up מי עשה את הלייקרס של לוס אנג'לס",
+        "output": "אנתוני דייוויס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את שיר הנושא של Love Boat",
+        "output": "ג'ק ג'ונס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את something in the way she moves",
+        "output": "הביטלס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר לאן נעלמו כל הפרחים",
+        "output": "פיט סיגר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את play that funky music white boy",
+        "output": "ויילד צ'רי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i want you to want me מי שר את השיר",
+        "output": "צ'יפ טריק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחק את miss honey בסרט matilda",
+        "output": "אמבת' דייווידץ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר we can learn to love again",
+        "output": "פינק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm on the edge of glory מי שר את",
+        "output": "ליידי גאגא"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה פרקים יש בעונה השנייה של דברים מוזרים",
+        "output": "25.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הונג קונג חזרה לסין",
+        "output": "1997-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את אני אוהב את הדרך בה את זזה",
+        "output": "אאוטקאסט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר אני רק בן אדם",
+        "output": "Rag'n'Bone Man"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את this guys in love with you",
+        "output": "הרב אלפרט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו שדה התעופה הגדול ביותר בארצות הברית לפי גודל",
+        "output": "נמל התעופה הבינלאומי הרטספילד-ג'קסון אטלנטה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה שחקני פנטרס נמצאים בהיכל התהילה של האן-אף-אל",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה מתחיל ומסתיים שביל האפלצ'ים",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי החלה סדרת משחקי הכס",
+        "output": "2011-04-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר האריה ישן הלילה",
+        "output": "The Tokens"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא מזכיר החינוך של ארצות הברית",
+        "output": "בטסי דבוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר nobody knows it but me",
+        "output": "טוני ריץ'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה ש detroit lions  זכו באליפות",
+        "output": "1957"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הגובה הממוצע של שחקן כדורסל ב- nba",
+        "output": "6.7 רגל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ביצע את הסופרבול שנה שעברה",
+        "output": "ג'סטין טימברלייק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the house of the rising sun מתי יצא השיר",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את charlie ב the perks of being a wallflower",
+        "output": "לוגאן לרמן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי עשו את הסרט 9 עד 5",
+        "output": "1980-12-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את",
+        "output": "ג'יימי אושנייל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר הבן של אמא אדמה",
+        "output": "לנון ומקרטני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את זה לא כואב כמו פעם",
+        "output": "בילי קוארינגטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את killing me softly with his song",
+        "output": "פוג'יז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את דונקאן במשהו נפלא",
+        "output": "אליאס קוטיז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "tie a yellow ribbon round the old oak tree מי שר",
+        "output": "טוני אורנלדו ודאון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקה את אמילי ולנטין בברלי הילס 90210",
+        "output": "כריסטין אליז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה היה ההר הגבוהה ביותר בעולם לפני גילוי הר אוורסט",
+        "output": "K2"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא מאקבוק פרו עם משטח נגיעה",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הגובה הממוצע של גבר",
+        "output": "175.4 סנטימטר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הבניין הגבוה ביותר בפיליפינים",
+        "output": "גרנד הייאט מנילה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי לאריזונה diamondbacks יש אימון אביב",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "המרחק בין ספרטהבורג דרום קרולינה לגרינוויל דרום קרולינה",
+        "output": "31.8 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הם הפסיקו להשתמש בכיסא חשמלי",
+        "output": "2008-02-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היו הכוכבים בסרט שיר אשיר בגשם",
+        "output": "דבי ריינולדס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה חלק בניו יורק נמצא ה time square",
+        "output": "מידטאון מנהטן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה טורנאובר בהיסטוריית האן-בי-איי",
+        "output": "קארל מלון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all in the family-מי שיחק את ג'ורג 'ג'פרסון ב",
+        "output": "שרמן המסלי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "you are the sunshine of my life מי שר",
+        "output": "כרמן מק'ריי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה ניצחונות בגולף",
+        "output": "ג'ק ניקלאוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "hairy maclary מי כתב את סדרת הספרים",
+        "output": "לינדי דוד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הארי הארי פוטר ואוצרות המוות יצא",
+        "output": "2007-07-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחוקה לואיסוויל טקסס מארלינגטון טקסס",
+        "output": "31.0 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו האופה ב into the woods",
+        "output": "ג'יימס קורדן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי התווסף הוואי לארצות הברית",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הם שמות ארבעת צבי הנינג׳ה",
+        "output": "לאונרדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר i need you now",
+        "output": "ליידי אנטבלום"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את i'm easy like sunday morning",
+        "output": "הקומודורס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה תתקיים אולימפיאדת הקיץ של 2020",
+        "output": "טוקיו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחוקה אוונסוויל אינדיאנה מאינדיאנפוליס אינדיאנה",
+        "output": "172.3 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה כמה תאי מוח יש במוח",
+        "output": "100000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה מכות הקפות מלאות בבייסבול למכללות",
+        "output": "פיט אינקביליה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הנקודה הגבוהה ביותר בניו מקסיקו",
+        "output": "מזכוכית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו הניקוד הגבוהה ביותר ב yahtzee",
+        "output": "1535.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "twin falls idaho מה האוכלוסייה של",
+        "output": "49202.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הסדר של סאגת דמדומים",
+        "output": "דמדומים 2: ירח חדש"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "breath of the wild  מתי יצא המשחק",
+        "output": "2017-03-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נבנתה הקשת בסט לואיס",
+        "output": "1963-02-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר",
+        "output": "מיק ג'אגר"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את אל תאשים אותי בזה",
+        "output": "קלווין האריס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא הסולן של the beautiful south",
+        "output": "פול היטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה מדליות זהב באולימפיאדה",
+        "output": "מייקל פלפס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שבני אנוש היו על הירח",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "band on the run מי שר את השיר",
+        "output": "פול מקרטני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "sling blade-מי הדמות הראשית ב",
+        "output": "קרל צ'ילדרס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה יעדי קריירה יש ל\"וויין גרצקי \"",
+        "output": "894.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו שמו של הר הגעש שהושמד בפומפיי",
+        "output": "וזוב"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הקודה הצפונית ביותר של ארצות הברית",
+        "output": "אנג'ל טוונשיפ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש את כמות העוקבים הגבוהה ביותר באינסטגרם",
+        "output": "כריסטיאנו רונאלדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ghost of christmas past מה היה השם של",
+        "output": "ג׳ייקוב מארלי "
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה רחוקה אוגוסטה שבג'ורג'יה מצפון קרולינה",
+        "output": "66.4 מיל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ביצע את השיר אתה לא יודע איך זה",
+        "output": "אקונולין קראש"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה גלונים של מים יש באגם מישיגן",
+        "output": "6000000000000000.0 גאלון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את האבא בניקי, ריקי, דיקי ודון",
+        "output": "בריאן סטפנק"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה היום ולילה שווים",
+        "output": "נקודת השיוויון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא בחום הלילה",
+        "output": "1988-03-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "you can ring my bell מי שר את השיר",
+        "output": "אניטה וורד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "this is us-מי האב ב",
+        "output": "טים מאתסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עמודים יש בספר הראשון של הארי פוטר",
+        "output": "223.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכה בפורמולה אחד גראנד prix האחרון",
+        "output": "לואיס המילטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את you'll always find me in the kitchen at parties",
+        "output": "ג'ונה לואי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יוצא העונה החדשה של הרשימה השחורה",
+        "output": "2019-01-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "האם ארצות הברית נמצאת בחצי הכדור הצפוני או הדרומי",
+        "output": "חצי הכדור הצפוני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נפתח הקזינו הראשון באטלנטיק סיטי",
+        "output": "1978-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה גיל השתייה החוקי בהולנד",
+        "output": "18.0 שנה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השיא לריצת מאה מטר",
+        "output": "9.58 שנייה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו הניקוד הגבוהה ביותר של jordan",
+        "output": "63.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את טום רידל הצעיר בהארי פוטר",
+        "output": "הירו פיינס-טיפין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי מחזיק רקורד הנקניקיות שנאכלו",
+        "output": "ג'ואי צ'סטנוט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הוא השחקן שמגלם את ג'קס בילדי האנרכיה",
+        "output": "צ'ארלי האנם"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "nba-למי יש את אחוז הקליעה הגבוה ביותר ב",
+        "output": "דיאנדרה ג'ורדן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר אני מוותר עלייך",
+        "output": "A Great Big World"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה עונות יש באחוזת דאונטון",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי קרה call me by your name",
+        "output": "איטליה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה homers ב MLB",
+        "output": "בארי בונדס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי האדם הראשון שעשה אנימציה",
+        "output": "אוסמו טזאקו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהו מונח הרפואי להזעת דם",
+        "output": "hematidrosis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נבנה גשר המפרץ במרילנד",
+        "output": "1952"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה השם של הקנגרו בכריסטופר רובין",
+        "output": "רו הקנגורו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא שומרי הגלקסיה",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי משכורתו של נשיא אמריקאי",
+        "output": "400000.0 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את המילים לשיר חסד מופלא",
+        "output": "ג'ון ניוטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה יוצרה חליםת החיים בז׳אק אנד קודי",
+        "output": "2005-03-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה הוא הנהר הגדול ביותר בארצות הברית",
+        "output": "מיסיסיפי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר  if he ever singles you up",
+        "output": "חורדן דייוויס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "יצא Disorderlies באיזה שנה הסרט",
+        "output": "1987-08-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בשנה שעברה fa מי ניצח בגמר גביע ה",
+        "output": "מנצ'סטר סיטי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את השיר בשנת 2525",
+        "output": "זאגר ואיוונס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי עושה את טד מרי באיך שפגשתי את אמא שלך",
+        "output": "אמא"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ניצחו את הוורלד סיריס rockies מתי הפעם האחרונה שה",
+        "output": "2012"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחק את  mike brady ב the brady bunch",
+        "output": "רוברט ריד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את this heart needs a second chance",
+        "output": ".38 Special"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה נקודות מקבלים בסטרייק של באולינג",
+        "output": "10.0 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי האוכלוסייה הנוכחית בעיר לוס אנג'לס",
+        "output": "4000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקה את מירנדה ביילי באנטומיה של גריי",
+        "output": "צ'נדרה וילסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את i can't fight this feeling",
+        "output": "REO Speedwagon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "thats the night the lights went out in georgia מי שר",
+        "output": "ויקי לורנס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר גוון בהיר יותר של חיוורון",
+        "output": "פרוקול הארום"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את גבוה על הר האהבה",
+        "output": "ג'וני ריברס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי אמריקה התערבה במלחמת וייטנאם",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר i can't live if living is without you",
+        "output": "הארי נילסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "שהוא הנשיא הוותיק ביותר שאי פעם היה לנו",
+        "output": "דונלד טראמפ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי היה המחבר העיקרי של הכרזת העצמאות",
+        "output": "תומאס ג'פרסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה יום הוא היום הראשון בשבוע",
+        "output": "יום ראשון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את have you seen the most beautiful girl in the world",
+        "output": "צ׳רלי ריץ׳"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "באיזה מחוז נמצאת רפיד סיטי שבדרום דקוטה",
+        "output": "מחוז פנינגטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ארה\"ב קיבלה עצמאות מבריטניה",
+        "output": "1776-07-04"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שכר המינימום הנוכחי בארה\"ב",
+        "output": "7.25 דולר אמריקני"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מה שם הקוף בסרט אלאדין",
+        "output": "אבו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נחתה אפולו 11 לראשונה על הירח",
+        "output": "1969-07-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילה את התיאוריה של הכל",
+        "output": "סטיבן הוקינג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזו מדינה יש את האוכלוסייה הגדולה ביותר באירופה",
+        "output": "רוסיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm in the corner watching you kiss her מי שר את",
+        "output": "קאלום סקוט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי ירדה ארצות הברית מהגולד סטנדרט",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא scars to your beautiful",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי יש הכי הרבה אליפויות ב- NBA",
+        "output": "ביל ראסל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "של מי הפנים על שטר ה100 דולר",
+        "output": "בנג'מין פרנקלין"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי השחקנים במהיר ועצבני 3",
+        "output": "סונג קאנג"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בעד עצם היום הזה felix  מי שיחק את",
+        "output": "פארקר קרופט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הברט הראשון של",
+        "output": "2001-06-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי משחקת את רג'ינה מילס בעד עצם היום הזה",
+        "output": "לאנה פרייה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילה את החוק שימור החומר",
+        "output": "אנטואן לבואזיה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי ידוע כצייר האור",
+        "output": "תומאס קינקדה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי העיר הכי גדולה בממלכה המאוחדת",
+        "output": "לונדון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהם המטרופולינים הגדולים ביותר בארצות הברית",
+        "output": "מטרופולין דאלאס-פורט וורת'-ארלינגטון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר build me up buttercup",
+        "output": "דה פאונדיישן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "כמה אותיות יש באלף-בית הדני",
+        "output": "29.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא עידן הקרח: מסלול התנגשות",
+        "output": "2016-06-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר working my way back to you babe",
+        "output": "הספינרים"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילם את צ'ארלי ב willy wonka and the chocolate factory",
+        "output": "פיטר אוסטרום"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי הבעלים של מלון פלאז'ה בעיר ניו יורק",
+        "output": "קטרה אירוח"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מיהו הבעלים אל הטאג׳ מאהל באטלנטיק סיטי",
+        "output": "הארד-רוק קפה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי כתב את ספרי התנ\"ך בברית החדשה",
+        "output": "פאולוס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "mlbמה השחקן הקצר ביותר ששיחק אי פעם ב",
+        "output": "אדי גאדל"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא תתעשר או תמות בדרך",
+        "output": "2003-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "למי שייך החוזה הגדול ביותר באן בי איי",
+        "output": "קווין דוראנט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מאיפה הגיע השיר you are my sunshine",
+        "output": "ארצות הברית"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את השיר blinded by the light",
+        "output": "מנפרד מן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה הולך להיות גמר ליגת האלופות",
+        "output": "מדריד"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ניצחו את הסופרבול cowboysמתי הייתה הפעם האחרונה שה",
+        "output": "1993-01-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את because the night belongs to lovers",
+        "output": "פטי סמית'"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "stacy's mom מתי יצא השיר",
+        "output": "2003"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "YouTube-למי יש הכי הרבה מנויים ב",
+        "output": "טי סיריז"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נוצר היצירה הראשונה של 50 סנט",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי נכתבה חוקת ארצות הברית",
+        "output": "1787"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי גילם את טרפר ג'ון בסדרת הטלוויזיה מאש",
+        "output": "וין רוג'רס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שיחקה את האמא בכולם אוהבים את ריימונד",
+        "output": "דוריס רוברטס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את get by with a little help from my friends",
+        "output": "דסטין תרנגול ההודו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "בכמה אליפויות עולם זכתה קבוצת כדורגל הנשים של ארצות הברית",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי פורטו-ריקו הפכה לחלק מארצות הברית",
+        "output": "1898"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "נגד מי ניצחו הקאבס בוורלד סיריס",
+        "output": "קליבלנד אינדיאנס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכו באליפות הבינלאומית בכדורסל נשים",
+        "output": "אוניברסיטת ביילור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי מהירות השיוט של בואינג 737",
+        "output": "564.0 מיל per hour"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי רוקט בשומרי הגלקסיה",
+        "output": "שון גאן"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי אמר להיות או לא להיות זו השאלה",
+        "output": "המלט"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את  it's just the way it is",
+        "output": "ברוס הורנסבי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכתה בשנה שעברה באליפות פוטבול מכללות",
+        "output": "פוטבול אריות קלמסון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה שחקנים גילמו את דמות ג'יימס בונד",
+        "output": "רוג'ר מור"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את can't take my eyes off of you",
+        "output": "פרנקי ואלי"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי זכתה בגביע העולם האחרון של הגברים בפיפא",
+        "output": "צרפת"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי הייתה הפעם האחרונה שהקליבלנד בראונס ניצחו משחק פלייאוף",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "cecilia you're breaking my heart מי שר",
+        "output": "The Vamps"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מתי יצא הקוסם מארץ עוץ",
+        "output": "1939-08-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי על עטיפת פיפא 17",
+        "output": "מרקו רויס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all in the family-מי שיחק גלוריה ב",
+        "output": "סאלי סטראתרס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איזה גנרל הפך קיסר של צרפת בעקבות המהפכה הצרפתית",
+        "output": "נפוליאון בונפרטה"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מי שר את שיר הנושא של הדיוקס קורעים את האזרד",
+        "output": "ויילון ג'נינגס"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "t חטיפי ממתקים שמתחילים באות",
+        "output": "טובלרון"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "מהי הפעם האחרונה בה bengals היו בפלייאוף",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "איפה צולם הסרט saddle the wind",
+        "output": "קולורדו"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "לאיזה דגל יש כוכב אחד ופסים אדומים ולבנים",
+        "output": "ליבריה"
+    }
+]

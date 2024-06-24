@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wird das Albany-Gebäude in Georgia vor dem in New York die Zahl von hunderttausend Einwohnern erreichen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Stammt die Sprache, die in St. Vincent und den Grenadinen gesprochen wird, aus dem Englischen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Gier die am weitesten verbreitete der sieben Todsünden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde die Spitze des Fuji aus dem Japanischen Meer ragen? ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Lil Jons bestplatzierter Billboard-Song eine Zusammenarbeit mit einem Mitglied von The Lox?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Miami eine Stadt an der amerikanischen Westküste?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann die Schweizergarde die Stühle der Generalversammlung von Virginia besetzen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat irgendein Land im portugiesischen Kolonialkrieg die gleiche Rolle gespielt wie die Schweiz im Zweiten Weltkrieg?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre ein Pikte durch Altenglisch verwirrt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Konnte Lil Wayne zu Beginn seiner Karriere legal alleine ein Fahrzeug führen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist es wahrscheinlich, dass man in Karatschi ein Kruzifix findet?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wurde jemandem beim Verkauf einer Creative-Commons-Lizenz für Botticellis „Die Geburt der Venus“ etwas vorgemacht?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnten zehn Gallonen Meerwasser ein sechsjähriges Kind erdrücken?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Leben in kälteren Gewässern mehr Sardellen als in wärmeren?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann man durch 3D-Druck Adenoviren herstellen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde George Fox Steinigungen unterstützen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Muss man Star Wars sehen, um zu wissen, wer Darth Vader ist?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann ein Computer vollständig in Boolescher Algebra programmiert werden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Christina Aguilera ihren Stuhl für Kelly Clarkson bei The Voice umgedreht?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätte Amy Winehouses Tod mit Narcan verhindert werden können?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Verfügt ein Mungo über eine natürliche Tarnung für die Wüste?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wenn jemand Buffalo Wings liebt, mag er dann Capsaicin?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Bruce Lee bei der Abschlussfeier der University of Washington 1964 nicht anwesend?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte Brooke Shields an der University of Pennsylvania erfolgreich sein?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Müssen die Studenten von Marist einen Antrag stellen, um eine Rudermannschaft zu bekommen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Passen hunderttausend Lolcats auf ein iPhone der ersten Generation?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Muss Rusev eine Überbevölkerung in seinem Heimatland befürchten?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ähnelt das Kleid von Prinzessin Peach einer Pfirsichfrucht?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind Psychiatriepatienten bei der United States Air Force willkommen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann ich Bing in einem Korb halten?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Verfügt die Zentraleinheit normalerweise über einen eigenen Lüfter?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann Cyril Ramaphosa NATO-Generalsekretär werden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Brooklyn für seine Brotprodukte bekannt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat die Royal Air Force im Boxeraufstand gekämpft?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat François Mitterrand unter Napoleon Bonaparte in der französischen Armee gedient?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Können Amöben Krebs bekommen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gibt es Cholera noch?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde jemand normalerweise eine Süßkartoffel mit einer Ananas verwechseln?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre es üblich, in Miami einen Pinguin zu finden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Können Tumore in den Lymphknoten ignoriert werden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Spiderman im MCU gegen Falcon gekämpft?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Shivas göttlicher Tanz eine alte Fitnesspose?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Treten Hyänen in einem Broadway-Musical auf?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde sich ein Nachtaffe über eine Erdbeere freuen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann eine Schlange einen M60 Patton verschlucken?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wären Avengers-Comics in einem DC-Comics-Laden fehl am Platz?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Passt New Jersey in den Persischen Golf?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Nicole Kidman aufgrund ihrer Größe und ihres Gewichts die ideale Wahl für die Rolle der Psylocke?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte Bernie Sanders das Metropolitan Museum of Art für unter zweihundert Dollar zwanzig Mal besuchen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann Planned Parenthood Ihrer Universität mitteilen, dass Sie mit dem Herpes-simplex-Virus infiziert sind?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde Achilles Legolas in einem hypothetischen Kampf dominieren?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Liegt Bukarest südlich von Ägypten?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann ein Stein in der Erdatmosphäre schweben?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wurden Nashörner getötet, um das Sexualleben der Menschen zu verbessern?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat ABBA eine ähnliche Geschlechterkonfiguration wie The Mamas &amp; The Papas?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätte sich die Autorin von „Little Women“ an die Ratifizierung des 13. Zusatzartikels erinnert?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist die Mehrheit der Reddit-Benutzer mit dem Treueschwur vertraut?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Schicken Kinder ihre Weihnachtsbriefe an den Südpol?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Waren Maroon 5 mit Nirvana auf Tour?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde Evander Holyfield bei seiner Rückkehr ins Boxgeschäft 2020 einen Altersrekord aufstellen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Post Malone Angst vor Nadeln?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Erlitt der US-Präsident während des Spanisch-Amerikanischen Krieges ein ähnliches Ende wie Abraham Lincoln?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Eva in eine inzestuöse Beziehung verwickelt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat der Rapper mit bürgerlichem Namen, Lil Wayne, mehr als das Vierfache von Waynes Grammy-Auszeichnungen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde Nickel im äußeren Erdkern kochen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Stammte Dorothea Wendling aus demselben Ort, an dem Porsche seinen Ursprung hatte?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann eine Operation eine existentielle Krise verhindern?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Al-Farabi ein Schüler des Großen Scheichs?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist es gefährlich, Chlor gemischt mit Natrium zu sich zu nehmen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hatten die Gründer des brasilianischen Jiu-Jitsu „Gracie“ zusammen mindestens ein Dutzend Kinder?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Mozart jemals etwas von Dolce &amp; Gabbana gekauft?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätte ein orthodoxer Presbyterianer etwas gegen die Richterkleidung des 18. Jahrhunderts einzuwenden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist „Lines on the Antiquity of Microbes“ kürzer als jedes Haiku?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Setzen sich die Regisseure von „Matrix“ für die Rechte von Transgendern ein?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde ein Nördlicher Seebär eine Fahrprüfung bestehen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Werden jedes Jahr mehr Leute bei Taco Bell ein- und ausgehen als bei Roy Rogers?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre es ungewöhnlich, im Roten Meer einen Gelbbarsch zu finden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde General Zod ein iPhone einem Samsung Galaxy S4 vorziehen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Konnten die Neandertaler rechnen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War das Tier in „Du bist ein guter Sport, Charlie Brown“ hypothetisch ein Jagdhund?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gehören irgendwelche Bücher von JK Rowling zum Genre „Und dann gab’s keines mehr“?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Jay-Z jemals mit Louis Armstrong zusammengearbeitet?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Werden Längen in Großbritannien in Metern gemessen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Christoph Kolumbus für ein anderes Land gesegelt als sein ursprüngliches Heimatland?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind blaue Lippen normal?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Litt Jon Brower Minnoch an Anorexia nervosa?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre Othello Shakespeares Stück, um Scheherazade die meiste Zeit mit dem König zu verschaffen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wurde Hillary Clintons stellvertretender Stabschef im Jahr 2009 getauft?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist ein Kasuar ein sichereres Haustier als ein Kranich?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnten Sie von Neuengland zu einem Sainsbury&#39;s fahren?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde PG Wodehouse in der zweiten Klasse unterrichtet werden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wird der Tabakkonsum in „Alice im Wunderland“ als angenehm dargestellt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann Simon Cowell den nächsten Richter am Obersten Gerichtshof wählen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätten alle aufgrund der Weltwirtschaftskrise von 1933 arbeitslosen Menschen ins Tiger Stadium gepasst?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann ein erwachsener Mann auf Donatellos bronzenem David stehen und die Decke der Sixtinischen Kapelle berühren?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War England direkt in den arabisch-israelischen Konflikt verwickelt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Haben Alice im Wunderland Macbeth inspiriert?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist der Asiatische Schwarzbär mehrfarbig?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind Piratenleutnants wie Marineleutnants?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sollte eine fertige Website Lorem-Ipsum-Absätze haben?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Leidet das Land in unmittelbarer Nähe von Biberdämmen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre es für Will Ferrell schwierig, den Empire Award als bester Newcomer zu gewinnen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Cynthia Powell eine silberne Hochzeit mit John Lennon gefeiert?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Al Pacino während des Zweiten Weltkriegs in einem Film mitgespielt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gehört die Gujarati-Schrift zur selben Schriftkategorie wie Kanji?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wurde Morris County nach einem obersten Richter benannt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann das Very Large Telescope den größten Berg der Erde beobachten?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Kuhmethan umweltfreundlicher als Autos?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Marokko ein idealer Ort zum Wasserskifahren?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte man mit einer Amazon-Aktie jemals ein zwanzigjähriges Netflix-Abonnement kaufen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gibt es dort, wo Nikola Tesla einst gearbeitet hat, Strahlung?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte Al Capone Werke der Harlem Renaissance gelesen haben?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würden Mitglieder von Blue Lives Matter jedes Element von Grand Theft Auto III unterstützen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Fällt Neujahr immer auf einen Mittwoch?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte eine Zeckennymphe durch einen normalen Locher passen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann ein Kunsthändler eine Boeing 737-800 mit einem Gemälde von Da Vinci kaufen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sollte Peter Griffin ein Experte im Brauhandwerk sein?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnten Sie mit einem Rowe 550 zu den Olympischen Sommerspielen 2008 fahren?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Amy Winehouse ein Fan von Star Wars: Rogue One?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Jesse W. Moore ein potenzieller Empfänger eines Snoopy-Preises der NASA?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Passt ein Honigdachs in einen Ofen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wird Spreu durch Wasserkraft erzeugt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Verdient die Frau von Paulo Coelho ihren Lebensunterhalt mit Reden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann ein Rettungsboot Menschen in der Hooke-See retten?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wird Fiat Chrysler mit japanischen Autos in Verbindung gebracht?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würden Hades und Osiris hypothetisch um Immobilien in der Unterwelt konkurrieren?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gibt es im Orange County, Kalifornien, geräuscharme Flugzeuge?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War der Parc des Princes im Juni 2020 voll in Betrieb?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist der Beruf im Einzelhandel für jeden geeignet?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde eine Explosion in einem Schießpulverlager eine Überschall-Stoßwelle auslösen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann man Chlor in einem Dollar-Shop kaufen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind Salzwasserkrokodile mit Alligatoren verwandt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre Persephone eine gute Beraterin für einen Landschaftsarchitekten?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätte die Besatzung von Apollo 15 Schwierigkeiten beim Einradfahren?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind zum Betrieb einer Fregatte Seile erforderlich?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Jason etwas mit Dr. Disrespect gemeinsam?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sollte ein Zöliakie-Patient Spaghetti meiden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Bevorzugen Koalas Eukalyptus gegenüber Fleisch?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde ein Bodybuilder einen Elchburger einem Rindfleischburger vorziehen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann man eine Münze durch ein Meer aus Quecksilber transportieren?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde Bugs Bunny in der realen Welt einem Olivenbaum Schaden zufügen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Rosenkohl besonders gut gegen Nebennierenschwäche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Spielt Family Guy an der amerikanischen Westküste?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann jemand in Uberlandia für Mitsubishi arbeiten?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre Hannah Nixon nach der Watergate-Affäre stolz auf Richard Nixon?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Konnte Eddie Murphy als kleines Kind im Auto die Notrufnummer 911 wählen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre Mount Wycheproof ein Kinderspiel für Edmund Hillary?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind die Farben der Flagge Gabuns im Regenbogen vorhanden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Leben Mollymawks dort, wo Albatrosse nicht leben können?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist zum Locken ein Lockenstab notwendig?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind Emus mit Elchen verwandt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde der Chefkoch im La Grenouille Salsa als eine seltsame Bitte empfinden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind System of a Down gegen die Globalisierung?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann jemand aus Neuengland vom Kaffeeanbau profitieren?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Werden beim Tischtennis Primzahlen verwendet?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist eine fünfjährige Mitgliedschaft bei Capital One Venture kostengünstiger als die Mitgliedschaft in der Church of Satan?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat es Beethoven Spaß gemacht, EDM zu hören?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Metallica ein vorsichtiger Mensch, was ihre Musik angeht?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Kelly Clarkson mehr Verkaufszahlen erzielt als der Gewinner der vierten Staffel von American Idol?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Haben Schwarzschwanz-Eselshasen Angst vor der europäischen Wildkatze?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Konnte Carl Friedrich Gauß mit jemandem sprechen, der 100 Meilen entfernt war?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Lionel Richie mit Sheila E verwandt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Verlangt die FDA Mindesthaltbarkeitsdaten in römischen Ziffern?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Haben Reisende auf dem Oregon Trail Seemannslieder gesungen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde es jemandem mit Leukophobie Freude bereiten, die Flagge der Vereinigten Staaten anzuschauen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Teri Hatcher bei Desperate Housewives doppelt so viele Folgen durchgehalten wie bei ihrer Superman-Show?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gibt es im menschlichen Körper mehr weiße Blutkörperchen als rote Blutkörperchen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War John George Bices Geburtsort in der Nähe von Cornwall?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Umfasst die Geschichte Europas das Zeitalter der Dinosaurier?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre Paul Bunyan hypothetisch eine schlechte Wahl für einen Stadtplaner?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind in der Atmosphäre des Mars alle Elemente vorhanden, die Pflanzen zur Photosynthese benötigen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Bill Nye für Franklin Delano Roosevelt gestimmt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wird die Verwendung des Wortes „Zigeuner“ durch Nicht-Roma als akzeptabel angesehen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Befand sich das Land Israel im 16. Jahrhundert im Besitz eines islamischen Reiches?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würden 7 Zucchini den täglichen Kaliumbedarf der USDA decken?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War das britische Auto, der Mini, das erste hergestellte Auto?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann Paprika ohne Dörrgerät hergestellt werden?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann eine Bengalkatze überleben, wenn sie nur Pfannkuchen frisst?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte ein Wanderalbatros ohne Pause von Bukarest nach New York City fliegen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Verkauft die New York Public Library Alpo-Produkte?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat ein ehemaliger UFC-Champion den gleichen zweiten Vornamen wie Tony Bennett?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätte eine Schwarze Witwe Verwendung für Pfirsiche?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Bekommen die Leute beim Burning Man häufiger einen Sonnenbrand als sonst?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Rahul Dravid jemals ein Field Goal geschossen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Studiert ein einzelner Ozeanograph viele Wissenschaften?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wurde die Superheldenliteratur im digitalen Format erfunden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Passen zwei neugeborene Amerikanische Schwarzbärjunge in ein Kingsize-Bett?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gibt es bei Aldi Rabatte auf Lebensmittel, weil sie abgelaufen sind?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind gemahlene Paprika die Hauptzutat von schwarzem Pfeffer?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wird durch die Einnahme von Ukemi die kinetische Energie gestoppt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist es schwierig, in Casablanca ein BLT zu bekommen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde der jährliche Niederschlag auf Snowdon einen aufrecht stehenden Bowlingkegel unter Wasser setzen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gab es unmittelbar vor oder nach Stanley Baldwin eine Frau als Premierministerin?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde ein Weißkopfseeadler vor der B-52 eine dringende Nachricht überbringen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Können Profiboxer mit niedrigen Zahnarztrechnungen rechnen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hatte Dr. Seuss ein Leben ohne Tragödien?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Mussten Jackson Pollocks Eltern als Kinder nicht den Treueschwur aufsagen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist San Diego County die Heimat eines Shamu?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist das Fliegende Spaghettimonster Teil eines antiken Pantheons?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Regiert Elisabeth II. über die Balearen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat der Fußballkrieg mindestens einen Monat gedauert?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Lorenzo de Medicis Förderer Da Vincis der einzige?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Nimmt im Islam jemand am letzten Abendmahl teil?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hätte eine Bengalkatze Angst davor, einen Fisch zu fangen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Benito Mussolini größere Schuhe getragen als Hafþór Björnsson?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde das Maskottchen von Bobby Jindals High School Trockenfutter essen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Befindet sich das Kapitol der Vereinigten Staaten in der Nähe des Weißen Hauses?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wäre es schwierig, Toilettenpapier zu bekommen, wenn es keine Holzfäller gäbe?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Wurde Iggy Pop nach seinem Vater benannt?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann präventive Gesundheitsfürsorge die Übertragung von STIs verringern?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Werden leblose Gegenstände in „Die Schöne und das Biest“ lebendig?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde Bandy in Texas wahrscheinlich populär werden?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist Grünkohl für das Knochenwachstum besser als Spinat?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist die Durchquerung des Amazonas zu Fuß lebensgefährlich?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gab es beim Original-Nintendo Spiele im gleichen Format wie bei der Playstation 3?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist die Fibonacci-Zahlenfolge länger als jede in Pi entdeckte Zahl?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Könnte jemand mit Keimphobie Judo machen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist der Herbst in den USA eine gute Zeit zum Sammeln von Bärenfellen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Gibt es Musikvideos von Pink, die bei Patienten mit Essstörungen Trigger auslösen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Al Unser Jr. das Wettrennen im Weltall gewonnen?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Ist World of Warcraft schwerer als ein Laib Brot?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Electronic Arts von den Metroid-Verkäufen profitiert?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Würde eine Kindergärtnerin eine Unterrichtsstunde über das Neue Testament halten?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hat Amy Winehouse live immer perfekte Auftritte gehabt?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind in einer Sardellenpizza Knochen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Kann man einen Basketball im Ohr einer Sandkatze verstecken?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Hatten der Vater und der Großvater von Iwan dem Schrecklichen schönere Spitznamen?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Sind Amöben vor Brustkrebs sicher?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: War Pi im China der 1980er Jahre eine akzeptable Kinderzahl?",
+        "output": "No"
+    }
+]

@@ -1,0 +1,5002 @@
+[
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ツインタワーが建てられるまでどの位の時間がかかりましたか",
+        "output": "11.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "love you like there's no tomorrowを歌っているのは誰か",
+        "output": "クリス・ヤング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スクリーム・クイーンズは何シーズンありますか",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レイカーズが最後に優勝決定戦に進出できたのはいつですか",
+        "output": "2013"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ストレンジャー・シングスは１シーズン何話ですか",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「 I hear you knocking」は誰が歌っていますか",
+        "output": "デイヴ・エドモンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テレビ番組のザ・ヴォイスを考案したのは誰ですか",
+        "output": "ジョン デ モル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "西部開拓時代の始まりと終わりはいつですか",
+        "output": "1865"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ラムズはいつスーパーボウルでプレーしましたか",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "oh, what a nightは誰の歌？",
+        "output": "フォー・シーズンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i want to be with you everywhereを歌ったのは誰ですか",
+        "output": "フリートウッド・マック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "jesus christ superstarでmary magdaleneを演じたのは誰",
+        "output": "イヴォンヌ・エリマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "聖書にあるThe Book of Lamentationsを書いたのは誰ですか",
+        "output": "エレミヤ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Instagramで最もフォロワーがある人は誰",
+        "output": "クリスティアーノ・ロナウド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The RoastはThe Officeのどのエピソードですか。",
+        "output": "「ストレス緩和」"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で一番ピスタチオを生産しているのは誰ですか",
+        "output": "イラン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アリゾナ・カージナルスのスタジアムの名前は",
+        "output": "ユニバーシティ・オブ・フェニックス・スタジアム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「愛はかげろうのように」を歌っているのは誰ですか？",
+        "output": "シャーリーン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロッキー山脈はいくつの州にまたがっていますか？",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "let's go all the wayは誰が歌った",
+        "output": "Sly Fox"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2015年のアメリカズ・ゴット・タレントの優勝者は誰ですか",
+        "output": "ポール・ザーディン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ガール・スカウトの年齢制限は？",
+        "output": "5.0 18.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スティーラーズが最後にパンサーズと戦ったのはいつ",
+        "output": "2019-08-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最後に共和党が一般投票で勝ったのはいつ？",
+        "output": "2004"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カブスが最後にワールドシリーズを制したのはいつだったでしょうか？",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "新しいポンド硬貨が発表されたのはいつか",
+        "output": "2017-03-28"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マイケル・ジョーダンがNBAに入団したのはいつ？",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "憲法が最後に改正されたのはいつ",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "雨に唄えばの登場人物は誰",
+        "output": "ドナルド・オコーナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "標準的な貨物車はどのくらいの長さですか",
+        "output": "55.0 67.0 フィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'll make a man out of youを歌ったのは誰ですか",
+        "output": "ダニー・オズモンド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トム・ブレイディはいつ最初のリングを獲得した",
+        "output": "2002"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "W杯が開かれる予定なのはどこですか",
+        "output": "カタール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Tweeniesに出てくるキャラクターたちの名前は何ですか",
+        "output": "ジュディ 虹の彼方に"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ブラック・パンサー」でブラック・パンサーを演じているのは誰？",
+        "output": "チャドウィック・ボーズマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "directvでcwは何チャンネル？",
+        "output": "385.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the amazing world of gumballはいつ終わるの？",
+        "output": "2019-06-24"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is love baby don't hurt meを歌ったのは誰ですか",
+        "output": "ホワット・イズ・ラブ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ食品医薬品局に認可されている全ての手指消毒剤に入っている有効成分は何ですか",
+        "output": "エタノール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"Genie in a Bottle\"が世に出たのは何時ですか？",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画戦場にかける橋で主演したのは誰か",
+        "output": "ウィリアム・ホールデン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "円卓の騎士たちの名前は？",
+        "output": "ガレス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "america has talentのホストは誰ですか",
+        "output": "サイモン・コーウェル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "lord it's hard to be humbleと歌っているのは誰",
+        "output": "マック・デイビス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "曲「テイク・ミー・トゥ・チャーチ」を歌ったのは誰？",
+        "output": "ホージア (アルバム)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画『ニード・フォー・スピード』はいつ公開されましたか",
+        "output": "2014-03-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Price Is Right のモデルは誰ですか",
+        "output": "メリッサ・オードウェイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰が南北戦争の北軍をリードしましたか",
+        "output": "エイブラハム・リンカーン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワンス・アポン・ア・タイムで白雪姫を演じたのは誰",
+        "output": "ジニファー・グッドウィン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "生存している最高齢の人は誰でしたか",
+        "output": "ジャンヌ・カルマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オーストラリアはクリケットのワールドカップで何回優勝しましたか",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オールウェイズ・ラヴ・ユーを最初に歌ったのはドリー・パートンですかそれともホイットニー・ヒューストンですか",
+        "output": "ポーター・ワゴナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ初の大統領の名前は？",
+        "output": "ジョージ・ワシントン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アニマル・ハウスに出てくる大学の名前は何",
+        "output": "フェイバー大学"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画バニシング in60の出演者は？",
+        "output": "アンジェリーナ・ジョリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コスビー・ショーは何シーズンありますか",
+        "output": "8.0 時節"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "第一回クリケット・ワールドカップはいつでしたか",
+        "output": "1975"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ギリシア神話のgod of the underworldは誰ですか",
+        "output": "ハーデース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ドント・スマイル・アット・ミーがリリースされたのはいつですか",
+        "output": "2017-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「メイベリー110番」でシャーリーン・ダーリンを演じていたのは誰ですか",
+        "output": "マギー・ピーターソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "クリケット西インド諸島代表のキャプテンは誰ですか",
+        "output": "ジェイソン・ホルダー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニュージーランドで最も大きな湖は？",
+        "output": "タウポ湖"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "戦場から生きのびてぼくは少年兵士だったの著者は誰ですか",
+        "output": "イシメール・ベア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカがベトナム戦争から撤退したのはいつ",
+        "output": "1973-03-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スーサイド・スクワッドでハーレイ・クインを演じたのは誰ですか",
+        "output": "マーゴット・ロビー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メイン州の人口は何人ですか",
+        "output": "1338000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "head of the classでtjを演じたのは誰",
+        "output": "ビリー・コノリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ガーディアンズ・オブ・ギャラクシー」でピーター・クィルを演じたのは誰ですか？",
+        "output": "クリス・プラット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "samsung galaxy s6 edgeはいつリリースされましたか",
+        "output": "2015-04-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "100 オトナになったらできないこと　キャスト",
+        "output": "ジャック・デ・セナ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "someone that i used to knowを歌っているのは誰ですか",
+        "output": "ゴティエ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1ウィスキー・バレルは何ガロンですか？",
+        "output": "53.0 ガロン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "独立戦争でアメリカはどこと戦いましたか？",
+        "output": "グレートブリテン島"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ベニーとジェッツ』はいつ発表されましたか",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "もっとも最近アメリカが赤字にならなかったのはいつ？",
+        "output": "1835-01-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "楽曲You're My Everythingを歌ったのは誰ですか",
+        "output": "サンタ・エスメラルダ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i love the nightlifeを歌ったのは誰ですか",
+        "output": "アリシア・ブリッジズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワールドシリーズで優勝したことがないチーム",
+        "output": "シアトル・マリナーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オルレアンの少女として知られているのは誰？",
+        "output": "ジャンヌ・ダルク"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1マイル4分の壁を初めて破ったのは誰？",
+        "output": "ロジャー・バニスター"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i've got spurs that jingle jangle jingleは誰の曲",
+        "output": "ジーン・オートリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ベトナム戦争の最初の戦いは何だったでしょう？",
+        "output": "イア・ドラン渓谷の戦い"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年のスーパーボウルでプレイした選手は誰？",
+        "output": "セントルイス・ラムズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカの現職の軍医総監は誰ですか。",
+        "output": "ジェローム・アダムズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画ブレードランナーでレイチェルを演じていたのは誰ですか？",
+        "output": "ショーン・ヤング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国で最も長い橋はどこにあるでしょう？",
+        "output": "ポンチャートレイン湖"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "父の日を思いついた人は誰",
+        "output": "ソノラ・スマート・ドッド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "苗字Guzmanの由来はどこですか。",
+        "output": "スペイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "please don't goという曲は誰が歌ったか",
+        "output": "KC&ザ・サンシャイン・バンド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1ゲームで最長ヤード記録保持ラッシャーは誰？",
+        "output": "エイドリアン・ピーターソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "古今東西もっとも裕福といわれる人は誰でしょう？",
+        "output": "マンサ・ムーサ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "youtubeで世界一視聴されているのは誰ですか。",
+        "output": "Tシリーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨーク市のタイムズスクエアはどこですか",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ポーカーのフルハウスはストレートよりも強いか",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ピッツバーグ・パイレーツの試合はどのラジオ局で放送されますか",
+        "output": "KDKA-FM"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トロント・ラプターズのコーチ",
+        "output": "ニック・ナース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "you were always on my mindという曲を書いたのは誰ですか",
+        "output": "ウェイン・カーソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジョン・ウィックを演じた俳優はだれ？",
+        "output": "キアヌ・リーブス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "take a look at me nowを歌っているのは誰か",
+        "output": "フィル・コリンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Back in the High Life Againを歌っているのは誰ですか。",
+        "output": "スティーヴ・ウィンウッド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「going to the chapel and we're gonna get married」の歌詞の歌を歌っている人は誰ですか。",
+        "output": "ディキシー・カップス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "星条旗は何から出来ている？",
+        "output": "ナイロン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "自由の女神像はどこから来ましたか",
+        "output": "リバティ島"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "come together right now over meは誰が歌った",
+        "output": "ビートルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Arrowで主人公を演じている俳優は誰？",
+        "output": "ケイティ・キャシディ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "大リーグの最高記録を持っているのは誰か",
+        "output": "ニューヨーク・ヤンキース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "now that we found love what are we gonna do with itを歌っていたのは誰ですか",
+        "output": "ヘヴィ・D"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "beauty and the beastでbelleの役を演じているのは誰？",
+        "output": "エマ・ワトソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "while my guitar gently weepsはいつに書かれたか",
+        "output": "1968"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "fox on the runの歌手は誰",
+        "output": "スウィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "10の10乗はいくつですか？",
+        "output": "10000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ノースリッジ地震のマグニチュードはいくつ",
+        "output": "6.7"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "bartender i really did it this timeという歌詞は誰の歌ですか",
+        "output": "Rehab"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アリゾナ州フェニックスの現在の人口は",
+        "output": "1626000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "史上最もグラミー賞を獲得した人は誰ですか",
+        "output": "ゲオルク・ショルティ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューメキシコ州アルバカーキの現在の人口は？",
+        "output": "558545.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "I Can See Clearly Nowの曲を歌ったのは誰ですか",
+        "output": "レイ・チャールズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "南アフリカの最初の大統領は誰か",
+        "output": "ネルソン・マンデラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "自由の女神像はいつ建てられましたか",
+        "output": "1875-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヒア・カムズ・ザ・サンはだれが作曲したか",
+        "output": "ジョージ・ハリスン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のカラー映画は何でしたか",
+        "output": "「With Our King and Queen Through India」"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "僕のヒーローアカデミアの第二シーズンはいくつエピソードがありますか",
+        "output": "25.0 エピソード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プレミアリーグの日程はいつ公開されますか",
+        "output": "2019-06-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「sugar pie honey bunch」を唄っているのは誰ですか",
+        "output": "フォー・トップス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ホール・オブ・フェイム・ゲームはどこで行われる",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "so you think you can danceの優勝賞金の金額は？",
+        "output": "250000.0 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "fly me to the moonの歌を歌っているのは誰？",
+        "output": "フランク・シナトラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "パワーレンジャー・ミスティックフォースはいつ公開された？",
+        "output": "2006-02-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAのチームはそれぞれ何試合行いますか？",
+        "output": "82.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「フィフティ・シェイズ・オブ・グレイ」の女性は誰？",
+        "output": "ダコタ・ジョンソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The cat in the hatで猫を演じたのは誰ですか。",
+        "output": "マイク・マイヤーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ファミリー・ガイのヴィニーの声を演じているのは誰",
+        "output": "トニー・シリコ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what doesn't kill you makes you strongerと歌っていたのは誰ですか",
+        "output": "ケリー・クラークソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最近５年間でワールドシリーズで優勝したのはどのチーム？",
+        "output": "ヒューストン・アストロズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Call of Duty: World at Warが発売されたのはいつですか。",
+        "output": "2008-11-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カントリーで最もナンバーワンヒットを記録したのは誰ですか",
+        "output": "ジョージ・ストレイト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what condition my condition was in を歌ったのは誰ですか",
+        "output": "ベティ・ラヴェット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ザット'70sショー」の母親役は誰？",
+        "output": "デブラ・ジョー・ラップ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サウスカロライナのすむたーの人口は何人ですか",
+        "output": "39982.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イリノイ州シカゴのゲイパレードはいつですか",
+        "output": "2019-06-30"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「美女と野獣」のガストン役は誰が演じた？",
+        "output": "ルーク・エヴァンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カトリック教会では義務の聖日は何日ありますか",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Wild thing, you make my heart sing!の歌手は誰ですか？",
+        "output": "ザ・トロッグス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "キャシーというハリケーンは今まであっただろうか？",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "雨を見たかいは誰の歌",
+        "output": "クリーデンス・クリアウォーター・リバイバル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界人権宣言が書かれたのはいつ？",
+        "output": "1948"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ストレンジャー・シングスはどこに撮影した",
+        "output": "アトランタ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "atlantic sun conferenceに入っているチームはどこ",
+        "output": "リバティー大学"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「you broke up with me」の曲は誰が書きましたか",
+        "output": "ウォーカー・ヘイズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨークで記録された最高気温は何度ですか",
+        "output": "108.0 ファーレンハイト度"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今議会で過半数を持っている党はどこ",
+        "output": "共和党"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゲティスバーグの戦いはどこで起こったのですか",
+        "output": "ペンシルベニア州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "シカゴ・カブスがワールドシリーズ優勝したのはいつ？",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "去年のプレミアリーグで抜擢されたのは誰ですか",
+        "output": "カーディフ・シティFC"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "英語にどの言葉は一番多い音節を持っていますか",
+        "output": "ニューモノウルトラマイクロスコーピックシリコヴォルケーノコニオシス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューメキシコの州都は？",
+        "output": "サンタフェ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "息を止める長さの世界記録保持者は誰？",
+        "output": "トム・ジータス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Guardians of the Galaxyに出てきた悪役は誰ですか。",
+        "output": "ロナン・ジ・アキューザー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アイルランド共和国はイギリスの一部ですか",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オンリー・フールズ・アンド・ホーセズが初めて放映されたのはいつ？",
+        "output": "1981-09-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ナダルがウィンブルドンで最後に優勝したのはいつですか",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "dog with a blogでaveryを演じるのは誰",
+        "output": "G・ハネリウス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "『きらきら星』の詩を書いたのは誰ですか？",
+        "output": "ジェーン・テーラー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "never met a girl like you beforeは誰の歌？",
+        "output": "エドウィン・コリンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Five Nights at Freddy'sが製作されたのはいつですか",
+        "output": "2014-08-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ブラックパンサーはいつ上映したか",
+        "output": "2018-02-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i walk the lineでジョニーキャッシュを演じたのは誰ですか。",
+        "output": "ホアキン・フェニックス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all i need is the air that i breatheを歌っているのは誰か",
+        "output": "ホリーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"Didn't I Blow Your Mind This Time\"と云う曲を歌ったのは誰ですか？",
+        "output": "デルフォニックス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャーリーとチョコレート工場はいつ公開された？",
+        "output": "2005-07-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トルコの飲酒年齢は何歳？",
+        "output": "18.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トムクルーズはロックオブエイジスで歌ったか",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゴルフの殿堂はどこにありますか？",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "美女と野獣がブロードウェイで公開されたのはいつですか",
+        "output": "1994-04-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画『キャプテン・アメリカ/ウィンター・ソルジャー』の映画の舞台になった場所はどこですか",
+        "output": "ワシントンD.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "これまでに記録された最高齢の人は誰ですか",
+        "output": "ジャンヌ・カルマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マトリックス映画のタイトルは",
+        "output": "マトリックス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トイ・ストーリーの犬の名前は",
+        "output": "スリンキー・ドッグ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで前回に起こった火山噴火は何でしたか",
+        "output": "2018"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰が『あなたはしっかり私のもの』（I've Got You Under My Skin）を書きましたか",
+        "output": "コール・ポーター"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メジャーリーグで一番長かった試合は何？",
+        "output": "最長のプロ野球試合"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヤンキースの最初の内野手は誰ですか",
+        "output": "エドウィン・エンカーナシオン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "月の上を歩いた最初の人は誰でしたか",
+        "output": "ニール・アームストロング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カリフォルニア州にはNFLのチームがどれ位ありますか？",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人類が月を歩いたのはいつですか",
+        "output": "七月 20, 1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国にはアイビーリーグの学校がいくつありますか",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "walk like a manという歌の歌手は誰ですか",
+        "output": "フランキー・ヴァリ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The EaglesのTake It to the Limitを作詞したのは誰ですか。",
+        "output": "ランディ・マイズナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "TVシリーズのキッチンが撮影されているのはどこですか？",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "現役nba選手で最高年齢の人は誰",
+        "output": "ヴィンス・カーター"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ガール・ミーツ・ワールドでuncle joshを演じているのは誰か",
+        "output": "ユリア・シェルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "地球の赤道における直径の長さを教えてください",
+        "output": "7917.5 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャーリー・シーンのハーパー☆ボーイズのチェルシー役はだれ",
+        "output": "ジェニファー・テイラー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ベトナム戦争で何人のアメリカ人の軍人が死にましたか",
+        "output": "58220.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"Neither a borrower or a lender be\"と言った人は誰？",
+        "output": "ポローニアス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i did it my way を最初に歌ったのは誰か",
+        "output": "フランク・シナトラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Jim Dandy to the rescueを歌ったのは誰",
+        "output": "ブラック・オーク・アーカンソー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で最大の店はどこにありますか。",
+        "output": "大韓民国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最高年俸のMLB野球選手は誰ですか",
+        "output": "マイク・トラウト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "悲しき天使を歌ったのは誰",
+        "output": "メリー・ホプキン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レイダース/失われたアークが公開されたのはいつか",
+        "output": "1981-06-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "一番最初にできたファーストフード店はどこですか",
+        "output": "マクドナルド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イギリスの義務教育が終わる年齢は何歳ですか",
+        "output": "18.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロード・オブ・ザ・リングでガンダルフを演じるのは誰",
+        "output": "イアン・マッケラン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "these boots were made for walkingを歌ったのは誰か",
+        "output": "ナンシー・シナトラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLでこれまで最年長選手は誰ですか。",
+        "output": "ジョージ・ブランダ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLで最大のジャンボトロンを有しているのは誰でしょうか？",
+        "output": "ヒューストン・テキサンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "デイズ・オブ・アワ・ライブスでウィル・ホールトン役は誰ですか",
+        "output": "ディラン・パットン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カリフォルニア州の上院議員は誰ですか。",
+        "output": "ダイアン・ファインスタイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ファースト・タイム・エバー・アイ・ソー・ユア・フェイス」を歌ったのは誰？",
+        "output": "ロバータ・フラック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "iphone 7の重量は？",
+        "output": "4.87 常用オンス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "DNA複製は細胞周期のどの段階で起こるのですか",
+        "output": "S期"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ザ・トゥナイト・ショー」のジョニー・カーソンは誰に交代しましたか",
+        "output": "ジェイ・レノ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "底が正方形のピラミッドの頂点はいくつありますか",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ストレンジャー・シングスのシーズン１が撮影されたのはいつですか。",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヤンキースが最後にワールドシリーズで優勝したのはいつですか？",
+        "output": "2009"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「地球が静止する日」の主演は誰？",
+        "output": "マイケル・レニー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ウキウキ・ウェイク・ミー・アップは誰の歌ですか。",
+        "output": "ワム!"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ネバダ州ラスベガスの高度は？",
+        "output": "610.0 メートル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "リバーデイルの新シーズンはいつ作る予定ですか",
+        "output": "2019-10-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アフリカ植民地化の原則はいつ制定されましたか",
+        "output": "1884"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニュー・ジャージー州のチェリー・ヒルは何処の国にありますか",
+        "output": "カムデン郡"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "赤十字の他の名前は何ですか",
+        "output": "赤十字社"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "去年のCollege Football Playoff National Championshipで優勝したのはどのチームですか",
+        "output": "アラバマ クリムゾンタイド アメリカンフットボールチーム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "fear and loathing in las vegasを書いたのは誰ですか。",
+        "output": "ハンター・S・トンプソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ペンサコラ，フロリダに近い空軍基地",
+        "output": "ペンサコーラ海軍航空基地"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "fred flintstones の妻の名前は何ですか",
+        "output": "ウィルマ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゴジラの第一作目の映画はいつリリースされた？",
+        "output": "1954-10-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBA史上最も多くの盗塁を成功させたのは誰",
+        "output": "ジョン・ストックトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Everybody Loves Raymondで妻役をやった人は誰ですか。",
+        "output": "パトリシア・ヒートン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつ物語の美女と野獣が発表されましたか",
+        "output": "1740"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「RED」の出演者は誰ですか。",
+        "output": "メアリー＝ルイーズ・パーカー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "合衆国にはいくつのウインド・タービンがあるか。",
+        "output": "57636.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スタートレックの新作の名称は何ですか？",
+        "output": "スター・ウォーズ/スカイウォーカーの夜明け"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "arms of an angelという歌は誰が書いたか",
+        "output": "サラ・マクラクラン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "these boots are made for walkingという曲は誰が歌ったか",
+        "output": "ナンシー・シナトラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ストレンジャー・シングス」でミリー・ボビー・ブラウンが演じたのは誰ですか",
+        "output": "イレブン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「アドベンチャータイム」でアイスキングを演じているのは誰ですか",
+        "output": "トム・ケニー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ダイヤモンドバックスがワールドシリーズで優勝したのはいつ？",
+        "output": "2001"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "クリーブランド・キャバリアーズのコーチ",
+        "output": "ジョン・ベイレイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "tainted loveという曲が発表されたのはいつか",
+        "output": "1981"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プレミアリーグでリバプールが最後に優勝したのはいつですか。",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プエルトリコを襲ったハリケーンの名前は何",
+        "output": "ハリケーン・マリア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国で最小の州はどれ",
+        "output": "ロードアイランド州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エベレストに登頂した最年長の人物は誰でしょう？",
+        "output": "三浦雄一郎"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アトランタ・ブレーブスが最後にワールドシリーズで勝利したのはいつですか",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レスター・シティがプレミアリーグで優勝したのはいつだったでしょうか？",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カナダでは何歳から飲酒できる？",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エルトン・ジョンがライオンキングのために作った曲は何",
+        "output": "サークル・オブ・ライフ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界長者番付の一位は誰ですか",
+        "output": "ジェフ・ベゾス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プレミアリーグの先のシーズンで降格となったのはどのチームでしょう？",
+        "output": "カーディフ・シティFC"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スコットランドはいつイギリスの一部になったか",
+        "output": "1707"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャンピオンリーグ史上最多ゴールを決めた選手は誰ですか。",
+        "output": "クリスティアーノ・ロナウド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "and now the rest of the storyといっていたのは誰",
+        "output": "ポール・ハーヴェイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エイント・ノー・サンシャインを歌ったのは誰ですか",
+        "output": "ビル・ウィザース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "MLBオールスターゲームの勝者はどこですか",
+        "output": "アメリカンリーグ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”my boyfriend's back”を歌っていたのは誰でしょう？",
+        "output": "エンジェルス (アメリカ合衆国のガール・グループ)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when you say nothing at all　を歌ったのは誰ですか？",
+        "output": "ローナン・キーティング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "史上最も多くのメダルを獲得した体操選手は誰ですか",
+        "output": "シモーン・バイルス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コロンビア川の源流と河口はどこですか",
+        "output": "コロンビア湖"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで一番大きな祭りは何ですか？",
+        "output": "ミネソタ州フェア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チップとデール、誰が赤い鼻ですか？",
+        "output": "デール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「続・猿の惑星」に出演したのは誰？",
+        "output": "チャールトン・ヘストン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フロリダディズニーの4つ世界とは何ですか",
+        "output": "マジック・キングダム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "お酒のショットは何オンス",
+        "output": "1.5 常用オンス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カントリー曲how do you like me nowを歌っているのは誰ですか",
+        "output": "トビー・キース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オレンジ・イズ・ニュー・ブラックが撮影されたのはどこですか",
+        "output": "ニューヨーク州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "何処で映画『分別と多感』は撮影されましたか",
+        "output": "デヴォン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画フィフティ・シェイズ・オブ・グレイは誰が出演してますか",
+        "output": "ジェニファー・イーリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アルゼンチンが初めてワールドカップで優勝したのはいつですか。",
+        "output": "1978"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界一サッカーチームで成功している人は誰ですか",
+        "output": "レアル・マドリード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2018年の労働者の日は何曜日？",
+        "output": "2018-09-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "that 70's showでpamを演じるのは誰ですか",
+        "output": "イブ・プラム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Sitting by the dock of the bayを歌ったのは誰ですか",
+        "output": "オーティス・レディング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コロラド・ロッキーズがワールドシリーズで勝ったのはいつか",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "現在のインドの国防大臣は誰",
+        "output": "ラージナート・シン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i can't get no satisfactionは誰の歌？",
+        "output": "ローリング・ストーンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰がcelebs go datingのナレーションをしましたか",
+        "output": "ロブベケット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハワイがアメリカ合衆国の州となったのはいつでしょう？",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フィフティ・シェイズ・オブ・グレイはいつ公開された？",
+        "output": "2015-02-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "chitty chitty bang bangが作られたのはいつ？",
+        "output": "1968-12-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Call Me the Breezeを書いたのは誰でしょう？",
+        "output": "J・J・ケイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Officeの番組はどこで撮影されてますか",
+        "output": "ペンシルベニア州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プリティ・リーグが撮影されたのはいつ",
+        "output": "1992-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "周期表のどの元素がもっとも高い融点を持つか",
+        "output": "炭素"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we don't need no educationを歌っているのは誰か",
+        "output": "ピンク・フロイド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "銃殺刑で殺された最後の人は誰か",
+        "output": "ロニー・リー・ガードナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカはいくつの憲法改正を有する",
+        "output": "27.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "everything i do i do for youという歌は誰の歌ですか",
+        "output": "ブライアン・アダムス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Stephen Curryは通算何得点挙げていますか？",
+        "output": "16315.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "あのすばらしき夜を歌う歌手はだれですか",
+        "output": "フォー・シーズンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アカミミガメはどこが原産地？",
+        "output": "メキシコ湾"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAでフリーエージェント制が始まったのはいつですか",
+        "output": "1988"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "diary of a wimpy kidに出演したのは誰",
+        "output": "ロバート・キャプロン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "don't stop thinking about tomorrowは誰の歌ですか？",
+        "output": "フリートウッド・マック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1979年のガス料金はいくらだったか",
+        "output": "0.86 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "月面を歩いた二人目の人は誰でしたか",
+        "output": "エドウィン・オルドリン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワールドシリーズで最も多く優勝しているのはどこ？",
+        "output": "ニューヨーク・ヤンキース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フォート・ノックスにはどれくらいの量の金がありますか",
+        "output": "147300000.0 常用オンス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ザット'70sショーのフェズはどこ出身ですか",
+        "output": "ホーム島"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ペルシャはいつ名前をイランに変更したのか。",
+        "output": "1935"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "if it's meant to beを歌っているのは誰ですか",
+        "output": "ビービー・レクシャ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レモニー・スニケットの世にも不幸なできごとシリーズでオラフ伯爵を演じているのは誰ですか",
+        "output": "ニール・パトリック・ハリス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジョージア州アトランタからアラバマ州モービルまでの距離はどれくらいですか",
+        "output": "328.1 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テキサス州ウェイこからダラスまで何マイル離れているか",
+        "output": "95.0 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トゥー・メイク・ユー・フィール・マイラブを歌っているのは誰ですか",
+        "output": "アデル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Too much time on my handsを歌ったのは誰ですか。",
+        "output": "スティクス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Michael JordanはいくつのNBAタイトルを獲得しましたか",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we all live in a yellow submarineという歌を歌ったのは誰ですか？",
+        "output": "ビートルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テキサス州corpus christiからaustinまでの距離はどのくらい？",
+        "output": "216.9 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レーナード・スキナードがスウィート・ホーム・アラバマを発表したのはいつですか？",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イーライ・マニングは今でもジャイアンツのクォーターバックですか",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "let sleeping dogs lieという言い回しは誰が考えたのか",
+        "output": "ジェフリー・チョーサー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "夕映えの恋人たちを書いたのは誰ですか",
+        "output": "マイク・リード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "リバプールが最後に優勝したのはいつ",
+        "output": "2019"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ベルエアのフレッシュ・プリンスで主役を演じるのは誰か",
+        "output": "タチアナ・アリ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "地球上で記録されている最高温度は？",
+        "output": "134.1 ファーレンハイト度"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フランスでギロチンが最後に使われたのはいつ",
+        "output": "1981-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメイジング・スパイダーマンのピーター･パーカーは誰が演じた？",
+        "output": "アンドリュー・ガーフィールド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ウェルズのブルーバニーアイスクリームはどこで作っているの？",
+        "output": "プリマス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カーダシアン家のお騒がせセレブライフはいつから放送していますか",
+        "output": "2007-10-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Kobe BryantはいくつのNBAタイトルを持っていますか",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i never promised you a rose gardenを歌っているのは誰か",
+        "output": "リン・アンダーソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アブラハム、マーティン・アンド・ジョンを歌ったのは誰ですか",
+        "output": "ミラクルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゼルダの伝説が最初にリリースされたのはいつだったでしょう？",
+        "output": "1986-02-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サンディエゴはメキシコのティフアナからどれくらい離れていますか",
+        "output": "31.9 キロメートル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マフィアのボスは何と呼ばれますか",
+        "output": "ボス (犯罪者)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ウォッカボトル一本には何オンス入っていますか。",
+        "output": "59.2 常用オンス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”Barbie Life in the Dreamhouse”はいつ公開されたでしょう？",
+        "output": "2012-05-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"I fought the law and the law won\"という歌詞の歌は誰が歌っていますか？",
+        "output": "ザ・クラッシュ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨークのツインタワーが建設されたのはいつですか",
+        "output": "2006-04-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オズの魔法使でブリキの木こりを演じたのは誰ですか",
+        "output": "ジャック・ヘイリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「i wear my sunglasses at night」という歌詞の歌を歌ったのは誰ですか。",
+        "output": "コリー・ハート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スティーラーズが最後にスーパーボウルに出たのはいつですか",
+        "output": "2011-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "王様と私の映画は誰が主演していますか",
+        "output": "リタ・モレノ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "独立宣言が最初に宣言されたのはいつ？",
+        "output": "1776-08-02"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「フェリスはある朝突然に」の舞台はどこ？",
+        "output": "シカゴ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で最も正確な時計はどこにありますか",
+        "output": "北アメリカ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のジョーズが公開されたのはいつですか？",
+        "output": "1975-06-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "you can leave your hat onの歌を書いたのは誰？",
+        "output": "ランディ・ニューマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLのロスターにはどれだけ多くのプレイヤーがいるか",
+        "output": "53.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ノーズダコタ州willistonの人口は？",
+        "output": "25586.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "大天使の名前は何ですか",
+        "output": "ガブリエル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オズの魔法使の映画を全部教えてください",
+        "output": "オズの魔法使い (1982年の映画)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国大統領で最後に暗殺されたのは誰ですか",
+        "output": "ジョン・F・ケネディ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "wheat pennyの製造はいつ終わりましたか",
+        "output": "1958"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "MGMグランドがラスベガスに立建てられたのはいつですか。",
+        "output": "1993-12-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "パドレスがワールドシリーズを制したのはいつ？",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スーパーボウルのプレーオフで勝ったのはどこ",
+        "output": "ニューイングランド・ペイトリオッツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フィラデルフィア・フィリーズがワールドシリーズで優勝したのはいつですか",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "クリーブランド・ブラウンズはスーパーボウルで勝ったのか？",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "BTSのメンバーの名前は",
+        "output": "J-Hope"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰がアメリカの実際の最初の大統領でしたか",
+        "output": "ジョージ・ワシントン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イギリスがEUに加盟したのはいつ？",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ホール・ニュー・ワールドはどの映画の曲ですか",
+        "output": "アラジン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "AllStateのコマーシャルに出ている俳優は誰ですか",
+        "output": "デニス・ヘイスバート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "シャーロット，ノース・カロライナ州からチャールストン，サウス・カロライナ州までの距離は",
+        "output": "209.5 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フロリダのパームベイの人口はどれくらい",
+        "output": "114194.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2024年のオリンピックはどこで開催される？",
+        "output": "フランス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最後に人類が月を歩いたのはいつ？",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワシントンD.C.は50州の一つ？",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "amy what you wanna doの歌手は誰ですか",
+        "output": "ピュア・プレイリー・リーグ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the blackhawksはいつスタンリーカップで優勝しましたか",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ブレージングサドルの黒人保安官は誰ですか？",
+        "output": "クリーヴォン・リトル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で一番背の高い人類は誰ですか？",
+        "output": "ロバート・ワドロー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミネソタバイキングはいつ最初のゲームをしますか",
+        "output": "1961-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ボクシングの１ラウンドは何分？",
+        "output": "3.0 分"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all i want for christmas is youを歌っているのは誰ですか",
+        "output": "マライア・キャリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アイ・シンク・イッツ・ゴーイング・トゥ・レイン・トゥデイを歌ったのは誰",
+        "output": "ランディ・ニューマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"America's Got Talent\" の審査員は誰ですか。",
+        "output": "サイモン・コーウェル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2017年のNBAの新人賞を獲得したのは誰ですか？",
+        "output": "マルコム・ブログドン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハリー・ポッターシリーズの総ページ数は",
+        "output": "3407.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the land of stories book 1のページ数は何ページ？",
+        "output": "438.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ピース・オブ・エイト」の価値は？",
+        "output": "50.0 2000.0 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1ドル紙幣に印刷されている人物は誰ですか。",
+        "output": "ジョージ・ワシントン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "インドのこどもの日はいつ",
+        "output": "11-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "splish splash i was taking a bathを歌ったのは誰",
+        "output": "ボビー・ダーリン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "これまでのアメリカの大統領は何人いましたか",
+        "output": "45.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エリザベス女王はいくつの時女王に即位した？",
+        "output": "27.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i got the moves like jaggerの歌を歌っているのは誰ですか。",
+        "output": "マルーン5"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Land of Hope and Gloryを作詞したのは誰ですか",
+        "output": "エドワード・エルガー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when will i be lovedは誰の曲",
+        "output": "リンダ・ロンシュタット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the bluest skies are in seattleを歌ったのは誰ですか",
+        "output": "ペリー・コモ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コルツはスーパー・ボールで誰がプレーしたか。",
+        "output": "ニューヨーク・ジェッツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "進撃の巨人のシーズン２は何話あるか",
+        "output": "12.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "｢ホートン/ふしぎな世界のダレダーレ｣で誰がホートンを演じていますか",
+        "output": "ジム・キャリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ベルエアのフレッシュ・プリンス」はいつ作られたか",
+        "output": "1990-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「誰がために鐘は鳴る」の著者は誰ですか。",
+        "output": "アーネスト・ヘミングウェイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAで誰が一番テクニカルファウルをもらった？",
+        "output": "ラシード・ウォーレス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Canned Heatのオリジナルメンバーは誰ですか。",
+        "output": "ラリー・テイラー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "take this job and shove itの作詞を書いたのは誰ですか。",
+        "output": "デイヴィッド・アラン・コー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "朝日のあたる家という曲を作ったのは誰ですか",
+        "output": "ジョージア・ターナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "キリスト教共同体が最初に英国に現れたのはいつでしょう？",
+        "output": "1世紀"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Red River Rivalryはどこで開催されますか",
+        "output": "ダラス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "昨年のツール・ド・フランス優勝者は誰でしょう？",
+        "output": "エガン・ベルナル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "a wrinkle in timeはいつ執筆された",
+        "output": "1960"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the house of the rising sunを最初に歌ったのは誰ですか？",
+        "output": "アニマルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "愛を感じてを歌ったのは誰",
+        "output": "ネイサン・レイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジェームズ・ボンドを演じた俳優は誰ですか",
+        "output": "ピアース・ブロスナン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "finally it's happened to meは誰の歌？",
+        "output": "シーシー・ペニストン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "五大湖のそれぞれの名前は何ですか",
+        "output": "ミシガン湖"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニュージャージー州のエリアコードは何ですか。",
+        "output": "609.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "昨年のホットドッグ早食い選手権で優勝したのは誰ですか。",
+        "output": "ジョーイ・チェスナット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プリンセスと魔法のキスでティアナの声を演じたのは誰",
+        "output": "アニカ・ノニ・ローズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "太陽系にいくつの惑星がありますか",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サウスウエスト航空の主なハブは何ですか",
+        "output": "シカゴ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「サウンドオブミュージック」が公開されたのは何年ですか。",
+        "output": "1965"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画”スノーホワイト”が公開されたのはいつでしょう？",
+        "output": "1937"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "地球の最も低い場所はどこですか",
+        "output": "死海"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミシガン大がオハイオ州立大を破ってから何日経ちましたか？",
+        "output": "2892.0 日"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のエクソシストの映画が公開されたのはいつか",
+        "output": "1973-12-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm coming homeを歌っているのは誰でしょう？",
+        "output": "ディディ-ダーティ・マネー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ライオンキングはいつ公開されましたか？",
+        "output": "2019-07-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジニー・ウィーズリーを演じている女優は誰？",
+        "output": "ボニー・ライト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨーク市にはいくつ公園がある？",
+        "output": "1700.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカの平均給与はいくらですか",
+        "output": "56516.0 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "HEY!レイモンドで母親役を演じた女優は誰ですか",
+        "output": "ドリス・ロバーツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コリンズという名字の由来はどこにありますか",
+        "output": "アイルランド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "怪盗グルーに出てくる子供達の名前は何？",
+        "output": "イーディス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”It's Been Awhile”を歌っていたのは誰でしょう？",
+        "output": "ステインド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年のフランスオープンテニスの優勝者は誰ですか。",
+        "output": "ラファエル・ナダル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Friday the 13thというゲームが発売されたのはいつですか。",
+        "output": "2017-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初の最高裁裁判長は誰だったか",
+        "output": "ジョン・ジェイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "hooked on a feelingのオリジナル曲は誰が歌っていましたか",
+        "output": "B・J・トーマス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1981年に最も流行った歌は何でしたか",
+        "output": "ベティ・デイビスの瞳"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "longmireでmathiasを演じているのは誰",
+        "output": "ザーン・マクラーノン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フロリダ先端の島々のなかでセブンマイルブリッジはどこにある？",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "red red wineのオリジナル版を歌っていたのは誰ですか",
+        "output": "ニール・ダイアモンド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつに生まれたらミレニアル世代に該当するか",
+        "output": "1981-1996"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で最もインスタグラムのフォロワー数が多いのは誰？",
+        "output": "クリスティアーノ・ロナウド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"理由なき反抗\"はいつ公開されましたか。",
+        "output": "1955"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マンチェスターユナイテッドが最後にチャンピオンリーグで優勝したのはいつですか。",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「カッコーの巣の上で」のビリー役は誰？",
+        "output": "ブラッド・ドゥーリフ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we're not gonna take itを歌ったのは誰？",
+        "output": "トゥイステッド・シスター"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "南米で２番目に大きな国はどこですか",
+        "output": "アルゼンチン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"The Westing Game\"は何章ありますか。",
+        "output": "30.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハドソン川の奇跡はいつおきたのですか",
+        "output": "2009-01-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLで一番多く勝ったのはどのチームですか",
+        "output": "シカゴ・ベアーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "全米プロゴルフ選手権で優勝した最年長ゴルファーは誰ですか",
+        "output": "サム・スニード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メジャーリーグ史上ゴールドグラブ賞を最多獲得しているのは誰か",
+        "output": "グレッグ・マダックス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ノース・ダコタ州ファーゴの人口は",
+        "output": "122359.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "here we go again on my ownを歌っているのは誰ですか",
+        "output": "白蛇の紋章〜サーペンス・アルバス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2011 American League Batting Leadersでバッティングの最高平均記録を出したのは誰ですか",
+        "output": "ミゲル・カブレラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカアカシカはアメリカ合衆国のどこに生息していますか。",
+        "output": "アイダホ州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Price Is Rightの元々の司会者は誰",
+        "output": "ビル・カレン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "細胞分裂と細胞補充を行う表皮は何？",
+        "output": "基底層"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューメキシコ州、roswellの高度は何？",
+        "output": "3573.0 フィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2020年に民主党選挙に立候補するのは誰ですか",
+        "output": "ジョー・バイデン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ストレンジャー・シングスのキャラクターの名前は？",
+        "output": "ダスティン・ヘンダーソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "次のマーベル映画はいつ出る？",
+        "output": "2019-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コリントの信徒への手紙という本は誰が書きましたか",
+        "output": "パウロ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "guns and rosesの初代ドラマ―は誰ですか",
+        "output": "スティーヴン・アドラー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1970年のアメリカ合衆国の人口はどれくらいですか。",
+        "output": "203200000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Alpha Chi Omegaの特色は？",
+        "output": "オリーブ色"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "雨に唄えばの劇中歌を作ったのは誰",
+        "output": "アーサー・フリード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "過去最高の興行収入を記録した映画は何ですか。",
+        "output": "アベンジャーズ・エンドゲーム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジェームズ・ボンドを演じる俳優は誰？",
+        "output": "ロジャー・ムーア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アラブ首長国連邦の首都はどこ？",
+        "output": "アブダビ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the monkeesの歌valerieでギターを弾いているのはだれ？",
+        "output": "ルイ シェルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ザ・ラスト・オブ・アスでエリーを演じたのは誰",
+        "output": "アシュレー・ジョンソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「シカゴ P.D.」は何シーズンあるでしょう",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "次のワールド・カップはいつですか",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "タンパベイ・バッカニアーズのオフェンスコーディネーターは誰ですか？",
+        "output": "バイロン・レフトウィッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで最後に銃殺刑で処刑された人は誰ですか。",
+        "output": "ロニー・リー・ガードナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゲーム・オブ・スローンズのシーズン6が撮影されたのはどこ",
+        "output": "クロアチア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "トイ・ストーリーでトム・ハンクスが演じた役は何ですか",
+        "output": "ウッディ・プライド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "MLBで出塁率最高なのはだれ？",
+        "output": "テッド・ウィリアムズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカがベトナムに宣戦布告したのはいつ",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで一番大きい空港はどれですか",
+        "output": "ハーツフィールド・ジャクソン・アトランタ国際空港"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Don't Be Afraid of the Darkを歌っているのは誰か",
+        "output": "ロバート・クレイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”we have not yet begun to fight”とは誰の言葉だったでしょう？",
+        "output": "ジョン・ポール・ジョーンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we are never getting back togetherを歌っているのは誰ですか",
+        "output": "テイラー・スウィフト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "電気のクリスマスツリーライトが最初につかわれたのはいつですか。",
+        "output": "1882"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2014年にスーパーボウルでプレーした選手はだれですか",
+        "output": "シアトル・シーホークス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カリフォルニア州のパロアルトの気温は何度ですか",
+        "output": "69.0 ファーレンハイト度"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人生はサクランボをお椀一杯に盛ったような楽しいものと言ったのは誰ですか？",
+        "output": "ルー・ブラウン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "インドの第4首相は誰ですか",
+        "output": "モラルジー・デーサーイー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "EUに属している国はどこですか。",
+        "output": "ドイツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国で人口の最も多い３つの州はどこですか",
+        "output": "フロリダ州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "太平洋標準時と山岳部標準時の違いは何時間ですか",
+        "output": "1.0 1時間"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "連合規約の下で各州は何票獲得していますか",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワールドカップのイングラド代表チームの選手は誰ですか。",
+        "output": "トンガ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "デイズ・オブ・アワ・ライブスが公開されたのはいつか",
+        "output": "1965-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカの最も落差の大きい滝はどこ？",
+        "output": "オロウペナの滝"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サンアンドレアス断層はどこに位置しているでしょうか？",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”わが家は11人”は何話放映されているでしょう？",
+        "output": "221.0 エピソード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "デトロイト・タイガースがワールドシリーズを制したのはいつ",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マンチェスター・シティ・フットボール・クラブはいつプレミアリーグに昇格したか",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コロラド州のパイクスピークの標高は？",
+        "output": "4302.0 メートル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "キャプテン・アメリカ/ザ・ファースト・アベンジャーの公開日はいつ",
+        "output": "2011-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Streets of San Franciscoには誰が出ていましたか。",
+        "output": "リチャード・ハッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初にタッチスパネル電話が発表されたのはいつですか",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Wonderful Wizard of Oz に登場するWicked Witch of the Westの名前は何ですか。",
+        "output": "エルファバ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニュージーランドはいつイギリスの植民地になりましたか",
+        "output": "1840"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハリー・ポッターと呪いの子はいつブロードウェイで上演された？",
+        "output": "2018-04-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "シンデレラの物語の舞台はどこ？",
+        "output": "フランス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロックバンド・パールジャムのリードボーカルは誰ですか？",
+        "output": "エディ・ヴェダー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューイングランド・ペイトリオッツ地区には誰が属していますか",
+        "output": "ニューヨーク・ジェッツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "シンシナティ・ベンガルズのクォーターバックは誰？",
+        "output": "アンディ・ダルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イングランドは何回ワールドカップで優勝したことがあるのですか。",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アイ・キャント・リーブ・ウィズアウト・ユーの曲を歌っているのは誰ですか",
+        "output": "ハリー・ニルソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ボストン・ブルーインズが前回カップを優勝したのはいつですか",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ツールドフランスのステージを一番勝ったことのある人は誰ですか。",
+        "output": "エディ・メルクス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what a tangled web we weaveという文章を書いたのは誰ですか",
+        "output": "ウォルター・スコット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "バタフライ効果理論を思いついたのは誰ですか",
+        "output": "エドワード・ローレンツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ブラック・ミラーのシャットアップとダンスはどこで撮影されたのですか",
+        "output": "イギリス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハワイは北アメリカ大陸の一部ですか。",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "絶滅危惧リストに載っている動物は何",
+        "output": "アムールヒョウ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "１９８５年のツール・ド・フランス勝者は",
+        "output": "ベルナール・イノー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カリフォルニア州には原子力発電所がいくつありますか？",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ShaqはNBAの幾つのチームでプレイしましたか？",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ウォーキング・デッド」のハーシェルはどのシーズンで命を落としますか？",
+        "output": "9.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "前回のFIFA女子ワールドカップはどこが優勝しましたか",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "きかんしゃトーマスの機関車たちの名前は？",
+        "output": "エミリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "パキスタンがワールドカップで最後に優勝したのはいつ",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "robloxの製作者の名前は何か",
+        "output": "エリック キャセル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ラスベガスでの銃乱射事件はどこのホテルでありましたか",
+        "output": "マンダレイ・ベイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ビッグ・リボウスキ」には誰が出演していますか",
+        "output": "スティーヴ・ブシェミ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プリティ・プリンセスで意地悪な娘を演じていたのは誰",
+        "output": "マンディ・ムーア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "きみに読む物語はどこに設定したか",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつ白黒テレビが出ましたか",
+        "output": "1936"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ライオンキングのキャラクターを演じたのは誰ですか。",
+        "output": "キウェテル・イジョフォー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "バイキングスの先発クォーターバックは誰ですか？",
+        "output": "カーク・カズンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "１リットルは何ミリリットル？",
+        "output": "1000.0 ミリリットル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "two and a half menでローズを演じているのは誰",
+        "output": "メラニー・リンスキー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジ・アート・オブ・レーシング・イン・ザ・レインの著者は誰ですか",
+        "output": "ガース ステイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャンピオンズリーグの次のシーズンはいつ始まる？",
+        "output": "2019-10-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "去年のチャンピオンズリーグ決勝で勝ったのはだれですか",
+        "output": "リヴァプールFC"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワールドトレードセンターが最初に建設されたのはいつ？",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Straight From The Heartという歌を歌っているのは誰ですか",
+        "output": "ブライアン・アダムス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年の男子ウィンブルドン決勝を制した選手は誰ですか。",
+        "output": "ノバク・ジョコビッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フィリピンの飲酒年齢は何歳ですか",
+        "output": "18.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカでハリケーンの季節が来るのはいつ？",
+        "output": "06-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カーズで黄色い車の名前は何か",
+        "output": "クルーズ・ラミレス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰がNBAで最も得点獲得をしましたか",
+        "output": "カリーム・アブドゥル＝ジャバー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人間一人の体の骨は全部で何本？",
+        "output": "206.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヒックとドラゴンの本はそこに何冊ありますか",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マクドナルドの最初の店舗はどこ？",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ライオンと魔女」が最初に出版されたのはいつでしょう",
+        "output": "1950-10-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フィフティ・シェイズ・オブ・グレイでアナスタシア・スティールを演じているのは誰か",
+        "output": "ダコタ・ジョンソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ドクター・ストレンジ役の俳優は誰",
+        "output": "ベネディクト・カンバーバッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "クリーブランド・キャバリアーズコのヘッドコーチは誰",
+        "output": "ジョン・ベイレイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつラムズがスーパーボウルで優勝しましたか",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨーク初の私立孤児院を設立したのは誰？",
+        "output": "アレクサンダー・ハミルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "it's not over till the fat lady singsということわざの由来は",
+        "output": "デイン・クック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "銃殺刑による直近の死はいつだったか",
+        "output": "2010-06-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "魚しか食べない人を何と呼ぶ",
+        "output": "ペスカタリアニズム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国本土で最大の都市はどこですか",
+        "output": "ジャクソンビル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ブルース・リーの物語ドラゴンの主演は誰？",
+        "output": "ジェイソン・スコット・リー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ガーディアンズ・オブ・ギャラクシーが公開されたのはいつですか",
+        "output": "2014-08-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国上院の期間を教えてください",
+        "output": "6.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハワイは州になる前は何だった？",
+        "output": "界"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”リック・アンド・モーティ”の中でリックとモーティの声を演じているのは誰でしょう？",
+        "output": "ジャスティン・ロイランド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "戦う幌馬車のロケ地は",
+        "output": "メキシコ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エベレストの今の高さは",
+        "output": "8848.0 メートル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "『ザ・ヴォイス』シーズンで誰が最も勝っていますか",
+        "output": "ブレイク・シェルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テレビシリーズ『ハルク』は誰が演じましたか",
+        "output": "ビル・ビクスビー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i want to know your nameを歌ったのは誰",
+        "output": "ザ・ウィスパーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "リトルマーメイドの声優は",
+        "output": "ジョディ・ベンソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i saw the signを歌ったのは誰",
+        "output": "エイス・オブ・ベイス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2002年のMLBワールドシリーズの優勝者はどこのチームでしょう？",
+        "output": "ロサンゼルス・エンゼルス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "一番最初の「１３日の金曜日」が上映されたのはいつですか",
+        "output": "1980-01-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLで一番背が高いひとは誰ですか",
+        "output": "リチャードスライ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "がいし引き配線が使われなくなったのはいつですか",
+        "output": "1940"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "大陸地殻の密度は？",
+        "output": "2.833 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "塔の上のラプンツェルに出てくるカメレオンの名前は何ですか",
+        "output": "パスカル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アイオワ州des moinesからwaterlooまでの距離は？",
+        "output": "128.7 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "シアトル・スーパーソニックスがオクラホマシティに移転したのはいつ？",
+        "output": "2008–09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "朝鮮戦争の開戦と終戦はいつですか",
+        "output": "1950-06-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"Loving you is easy cause you're beautiful\"という歌を歌っているのは誰ですか？",
+        "output": "ミニー・リパートン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Big ChillでCorpseを演じたのは誰？",
+        "output": "ケビン・コスナー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スーパーボウルのトロフィーは誰にちなんで名付けられた",
+        "output": "ヴィンス・ロンバルディ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "do you think you're better off aloneは誰が歌っている？",
+        "output": "アリス・DJ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミネソタ・ツインズで最もヒットを打ったのは誰ですか",
+        "output": "サム・ライス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アフリカ大陸にはいくつの国がありますか",
+        "output": "54.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で最も知的な鳥は何ですか",
+        "output": "ミヤマオウム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロード・オブ・ザ・リングのボロミア役は誰",
+        "output": "ショーン・ビーン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i say a little prayer for youを歌ったのは誰？",
+        "output": "ディオンヌ・ワーウィック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ローズ家の戦争は誰が出演していましたか",
+        "output": "マリアンネ・ゼーゲブレヒト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ケビン・デュラントはウォリアーズの前にどこのチームに所属していましたか",
+        "output": "オクラホマシティ・サンダー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年のゴルフ全米オープンで優勝した選手は誰ですか。",
+        "output": "ゲーリー・ウッドランド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "国際男性デーといったようなものはありますか",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the loveを最初に歌ったのは誰ですか",
+        "output": "ロバータ・フラック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゲーム・オブ・スローンズのランセイ・ボルトンを演じたのはだれですか",
+        "output": "イワン・リオン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「スター・ウォーズ エピソード4/新たなる希望」はいつ上映されましたか",
+        "output": "1977-05-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メリーランド州のシルバースプリングの人口は何人ですか",
+        "output": "71452.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "デイブ・マシューバンドは何枚のアルバムがあるか",
+        "output": "105.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マルコム・イン・ザ・ミドルのテーマ曲を歌っているのは誰ですか",
+        "output": "ゼイ・マイト・ビー・ジャイアンツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジョージア州アトランタからニューヨークまで何マイルありますか",
+        "output": "862.9 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "優勝したことがないNBAチームのはいくつありますか",
+        "output": "11.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カナダ・トロントのヤング・ストリートの長さ",
+        "output": "1178.0 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Manchester Unitedは何回チャンピオンズリーグで優勝しましたか。",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "南アフリカの公用語は",
+        "output": "アフリカーンス語"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨーク・ヤンキースのジェネラルマネージャは誰ですか？",
+        "output": "ブライアン・キャッシュマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スタンレーカップでブラックホークスが勝利したのはいつ？",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ザ・ボールド・アンド・ザ・ビューティフルのthomasは誰が演じましたか",
+        "output": "ピアソン・フォード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ナイト ミュージアムに出演しているのは誰ですか？",
+        "output": "オーウェン・ウィルソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAで最も背の高いセンターは誰ですか？",
+        "output": "ゲオルゲ・ムレシャン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "クリケットオーストラリア代表のキャプテンは誰",
+        "output": "ティム・ペイン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スーパーボウルでスティーラーズが敗れたのはどこ",
+        "output": "グリーンベイ・パッカーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨーク・ジェッツの先発クオーターバックは誰ですか？",
+        "output": "サム・ダーノルド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "代表者の任期はどれくらいですか",
+        "output": "2.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the shiningが撮影されたホテルはどこですか",
+        "output": "ティンバーライン・ロッジ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLで最多Career Passing Yardsを記録しているクオーターバックは誰ですか？",
+        "output": "ドリュー・ブリーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハリーポッターのメインキャラクターは誰ですか？",
+        "output": "ハーマイオニー・グレンジャー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "lsuがナショナル・チャンピオンシップで優勝したのはいつですか",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「トイ・ストーリー」が公開されたのは何年ですか。",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画フットルースは何年に公開された",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アトランタにはピーチツリー通りがいくつありますか",
+        "output": "71.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "見つめていたいという曲は誰が歌っていますか",
+        "output": "ポリス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レーナード・スキナードの初期メンバーは誰？",
+        "output": "ラリー・ヤンストロム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "セルティックスが最後にチャンピオンシップで優勝したのはいつですか",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAの今年のスティール王は誰ですか",
+        "output": "ポール・ジョージ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プロ野球で最高の記録保持者は誰？",
+        "output": "ニューヨーク・ヤンキース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ローワーメインランドの人口は何人ですか？",
+        "output": "2759000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フェニックス空港の名前は何ですか。",
+        "output": "フェニックス・スカイハーバー国際空港"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”i'm so lonesome i could cry”という歌を歌っていたのは誰でしょうか？",
+        "output": "ハンク・ウィリアムズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "zing went the strings of my heartを歌ったのはだれ？",
+        "output": "ジュディ・ガーランド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ビッグ・ブラザー」シーズン1の優勝者は誰？",
+        "output": "エディー・マギー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "supermanの第一作目でlois laneを演じたのは誰",
+        "output": "マーゴット・キダー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ガトウィック空港には滑走路がいくつありますか",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "警察でASIとは何の意味ですか",
+        "output": "Assistant sub-inspector of police"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Everybody Loves Raymondでお兄さん役は誰ですか。",
+        "output": "ロバート・バロン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨークで最も高い建物のリスト",
+        "output": "1 ワールドトレードセンター"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "インディ・ジョーンズ/最後の聖戦が撮影されたのはいつですか",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ラシュモア山の大統領は誰ですか",
+        "output": "エイブラハム・リンカーン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "perfect is the enemy of goodの語源は",
+        "output": "ヴォルテール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで最も人口の多い州は",
+        "output": "カリフォルニア州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プレンティスがクリミナル・マインド FBI行動分析課に戻ってきたのはいつですか",
+        "output": "パジェット・ブリュースター（プレンティス）は2014年と2016年上旬のシーズン11「トリビュート」にゲスト出演した"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ストレンジャーシングスは何シーズンあるか",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年のプレミアリーグで一番多くゴールを決めた選手は誰",
+        "output": "サディオ・マネ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰がイギリス人が来ると言ったのですか",
+        "output": "ポール・リビア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ディズニーワールドのエクスペディション・エベレストの高さは",
+        "output": "199.0 フィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ホビットで一番若いドワーフは誰",
+        "output": "トーリン・オーケンシールド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAの毎回得点者の上位選手は誰でしょう？",
+        "output": "カリーム・アブドゥル＝ジャバー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "have gun will travelでpaladinを演じたのはだれ？",
+        "output": "リチャード・ブーン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "MLB史上で最も打率の良いのは誰ですか？",
+        "output": "タイ・カッブ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「Sex and the City」の放映期間はどれくらいですか。",
+        "output": "6.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "once upon a timeでhenry millsを演じているのは誰？",
+        "output": "ジャレッド・S・ギルモア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "美女と野獣の野獣の名前は何でしたか？",
+        "output": "アダム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "男が女を愛する時 を歌ったのは誰ですか。",
+        "output": "パーシー・スレッジ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "心周の弛緩期は何と呼ばれていますか",
+        "output": "拡張期"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Seahawks はこれまでに何回決勝までいったことがある？",
+        "output": "17.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBA歴代最多得点を記録したのは誰ですか",
+        "output": "カリーム・アブドゥル＝ジャバー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゴールデン・ステイト・ウォリアーズの最近の試合で勝ったのはどこか",
+        "output": "ロサンゼルス・レイカーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ライオンキングに登場するハイエナの名前は何ですか。",
+        "output": "シェンジ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フロリダのデスティンからクレストビューまでの距離はどれくらいですか",
+        "output": "36.4 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ディズニープリンセスの最初の映画は何でしたか。",
+        "output": "白雪姫"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how much is that doggie in the windowを書いたのは誰",
+        "output": "ボブ・メリル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スペリオル湖にはどんな種類の魚がいますか",
+        "output": "ウォールアイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "天使のささやきを歌っているのは誰ですか",
+        "output": "ザ・スリー・ディグリーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テレビ番組「シカゴ P.D.」のキャストは？",
+        "output": "マリーナ・スコーシアーティ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ツール・ド・フランスはどこで行なわれますか",
+        "output": "フランス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「スリング・ブレイド」が公開されたのはいつ？",
+        "output": "1996-11-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アウトランダーシリーズのテーマソングは誰が歌ってますか",
+        "output": "ベアー・マクレアリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メトロポリタン美術館はどこですか",
+        "output": "ニューヨーク州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エアフォースワンには脱出用ポッドがある？",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミッキーマウスはフランスで何といいますか。",
+        "output": "ミッキーマウス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Little Mixで一番年上なのは誰ですか",
+        "output": "ジェシー・ネルソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ママと恋に落ちるまででbarney stinsonを演じているのは誰か",
+        "output": "ニール・パトリック・ハリス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "50セント通貨の製造が終わったのはいつだったでしょう？",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「悲しき雨音」は誰が歌っていますか",
+        "output": "カスケーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "tied to the whipping postという歌を歌ってるのは誰？",
+        "output": "オールマン・ブラザーズ・バンド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国憲法はいつ制定されましたか",
+        "output": "1787-09-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミシガン州の五大湖の名前は何ですか",
+        "output": "ミシガン湖"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フィリーズが前回ワールドシリーズに参加したのはいつですか",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ここ10回のncaa フットボール チャンピオンシップで優勝したのはどこ",
+        "output": "アラバマ大学"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オリンピック競技で最多メダル獲得者は誰ですか。",
+        "output": "マイケル・フェルプス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Three Days Graceのリードボーカルは誰？",
+        "output": "41.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"Man With the Yellow Hat\"は誰ですか？",
+        "output": "テッド・シャッケルフォード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アリゾナ・ダイヤモンドバックスのマスコットは何ですか",
+        "output": "バクスター・ザ・ボブキャット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人間が走った最長距離を教えてください",
+        "output": "350.0 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メイベリー110番でアンディーのガールフレンドは誰ですか？",
+        "output": "ヘレン・クランプ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フロリダ州タンパからフロリダ州マイアミまでは何マイル",
+        "output": "280.0 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カリフォルニア州グレープバインの標高",
+        "output": "1499.0 フィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューイングランド・ペイトリオッツのクォーターバックは誰ですか",
+        "output": "トム・ブレイディ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界人権宣言が作られたのはいつ",
+        "output": "1948-12-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "frankie goes to hollywood power of love何年",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人体で一番小さな骨はどこにありますか。",
+        "output": "中耳"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人間の胃はいくつに仕切られているでしょう？",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFLで最も勝利数の多いはどのチームですか？",
+        "output": "シカゴ・ベアーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「Love It or List It」はどの場所の番組ですか",
+        "output": "オンタリオ州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゴーストアドベンチャーズの最初のシリーズが放映されったのはいつ",
+        "output": "2018-10-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヨーロピアントロフィーを制した最初のイギリスチーム",
+        "output": "セルティックFC"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゲーム・オブ・スローンズにはいくつのエピソードがあるか",
+        "output": "73.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「アメリカズ・ゴット・タレント」で最初に優勝したのは誰ですか",
+        "output": "ビアンカ・ライアン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ディズニー・ハリウッド・スタジオにあるアトラクション、トワイライトゾーン・タワー・オブ・テラーはどれくらいの高さですか？",
+        "output": "61.0 メートル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "all in the familyでedith bunkerを演じたのは誰か",
+        "output": "ジーン・ステイプルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "In The Arms Of An Angelを歌っているのは誰ですか。",
+        "output": "サラ・マクラクラン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "野球ワールドシリーズ2017年で優勝したのはどこのチーム？",
+        "output": "ヒューストン・アストロズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "昨年、カレッジフットボールのナショナルチャンピオンシップで優勝したのはどこですか？",
+        "output": "アラバマ クリムゾンタイド アメリカンフットボールチーム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のチャーリーとチョコレート工場が作られたのはいつですか",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "脳卒中に関してFASTとは何の意味ですか",
+        "output": "FAST"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the first cut is the deepestは誰が歌っていましたか",
+        "output": "ロッド・スチュワート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミレニアル世代になるためにはいつ生まれる必要がありますか",
+        "output": "1981.0 1996.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ユー・メイク・マイ・ドリームズ・カム・トゥルー」を歌ったのは誰？",
+        "output": "ダリル・ホール&ジョン・オーツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ソチミルコの人形島はどこにありますか？",
+        "output": "メキシコ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワイルド・サイドを歩けという曲を歌ったのは誰",
+        "output": "ルー・リード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ラスベガス銃乱射事件で何人亡くなりましたか。",
+        "output": "58.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "鬼ママを殺せでママを演じたのは誰ですか",
+        "output": "アン・ラムジー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジープ グランドチェロキーのディーゼルエンジンを開発した人は誰ですか。",
+        "output": "VMモトーリ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「愛は面影の中に」を歌ったのは誰でしょう",
+        "output": "ロバータ・フラック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画Guardians of the Galaxyが発表されたのはいつ",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "grey's anatomyでmark sloanが死んだのはいつ",
+        "output": "2012-09-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "I Enjoy Being a Girlという曲はどのミュージカルのものですか",
+        "output": "フラワー・ドラム・ソング (ミュージカル)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "candle in the windの歌詞を書いたのはだれ？",
+        "output": "バーニー・トーピン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "2026年のワールドカップの開催国は？",
+        "output": "メキシコ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジュラシック・ワールド/炎の王国が公開されたのはいつですか",
+        "output": "2018-05-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "pretty little liarsが最初に公開されたのはいつ？",
+        "output": "2010-06-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "rainbow six siegeでキャンペーンをやることはありますか？",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画「ライオンキング」はいつ公開されましたか。",
+        "output": "2019-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テレビドラマ「ゲーム・オブ・スローンズ」は何シーズンある？",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マクドナルドの以号店はどこで開店しましたか。",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "MLBで一番背の高い選手は誰？",
+        "output": "ジョン・ラウシュ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ナショナル・ランプーン・クリスマス・バケーションで娘を演じたのは誰ですか",
+        "output": "エレン・ハミルトン・ラッツェン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ビッグマックはアメリカで幾らしますか",
+        "output": "5.58 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "どこでリトルリーグのワールドシリーズの試合をしていますか",
+        "output": "ペンシルベニア州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "美女と野獣のストーリーは誰が書きましたか",
+        "output": "ガブリエル=シュザンヌ ド ヴィルヌーヴ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i believe in youという曲を書いたのは誰ですか",
+        "output": "ロジャー・クック (ソングライター)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ラバーン＆シャーリーのテーマ曲を歌ったのは誰",
+        "output": "シンディ・グレッコ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ザ・ボールド・アンド・ザ・ビューティフルでリッジ・フォレスターは誰が演じましたか",
+        "output": "ロン・モス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "flaming hot cheetosは何年に発表された？",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "大学野球チームは何試合ありますか",
+        "output": "56.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "30 days in the holeを歌っているのは誰ですか",
+        "output": "ハンブル・パイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロード・オブ・ザ・リングの音楽を作ったのは誰ですか",
+        "output": "ハワード・ショア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画のグッドバーガーの公開日はいつですか？",
+        "output": "1997-07-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国下院の議長は誰ですか",
+        "output": "ナンシー・ペロシ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ain't no mountain high enoughをレコードにしたのは誰",
+        "output": "マーヴィン・ゲイ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "風と共に去りぬの女優は誰ですか",
+        "output": "ハティ・マクダニエル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国で最も東にある地点はどこですか。",
+        "output": "メイン州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゴルフのメジャーチャンピオンシップで最も勝ったのは誰ですか",
+        "output": "ジャック・ニクラス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "地中海で最大の島は何か",
+        "output": "シチリア州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オズの魔法使いのドロシーはどこに住んでいたか",
+        "output": "カンザス州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "it's my party and i'll cry if i want to（イッツ・マイ・パーティー・アンド・アイル・クライ・イフ・アイ・ウォント・トゥー）という歌詞の歌を歌ったのは誰ですか？",
+        "output": "レスリー・ゴーア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アラモの戦いはどこで行なわれましたか",
+        "output": "テキサス州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワシントン州にはいくつワイナリーがある？",
+        "output": "900.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨーク州ユーティカの人口はどのくらいですか。",
+        "output": "60635.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "are we human or are we dancersを歌ったのは誰？",
+        "output": "ザ・キラーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スクービー・ドゥーの甥の名前",
+        "output": "スクラッピー・ドゥー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "海洋の海底最深部はどこにありますか",
+        "output": "チャレンジャー海淵"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで離婚が合法化されたのはいつですか。",
+        "output": "1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ピッツバーグ・ペンギンズはスタンレー・カップで何回優勝していますか",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "世界で一番早い量産車はなに",
+        "output": "ブガッティ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカで一番高いビルは何階建て？",
+        "output": "104.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "船のハンドルは何と呼ばれていますか？",
+        "output": "操舵輪"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "爆発!デュークの車はどんな車でしたか",
+        "output": "ダッジ・チャージャー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ブルズが勝ち取ったNBAファイナルの数は",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "飛行機のアイデアを最初に思いついたのは誰",
+        "output": "ライト兄弟"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年の女子ウィンブルドン選手権で優勝したのは誰ですか？",
+        "output": "Simona Halep"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "次のワールドカップはどこで開催されますか",
+        "output": "カタール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "愛と青春の旅だちでポーラを演じたのは誰ですか。",
+        "output": "デブラ・ウィンガー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Keep on Rollin 'with the Flowを歌ったのは誰ですか",
+        "output": "チャーリー・リッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰がNBAルーキー・オブ・ザ・イヤー賞を獲得しましたか",
+        "output": "ルカ・ドンチッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "今年打率が一番高かった選手は誰ですか",
+        "output": "タイ・カッブ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"An Officer and a Gentleman\"の俳優達は誰ですか？",
+        "output": "デブラ・ウィンガー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ラストマン・スタンディング」でマンディ・バクスターを演じたのは誰でしょう",
+        "output": "モリー・イフラム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カナダの総督はどこに住んでいますか",
+        "output": "オタワ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人生において死以外に確かなものは何もないと言ったのは誰ですか",
+        "output": "カニエ・ウェスト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "パワーレンジャーのピンクレンジャーは誰が演じたか",
+        "output": "キンバリー・アン・ハート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イエローストーン川はどこから始まってどこで終わりますか？",
+        "output": "ミズーリ川"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "michael jordanが最初にバスケットボールを始めたのはいつ？",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "白地に赤い十字の国旗はどこの国ですか",
+        "output": "デンマーク"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スターウォーズでサミュエル・L・ジャクソンが演じたのは誰ですか",
+        "output": "メイス・ウィンドゥ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ファルコンズとペイトリオッツ、スーパーボウル買ったのはどっち",
+        "output": "ニューイングランド・ペイトリオッツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "スタージスラリーは今年はいつ始まりますか",
+        "output": "2019-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ノートルダム大学の女子バスケットボールコーチは誰？",
+        "output": "マフェット マグラー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コロネーション・ストリートでブラッドリー・ウォルシュを演じた人は誰ですか",
+        "output": "ダニエル・ボールドウィン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "現在のインドの副大統領は誰ですか",
+        "output": "ヴェンカイアー・ナイドゥ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画Dearダニー 君へのうたのモデルになったのは誰",
+        "output": "スティーブ ティルストン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "star trekの新作でscottyを演じているのは誰？",
+        "output": "サイモン・ペグ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "白の背景に赤い十字の旗はどこの国旗ですか",
+        "output": "イングランド王国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "次のワールドカップはいつ開催されるのか",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "game of thronesは何シーズンあったのか",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "crown victoriaの製造をやめたのはいつですか",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1900年以降イギリス国王は何人いた？",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サンフランシスコのcandlestick parkはいつ建てられましたか",
+        "output": "1960-04-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初の映画ホビットはいつ公開されましたか",
+        "output": "2012-12-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "U2のメンバーは誰ですか",
+        "output": "ボノ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のFord Model Tはいつ作られましたか",
+        "output": "1908"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ギヴ・ユー・アップという曲を書いたのは誰ですか",
+        "output": "リック・アストリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAのゲームでどんなアシストが一番多いですか。",
+        "output": "スコット・スカイルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "hold your head upを歌っている歌手は誰でしょう？",
+        "output": "ロッド・アージェント"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "曲you make me feelの歌手は誰",
+        "output": "キャロル・キング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i fought the law and the law wonは誰の歌？",
+        "output": "ザ・クラッシュ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "toy storyでjessieの声を演じていたのはだれ？",
+        "output": "ジョーン・キューザック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アフリカゾウの長さは何ですか",
+        "output": "24.6 フィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マンマ・ミーア!の映画が公開されたのはいつ",
+        "output": "2008-07-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "レイダースが最後にスーパーボウルに行ったのはいつでしたか",
+        "output": "2003-01-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "楽曲You Don't Own Meを書いたのは誰ですか",
+        "output": "デヴィッド・ホワイト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ブリティッシュコロンビア州grand forksの人口は",
+        "output": "4049.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画トロールズでブリジッドの声優は誰ですか？",
+        "output": "ズーイー・デシャネル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "マッドマックス 1は いつ作られましたか",
+        "output": "1980-02-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "roy orbisonの最初のヒット曲は何ですか",
+        "output": "シカゴ・コネクション/夢みて走れ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最新のスターウォーズの映画の名前は何ですか",
+        "output": "スター・ウォーズ/スカイウォーカーの夜明け"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "コービー・ブライアントが60点を取った試合は何試合あるでしょう",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the garden of edenの歌を歌ったのはだれ？",
+        "output": "アイアン・バタフライ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカにあるロンドン橋とはどこですか？",
+        "output": "アリゾナ州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フォーティナイナーズは幾つのスーパーボウル・リングを勝ち取りましたか",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAで最も試合に勝ったのはどこのチーム？",
+        "output": "ゴールデンステート・ウォリアーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のマリオカートが発売されたのはいつですか",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「アンティグア・バーブーダ」は何語ですか？",
+        "output": "英語"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ひよこ豆はエンドウ属ですかそれともダイズ属ですか",
+        "output": "豆"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロサンゼルス・レイカーズは誰を獲得したでしょう？",
+        "output": "アンソニー・デイビス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "LOVE BOATのテーマソングは誰が歌いましたか？",
+        "output": "ジャック・ジョーンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "something in the way she movesを歌ったのはだれ？",
+        "output": "ビートルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Where have all the flowers gone?を作詞したのは誰ですか。",
+        "output": "ピート・シーガー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "play that funky music white boyは誰が歌っている？",
+        "output": "ワイルド・チェリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "『甘い罠』（英語: I Want You to Want Me）という歌を歌っているのは誰ですか？",
+        "output": "チープ・トリック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画マチルダでミスハニーを演じたのは誰か",
+        "output": "エンベス・デイヴィッツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "we can learn to love againという歌を歌っているのは誰ですか？",
+        "output": "ピンク"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The Edge of Gloryを歌っているのは誰ですか",
+        "output": "レディー・ガガ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「Stranger Things」の第2シーズンは何エピソードありますか？",
+        "output": "25.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "香港はいつ中国に戻りましたか",
+        "output": "1997-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i like the way you moveを歌っているのは誰",
+        "output": "アウトキャスト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm only humanという曲は誰が歌った",
+        "output": "ラグンボーン・マン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "this guys in love with youという曲は誰が歌った",
+        "output": "ハーブ・アルパート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカの一番大きな空港は",
+        "output": "ハーツフィールド・ジャクソン・アトランタ国際空港"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NFL殿堂に選出されたパンターは何名？",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アパラチアン・トレイルはどこからどこまでですか。",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゲーム・オブ・スローンズ・シリーズはいつ始まった",
+        "output": "2011-04-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "曲ライオンは寝ているの歌手は誰",
+        "output": "トーケンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国教育長官は誰ですか？",
+        "output": "ベッツィ・デヴォス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "nobody knows it but meは誰が歌っている？",
+        "output": "トニー・リッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャンピオンシップでデトロイトライオンズが最後に優勝したのはいつか",
+        "output": "1957"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAのバスケットボールプレーヤーの平均身長は？",
+        "output": "6.7 フィート"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "去年のスーパーボウルに登場したのはだれでしたか",
+        "output": "ジャスティン・ティンバーレイク"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "朝日のあたる家はいつリリースされた？",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画the perks of being a wallflowerでCharlie役を演じたのは誰？",
+        "output": "ローガン・ラーマン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画9 to 5が作られたのはいつですか",
+        "output": "1980-12-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰が『ゼア・イズ・ノー・アリゾナ』(there is no arizona)を歌っていますか",
+        "output": "ジェーミー・オニール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "mother nature's sonという歌は誰が書きましたか",
+        "output": "レノン＝マッカートニー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "it don't hurt like it used toを歌ったのは誰ですか",
+        "output": "ビリー・カリントン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「killing me softly with his song」と歌っている歌手は誰ですか。",
+        "output": "フージーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "some kind of wonderfulでduncan を演じているのは誰？",
+        "output": "イライアス・コティーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "tie a yellow ribbon round the old oak treeを歌ったのは誰ですか",
+        "output": "トニー・オーランド&ドーン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ビバリーヒルズ高校白書でエミリー・バレンタインを演じたのは誰か",
+        "output": "クリスティーン・エリス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "エベレストが発見されるまで世界一高い山はどこだった？",
+        "output": "K2"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "タッチバー付きのMacBook Proはいつリリースされましたか",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "男性の平均身長はいくつですか",
+        "output": "175.4 センチメートル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フィリピンで最も高いビルはどれですか",
+        "output": "グランドハイアットマニラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アリゾナ・ダイヤモンドバックスはどこでスプリングトレーニングを行いますか",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "グリーンビル（サウス・カロライナ州）からスパータンバーグ（サウス・カロライナ州）までどのくらいの距離がありますか？",
+        "output": "31.8 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつ電気椅子の使用を止めましたか",
+        "output": "2008-02-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "『雨に唄えば』のスターたちは誰でしたか。",
+        "output": "デビー・レイノルズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "タイムズ・スクエアはニューヨーク市のどの辺にありますか。",
+        "output": "ミッドタウン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "歴代NBAでターンオーバーが最も多いのは誰ですか？",
+        "output": "カール・マローン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オール・イン・ザ・ファミリーでジョージ・ジェファーソンは誰が演じてましたか",
+        "output": "シャーマン・ヘンズリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "you are the sunshine of my lifeを歌ったのは誰ですか",
+        "output": "カーメン・マクレエ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゴルフのマスターズ最多優勝者は誰？",
+        "output": "ジャック・ニクラス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "hairy maclaryシリーズの本を書いたのは誰ですか",
+        "output": "リンレイ・ドッド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ハリー・ポッターと死の秘宝」はいつ公開されましたか",
+        "output": "2007-07-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テキサス州アーリントンから同州ルイスビルまでの距離はどれだけありますか。",
+        "output": "31.0 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "｢イントゥ・ザ・ウッズ｣のbakerは誰ですか",
+        "output": "ジェームズ・コーデン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハワイがアメリカ合衆国の州となったのはいつですか",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "4名のニンジャ・タートルズの名前は",
+        "output": "レオナルド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i need you nowを歌ったのは誰？",
+        "output": "レディ・アンテベラム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「Easy Like Sunday Morning」を歌っているのは誰ですか。",
+        "output": "コモドアーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "２０２０オリンピックの開催地は",
+        "output": "東京都"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "インディアナ州インディアナポリスからインディアナ州エバンズビルはどれぐらいの距離ですか？",
+        "output": "172.3 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "脳にはいくつの脳細胞があるでしょうか？",
+        "output": "100000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "大学野球で最もホームランを打ったのは誰ですか",
+        "output": "ピート・インカビリア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューメキシコの標高の最高はいくらか。",
+        "output": "ホイーラー・ピーク"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヤッツィーで可能な最高得点は",
+        "output": "1535.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アイダホ州のツイン・フォールズの人口は何人ですか",
+        "output": "49202.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "『トワイライト・サーガ』の順番はなんですか",
+        "output": "ニュームーン/トワイライト・サーガ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゼルダの伝説 ブレス オブ ザ ワイルドはいつ発売されましたか",
+        "output": "2017-03-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "セントルイスのアーチが建設されたのはいつですか。",
+        "output": "1963-02-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "（I Can't Get No）Satisfactionという歌を書いたのは誰ですか？",
+        "output": "ミック・ジャガー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ドント・ブレイム・イット・オン・ミー」を歌っているのは誰？",
+        "output": "カルヴィン・ハリス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the beautiful southのリードボーカルは誰？",
+        "output": "ポール・ヒートン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オリンピックの最多金メダル獲得者は誰ですか。",
+        "output": "マイケル・フェルプス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "人類が最後に月に降りたのはいつ",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "バンド・オン・ザ・ランという歌は誰の歌ですか",
+        "output": "ポール・マッカートニー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画スリング・ブレイドの主役は誰ですか？",
+        "output": "カール チルダース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ウェイン・グレツキーは生涯で何ゴールしましたか？",
+        "output": "894.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ポンペイを滅ぼした火山の名前は何ですか？",
+        "output": "ヴェスヴィオ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ大陸の最北端地点はどこですか",
+        "output": "アングル区"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "インスタグラムでフォロワー数が一番多いのは誰ですか",
+        "output": "クリスティアーノ・ロナウド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「過去のクリスマスの亡霊」の名前は何でしたか",
+        "output": "ジェーコブ・マーリー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サウスカロライナ州からジョージア州オーガスタへはどれだけありますか？",
+        "output": "66.4 マイル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"You Don't Know What It's Like\"を歌ったのは誰？",
+        "output": "Econoline Crush"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ミシガン湖はガロンでどのくらいの水量を有していますか？",
+        "output": "6000000000000000.0 ガロン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "『ニッキー、リッキー、ディッキー＆ドーン』の父役は誰ですか",
+        "output": "ブライアン・ステパニック"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "日中と夜の長さが同じなのはどこ？",
+        "output": "春分"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつイン・ザ・ヒート・オブ・ザ・ナイトはリリースされましたか",
+        "output": "1988-03-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Ring My Bellの曲を歌ったのは誰ですか",
+        "output": "アニタ・ウォード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "THIS IS US 36歳、これからの父親役は誰ですか",
+        "output": "ティム・マシスン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初のハリーポッターの本は何ページありますか",
+        "output": "223.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最新のF1グランプリで優勝したのは誰ですか",
+        "output": "ルイス・ハミルトン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「You'll Always Find Me in the Kitchen at Parties」を歌った歌手は誰ですか。",
+        "output": "Jona Lewie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「The Blacklist 」の次のシーズンの放送はいつですか。",
+        "output": "2019-01-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国は北半球それとも南半球にありますか",
+        "output": "北半球"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アトランティクシティで最初のカジノがオープンしたのはいつか",
+        "output": "1978-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オランダで飲酒が許可される年齢はいくつでしょう？",
+        "output": "18.0 年"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "100ヤード競走の記録は",
+        "output": "9.58 秒"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ジョーダンの最高得点は何点？",
+        "output": "63.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ハリーポッターで若者のトム・リドルを演じたのは誰",
+        "output": "Hero Beauregard Faulkner Fiennes Tiffin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ホットドッグ大食い記録の保持者は誰？",
+        "output": "ジョーイ・チェスナット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Sons of AnarchyでJaxを演じている俳優は誰ですか？",
+        "output": "チャーリー・ハナム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAで最も射撃率が高いのは誰ですか？",
+        "output": "デアンドレ・ジョーダン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm giving up on youは誰の歌？",
+        "output": "ア・グレイト・ビッグ・ワールド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "downton abbeyは全部で何シーズンある？",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "君の名前で僕を呼んではどこで行われましたか",
+        "output": "イタリア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メジャーリーグのホームラン王は誰",
+        "output": "バリー・ボンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アニメを作った最初の人は誰でしたか",
+        "output": "手塚治虫"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「血の汗」を医学的用語で何と言いますか。",
+        "output": "血汗症"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "メリーランドのベイブリッジはいつ建設されましたか",
+        "output": "1952"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「くまのプーさん」に出てくるカンガルーの名前は何ですか。",
+        "output": "ルー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ガーディアンズ・オブ・ギャラクシーはいつ公開されましたか",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ大統領の給料はいくらですか？",
+        "output": "400000.0 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "すばらしき恩寵の歌詞を書いたのは誰ですか？",
+        "output": "ジョン・ニュートン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "suite life of zack and codyが製作されたのはいつ？",
+        "output": "2005-03-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "米国で一番大きい川はどこですか",
+        "output": "ミシシッピ川"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "” if he ever singles you up”と歌っているのは誰でしょう？",
+        "output": "ジョーダン・デイビス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画ファット・ボーイズの突撃ヘルパーは何年に上映されましたか",
+        "output": "1987-08-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "去年のFAカップファイナルに勝利したのはだれ？",
+        "output": "マンチェスター・シティFC"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"In the Year 2525\"を作曲したのは誰？",
+        "output": "ゼーガーとエバンズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "How I Met Your MotherでTedが結婚した相手は誰ですか。",
+        "output": "母"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロッキーズが最後にワールドシリーズで優勝したのはいつですか",
+        "output": "2012"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ゆかいなブレディー家でマイク・ブレイディを演じたのは誰",
+        "output": "ロバート・リード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "\"this heart needs a second chance\" を歌っている人は誰ですか。",
+        "output": "38スペシャル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "あなたはボーリングのストライクで何得点獲得できますか",
+        "output": "10.0 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ロサンゼルスの現在の人口は何人ですか",
+        "output": "4000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "グレイズ・アナトミー 恋の解剖学でミランダ・ベイリーを演じるのは誰ですか",
+        "output": "チャンドラ・ウィルソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "I can't fight this feeling は誰が歌っていますか",
+        "output": "REOスピードワゴン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "thats the night the lights went out in georgiaを歌ったのは誰ですか",
+        "output": "ヴィッキー・ローレンス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "whiter shade of paleを歌ったのは誰ですか。",
+        "output": "プロコル・ハルム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "”high on the mountain of love”を歌っているのは誰ですか？",
+        "output": "ジョニー・リヴァーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカはいつベトナム戦争に参加しましたか",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i can't live if living is without youを歌っているのはだれ？",
+        "output": "ハリー・ニルソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最年長大統領は誰ですか",
+        "output": "ドナルド・トランプ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "独立宣言の第一著者は誰でしたか",
+        "output": "トーマス・ジェファーソン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "週の最初の日は何曜日ですか",
+        "output": "日曜日"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「Have You Seen the Most Beautiful Girl in the World」を歌った歌手は誰ですか。",
+        "output": "チャーリー・リッチ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "サウス・ダゴタ州ラピッド・シティはどの郡にありますか",
+        "output": "ペニントン郡"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカはイギリスからいつ独立しましたか",
+        "output": "1776-07-04"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカの今の最低賃金は",
+        "output": "7.25 アメリカ合衆国ドル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画アラジンの猿の名前はなんですか",
+        "output": "アブ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アポロ11号が最初に月に降りたのはいつですか？",
+        "output": "1969-07-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "万物の理論を思いついたのは誰",
+        "output": "スティーヴン・ホーキング"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ヨーロッパで人口第2位の国はどこですか",
+        "output": "ロシア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "i'm in the corner watching you kiss herという唄は誰",
+        "output": "カルム スコット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "いつアメリカは金本位制から撤退しましたか",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "scars to your beautifulはいつリリースした",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAで一番多く優勝したのはどのチームですか",
+        "output": "ビル・ラッセル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "100ドル紙幣には誰の顔が印刷されていますか",
+        "output": "ベンジャミン・フランクリン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワイルド・スピードX3 TOKYO DRIFTに出ている出演者",
+        "output": "サン・カン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ワンス・アポン・ア・タイムでフェリックスを演じたのは誰ですか。",
+        "output": "パーカー・クロフト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画”ワイルド・スピード”が最初に制作されたのはいつだったでしょう？",
+        "output": "2001-06-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テレビドラマ『ワンス・アポン・ア・タイム』で悪い女王　レジーナ・ミルズ役を演じたのは誰ですか？",
+        "output": "ラナ・パリラ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "質量保存の法則を発見されたのは誰ですか",
+        "output": "アントワーヌ・ラヴォアジエ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Painter of Lightとして知られるのは誰ですか",
+        "output": "トーマス・キンケイド"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "イギリスで最大の都市は何ですか",
+        "output": "ロンドン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "米国で最も大きな都市圏はどこですか",
+        "output": "ロサンゼルス都市圏"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "build me up buttercupを歌ったのは誰ですか",
+        "output": "ザ・ファウンデーションズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "デンマーク語のアルファベット文字数は何個ですか",
+        "output": "29.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アイス・エイジ5/止めろ! 惑星大衝突はいつ公開された？",
+        "output": "2016-06-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "working my way back to you babeはだれの曲",
+        "output": "スピナーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャーリーとチョコレート工場 でチャーリーを演じたのは誰？",
+        "output": "ピーター・オストラム"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ニューヨークのプラザホテルは誰の所有",
+        "output": "Katara Hospitality"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アトランティックシティのタージ・マハルを所有しているのは誰ですか",
+        "output": "ハードロックカフェ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "新約聖書の聖書の本を書いたのは誰ですか？",
+        "output": "パウロ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "MLBでプレーしたプレーヤーでもっとも身長が低い人は誰？",
+        "output": "エディ・ゲーデル"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "get rich or die tryingが公開されたのはいつですか",
+        "output": "2003-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "NBAで最も高額の契約を結んでいる選手は誰でしょう？",
+        "output": "ケビン・デュラント"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ユー・アー・マイ・サンシャイン という曲はどこの曲か",
+        "output": "アメリカ合衆国"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Blinded By the Lightという歌を歌っているのは誰ですか",
+        "output": "マンフレッド・マン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "チャンピオンズリーグ決勝戦はどこで行われますか",
+        "output": "マドリード"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最後にカウボーイズがスーパーボウル優勝したのはいつ",
+        "output": "1993-01-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「because the night belongs to lovers」という歌詞の歌を歌っているのは誰ですか。",
+        "output": "パティ・スミス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "Stacy's Momの曲が発売されたのはいつですか",
+        "output": "2003"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ユーチューブの登録者数が最も多いのは誰？",
+        "output": "Tシリーズ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "最初の50セント硬貨はいつ作られましたか",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ合衆国憲法はいつ書かれましたか",
+        "output": "1787"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ＴＶシリーズ マッシュでトラッパー・ジョンを演じたのは誰ですか",
+        "output": "ウェイン・ロジャース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「HEY!レイモンド」で母親役を演じたのは誰？",
+        "output": "ドリス・ロバーツ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "get by with a little help from my friendsと歌ったのは誰ですか。",
+        "output": "ダスティン (七面鳥)"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "アメリカ女子チームはワールドカップで何度勝ちましたか",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "プエルトリコはいつアメリカ合衆国の一部になったか",
+        "output": "1898"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "カブスはどこ相手にワールドシリーズを勝った?",
+        "output": "クリーブランド・インディアンス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "全国女子バスケットボール大会で優勝したチームはどこですか。",
+        "output": "ベイラー大学"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "ボーイング737の巡航速度はどのくらいですか",
+        "output": "564.0 マイル毎時"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「ガーディアンズ・オブ・ギャラクシー 」のロケットは誰ですか",
+        "output": "ショーン・ガン"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "「生きるべきか死ぬべきか、それが問題だ」と言ったのは誰か",
+        "output": "ハムレット"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "It's Just the Way It Isを歌っている歌手は誰ですか。",
+        "output": "ブルース・ホーンズビー"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "昨年のカレッジフットボールで優勝したのは誰ですか。",
+        "output": "クレムソン タイガース フットボール"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "James Bond役を演じる俳優は誰ですか",
+        "output": "ロジャー・ムーア"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "君の瞳に恋してるを歌っているのは誰ですか",
+        "output": "フランキー・ヴァリ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "前回の男子FIFAワールドカップに優勝したのはどこ？",
+        "output": "フランス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "The cleveland brownsが最後に優勝したのはいつですか",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "誰が\"cecilia you're breaking my heart\"を歌っている？",
+        "output": "ザ・ヴァンプス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オズの魔法使はいつ公開されましたか",
+        "output": "1939-08-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "FIFA17のカバーにはどの選手が出ていますか。",
+        "output": "マルコ・ロイス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "オール・イン・ザ・ファミリーでグローリアを演じたのは誰ですか",
+        "output": "サリー・ストラザース"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "フランス革命でフランスの帝王となった将官は誰？",
+        "output": "ナポレオン・ボナパルト"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "テレビドラマ『爆発！デューク』のオリジナルテーマソングを歌っているのは誰ですか？",
+        "output": "ウェイロン・ジェニングス"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "tで始まるキャンディーバー",
+        "output": "トブラローネ"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "bengalsが最後にプレーオフに出たのはいつ？",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "映画saddle the windはどこで撮影されましたか",
+        "output": "コロラド州"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1つの星と赤と白の縞模様がある旗は何",
+        "output": "リベリア"
+    }
+]

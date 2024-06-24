@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 佐治亚州的奥尔巴尼会比纽约的奥尔巴尼更早达到十万居住者吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 圣文森特和格林纳丁斯使用的语言是否源于英语？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 贪婪是七宗罪中最普遍的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 富士山的山顶会突出日本海吗？ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Lil Jon 的 Billboard 冠军歌曲是与 The Lox 成员合作的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 迈阿密是美国西海岸的一座城市吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 瑞士卫队能否坐满弗吉尼亚州议会的席位？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 葡萄牙殖民战争中是否有任何国家与瑞士在二战中扮演相同的角色？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 皮克特人会对古英语感到困惑吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Lil Wayne 在职业生涯初期能合法独自驾驶车辆吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 您有可能在卡拉奇找到十字架吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 有人卖了盗版的波提切利《维纳斯的诞生》的知识共享许可证吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 十加仑的海水能够压垮一个六岁的孩子吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在较冷的水域中生活的凤尾鱼是否比在较温暖的水域中生活的凤尾鱼更多？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 3D打印能制造腺病毒吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 乔治·福克斯会支持石刑吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 有必要看《星球大战》才能知道达斯维达是谁吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 计算机可以完全用布尔代数进行编程吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 克里斯蒂娜·阿奎莱拉 (Christina Aguilera) 在《美国好声音》 (The Voice) 中为凯莉·克拉克森 (Kelly Clarkson) 调转椅子了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 纳洛酮能阻止艾米怀恩豪斯的死亡吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 猫鼬有沙漠的天然伪装吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 如果有人喜欢水牛辣鸡翅，那么他们是否也喜欢辣椒素呢？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 李小龙缺席了1964年华盛顿大学的毕业典礼吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 布鲁克·希尔兹能在宾夕法尼亚大学取得成功吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 马里斯特大学的学生是否必须申请才能组建划船队？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 第一代 iPhone 能装下十万只笑猫吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 鲁瑟夫是否需要担心他的祖国人口过剩？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 桃子公主的裙子像桃子吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 精神病患者可以加入美国空军吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 我可以把 Bing 放在篮子里吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 中央处理器通常都有专用的风扇吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 西里尔·拉马福萨能成为北约秘书长吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 布鲁克林以其面包产品而闻名吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 英国皇家空军参加了义和团运动吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 弗朗索瓦·密特朗是否在拿破仑·波拿巴手下的法国军队中服役？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 阿米巴变形虫会得癌症吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 霍乱还活着吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 人们通常会将红薯与菠萝混淆吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在迈阿密发现企鹅是很常见的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 淋巴结中的肿瘤可以忽略吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 漫威宇宙中蜘蛛侠和猎鹰交手过吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 湿婆的神圣舞蹈是一种古老的健身姿势吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 鬣狗会出现在百老汇音乐剧中吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 猫头鹰猴会喜欢吃草莓吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 蛇能吞下 M60 巴顿吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《复仇者联盟》漫画在 DC 漫画商店里会显得格格不入吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 波斯湾能容得下新泽西州吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 从身高和体重来看，妮可基德曼是饰演灵蝶的理想人选吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 伯尼·桑德斯能花不到两百美元参观大都会艺术博物馆二十次吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 计划生育协会可以告诉你的大学你感染了单纯疱疹病毒吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在一场假想的战斗中，阿喀琉斯会打败莱戈拉斯吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 布加勒斯特位于埃及南部吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 岩石会漂浮在地球大气层中吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 为了改善人类的性生活，犀牛是否遭到杀害？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ABBA 的性别配置与 The Mamas &amp; The Papas 相似吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《小妇人》的作者会记得《第十三修正案》的批准吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 大多数 Reddit 用户是否熟悉效忠誓言？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 孩子们会把圣诞节信件寄到南极吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 魔力红 (Maroon 5) 和涅槃乐队 (Nirvana) 一起巡演了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 埃文德·霍利菲尔德 (Evander Holyfield) 2020 年重返拳击赛会创下年龄记录吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 波兹·马龙 (Post Malone) 害怕针头吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 美西战争期间的美国总统是否遭遇了与亚伯拉罕·林肯类似的死法？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 夏娃是否卷入了乱伦关系？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Lil Wayne 类似真名的说唱歌手曾获得过四次 Wayne 的格莱美奖？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 镍会在地球外核中沸腾吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 多萝西娅·温德林 (Dorothea Wendling) 和保时捷 (Porsche) 的原籍是同一个地方吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 手术可以预防生存危机吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 法拉比是大谢赫的学生吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 氯与钠混合食用会危险吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 巴西柔术格雷西创始人一共有多少个孩子？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 莫扎特曾经购买过 Dolce &amp; Gabbana 的产品吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 正统长老会教徒会反对 18 世纪法官的着装吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《微生物古史》比任何俳句都简短吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《黑客帝国》的导演是否支持跨性别者的权利？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 北方海狗能通过驾驶考试吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 每年进出塔可钟的人数会比进出罗伊罗杰斯的人数多吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在红海发现黄鲈鱼会不会很不寻常？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 佐德将军更喜欢 iPhone 还是三星 Galaxy S4？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 尼安德特人使用算术吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《你真好，查理·布朗》中的动物假设是猎犬吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: JK·罗琳的任何一本书都属于“无人生还”类型的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Jay-Z 曾与 Louis Armstrong 合作过吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在英国，长度是以米为单位来测量的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 克里斯托弗·哥伦布航行时代表的国家与他的原籍国不同吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 嘴唇发青正常吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 乔恩·布劳尔·米诺克 (Jon Brower Minnoch) 是否患有神经性厌食症？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《奥赛罗》是莎士比亚为让山鲁佐德有更多的时间与国王相处而创作的戏剧吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 2009 年希拉里克林顿的副幕僚长受洗了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 鸸鹋比鹤更安全吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 你能从新英格兰开车去塞恩斯伯里吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: PG Wodehouse 会在二年级教授吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在《爱丽丝梦游仙境》中，吸烟是否显得很有趣？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 西蒙考威尔可以投票选举下一任最高法院法官吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 老虎体育场能容纳下1933年大萧条造成的所有失业人员吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 一名成年男性可以站在多纳泰罗的青铜大卫像上并触摸西斯廷教堂的天花板吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 英国是否直接卷入了阿以冲突？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《爱丽丝梦游仙境》是否启发了麦克白的创作？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 亚洲黑熊是多色的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 海盗中尉和海军中尉一样吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 一个完成的网站是否应该有 lorem ipsum 段落？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 海狸水坝附近的土地是否遭受破坏？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 威尔·法瑞尔夺得帝国奖最佳新人奖难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 辛西娅·鲍威尔与约翰·列侬一起庆祝了银婚纪念日吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 阿尔帕西诺在二战期间演过电影吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 古吉拉特语文字和汉字属于同一类别吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 莫里斯县是以首席大法官的名字命名的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 甚大望远镜能够观测地球上最大的山峰吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 牛甲烷对环境比汽车更安全吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 摩洛哥是滑水的理想地点吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 一股亚马逊股票能购买 20 年的 Netflix 会员资格吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 尼古拉·特斯拉曾经工作过的地方有辐射吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 阿尔·卡彭读过哈莱姆文艺复兴时期的作品吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Blue Lives Matter 的成员会支持《侠盗猎车手 III》的每个元素吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 元旦总是在星期三吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 若虫蜱可以穿过标准的打孔器吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 艺术品经销商可以购买带有达芬奇画作的波音 737-800 吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 彼得·格里芬 (Peter Griffin) 应该成为酿酒工艺专家吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 您能驾驶 Rowe 550 参加 2008 年夏季奥运会吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 艾米怀恩豪斯是《星球大战：侠盗一号》的粉丝吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 杰西·W·摩尔 (Jesse W. Moore) 有可能获得美国国家航空航天局 (NASA) 颁发的史努比主题奖吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 蜜獾能放进烤箱吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 谷壳是水力发电产生的吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 保罗·科埃略的妻子靠演讲谋生吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 救生艇能在胡克海救人吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 菲亚特克莱斯勒与日本汽车有关系吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 哈迪斯和奥西里斯是否会争夺冥界的房地产？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 加利福尼亚州奥兰治县是否要求飞机保持安静？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 王子公园体育场于 2020 年 6 月全面投入运营吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 零售业是任何人都适合的职业吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 火药储存设施发生爆炸会产生超音速冲击波吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 你能在一元店买到氯吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 咸水鳄和短吻鳄有关系吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 珀尔塞福涅 (Persephone) 能成为景观设计师的优秀顾问吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 阿波罗15号的机组人员骑独轮车会困难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 操作护卫舰需要绳索吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 杰森和 Disrespect 博士有什么共同之处吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 乳糜泻患者应该避免吃意大利面吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 考拉是否更喜欢桉树而不是肉？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 健美运动员会更喜欢麋鹿汉堡而不是牛肉汉堡吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 你能沿着水银海运送一枚硬币吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在现实世界中，兔八哥会伤害橄榄树吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 抱子甘蓝对缓解肾上腺疲劳特别有效吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《恶搞之家》的故事发生在美国西海岸吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 乌贝兰迪亚的人可以为三菱工作吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 水门事件后，汉娜·尼克松会为理查德·尼克松感到骄傲吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 艾迪·墨菲小时候能在车里拨打 911 吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 对于埃德蒙·希拉里来说，征服威奇普鲁夫山 (Mount Wycheproof) 会是轻而易举的事吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 加蓬国旗的颜色是彩虹色吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 海燕雀能生活在信天翁不能生活的地方吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 卷发必须用卷发棒吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 鸸鹋和麋鹿有关系吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: La Grenouille 餐厅的厨师会不会觉得莎莎酱是一个奇怪的要求？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: “下层社会”反对全球化吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 新英格兰人可以通过种植咖啡获利吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 乒乓球使用质数吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 成为 5 年 Capital One Venture 会员比加入撒旦教会更划算吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 贝多芬喜欢听 EDM 吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 金属乐队 (Metallica) 是否保护他们的音乐？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 凯莉·克拉克森 (Kelly Clarkson) 的专辑销量是否超过了第四季美国偶像冠军？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 黑尾长耳大野兔害怕欧洲野猫吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 卡尔·弗里德里希·高斯能与 100 英里外的人通话吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 莱昂内尔·里奇 (Lionel Richie) 和 Sheila E 有关系吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: FDA 是否要求使用罗马数字来标明销售期限？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 旅人们在俄勒冈小道上唱过船夫号子吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 患有白色恐惧症的人会喜欢看美国国旗吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 泰瑞·海切尔在《绝望主妇》中的出演集数是她在《超人》中的出演集数的两倍吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 人体内白细胞的数量是否比红细胞多？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 约翰·乔治·比斯的出生地在康沃尔附近吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 欧洲的历史包括恐龙时代吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 从理论上讲，保罗·班扬 (Paul Bunyan) 对于城市规划师来说是不是一个糟糕的选择？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 植物进行光合作用所需的所有元素都存在于火星大气中吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 比尔·奈投票给了富兰克林·德拉诺·罗斯福吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 非罗姆人使用“吉普赛”这个词可以吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 以色列国在 16 世纪是否拥有一个伊斯兰帝国？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 7 根西葫芦是否能满足美国农业部规定的钾每日推荐量？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 英国汽车 Mini 是第一辆制造出来的汽车吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 不用脱水机可以制作辣椒粉吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 孟加拉猫只吃煎饼能活下来吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 一只流浪信天翁能够不间断地从布加勒斯特飞到纽约吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 纽约公共图书馆出售 Alpo 产品吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 托尼·贝内特 (Tony Bennett) 的中间名是否与前 UFC 冠军相同？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 黑寡妇会用桃子吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 人们在火人节上比平常更容易晒伤吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 拉胡尔德拉维德 (Rahul Dravid) 曾经踢过球吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 一位海洋学家会研究多门科学吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 超级英雄小说是以数字形式发明的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 两只刚出生的美国黑熊幼崽可以睡在一张特大号床上吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Aldi 的食品会因为过期而打折吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 黑胡椒的主要成分是甜椒粉吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 受身会停止动能吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在卡萨布兰卡买 BLT 三明治难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 斯诺登山每年的降水量会淹没一根直立的保龄球瓶吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 斯坦利·鲍德温之前或之后有一位女首相吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 白头鹰会在 B-52 之前传递紧急信息吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 职业拳击手的牙科费用能低吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 苏斯博士的一生没有悲剧吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 杰克逊·波洛克的父母小时候不需要宣誓效忠吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 圣地亚哥县是 Shamu 的故乡吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 飞天面条怪是古代万神殿的一部分吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 伊丽莎白二世统治巴利阿里群岛吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 足球大战至少持续了一个月吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 洛伦佐·德·美第奇对达·芬奇的赞助是独家的吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 有人参加伊斯兰教的最后的晚餐吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 孟加拉猫会害怕抓鱼吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 贝尼托·墨索里尼穿的鞋子比哈夫·比约恩松穿的鞋子大吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 鲍比·金达尔 (Bobby Jindal) 的高中吉祥物会吃粗磨谷物吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 美国国会大厦位于白宫附近吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 如果没有伐木工，获取卫生纸会很困难吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 伊基·波普 (Iggy Pop) 的名字是随他父亲的名字吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 预防性医疗保健能减少性传播疾病的传播吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 《美女与野兽》中无生命的物体是否活了过来？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 班迪球有可能在德克萨斯州流行吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 对于骨骼生长来说，羽衣甘蓝比菠菜更有益吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 穿越亚马逊河流是否会危及生命？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 最初的任天堂是否有与 Playstation 3 相同格式的游戏？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 斐波那契数列是否比在圆周率 (Pi) 中发现的每个数字都长？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 有洁癖的人能参加柔道吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 秋天是在美国收集熊皮的好时机吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 有没有能激发饮食失调患者兴趣的粉红音乐视频？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 小阿尔·昂塞尔赢得了太空竞赛吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 魔兽世界比一条面包重吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 艺电从《银河战士》的销售中获利了吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 幼儿园老师会讲授《新约》吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 艾米怀恩豪斯的现场表演总是很完美吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 凤尾鱼披萨里有骨头吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 你能把篮球藏在沙猫的耳朵里吗？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 伊凡雷帝的父亲和祖父有更好听的昵称吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 阿米巴变形虫能免受乳腺癌的侵害吗？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 在 20 世纪 80 年代的中国，Pi 是可以接受的子女数量吗？",
+        "output": "No"
+    }
+]

@@ -1,0 +1,5002 @@
+[
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how long did it take the twin towers to be built",
+        "output": "11.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings love you like there's no tomorrow",
+        "output": "Chris Young"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many seasons of scream queens are there",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the lakers made the playoffs",
+        "output": "2013"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many episodes in a season of stranger things",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i hear you knocking but you can't come in",
+        "output": "Dave Edmunds"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who came up with the show the voice",
+        "output": "John de Mol"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the wild west start and end",
+        "output": "1865"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the rams play in the super bowl",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song oh what a night",
+        "output": "The Four Seasons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i want to be with you everywhere",
+        "output": "Fleetwood Mac"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played mary magdalene in jesus christ superstar",
+        "output": "Yvonne Elliman"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the book of lamentations in the bible",
+        "output": "Jeremiah"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most instagram followers on instagram",
+        "output": "Cristiano Ronaldo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what episode of the office is the roast",
+        "output": "Stress Relief"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who produces the most pistachios in the world",
+        "output": "Iran"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the arizona cardinals stadium",
+        "output": "State Farm Stadium"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i've never been to me",
+        "output": "Charlene"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many states does the rocky mountains cover",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang let's go all the way",
+        "output": "Sly Fox"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won america's got talent in 2015",
+        "output": "Paul Zerdin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the age limit for girl scouts",
+        "output": "5.0 18.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the steelers played the panthers",
+        "output": "2019-08-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time republicans won the popular vote",
+        "output": "2004"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the cubs won the world series",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the new pound coin come out",
+        "output": "2017-03-28"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was michael jordan drafted to the nba",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when is the last time the constitution was amended",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who were the characters in singing in the rain",
+        "output": "Donald O'Connor"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how long is the average freight train car",
+        "output": "55.0 67.0 feet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i'll make a man out of you",
+        "output": "Donny Osmond"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did tom brady win his first ring",
+        "output": "2002"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the world cup going to be held",
+        "output": "Qatar"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the tweenies characters",
+        "output": "Judy"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays black panther in the movie black panther",
+        "output": "Chadwick Boseman"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what channel number is the cw on directv",
+        "output": "385.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does the amazing world of gumball end",
+        "output": "2019-06-24"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang what is love baby don't hurt me",
+        "output": "Haddaway"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the active ingredient in all fda approved hand sanitizers",
+        "output": "ethanol"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did genie in a bottle come out",
+        "output": "1999"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who starred in the movie bridge over the river kwai",
+        "output": "William Holden"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what were the names of the knights of the round table",
+        "output": "Gareth"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the host of america has talent",
+        "output": "Simon Cowell"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings lord it's hard to be humble",
+        "output": "Mac Davis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song take me to church",
+        "output": "Hozier"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did need for speed the movie come out",
+        "output": "2014-03-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the models on price is right",
+        "output": "James O'Halloran"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who led the north in the civil war",
+        "output": "Abraham Lincoln"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played snow white in once upon a time",
+        "output": "Ginnifer Goodwin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the oldest man who ever lived",
+        "output": "Jeanne Calment"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many times has australia won the cricket world cup",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i will always love you first dolly parton or whitney houston",
+        "output": "Porter Wagoner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the first president of america",
+        "output": "George Washington"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the college in animal house",
+        "output": "faber college"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "actors in the movie gone in 60 seconds",
+        "output": "Angelina Jolie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many seasons are there of the cosby show",
+        "output": "8.0 seasons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first cricket world cup held",
+        "output": "1975"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the god of the underworld in greek mythology",
+        "output": "Hades"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did don't smile at me come out",
+        "output": "2017-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played charlene darling on the andy griffith show",
+        "output": "Maggie Peterson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the captain of west indies in cricket",
+        "output": "Jason Holder"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the largest lake in new zealand",
+        "output": "Lake Taupo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the author of a long way gone",
+        "output": "Ishmael Beah"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the us leave the vietnam war",
+        "output": "1973-03-29"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played harley quinn in the suicide squad",
+        "output": "Margot Robbie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of the state of maine",
+        "output": "1338000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played tj on head of the class",
+        "output": "Billy Connolly"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played peter quill in guardians of the galaxy",
+        "output": "Chris Pratt"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the samsung galaxy s6 edge released",
+        "output": "2015-04-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "100 things to do before high school cast",
+        "output": "Jack DeSena"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings someone that i used to know",
+        "output": "Gotye"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many gallons are in a whiskey barrel",
+        "output": "53.0 gallons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did america fight in the revolutionary war",
+        "output": "Great Britain"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did bennie and the jets come out",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the united states was out of debt",
+        "output": "1835-01-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song you're my everything",
+        "output": "Santa Esmeralda"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i love the nightlife",
+        "output": "Alicia Bridges"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "teams that have never won a world series",
+        "output": "Seattle Mariners"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was known as the maid of orleans",
+        "output": "Joan of Arc"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who ran the first sub four minute mile",
+        "output": "Roger Bannister"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i've got spurs that jingle jangle jingle",
+        "output": "Gene Autry"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the first battle in the vietnam war",
+        "output": "Battle of Ia Drang"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played in this year's super bowl",
+        "output": "Los Angeles Rams"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the current surgeon general of the united states",
+        "output": "Jerome Adams"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played rachel in the original blade runner",
+        "output": "Sean Young"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the longest bridge in the united states located",
+        "output": "Lake Pontchartrain"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who came up with the idea of father's day",
+        "output": "Sonora Smart Dodd"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the last name guzman originate from",
+        "output": "Spain"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song please don't go",
+        "output": "KC and the Sunshine Band"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who holds the record for most rushing yards in a game",
+        "output": "Adrian Peterson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the richest person to ever live",
+        "output": "Mansa Musa"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the most subscribed youtuber in the world",
+        "output": "T-Series"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is times square located in new york city",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "does full house beat a straight in poker",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what radio station are the pittsburgh pirates on",
+        "output": "KDKA-FM"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the coach for the toronto raptors",
+        "output": "Nick Nurse"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song you were always on my mind",
+        "output": "Johnny Christopher"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actor that plays john wick",
+        "output": "Keanu Reeves"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings take a look at me now",
+        "output": "Phil Collins"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings back in the high life again",
+        "output": "Steve Winwood"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings going to the chapel and we're gonna get married",
+        "output": "The Dixie Cups"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the american flag made out of",
+        "output": "nylon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the statue of liberty come from",
+        "output": "Liberty Island"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings come together right now over me",
+        "output": "The Beatles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the main actor in the show arrow",
+        "output": "Katie Cassidy"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the best record in the major league",
+        "output": "New York Yankees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang now that we found love what are we gonna do with it",
+        "output": "Heavy D"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played belle in beauty and the beast",
+        "output": "Emma Watson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was while my guitar gently weeps written",
+        "output": "1968"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song fox on the run",
+        "output": "The Sweet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is 10 to the power of 10",
+        "output": "10000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the magnitude of the northridge earthquake",
+        "output": "6.7"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings bartender i really did it this time",
+        "output": "Rehab"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the current population of phoenix arizona",
+        "output": "1626000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most grammys of all time",
+        "output": "Georg Solti"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the current population of albuquerque new mexico",
+        "output": "558545.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i can see clearly now",
+        "output": "Ray Charles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the first president in south africa",
+        "output": "Nelson Mandela"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did they build the statue of liberty",
+        "output": "1875-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song here comes the sun",
+        "output": "George Harrison"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the first movie to have color",
+        "output": "With Our King and Queen Through India"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many episodes are in season two of my hero academia",
+        "output": "25.0 episodes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does the premier league schedule come out",
+        "output": "2019-06-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song sugar pie honey bunch",
+        "output": "Four Tops"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the hall of fame game played",
+        "output": "Tom Benson Hall of Fame Stadium"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the prize for winning so you think you can dance",
+        "output": "250000.0 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song fly me to the moon",
+        "output": "Frank Sinatra"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did power rangers mystic force come out",
+        "output": "2006-02-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nba games does each team play",
+        "output": "82.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the girl that plays in fifty shades of grey",
+        "output": "Dakota Johnson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays the cat in cat in the hat",
+        "output": "Mike Myers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who does the voice of vinnie on family guy",
+        "output": "Tony Sirico"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang what doesn't kill you makes you stronger",
+        "output": "Kelly Clarkson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the world series the last five years",
+        "output": "Houston Astros"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did call of duty world at war come out",
+        "output": "2008-11-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most number one country hits",
+        "output": "George Strait"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song what condition my condition was in",
+        "output": "Bettye LaVette"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the mom in that 70s show",
+        "output": "Debra Jo Rupp"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of sumter south carolina",
+        "output": "39982.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when is the gay parade in chicago illinois",
+        "output": "2019-06-30"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played gaston in the movie beauty and the beast",
+        "output": "Luke Evans"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many holy days of obligation are there in the catholic church",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings wild thing you make my heart sing",
+        "output": "The Troggs"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "has there ever been a hurricane named kathy",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song have you ever seen the rain",
+        "output": "Creedence Clearwater Revival"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the declaration of human rights written",
+        "output": "1948"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the tv show stranger things filmed",
+        "output": "Atlanta"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what teams are in the atlantic sun conference",
+        "output": "Lipscomb Bisons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song you broke up with me",
+        "output": "Walker Hayes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the hottest temperature recorded in new york",
+        "output": "108.0 °F"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the majority in congress right now",
+        "output": "Republican Party"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where did the battle of gettysburg take place",
+        "output": "Pennsylvania"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did chicago cubs win the world series",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who got promoted to the premier league last year",
+        "output": "Cardiff City F.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what word in the english language has the most syllables",
+        "output": "pneumonoultramicroscopicsilicovolcanoconiosis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the state capital of new mexico",
+        "output": "Santa Fe"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who holds the world record for holding their breath the longest",
+        "output": "Tom Sietas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the bad guy in guardians of the galaxy",
+        "output": "Ronan the Accuser"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is the republic of ireland part of the united kingdom",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first episode of only fools and horses made",
+        "output": "1981-09-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time nadal won wimbledon",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays avery in dog with a blog",
+        "output": "G Hannelius"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the poem twinkle twinkle little star",
+        "output": "Jane Taylor"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings never met a girl like you before",
+        "output": "Edwyn Collins"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was five nights at freddy's made",
+        "output": "2014-08-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the movie black panther come out",
+        "output": "2018-02-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played johnny cash in i walk the line",
+        "output": "Joaquin Phoenix"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings all i need is the air that i breathe",
+        "output": "The Hollies"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang didn't i blow your mind this time",
+        "output": "The Delfonics"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did charlie and the chocolate factory come out",
+        "output": "2005-07-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the legal drinking age in turkey",
+        "output": "18.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "did tom cruise sing in rock of ages",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the golf hall of fame located",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did beauty and the beast open on broadway",
+        "output": "1994-04-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does captain america winter soldier take place",
+        "output": "Washington, D.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the oldest living person ever recorded",
+        "output": "Jeanne Calment"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the matrix movies",
+        "output": "The Matrix trilogy"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the dogs name from toy story",
+        "output": "Slinky Dog"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the last volcanic eruption in the united states",
+        "output": "2018"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote i got you under my skin",
+        "output": "Cole Porter"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the longest major league baseball game in history",
+        "output": "Longest professional baseball game"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the first baseman for the yankees",
+        "output": "Edwin Encarnación"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the first person that walked on the moon",
+        "output": "Neil Armstrong"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nfl football teams are in california",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the man walk on the moon",
+        "output": "july 20, 1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many ivy league schools are there in the united states",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song walk like a man",
+        "output": "Frankie Valli"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote take it to the limit by the eagles",
+        "output": "Randy Meisner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the tv show the kitchen filmed",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the oldest nba player still playing",
+        "output": "Vince Carter"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays uncle josh in girl meets world",
+        "output": "Uriah Shelton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the diameter of the earth at the equator",
+        "output": "7917.5 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played chelsea on two and a half men",
+        "output": "Jennifer Taylor"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many us troops died in the vietnam war",
+        "output": "58220.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said neither a borrower or a lender be",
+        "output": "Polonius"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i did it my way first",
+        "output": "Frank Sinatra"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song jim dandy to the rescue",
+        "output": "Black Oak Arkansas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the biggest store in the world",
+        "output": "South Korea"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the highest paid mlb baseball player",
+        "output": "Mike Trout"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang those were the days my friends",
+        "output": "Mary Hopkin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was raiders of the lost ark released",
+        "output": "1981-06-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the very first fast food restaurant",
+        "output": "McDonald's"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the minimum school leaving age in the uk",
+        "output": "18.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays gandalf in lord of the rings",
+        "output": "Ian McKellen"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang these boots were made for walking",
+        "output": "Nancy Sinatra"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the oldest player to play in the nfl",
+        "output": "George Blanda"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the biggest jumbotron in the nfl",
+        "output": "Houston Texans"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays will horton on days of our lives",
+        "output": "Dylan Patton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the senators from the state of california",
+        "output": "Dianne Feinstein"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song first time ever i saw your face",
+        "output": "Roberta Flack"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the weight of an iphone 7",
+        "output": "4.87 ounces"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "dna replication occurs in which phase of the cell cycle",
+        "output": "S phase"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who replaced johnny carson on the tonight show",
+        "output": "Jay Leno"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many vertices does a square based pyramid have",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was season one of stranger things filmed",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the yankees won a world series",
+        "output": "2009"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who starred in the day the earth stood still",
+        "output": "Michael Rennie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang wake me up before you go go",
+        "output": "Wham!"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the elevation in las vegas nevada",
+        "output": "610.0 meters"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when are they making a new season of riverdale",
+        "output": "2019-10-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when were the rules for colonizing africa established",
+        "output": "1884"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what county is cherry hill new jersey in",
+        "output": "Camden County"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the other name of red cross",
+        "output": "International Red Cross and Red Crescent Movement"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the national college football championship last year",
+        "output": "Alabama Crimson Tide football"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote fear and loathing in las vegas",
+        "output": "Hunter S. Thompson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what air force base is near pensacola florida",
+        "output": "Naval Air Station Pensacola"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of fred flintstones wife",
+        "output": "Wilma Flintstone"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the original godzilla movie come out",
+        "output": "1954-10-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most steals in nba history",
+        "output": "John Stockton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the wife in everybody loves raymond",
+        "output": "Patricia Heaton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the story beauty and the beast come out",
+        "output": "1740"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the actors in the movie red",
+        "output": "Mary-Louise Parker"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many wind turbines are there in the united states",
+        "output": "57636.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the name of the new star wars",
+        "output": "Star Wars Episode IX: The Rise of Skywalker"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song arms of an angel",
+        "output": "Sarah McLachlan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song these boots are made for walking",
+        "output": "Nancy Sinatra"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who does millie bobby brown play in stranger things",
+        "output": "Eleven"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays the ice king in adventure time",
+        "output": "Tom Kenny"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the diamondbacks win the world series",
+        "output": "2001"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the coach for the cleveland cavaliers",
+        "output": "John Beilein"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the song tainted love come out",
+        "output": "1981"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did liverpool last win the premier league",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the name of the hurricane that hit puerto rico",
+        "output": "Hurricane Maria"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the smallest state in the united states of america",
+        "output": "Rhode Island"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the oldest person to climb everest",
+        "output": "Yūichirō Miura"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the atlanta braves won the world series",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did leicester city win the premier league",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the age to drink in canada",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what songs did elton john write for the lion king",
+        "output": "Circle of Life"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is number one on the forbes list",
+        "output": "Jeff Bezos"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who got relegated last season from the premier league",
+        "output": "Cardiff City F.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did scotland become part of great britain",
+        "output": "1707"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most goals in champions league history",
+        "output": "Cristiano Ronaldo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said and now the rest of the story",
+        "output": "Paul Harvey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang ain't no sunshine when she's gone",
+        "output": "Bill Withers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won last year's mlb all-star game",
+        "output": "American League"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song my boyfriend's back",
+        "output": "The Angels"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang when you say nothing at all",
+        "output": "Ronan Keating"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the most decorated gymnast of all time",
+        "output": "Simone Biles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the columbia river start and end",
+        "output": "Columbia Lake"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the biggest fair in the united states",
+        "output": "Minnesota State Fair"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has a red nose chip or dale",
+        "output": "dale"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who starred in beneath the planet of the apes",
+        "output": "Charlton Heston"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the four parts of disney world",
+        "output": "Magic Kingdom"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many ounces is a shot of liquor",
+        "output": "1.5 ounces"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the country song how do you like me now",
+        "output": "Toby Keith"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is orange is the new black filmed",
+        "output": "New York"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was the movie sense and sensibility filmed",
+        "output": "Flete House"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is in the movie fifty shades of grey",
+        "output": "Jennifer Ehle"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did argentina win their first world cup",
+        "output": "1978"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the most successful football club in the world",
+        "output": "Real Madrid CF"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what day does labor day fall on in 2018",
+        "output": "2018-09-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays pam in that 70's show",
+        "output": "Eve Plumb"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang sitting by the dock of the bay",
+        "output": "Otis Redding"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the colorado rockies win the world series",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the present defense minister of india",
+        "output": "Rajnath Singh"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i can't get no satisfaction",
+        "output": "The Rolling Stones"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who does the voiceover on celebs go dating",
+        "output": "Rob Beckett"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did hawaii become a state of the united states",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did fifty shades of grey come out",
+        "output": "2015-02-13"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the movie chitty chitty bang bang made",
+        "output": "1968-12-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song call me the breeze",
+        "output": "JJ Cale"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the show the office take place",
+        "output": "Pennsylvania"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was a league of their own filmed",
+        "output": "1992-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what element on the periodic table has the highest melting point",
+        "output": "carbon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings we don't need no education",
+        "output": "Pink Floyd"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the last person executed by firing squad",
+        "output": "Ronnie Lee Gardner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many amendments are there in the us",
+        "output": "27.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings everything i do i do for you",
+        "output": "Bryan Adams"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many points does stephen curry have in his career",
+        "output": "16315.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song oh what a night",
+        "output": "The Four Seasons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where do red ear slider turtles come from",
+        "output": "Gulf of Mexico"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did free agency start in the nba",
+        "output": "1988"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played in diary of a wimpy kid",
+        "output": "Robert Capron"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song don't stop thinking about tomorrow",
+        "output": "Fleetwood Mac"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the price of gas in 1979",
+        "output": "0.86 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the second person to walk on the moon",
+        "output": "Buzz Aldrin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the world series the most times",
+        "output": "New York Yankees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how much gold is there in fort knox",
+        "output": "147300000.0 ounces"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is fez from in that 70 show",
+        "output": "Home Island"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did persia change its name to iran",
+        "output": "1935"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings if it's meant to be",
+        "output": "Bebe Rexha"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays count olaf in a series of unfortunate events",
+        "output": "Neil Patrick Harris"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is it from atlanta georgia to mobile alabama",
+        "output": "328.1 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many miles from waco texas to dallas texas",
+        "output": "95.0 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings to make you feel my love",
+        "output": "Adele"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song too much time on my hands",
+        "output": "Styx"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nba titles did michael jordan win",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang we all live in a yellow submarine",
+        "output": "The Beatles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is corpus christi texas to austin texas",
+        "output": "216.9 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did lynyrd skynyrd released sweet home alabama",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is eli manning still the quarterback for the giants",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who coined the phrase let sleeping dogs lie",
+        "output": "Geoffrey Chaucer"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote i can't make you love me",
+        "output": "Mike Reid"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was last time liverpool won a trophy",
+        "output": "2019"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who stars in fresh prince of bel air",
+        "output": "Tatyana Ali"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the hottest recorded temperature on earth",
+        "output": "134.1 °F"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the guillotine was used in france",
+        "output": "1981-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played peter parker in the amazing spider man",
+        "output": "Andrew Garfield"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is wells blue bunny ice cream made",
+        "output": "Plymouth"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did keeping up with the kardashians air",
+        "output": "2007-10-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nba titles does kobe bryant have",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i never promised you a rose garden",
+        "output": "Lynn Anderson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song abraham martin and john",
+        "output": "The Miracles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first legend of zelda game released",
+        "output": "1986-02-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is san diego from tijuana mexico",
+        "output": "31.9 kilometers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the head of the mafia called",
+        "output": "crime boss"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many ounces in a handle of vodka",
+        "output": "59.2 ounces"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did barbie life in the dreamhouse come out",
+        "output": "2012-05-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i fought the law and the law won",
+        "output": "The Clash"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when were the twin towers in new york city built",
+        "output": "2006-04-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the tin man in the wizard of oz",
+        "output": "Jack Haley"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i wear my sunglasses at night",
+        "output": "Corey Hart"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the steelers went to the super bowl",
+        "output": "2011-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who starred in the movie the king and i",
+        "output": "Rita Moreno"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the declaration of independence first signed",
+        "output": "1776-08-02"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what city is ferris bueller's day off in",
+        "output": "Chicago"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the worlds most accurate clock located",
+        "output": "North America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the original jaws movie come out",
+        "output": "1975-06-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song you can leave your hat on",
+        "output": "Randy Newman"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many players are on the nfl roster",
+        "output": "53.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of williston north dakota",
+        "output": "25586.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the arch angels",
+        "output": "Gabriel"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are all the wizard of oz movies",
+        "output": "The Wizard of Oz"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the last us president to be assassinated",
+        "output": "John F. Kennedy"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did they stop making the wheat penny",
+        "output": "1958"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the mgm grand built in las vegas",
+        "output": "1993-12-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the padres win the world series",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the playoffs for the super bowl",
+        "output": "Arthurs"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the philadelphia phillies win the world series",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "did the cleveland browns win a super bowl",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the members in bts",
+        "output": "J-Hope"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the first actual president of the united states",
+        "output": "George Washington"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the uk join the european union",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what movie is the song a whole new world from",
+        "output": "Aladdin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actor that does the allstate commercials",
+        "output": "Dennis Haysbert"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far from charlotte north carolina to charleston south carolina",
+        "output": "209.5 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of palm bay florida",
+        "output": "114194.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where are the olympics being held in 2024",
+        "output": "France"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the last time someone walked on the moon",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is washington dc one of the 50 states",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings amy what you wanna do",
+        "output": "Pure Prairie League"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the blackhawks win the stanley cup",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the black sheriff in blazing saddles",
+        "output": "Cleavon Little"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the tallest human being in the world",
+        "output": "Robert Wadlow"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when do the minnesota vikings play their first game",
+        "output": "1961-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many minutes are in a boxing round",
+        "output": "3.0 minutes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings all i want for christmas is you",
+        "output": "Mariah Carey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i think it's going to rain today",
+        "output": "Randy Newman"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the judges for america got talent",
+        "output": "Simon Cowell"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the 2017 nba rookie of the year",
+        "output": "Malcolm Brogdon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many pages are in harry potter books",
+        "output": "3407.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many pages are in the land of stories book 1",
+        "output": "438.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how much is a piece of eight worth",
+        "output": "50.0 2000.0 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's face is on the dollar bill",
+        "output": "George Washington"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when do we celebrate children's day in india",
+        "output": "11-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang splish splash i was taking a bath",
+        "output": "Bobby Darin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many presidents of the us have there been",
+        "output": "45.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what age was queen elizabeth when she became queen",
+        "output": "27.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i got the moves like jagger",
+        "output": "Maroon 5"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the music for land of hope and glory",
+        "output": "Edward Elgar"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song when will i be loved",
+        "output": "Linda Ronstadt"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the bluest skies are in seattle",
+        "output": "Perry Como"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who have the colts played in the super bowl",
+        "output": "New York Jets"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many episodes are there in season two of attack on titan",
+        "output": "12.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays horton in horton hears a who",
+        "output": "Jim Carrey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did fresh prince of bel air come out",
+        "output": "1990-09-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the book for whom the bell tolls",
+        "output": "Ernest Hemingway"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who got the most technical fouls in the nba",
+        "output": "Rasheed Wallace"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who were the original members of canned heat",
+        "output": "Bob Hite"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song take this job and shove it",
+        "output": "David Allan Coe"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song the house of the rising sun",
+        "output": "Georgia Turner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first christian communities appear in britain",
+        "output": "1st century"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where do they play the red river rivalry",
+        "output": "Dallas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the tour de france last year",
+        "output": "Egan Bernal"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the book a wrinkle in time written",
+        "output": "1960"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who originally sang the house of the rising sun",
+        "output": "The Animals"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang can you feel the love tonight",
+        "output": "Nathan Lane"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who were the actors that played james bond",
+        "output": "Pierce Brosnan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings finally it's happened to me",
+        "output": "CeCe Peniston"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the names of the five great lakes",
+        "output": "Lake Michigan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the area codes for new jersey",
+        "output": "609.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the hot dog eating contest last year",
+        "output": "Joey Chestnut"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who voices tiana in princess and the frog",
+        "output": "Anika Noni Rose"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many planet are in our solar system",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the main hubs for southwest airlines",
+        "output": "Chicago"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what year did the movie the sound of music come out",
+        "output": "1965"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the movie snow white come out",
+        "output": "1937"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the lowest point of the earth",
+        "output": "Dead Sea"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many days has it been since michigan beat ohio state",
+        "output": "2892.0 days"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the original exorcist movie come out",
+        "output": "1973-12-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song i'm coming home",
+        "output": "Diddy – Dirty Money"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did lion king come out in theaters",
+        "output": "2019-07-09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actress who plays ginny weasley",
+        "output": "Bonnie Wright"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many parks are there in new york city",
+        "output": "1700.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the median salary in the us",
+        "output": "56516.0 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the mom on everybody loves raymond",
+        "output": "Doris Roberts"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the last name collins originate from",
+        "output": "Ireland"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the children's names in despicable me",
+        "output": "edith"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song it's been awhile",
+        "output": "Staind"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the french open tennis this year",
+        "output": "Kevin Krawietz"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did friday the 13th game come out",
+        "output": "2017-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the first chief justice of the supreme court",
+        "output": "John Jay"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the original song hooked on a feeling",
+        "output": "B.J. Thomas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the most popular song in 1981",
+        "output": "Bette Davis Eyes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actor that plays mathias on longmire",
+        "output": "Zahn McClarnon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the 7 mile bridge in the keys",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the original version of red red wine",
+        "output": "Neil Diamond"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when do you have to be born to be considered a millennial",
+        "output": "1981-1996"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most instagram followers in the world",
+        "output": "Cristiano Ronaldo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did rebel without a cause come out",
+        "output": "1955"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time manchester united won the champions league",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played billy in one flew over the cuckoo's nest",
+        "output": "Brad Dourif"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang we're not gonna take it",
+        "output": "Twisted Sister"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the second largest country in south america",
+        "output": "Argentina"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many chapters are in the westing game",
+        "output": "30.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the miracle on the hudson happen",
+        "output": "2009-01-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most wins in the nfl",
+        "output": "Chicago Bears"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the oldest golfer to win a pga tournament",
+        "output": "Sam Snead"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most gold gloves in mlb history",
+        "output": "Greg Maddux"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the population of fargo north dakota",
+        "output": "122359.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings here we go again on my own",
+        "output": "Whitesnake"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who had the highest batting average in the al in 2011",
+        "output": "Miguel Cabrera"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where are elk found in the united states",
+        "output": "Idaho"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the original host of the price is right",
+        "output": "Bill Cullen"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "which layer of the epidermis is responsible for cell division and replacement",
+        "output": "Stratum basale"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the elevation of roswell new mexico",
+        "output": "3573.0 feet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is running for the democratic party in 2020",
+        "output": "Joe Biden"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the characters from stranger things",
+        "output": "Eleven"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when is the next marvel movie coming out",
+        "output": "2019-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the book of corinthians in the bible",
+        "output": "Paul"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the original drummer for guns and roses",
+        "output": "Rob Gardner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the population of the us in 1970",
+        "output": "203200000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the colors of alpha chi omega",
+        "output": "olive"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the songs for singing in the rain",
+        "output": "Arthur Freed"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the highest grossing box office film of all time",
+        "output": "Avengers: Endgame"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actor that plays james bond",
+        "output": "Roger Moore"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the capital of the united arab emirate's",
+        "output": "Abu Dhabi"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played guitar on the monkees song valerie",
+        "output": "Louis Shelton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who voices ellie in the last of us",
+        "output": "Ashley Johnson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many seasons of chicago pd is there",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when is the next world cup being played",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the offensive coordinator for the tampa bay buccaneers",
+        "output": "Byron Leftwich"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the last person executed by firing squad in the united states",
+        "output": "Ronnie Lee Gardner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was season six of game of thrones filmed",
+        "output": "Croatia"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who does tom hanks play in toy story",
+        "output": "Sheriff Woody"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the highest on base percentage in the mlb",
+        "output": "Ted Williams"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the us declare war in vietnam",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "which airport is the biggest in the united states",
+        "output": "Hartsfield–Jackson Atlanta International Airport"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings don't be afraid of the dark",
+        "output": "Robert Cray"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said we have not yet begun to fight",
+        "output": "John Paul Jones"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings we are never getting back together",
+        "output": "Taylor Swift"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when were electric christmas tree lights first used",
+        "output": "1882"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played in the super bowl in 2014",
+        "output": "Seattle Seahawks"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the temperature in palo alto california",
+        "output": "69.0 °F"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said life is a bowl of cherries",
+        "output": "Lew Brown"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the fourth prime minister of india",
+        "output": "Morarji Desai"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what countries are a part of the eu",
+        "output": "Germany"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the three most populated states in the united states",
+        "output": "Florida"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the difference between pacific time and mountain time",
+        "output": "1.0 hours"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many votes did each state get under the articles of confederation",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is in england's group in the world cup",
+        "output": "Tonga"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did days of our lives come out",
+        "output": "1965-11-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the highest waterfall in the us",
+        "output": "Oloʻupena Falls"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the san andreas fault located at",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many episodes of the waltons are there",
+        "output": "221.0 episodes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the detroit tigers win the world series",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did man city get promoted to the premier league",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the elevation of pikes peak in colorado",
+        "output": "4302.0 meters"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did captain america the first avenger come out",
+        "output": "2011-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played in the streets of san francisco",
+        "output": "Richard Hatch"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first touchscreen phone come out",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the wicked witch of the west",
+        "output": "Elphaba"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did new zealand become a british colony",
+        "output": "1840"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did harry potter and the cursed child open on broadway",
+        "output": "2018-04-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the story of cinderella take place",
+        "output": "France"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the lead singer in pearl jam",
+        "output": "Eddie Vedder"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is in the new england patriots division",
+        "output": "New York Jets"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's the quarterback for the cincinnati bengals",
+        "output": "Andy Dalton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many times did england win the world cup",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i can't live without you",
+        "output": "Harry Nilsson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time boston bruins won the cup",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has won the most tour de france stages",
+        "output": "Eddy Merckx"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote what a tangled web we weave",
+        "output": "Walter Scott"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who came up with the butterfly effect theory",
+        "output": "Edward Norton Lorenz"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was black mirror filmed shut up and dance",
+        "output": "United Kingdom"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is hawaii part of the north american continent",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what animals are on the endangered species list",
+        "output": "Panthera pardus orientalis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the tour de france in 1985",
+        "output": "Bernard Hinault"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nuclear power plants are there in california",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many teams did shaq play for in the nba",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what season does hershel die in the walking dead",
+        "output": "9.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the last women's world cup soccer",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the engines called in thomas the tank engine",
+        "output": "Emily"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time pakistan won the world cup",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the creator of roblox",
+        "output": "Erik Cassel"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what hotel was the las vegas shooting at",
+        "output": "Mandalay Bay"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the actors in the big lebowski",
+        "output": "Jeff Bridges"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays the mean girl in princess diaries",
+        "output": "Mandy Moore"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the notebook supposed to take place",
+        "output": "Seabrook Island"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the black and white tv come out",
+        "output": "1936"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the characters in the lion king",
+        "output": "Chiwetel Ejiofor"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the starting quarterback for the vikings",
+        "output": "Kirk Cousins"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "1 l is equal to how many ml",
+        "output": "1000.0 milliliters"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays rose on two and a half men",
+        "output": "Melanie Lynskey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the art of racing in the rain",
+        "output": "Garth Stein"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does the next champions league season start",
+        "output": "2019-10-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the champions league final last year",
+        "output": "Liverpool F.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the world trade center first built",
+        "output": "1973"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song straight from the heart",
+        "output": "Bryan Adams"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the men's wimbledon final this year",
+        "output": "Novak Djokovic"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the drinking age in the philippines",
+        "output": "18.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does hurricane season start in the united states",
+        "output": "06-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the name of the yellow car in cars",
+        "output": "Cruz Ramirez"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has scored the most points in nba",
+        "output": "Kareem Abdul-Jabbar"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many bones does a human being have in their body",
+        "output": "206.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many how to train your dragon books are there",
+        "output": "18.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was the very first mcdonald's built",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the lion the witch and the wardrobe first published",
+        "output": "1950-10-16"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays anastasia steele in fifty shades of grey",
+        "output": "Dakota Johnson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actor who plays doctor strange",
+        "output": "Benedict Cumberbatch"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's the coach of the cleveland cavaliers",
+        "output": "John Beilein"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the rams win the super bowl",
+        "output": "2000"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who established the first private orphanage in new york city",
+        "output": "Alexander Hamilton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where did the expression it's not over till the fat lady sings",
+        "output": "Dan Cook"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last death by firing squad",
+        "output": "2010-06-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what do you call a person who only eats fish",
+        "output": "pescetarianism"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the largest city in the continental united states",
+        "output": "Jacksonville"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who starred in dragon the bruce lee story",
+        "output": "Jason Scott Lee"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the guardians of the galaxy come out",
+        "output": "2014-08-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how long is the term for a us senator",
+        "output": "6.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was hawaii before it became a state",
+        "output": "kingdom"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays rick and morty in rick and morty",
+        "output": "Justin Roiland"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was the movie the war wagon filmed",
+        "output": "Mexico"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the current height of mount everest",
+        "output": "8848.0 meters"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has won the most seasons of the voice",
+        "output": "Blake Shelton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the hulk in the tv series",
+        "output": "Bill Bixby"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i want to know your name",
+        "output": "The Whispers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the voice of the little mermaid",
+        "output": "Jodi Benson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i saw the sign",
+        "output": "Ace of Base"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the mlb world series in 2002",
+        "output": "Los Angeles Angels"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first friday the 13th movie released",
+        "output": "1980-01-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's the tallest man in the nfl",
+        "output": "Richard Sligh"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did they stop using knob and tube",
+        "output": "1940"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the density of the continental crust",
+        "output": "2.833 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the chameleon in tangled",
+        "output": "Pascal"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is des moines from waterloo iowa",
+        "output": "128.7 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the seattle supersonics move to oklahoma city",
+        "output": "2008–09"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the korean war start and end",
+        "output": "1950-06-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings loving you is easy cause you're beautiful",
+        "output": "Minnie Riperton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the corpse in the big chill",
+        "output": "Kevin Costner"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the super bowl trophy named after",
+        "output": "Vince Lombardi"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings do you think you're better off alone",
+        "output": "Alice DeeJay"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most hits for the minnesota twins",
+        "output": "Sam Rice"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many countries are in the continent africa",
+        "output": "54.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "which is the most intelligent bird in the world",
+        "output": "Kea"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays boromir in lord of the rings",
+        "output": "Sean Bean"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang i say a little prayer for you",
+        "output": "Dionne Warwick"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played in the war of the roses",
+        "output": "Marianne Sägebrecht"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did kevin durant play for before the warriors",
+        "output": "Oklahoma City Thunder"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the us open this year in golf",
+        "output": "Gary Woodland"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is there such thing as international men's day",
+        "output": "yes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the original singer of where is the love",
+        "output": "Roberta Flack"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played ramsay bolton in game of thrones",
+        "output": "Iwan Rheon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did star wars a new hope come out",
+        "output": "1977-05-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of silver spring maryland",
+        "output": "71452.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many albums does dave matthews band have",
+        "output": "105.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the malcolm in the middle theme song",
+        "output": "They Might Be Giants"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many miles from atlanta georgia to new york",
+        "output": "862.9 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nba teams have never won a championship",
+        "output": "11.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how long is yonge street in toronto canada",
+        "output": "1178.0 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many times has man united won the champions league",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the official languages of south africa",
+        "output": "Afrikaans"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the general manager of the new york yankees",
+        "output": "Brian Cashman"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the blackhawks won the stanley cup",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays thomas on the bold and the beautiful",
+        "output": "Pierson Fode"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays in the night of the museum",
+        "output": "Owen Wilson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the tallest center in the nba",
+        "output": "Gheorghe Mureșan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the captain of australian cricket team",
+        "output": "Tim Paine"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did the steelers lose to in the super bowl",
+        "output": "Green Bay Packers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the new york jets starting quarterback",
+        "output": "Sam Darnold"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how long is a representatives term of office",
+        "output": "2.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the hotel where the shining was filmed",
+        "output": "Timberline Lodge"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what nfl quarterback has the most career passing yards",
+        "output": "Drew Brees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the main characters in harry potter",
+        "output": "Hermione Granger"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time lsu won the national championship",
+        "output": "2007"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what year did the toy story movies come out",
+        "output": "2010"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what year did the movie footloose come out",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many peachtree streets are there in atlanta",
+        "output": "71.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song every breath you take",
+        "output": "The Police"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the original members of lynyrd skynyrd",
+        "output": "Ronnie Van Zant"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the celtics won the championship",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who led the nba in steals this year",
+        "output": "Paul George"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the best record in professional baseball",
+        "output": "New York Yankees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of the lower mainland",
+        "output": "2759000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the name of the phoenix airport",
+        "output": "Phoenix Sky Harbor International Airport"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i'm so lonesome i could cry",
+        "output": "Hank Williams"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang zing went the strings of my heart",
+        "output": "Judy Garland"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the first season of big brother",
+        "output": "Eddie McGee"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played lois lane in the original superman",
+        "output": "Margot Kidder"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many runways are there at gatwick airport",
+        "output": "2.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the meaning of asi in police",
+        "output": "Assistant sub-inspector of police"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the brother on everybody loves raymond",
+        "output": "robert barone"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "list of the tallest buildings in new york",
+        "output": "One World Trade Center"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was indiana jones and the last crusade filmed",
+        "output": "1989"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are all the presidents on mount rushmore",
+        "output": "Abraham Lincoln"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said perfect is the enemy of good",
+        "output": "Voltaire"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "largest state in the united states by population",
+        "output": "California"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does prentis come back to criminal minds",
+        "output": "Paget Brewster (Prentiss) returned for a guest appearance  2014 and the season 11 episode \"Tribute\" in early 2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many seasons has there been of stranger things",
+        "output": "3.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who scored the most goals in the premier league this year",
+        "output": "Sadio Mané"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said the british are coming the british are coming",
+        "output": "Paul Revere"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how tall is expedition everest at disney world",
+        "output": "199.0 feet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the youngest dwarf in the hobbit",
+        "output": "Thorin II"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the all-time scoring leader in the nba",
+        "output": "Kareem Abdul-Jabbar"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played paladin in have gun will travel",
+        "output": "Richard Boone"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the best batting average in mlb history",
+        "output": "Ty Cobb"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how long did sex and the city run",
+        "output": "6.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays henry mills in once upon a time",
+        "output": "Jared S. Gilmore"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the name of the beast in beauty and the beast",
+        "output": "Adam"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song when a man loves a woman",
+        "output": "Percy Sledge"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the relaxation phase of the cardiac cycle called",
+        "output": "diastole"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many times have the seahawks been to the playoffs",
+        "output": "17.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who scored the highest points in nba history",
+        "output": "Kareem Abdul-Jabbar"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the last golden state warriors game",
+        "output": "Los Angeles Lakers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the hyenas name in lion king",
+        "output": "Shenzi"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is crestview florida from destin florida",
+        "output": "36.4 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the very first disney princess movie",
+        "output": "Snow White and the Seven Dwarfs"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote how much is that doggie in the window",
+        "output": "Bob Merrill"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what kinds of fish are in lake superior",
+        "output": "Walleye"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings when will i see you again",
+        "output": "The Three Degrees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "the cast of the tv show chicago pd",
+        "output": "Marina Squerciati"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the tour de france take place",
+        "output": "France"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the movie sling blade come out",
+        "output": "1996-11-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the theme song for the series outlander",
+        "output": "Bear McCreary"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the metropolitan museum of art located",
+        "output": "New York"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "does air force one have an escape pod",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what do they call mickey mouse in france",
+        "output": "Mickey Mouse"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the oldest person in little mix",
+        "output": "Jesy Nelson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays barney stinson in how i met your mother",
+        "output": "Neil Patrick Harris"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did they stop making 50 cent pieces",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings listen to the rhythm of the falling rain",
+        "output": "The Cascades"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song tied to the whipping post",
+        "output": "Allman Brothers Band"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the constitution of the united states signed",
+        "output": "1787-09-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the great lakes of michigan",
+        "output": "Lake Michigan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the phillies went to the world series",
+        "output": "2008"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the last 10 ncaa football championships",
+        "output": "Ohio State Buckeyes"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the most medals in the olympics",
+        "output": "Michael Phelps"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how old is the lead singer of three days grace",
+        "output": "41.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the man with the yellow hat",
+        "output": "Ted Shackleford"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the mascot for the arizona diamondbacks",
+        "output": "d. baxter the bobcat"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the longest distance anyone has run",
+        "output": "350.0 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was andy's girlfriend on the andy griffith show",
+        "output": "Helen Crump"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many miles from tampa florida to miami florida",
+        "output": "280.0 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the elevation of the grapevine in california",
+        "output": "1499.0 feet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the quarterback for new england patriots",
+        "output": "Tom Brady"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the universal declaration of human rights created",
+        "output": "1948-12-10"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "frankie goes to hollywood power of love what year",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the smallest bone in your body located",
+        "output": "middle ear"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many compartments does a human stomach have",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what nfl team has the most wins in history",
+        "output": "Chicago Bears"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is love it or list it located",
+        "output": "Ontario"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first episode of ghost adventures air",
+        "output": "2018-10-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "first british team to win a european trophy",
+        "output": "Celtic F.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many episodes of game of thrones are there",
+        "output": "73.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the first america's got talent",
+        "output": "Bianca Ryan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how tall is the hollywood tower of terror",
+        "output": "61.0 meters"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played edith bunker on all in the family",
+        "output": "Jean Stapleton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings in the arms of an angel",
+        "output": "Sarah McLachlan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the baseball world series in 2017",
+        "output": "Houston Astros"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the national championship in college football last year",
+        "output": "Alabama Crimson Tide football"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the original charlie and the chocolate factory made",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what does fast stand for in relation to strokes",
+        "output": "FAST"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the first cut is the deepest",
+        "output": "Rod Stewart"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when do you have to be born to be a millennial",
+        "output": "1981.0 1996.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang you make my dreams come true",
+        "output": "Daryl Hall & John Oates"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the island of the dolls located",
+        "output": "Mexico"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song take a walk on the wild side",
+        "output": "Lou Reed"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many died in the las vegas shooting",
+        "output": "58.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played momma in throw momma from the train",
+        "output": "Anne Ramsey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who makes the diesel engine in the jeep grand cherokee",
+        "output": "VM Motori"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the first time i ever saw your face",
+        "output": "Roberta Flack"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first guardians of the galaxy movie come out",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does mark sloan die in grey's anatomy",
+        "output": "2012-09-27"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what musical is the song i enjoy being a girl from",
+        "output": "Flower Drum Song"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the lyrics for candle in the wind",
+        "output": "Bernie Taupin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is hosting the world cup in 2026",
+        "output": "Mexico"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does jurassic world fallen kingdom come out",
+        "output": "2018-05-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did pretty little liars first come out",
+        "output": "2010-06-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is there a campaign in rainbow six siege",
+        "output": "no"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the lion king movie come out",
+        "output": "2019-07-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many series of game of thrones is there",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was the first mcdonald's restaurant opened",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the tallest pitcher in the mlb",
+        "output": "Jon Rauch"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the daughter in national lampoon's christmas vacation",
+        "output": "Ellen Hamilton Latzen"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how much does a big mac cost in america",
+        "output": "5.58 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where are they playing the little league world series",
+        "output": "South Williamsport"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the story beauty and the beast",
+        "output": "Gabrielle-Suzanne de Villeneuve"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song i believe in you",
+        "output": "Roger Cook"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the laverne and shirley theme song",
+        "output": "Cyndi Grecco"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays ridge forrester on the bold and the beautiful",
+        "output": "Ronn Moss"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what year did flaming hot cheetos come out",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many games does a college baseball team play",
+        "output": "56.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song 30 days in the hole",
+        "output": "Humble Pie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the score for lord of the rings",
+        "output": "Howard Shore"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the movie good burger come out",
+        "output": "1997-07-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the speaker of the us house of representatives",
+        "output": "Nancy Pelosi"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who recorded ain't no mountain high enough",
+        "output": "Marvin Gaye"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actress in gone with the wind",
+        "output": "Hattie McDaniel"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the most eastern point in the united states",
+        "output": "Maine"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most major wins in golf",
+        "output": "Jack Nicklaus"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the largest island in the mediterranean sea",
+        "output": "Sicily"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where did dorothy live in the wizard of oz",
+        "output": "Kansas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang it's my party and i'll cry if i want to",
+        "output": "Lesley Gore"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where did the battle of alamo take place",
+        "output": "Texas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many wineries are there in washington state",
+        "output": "900.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of utica new york",
+        "output": "60635.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang are we human or are we dancers",
+        "output": "The Killers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is scooby doo's nephew's name",
+        "output": "Scrappy-Doo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the deepest part of the ocean located",
+        "output": "Challenger Deep"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was divorce legalized in the united states",
+        "output": "1969"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many times have the penguins won the stanley cup",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the fastest production car in the world",
+        "output": "Automobiles Ettore Bugatti"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many floors is the tallest building in america",
+        "output": "104.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is a steering wheel on a ship called",
+        "output": "ship's wheel"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what kind of car was the dukes of hazzard car",
+        "output": "Dodge Charger"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many nba finals have the bulls won",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who had the first idea of an airplane",
+        "output": "Wright Brothers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the women's wimbledon championship this year",
+        "output": "Simona Halep"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where will the next world cup be held",
+        "output": "Qatar"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played paula in an officer and a gentleman",
+        "output": "Debra Winger"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings keep on rollin with the flow",
+        "output": "Charlie Rich"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the rookie of the year nba",
+        "output": "Luka Dončić"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the highest batting average this year",
+        "output": "Ty Cobb"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the actors in officer and a gentleman",
+        "output": "Debra Winger"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays mandy baxter on last man standing",
+        "output": "Molly Ephraim"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the governor general of canada live",
+        "output": "Ottawa"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said nothing in life is promised except death",
+        "output": "Kanye West"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the pink ranger in power rangers",
+        "output": "Kimberly Hart"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the yellowstone river start and end",
+        "output": "Missouri River"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did michael jordan first start playing basketball",
+        "output": "1984"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what country's flag is white with a red cross",
+        "output": "Denmark"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did samuel l jackson play in star wars",
+        "output": "Mace Windu"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the super bowl falcons or patriots",
+        "output": "Arthurs"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does the sturgis rally start this year",
+        "output": "2019-08-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the women's basketball coach at notre dame",
+        "output": "Muffet McGraw"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did bradley walsh play in coronation street",
+        "output": "Danny Baldwin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the current vice president of india",
+        "output": "Muppavarapu Venkaiah Naidu"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the movie danny collins based on",
+        "output": "Steve Tilston"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays scotty in the new star trek",
+        "output": "Simon Pegg"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what flag has a white background with a red cross",
+        "output": "Kingdom of England"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when is the next world cup going to be",
+        "output": "2022"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many seasons of game of thrones were there",
+        "output": "8.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did they stop making the crown victoria",
+        "output": "2011"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many british monarchs have there been since 1900",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was candlestick park in san francisco built",
+        "output": "1960-04-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first hobbit movie come out",
+        "output": "2012-12-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the members of the band u2",
+        "output": "Bono"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first ford model t made",
+        "output": "1908"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song never gonna give you up",
+        "output": "Rick Astley"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the most assists ever in an nba game",
+        "output": "Scott Skiles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song hold your head up",
+        "output": "Rod Argent"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song you make me feel",
+        "output": "Carole King"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i fought the law and the law won",
+        "output": "The Clash"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the voice of jessie in toy story",
+        "output": "Joan Cusack"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the length of an african elephant",
+        "output": "24.6 feet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did mamma mia the movie come out",
+        "output": "2008-07-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the raiders went to the super bowl",
+        "output": "2003-01-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song you don't own me",
+        "output": "David White"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of grand forks bc",
+        "output": "4049.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who does the voice of bridget in the movie trolls",
+        "output": "Zooey Deschanel"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first mad max come out",
+        "output": "1980-02-15"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was roy orbison's first number one hit",
+        "output": "Running Scared"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the latest star wars movie called",
+        "output": "Star Wars Episode IX: The Rise of Skywalker"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many 60 point games does kobe bryant have",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song in the garden of eden",
+        "output": "Iron Butterfly"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the london bridge located in the united states",
+        "output": "Arizona"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many super bowl rings do the 49ers have",
+        "output": "5.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the most games in the nba",
+        "output": "Golden State Warriors"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first mario kart come out",
+        "output": "1992"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the language of antigua and barbuda",
+        "output": "English"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is a chickpea a pea or a bean",
+        "output": "bean"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did the los angeles lakers pick up",
+        "output": "Anthony Davis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the theme song for love boat",
+        "output": "Jack Jones"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang something in the way she moves",
+        "output": "The Beatles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song where have all the flowers gone",
+        "output": "Pete Seeger"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings play that funky music white boy",
+        "output": "Wild Cherry"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song i want you to want me",
+        "output": "Cheap Trick"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played miss honey in the movie matilda",
+        "output": "Embeth Davidtz"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings we can learn to love again",
+        "output": "P!nk"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i'm on the edge of glory",
+        "output": "Lady Gaga"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many episodes are in the second season of stranger things",
+        "output": "25.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did hong kong go back to china",
+        "output": "1997-07-01"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i like the way you move",
+        "output": "BodyRockers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i'm only human",
+        "output": "Rag'n'Bone Man"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings this guys in love with you",
+        "output": "Herb Alpert"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the largest airport in the united states by size",
+        "output": "Hartsfield–Jackson Atlanta International Airport"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many punters are in the nfl hall of fame",
+        "output": "1.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the appalachian trail begin and end",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the series game of thrones start",
+        "output": "2011-04-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song the lion sleeps tonight",
+        "output": "The Tokens"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the united states secretary of education",
+        "output": "Betsy DeVos"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song nobody knows it but me",
+        "output": "Tony Rich"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the detroit lions won a championship",
+        "output": "1957"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the average height of a basketball player in the nba",
+        "output": "6.7 feet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who performed at last year's super bowl",
+        "output": "Justin Timberlake"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the house of the rising sun released",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played charlie in the perks of being a wallflower",
+        "output": "Logan Lerman"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the movie 9 to 5 made",
+        "output": "1980-12-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song there is no arizona",
+        "output": "Jamie O'Neal"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song mother nature's son",
+        "output": "Lennon–McCartney"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings it don't hurt like it used to",
+        "output": "Billy Currington"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang killing me softly with his song",
+        "output": "Fugees"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played duncan in some kind of wonderful",
+        "output": "Elias Koteas"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang tie a yellow ribbon round the old oak tree",
+        "output": "Tony Orlando and Dawn"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played emily valentine in beverly hills 90210",
+        "output": "Christine Elise"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "before mount everest was discovered what was the tallest mountain in the world",
+        "output": "K2"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the macbook pro with touch bar released",
+        "output": "2016"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the average height of a male human",
+        "output": "175.4 centimeters"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the tallest building in the philippines",
+        "output": "Grand Hyatt Manila"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where do the arizona diamondbacks have spring training",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is spartanburg south carolina from greenville south carolina",
+        "output": "31.8 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did they stop using the electric chair",
+        "output": "2008-02-08"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who were the stars of singing in the rain",
+        "output": "Debbie Reynolds"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what part of new york is time square",
+        "output": "Midtown Manhattan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most turnovers in nba history",
+        "output": "Karl Malone"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played george jefferson on all in the family",
+        "output": "Sherman Hemsley"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang you are the sunshine of my life",
+        "output": "Carmen McRae"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most masters wins in golf",
+        "output": "Jack Nicklaus"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the hairy maclary series of books",
+        "output": "Lynley Dodd"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did harry potter and the deathly hollows come out",
+        "output": "2007-07-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is lewisville texas from arlington texas",
+        "output": "31.0 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the baker in into the woods",
+        "output": "Chip Zien"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was hawaii added to the united states",
+        "output": "1959-08-21"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the names of the four ninja turtles",
+        "output": "Leonardo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song i need you now",
+        "output": "Lady Antebellum"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i'm easy like sunday morning",
+        "output": "Commodores"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the 2020 summer olympics going to be held",
+        "output": "Tokyo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is evansville indiana from indianapolis indiana",
+        "output": "172.3 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many brain cells are in the brain",
+        "output": "100000000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most home runs in college baseball",
+        "output": "Pete Incaviglia"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the highest elevation in new mexico",
+        "output": "Wheeler Peak"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the highest possible score in yahtzee",
+        "output": "1535.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the population of twin falls idaho",
+        "output": "49202.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the order of the twilight saga",
+        "output": "The Twilight Saga: New Moon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did breath of the wild come out",
+        "output": "2017-03-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the arch built in st. louis",
+        "output": "1963-02-12"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song can't get no satisfaction",
+        "output": "Mick Jagger"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings don't blame it on me",
+        "output": "Calvin Harris"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the lead singer of the beautiful south",
+        "output": "Paul Heaton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most gold medals in the olympics",
+        "output": "Michael Phelps"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time humans were on the moon",
+        "output": "1972-12-11"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song band on the run",
+        "output": "Paul McCartney"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the main character in sling blade",
+        "output": "karl childers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many career goals does wayne gretzky have",
+        "output": "894.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the name of the volcano that destroyed pompeii",
+        "output": "Mount Vesuvius"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the northernmost point in the continental united states",
+        "output": "Angle Township"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the highest amount of followers on instagram",
+        "output": "Cristiano Ronaldo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what was the name of the ghost of christmas past",
+        "output": "Jacob Marley"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how far is augusta georgia from south carolina",
+        "output": "66.4 miles"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did the song you don't know what it's like",
+        "output": "Econoline Crush"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many gallons of water are there in lake michigan",
+        "output": "6000000000000000.0 gallons"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays the dad in nicky ricky dicky and dawn",
+        "output": "Brian Stepanek"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where do you find day and night equal",
+        "output": "March equinox"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did in the heat of the night come out",
+        "output": "1988-03-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song you can ring my bell",
+        "output": "Anita Ward"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the father on this is us",
+        "output": "Tim Matheson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many pages is in the first harry potter book",
+        "output": "223.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the last formula one grand prix",
+        "output": "Lewis Hamilton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang you'll always find me in the kitchen at parties",
+        "output": "Jona Lewie"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when does the new season of blacklist come out",
+        "output": "2019-01-03"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "is the united states in the northern or southern hemisphere",
+        "output": "Northern Hemisphere"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the first casino open in atlantic city",
+        "output": "1978-05-26"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the legal drinking age in holland",
+        "output": "18.0 years"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the record for the hundred yard dash",
+        "output": "9.58 seconds"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what's the most points jordan ever scored",
+        "output": "63.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the young tom riddle in harry potter",
+        "output": "Hero Beauregard Faulkner Fiennes Tiffin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who holds the record for the most hotdogs eaten",
+        "output": "Joey Chestnut"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the actor that plays jax in sons of anarchy",
+        "output": "Charlie Hunnam"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the highest shooting percentage in the nba",
+        "output": "DeAndre Jordan"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i'm giving up on you",
+        "output": "A Great Big World"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many seasons is there of downton abbey",
+        "output": "6.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does call me by your name take place",
+        "output": "Italy"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most homers in the mlb",
+        "output": "Barry Bonds"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the first person who made anime",
+        "output": "Osamu Tezuka"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the medical term for sweating blood",
+        "output": "hematidrosis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the bay bridge in maryland built",
+        "output": "1952"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the kangaroos name in winnie the pooh",
+        "output": "Roo"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did guardians of the galaxy come out",
+        "output": "2014-07-31"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the salary of the american president",
+        "output": "400000.0 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the words to the song amazing grace",
+        "output": "John Newton"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was suite life of zack and cody made",
+        "output": "2005-03-18"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the biggest river in the usa",
+        "output": "Mississippi River"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings if he ever singles you up",
+        "output": "Jordan Davis"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what year did the movie disorderlies come out",
+        "output": "1987-08-14"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won last year's fa cup final",
+        "output": "Manchester City F.C."
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the song in the year 2525",
+        "output": "Zager and Evans"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who does ted marry in how i met your mother",
+        "output": "The Mother"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the rockies won the world series",
+        "output": "2012"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played mike brady in the brady bunch",
+        "output": "Robert Reed"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings this heart needs a second chance",
+        "output": "38 Special"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many points do you get for a strike in bowling",
+        "output": "10.0 other unit"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the current population of the city of los angeles",
+        "output": "4000000.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays miranda bailey in grey's anatomy",
+        "output": "Chandra Wilson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i can't fight this feeling",
+        "output": "REO Speedwagon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang thats the night the lights went out in georgia",
+        "output": "Vicki Lawrence"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song whiter shade of pale",
+        "output": "Procol Harum"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings high on the mountain of love",
+        "output": "Johnny Rivers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did america get involved in vietnam war",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song i can't live if living is without you",
+        "output": "Harry Nilsson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the oldest president we've ever had",
+        "output": "Donald Trump"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who was the primary author of the declaration of independence",
+        "output": "Thomas Jefferson"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what day is the first day of the week",
+        "output": "Sunday"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang have you seen the most beautiful girl in the world",
+        "output": "Charlie Rich"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what county is rapid city south dakota in",
+        "output": "Pennington County"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the us gain independence from britain",
+        "output": "1776-07-04"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the current minimum wage in the us",
+        "output": "7.25 US dollars"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the monkeys name in the movie aladdin",
+        "output": "Abu"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did apollo 11 first land on the moon",
+        "output": "1969-07-20"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who came up with the theory of everything",
+        "output": "Stephen Hawking"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "which country has the largest population in europe",
+        "output": "Russia"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings i'm in the corner watching you kiss her",
+        "output": "Calum Scott"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the us go off the gold standard",
+        "output": "1971"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did scars to your beautiful come out",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the most championships in the nba",
+        "output": "Bill Russell"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's face is on $100 bill",
+        "output": "Benjamin Franklin"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "actors in the fast and the furious tokyo drift",
+        "output": "Sung Kang"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played felix in once upon a time",
+        "output": "Parker Croft"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first fast and furious film made",
+        "output": "2001-06-22"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who plays regina mills in once upon a time",
+        "output": "Lana Parrilla"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who discovered the law of conservation of mass",
+        "output": "Antoine Laurent Lavoisier"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is known as the painter of light",
+        "output": "Thomas Kinkade"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the largest city in the uk",
+        "output": "London"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what are the largest metropolitan areas in the us",
+        "output": "Los Angeles metropolitan area"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang the song build me up buttercup",
+        "output": "The Foundations"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many letters are in the danish alphabet",
+        "output": "29.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did ice age collision course come out",
+        "output": "2016-06-19"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings working my way back to you babe",
+        "output": "The Spinners"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played charlie in willy wonka and the chocolate factory",
+        "output": "Peter Ostrum"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who owns the plaza hotel in new york city",
+        "output": "Katara Hospitality"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who owns the taj mahal in atlantic city",
+        "output": "Hard Rock Cafe"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who wrote the books of the bible in the new testament",
+        "output": "Paul"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is the shortest player to ever play in the mlb",
+        "output": "Eddie Gaedel"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did get rich or die trying come out",
+        "output": "2003-02-06"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who has the biggest contract in the nba",
+        "output": "Kevin Durant"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where does the song you are my sunshine come from",
+        "output": "United States of America"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the song blinded by the light",
+        "output": "Manfred Mann"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where is the champions league final going to be",
+        "output": "Madrid"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the cowboys won a super bowl",
+        "output": "1993-01-17"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings because the night belongs to lovers",
+        "output": "Patti Smith"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did stacy's mom song come out",
+        "output": "2003"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's got the most subscribers on youtube",
+        "output": "T-Series"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the first 50 cent piece made",
+        "output": "1964"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the constitution of the united states written",
+        "output": "1787"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played trapper john in the tv series mash",
+        "output": "Wayne Rogers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played the mom in everybody loves raymond",
+        "output": "Doris Roberts"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sang get by with a little help from my friends",
+        "output": "Dustin the Turkey"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "how many world cups has the us women's team won",
+        "output": "4.0"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did puerto rico become a part of the united states",
+        "output": "1898"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who did the cubs win the world series against",
+        "output": "Cleveland Indians"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the women's national championship in basketball",
+        "output": "Baylor Lady Bears basketball"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what is the cruising speed of a boeing 737",
+        "output": "564.0 miles per hour"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who is rocket in guardians of the galaxy",
+        "output": "Sean Gunn"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who said to be or not to be that is the question",
+        "output": "Prince Hamlet"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings it's just the way it is",
+        "output": "Bruce Hornsby"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won last year's college football championship",
+        "output": "Clemson Tigers football"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who are the actors that played james bond",
+        "output": "Roger Moore"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings can't take my eyes off of you",
+        "output": "Frankie Valli"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who won the last men's fifa world cup",
+        "output": "France"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the cleveland browns won a playoff game",
+        "output": "1995"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings cecilia you're breaking my heart",
+        "output": "The Vamps"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when did the wizard of oz come out",
+        "output": "1939-08-25"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who's on the cover of fifa 17",
+        "output": "Marco Reus"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who played gloria on all in the family",
+        "output": "Sally Struthers"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "which general became emperor of france in the wake of the french revolution",
+        "output": "Napoleon"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "who sings the original dukes of hazzard theme song",
+        "output": "Waylon Jennings"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "candy bars that start with the letter t",
+        "output": "Toblerone"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "when was the last time the bengals were in the playoffs",
+        "output": "2015"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "where was the movie saddle the wind filmed",
+        "output": "Colorado"
+    },
+    {
+        "instruction": "Please answer the following question correctly.",
+        "input": "what flag has one star and red and white stripes",
+        "output": "Liberia"
+    }
+]

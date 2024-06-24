@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジョージア州のアルバニーはニューヨーク州のアルバニーよりも先に10万人の居住者に達するでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: セントビンセントおよびグレナディーン諸島で使用されている言語は英語に由来していますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 七つの大罪の中で、最も蔓延しているのは貪欲でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 富士山の頂上は日本海から突き出ているでしょうか？ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: リル・ジョンのビルボード1位の曲はザ・ロックスのメンバーとのコラボレーションだったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: マイアミはアメリカ西海岸の都市ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: スイス衛兵はバージニア州議会の議席を埋めることができるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ポルトガル植民地戦争において、第二次世界大戦におけるスイスの役割を共有した国はありましたか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ピクト人は古英語に混乱するでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: リル・ウェインはキャリアの初期に自分で車を運転することが合法だったのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: カラチで十字架が見つかる可能性はありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ボッティチェリの『ヴィーナスの誕生』のクリエイティブ・コモンズ・ライセンスを売られた人は詐欺に遭ったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 10ガロンの海水は6歳児を押しつぶす可能性がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 暖かい水よりも冷たい水にアンチョビが多く生息するのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 3D プリントでアデノウイルスを作ることはできますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジョージ・フォックスは石打ちを支持するだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ダース・ベイダーが誰なのかを知るにはスター・ウォーズを見る必要がありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: コンピューターを完全にブール代数でプログラムすることはできますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: クリスティーナ・アギレラは『ザ・ヴォイス』でケリー・クラークソンのために椅子を回転させたのだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ナルカンがあればエイミー・ワインハウスの死は防げただろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: マングースは砂漠に適した自然なカモフラージュを持っているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: バッファローウィングが好きな人はカプサイシンも好きでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ブルース・リーは1964年のワシントン大学の卒業式に欠席したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ブルック・シールズはペンシルベニア大学で成功できるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: マリストの学生はボートチームを作るために請願しなければならないのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 第一世代の iPhone に 10 万匹の lolcat が収まるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ルセフは故郷の人口過剰を心配しなければならないのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ピーチ姫のドレスは桃の実に似ていますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 精神病患者はアメリカ空軍に入隊できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: バスケットにビングを入れてもいいですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 中央処理装置には通常、専用のファンが付いていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: シリル・ラマポーザはNATOの事務総長になれるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ブルックリンはパン製品で有名ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イギリス空軍は義和団の乱で戦いましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: フランソワ・ミッテランはフランス軍でナポレオン・ボナパルトの下で勤務しましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アメーバは癌になることがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: コレラは生きているのか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 一般的にサツマイモとパイナップルを混同する人はいるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: マイアミでペンギンを見つけるのは普通のことでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: リンパ節の腫瘍は無視できるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: MCUでスパイダーマンはファルコンと戦いましたか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: シヴァの神聖なダンスは古代の体力強化のポーズなのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ブロードウェイミュージカルにハイエナは登場しますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: フクロウザルはイチゴを楽しむでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ヘビはM60パットンを飲み込むことができますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アベンジャーズコミックスは DC コミックス ストアでは場違いでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ペルシャ湾はニュージャージー州に収まるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 身長と体重から判断すると、ニコール・キッドマンはサイロック役に理想的な選択でしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: バーニー・サンダースは200ドル以下でメトロポリタン美術館を20回訪問できるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Planned Parenthood は、あなたが単純ヘルペスウイルスに感染していることを大学に伝えることができますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 仮想的な戦いではアキレスがレゴラスに勝つでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ブカレストはエジプトの南に位置していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 岩石は地球の大気圏で浮くでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: サイは人間の性生活を改善するために殺されてきたのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ABBA の男女構成はママス＆パパスと似ていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『若草物語』の著者は、憲法修正第13条の批准を覚えていただろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Reddit ユーザーの大半は忠誠の誓いについて知っていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 子供たちは南極にクリスマスの手紙を送るのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: マルーン5はニルヴァーナと一緒にツアーに行きましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イベンダー・ホリフィールドが2020年にボクシングに復帰すれば、年齢記録を樹立することになるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ポスト・マローンは注射が怖いのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 米西戦争中のアメリカ大統領はエイブラハム・リンカーンと同様の死を遂げたのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イブは近親相姦関係にありましたか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: リル・ウェインに似た本名のラッパーはウェインのグラミー賞を4回以上受賞している？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 地球の外核ではニッケルは沸騰するのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ドロテア・ウェンドリングはポルシェ発祥の地の出身ですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 手術は実存的危機を防ぐことができるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アル・ファラビは偉大なるシェイクの弟子だったのですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 塩素をナトリウムと混ぜて摂取するのは危険ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ブラジリアン柔術の創始者グレイシーには少なくとも13人の子供がいたのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: モーツァルトはドルチェ＆ガッバーナから何かを買ったことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 正統派長老派教会の信者は 1700 年代の裁判官の服装に異議を唱えるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『微生物の古代についての行』はどんな俳句よりも短いのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『マトリックス』の監督はトランスジェンダーの権利を擁護していますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: キタオットセイは運転免許試験に合格するでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 毎年、ロイ・ロジャースよりも多くの人がタコベルに出入りするのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 紅海でイエローパーチを見つけるのは珍しいことでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ゾッド将軍はサムスン Galaxy S4 よりも iPhone を好むでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ネアンデルタール人は算数を使っていましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『スポーツマンシップに富んだチャーリー・ブラウン』に出てくる動物は、仮に猟犬だったのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: JKローリングの本の中に『そして誰もいなくなった』というジャンルの本はありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジェイ・Zはルイ・アームストロングとコラボレーションしたことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 英国では長さはメートルで測定されますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: クリストファー・コロンブスは、元の出身国とは別の国を代表して航海したのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 青い唇は正常ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジョン・ブラウワー・ミノックは神経性食欲不振症を患っていたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: オセロは、シェヘラザードに王と過ごす時間を最大限に与えるためのシェイクスピアの戯曲でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 2009年のヒラリー・クリントンの副首席補佐官は洗礼を受けたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ヒクイドリはツルよりも安全なペットですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ニューイングランドからセインズベリーまで車で行けますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: PG ウッドハウスは2年生で教えられるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『不思議の国のアリス』では、タバコの使用が楽しいものであるかのように描かれているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: サイモン・コーウェルは次期最高裁判事に投票できるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 1933 年の大恐慌による失業者は全員タイガー スタジアムに収容できるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 成人男性はドナテッロのブロンズ製ダビデ像の上に立ち、システィーナ礼拝堂の天井に触れることができるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イギリスはアラブ・イスラエル紛争に直接関与したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『不思議の国のアリス』はマクベスに影響を与えたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ツキノワグマは多色ですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 海賊の中尉は海軍の中尉と似ていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 完成したウェブサイトには lorem ipsum 段落が必要ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ビーバーダムの近くの土地は被害を受けますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ウィル・フェレルがエンパイア賞の最優秀新人賞を受賞するのは難しいでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: シンシア・パウエルはジョン・レノンと銀婚式を祝ったのだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アル・パチーノは第二次世界大戦中に映画に出演しましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: グジャラート文字は漢字と同じカテゴリの文字ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: モリス郡は最高裁判所長官にちなんで名付けられたのですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 超大型望遠鏡は地球上で最も大きな山を観測できるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 牛のメタンは自動車よりも環境に安全ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: モロッコは水上スキーには理想的な場所ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アマゾンの株1株でNetflixの20年間のサブスクリプションを購入できるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ニコラ・テスラがかつて働いていた場所には放射線があるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アル・カポネはハーレム・ルネッサンスの作品を読んだことがあるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Blue Lives Matter のメンバーは Grand Theft Auto III のあらゆる要素を支持するでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 元旦はいつも水曜日ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ダニの幼虫は標準的な穴あけパンチを通り抜けることができますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 美術商はダヴィンチの絵画が描かれたボーイング 737-800 を購入できるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ピーター・グリフィンは醸造技術の専門家であるべきでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 2008 年夏季オリンピックに Rowe 550 で行けますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エイミー・ワインハウスは『スター・ウォーズ ローグ・ワン』のファンだったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジェシー・W・ムーアは、NASA からスヌーピーをテーマにした賞を授与される可能性があるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ハチクマはオーブンの中に入りますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 籾殻は水力発電によって生産されるのですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: パウロ・コエーリョの妻はスピーチで生計を立てているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 救命ボートはフック海の人々を救助できるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: フィアットクライスラーは日本車と関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 仮にハデスとオシリスが冥界の不動産をめぐって争うことになるでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: カリフォルニア州オレンジ郡では、飛行機は静かに飛行することが義務付けられていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: パルク・デ・プランスは2020年6月中に完全に稼働していましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 小売業は誰にでも向いている仕事でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 火薬貯蔵施設で爆発が起きると超音速の衝撃波が発生するのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 塩素は100円ショップで買えますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イリエワニはアリゲーターと関係がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ペルセポネは造園家にとって良いコンサルタントになるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アポロ15号の乗組員は、一輪車に乗るのに苦労したでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: フリゲート艦を操作するにはロープが必要ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジェイソンとドクター・ディスリスペクトには何か共通点がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: セリアック病患者はスパゲッティを避けるべきでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: コアラは肉よりもユーカリを好むのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ボディビルダーはビーフバーガーよりもヘラジカバーガーを好むでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 水銀の海に沿ってコインを輸送できますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: バッグス・バニーは現実世界でオリーブの木に危害を加えるでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 芽キャベツは副腎疲労に特に効果があるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ファミリーガイはアメリカ西海岸を舞台にしているのですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ウベルランジアで三菱で働くことはできますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ウォーターゲート事件後のリチャード・ニクソンを、ハンナ・ニクソンは誇りに思うだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エディ・マーフィは幼い頃、車の中で911に電話をかけることができたでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エドモンド・ヒラリーにとって、ウィッチプルーフ山登頂は楽勝でしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ガボンの国旗の色は虹の中にありますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: モリーモークはアホウドリが生息できない場所に生息していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: カールにはヘアアイロンは必要ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エミューはヘラジカと関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ラ・グルヌイユのシェフはサルサを奇妙なリクエストだと思うでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: System of a Downはグローバリゼーションに反対ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ニューイングランドの人がコーヒーを栽培して利益を得ることができるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 卓球では素数を使いますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: Capital One Venture の 5 年間の会員であることは、Church of Satan の会員であることよりも費用対効果が高いですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ベートーベンはEDMを聴くのが好きでしたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: メタリカは自分たちの音楽を守ろうとしているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ケリー・クラークソンはアメリカン・アイドル・シーズン4の優勝者より売り上げが上回ったか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: オグロウサギはヨーロッパヤマネコを恐れるのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: カール・フリードリヒ・ガウスは100マイル離れた人と話すことができたでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ライオネル・リッチーはシーラ・Eと関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: FDA は販売期限をローマ数字で表記することを義務付けていますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: オレゴン・トレイルの旅人たちは船乗りの歌を歌ったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 白恐怖症の人はアメリカ合衆国の国旗を眺めて楽しむでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: テリ・ハッチャーは『デスパレートな妻たち』で、スーパーマン番組の2倍のエピソードに出演したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 人体では白血球の数が赤血球の数を上回っているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジョン・ジョージ・バイスの出生地はコーンウォールの近くですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ヨーロッパの歴史には恐竜の時代も含まれていますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 仮にポール・バニヤンが都市計画家として不適切な選択だったとしたらどうでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 植物の光合成に必要なすべての要素が火星の大気中に存在するのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ビル・ナイはフランクリン・デラノ・ルーズベルトに投票したのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ロマ人以外の人がジプシーという言葉を使うのは問題ないのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 16 世紀にイスラエルの地はイスラム帝国の支配下にあったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ズッキーニ 7 本で USDA の 1 日のカリウム推奨量を満たすでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イギリス車、ミニは最初に製造された車ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: パプリカは乾燥機なしでも作れますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ベンガル猫はパンケーキだけを食べて生き残れるでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ワタリアホウドリはブカレストからニューヨーク市まで休むことなく飛べるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ニューヨーク公共図書館ではアルポ製品を販売していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: トニー・ベネットのミドルネームは元UFCチャンピオンと同じでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 黒い未亡人女性は桃を必要とするでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: バーニングマンでは日焼けする可能性が通常よりも高くなりますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ラフル・ドラヴィッドはフィールドゴールを蹴ったことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 海洋学者は一人一人多くの科学を研究するのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: スーパーヒーロー小説はデジタル形式で発明されたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 生まれたばかりのアメリカクロクマの赤ちゃん 2 匹はキングサイズのベッドに収まるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アルディの食品は期限切れのため割引されるのですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 黒コショウの主原料は挽いたピーマンですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 受身をとると運動エネルギーは止まるのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: カサブランカでBLTを手に入れるのは難しいですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: スノードンの年間降水量は、直立したボウリングのピンを水没させるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: スタンリー・ボールドウィンの直前または直後に女性首相はいましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ハクトウワシはB-52より先に緊急メッセージを届けるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: プロボクサーは歯科治療費が安く済むと期待できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ドクター・スースは悲劇のない人生を送ったのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ジャクソン・ポロックの両親は子供の頃に「忠誠の誓い」を言う必要がなかったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: サンディエゴ郡はシャムウの故郷ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 空飛ぶスパゲッティ・モンスターは古代の神々の一部なのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エリザベス2世はバレアレス諸島を統治しているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: フットボール戦争は少なくとも1か月続きましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ロレンツォ・デ・メディチはダ・ヴィンチだけを特別に支援していたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イスラム教では最後の晩餐を祝う人がいるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ベンガル猫は魚を捕まえるのが怖いでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ベニート・ムッソリーニはハフソル・ビョルンソンより大きい靴を履いていたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: ボビー・ジンダルの高校のマスコットはドッグフードを食べるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アメリカ合衆国議会議事堂はホワイトハウスの近くにありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 伐採業者がいなかったらトイレットペーパーを手に入れるのは難しいでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イギー・ポップは父親にちなんで名付けられたのですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 予防医療は性感染症の感染を減らすことができるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 『美女と野獣』では無生物が生き返るのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: バンディはテキサスで人気が出る可能性はあるでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 骨の成長には、ほうれん草よりもケールのほうが効果的ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アマゾナスを歩いて横断すると命が危険にさらされるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: オリジナルの任天堂にはプレイステーション 3 と同じ形式のゲームがありましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: フィボナッチ数列は円周率で発見されたすべての数よりも長いですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 潔癖症でも柔道に参加できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アメリカで秋はクマの毛皮を集めるのに良い時期ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 摂食障害患者にとって刺激となるピンクのミュージックビデオはありますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アル・アンサー・ジュニアは宇宙開発競争に勝利したのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: World of Warcraft はパン一斤より重いですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エレクトロニック・アーツはメトロイドの販売で利益を得たのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 幼稚園の先生が新約聖書の授業をするでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: エイミー・ワインハウスはいつもライブで完璧にパフォーマンスしていたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アンチョビピザには骨が入っていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 砂猫の耳の中にバスケットボールを隠すことはできますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: イヴァン雷帝の父と祖父にはもっといいあだ名があったのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: アメーバは乳がんに対して安全ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No.",
+        "input": "Question: 1980 年代の中国では、円周率は許容できる子供の数だったのでしょうか?",
+        "output": "No"
+    }
+]

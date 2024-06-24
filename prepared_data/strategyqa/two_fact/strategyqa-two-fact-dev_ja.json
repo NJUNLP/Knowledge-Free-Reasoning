@@ -1,0 +1,1147 @@
+[
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョージア州アルバニーの人口は約75,000人 ニューヨーク州アルバニーの人口は約10万人\nQuestion: ジョージア州のアルバニーはニューヨーク州のアルバニーよりも先に10万人の居住者に達するでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: セントビンセントおよびグレナディーン諸島で話されている主な言語はビンセンシアン・クレオール語です。 ヴィンセンシアン・クレオール語は英語をベースに、フランス語、アンティル・クレオール語、南米およびアフリカの先住民言語の要素を取り入れた言語です。\nQuestion: セントビンセントおよびグレナディーン諸島で使用されている言語は英語に由来していますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 貪欲とは富と権力への憧れです。 ホワイトカラー犯罪とは、企業が人々から金銭や資産を盗むことです。 \nQuestion: 七つの大罪の中で、最も蔓延しているのは貪欲でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 日本海の平均水深は5,748フィート（1,752メートル）、最大水深は12,276フィート（3,742メートル）です。 富士山の高さは3,776.24メートル（12,389.2フィート）です。 \nQuestion: 富士山の頂上は日本海から突き出ているでしょうか？ ",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リル・ジョンのビルボード最高位の曲は「Yeah」だった。 Yeah は、Lil Jon、Usher、Ludacris のコラボレーションでした。\nQuestion: リル・ジョンのビルボード1位の曲はザ・ロックスのメンバーとのコラボレーションだったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マイアミはフロリダ州にある都市です。 フロリダ州はアメリカ東海岸の最南端の州です。\nQuestion: マイアミはアメリカ西海岸の都市ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バージニア州議会には 140 議席があります。 スイス衛兵は135人で構成されるバチカン市国の名誉衛兵です。\nQuestion: スイス衛兵はバージニア州議会の議席を埋めることができるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ポルトガル植民地戦争は、ポルトガルとアンゴラ解放人民運動を含むいくつかのグループの間で起こった戦争です。 スイスは第二次世界大戦では中立を保ち、関与しなかった。\nQuestion: ポルトガル植民地戦争において、第二次世界大戦におけるスイスの役割を共有した国はありましたか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古英語は、イングランドに住んでいたゲルマン民族のアングロサクソン人によって話されていました。 ピクト人は、現在のスコットランドに住んでいたケルト語を話す民族でした。\nQuestion: ピクト人は古英語に混乱するでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リル・ウェインのキャリアは、1995年、12歳のときにバードマンと契約し、キャッシュ・マネー・レコードにレーベル最年少メンバーとして加入したときに始まりました。 米国で自分で車を合法的に運転するには、運転免許証が必要です。\nQuestion: リル・ウェインはキャリアの初期に自分で車を運転することが合法だったのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 十字架はキリスト教のシンボルである パキスタンの人口の大半はイスラム教徒である\nQuestion: カラチで十字架が見つかる可能性はありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: クリエイティブ コモンズ ライセンスでは、著作権で保護されている作品を無料で配布できます。 パブリックドメインとみなされる作品には、著作権や使用許可は必要ありません。\nQuestion: ボッティチェリの『ヴィーナスの誕生』のクリエイティブ・コモンズ・ライセンスを売られた人は詐欺に遭ったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 6歳児の平均体重は45ポンドです。 1ガロンの海水の重さは8ポンドを少し超えます。\nQuestion: 10ガロンの海水は6歳児を押しつぶす可能性がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アンチョビは小魚の一種です。 アンチョビは大西洋、インド洋、太平洋の温帯海域に集中しています。\nQuestion: 暖かい水よりも冷たい水にアンチョビが多く生息するのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 3D プリンターには精度の面で限界があります。標準ノズル出力は約 0.4 mm です。したがって、0.4 mm 未満のものを印刷する場合、有用なアイテムは得られません。 アデノウイルスは、中型（90～100 nm）で、エンベロープを持たない（外側の脂質二重層を持たない）ウイルスであり、二本鎖 DNA ゲノムを含む二十面体の核カプシドを持っています。\nQuestion: 3D プリントでアデノウイルスを作ることはできますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョージ・フォックスは、一般にクエーカー教徒または友の会として知られる宗教友の会の創設者でした。 クエーカー教徒は平和と非暴力を主張します。\nQuestion: ジョージ・フォックスは石打ちを支持するだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スターウォーズは、これまでに制作された映画シリーズの中で最も広くパロディ化された作品の一つです。 スターウォーズ商品は、Tシャツからハロウィンコスチュームまで幅広く豊富に取り揃えられています。 \nQuestion: ダース・ベイダーが誰なのかを知るにはスター・ウォーズを見る必要がありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブール代数は、変数の値が真理値 true と false であり、通常はそれぞれ 1 と 0 で表される代数の分野です。  1 と 0 の数学は、バイナリ言語またはマシン言語とも呼ばれます。\nQuestion: コンピューターを完全にブール代数でプログラムすることはできますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: クリスティーナ・アギレラが声の審査員を務める。 ケリー・クラークソンが声の審査員を務める。\nQuestion: クリスティーナ・アギレラは『ザ・ヴォイス』でケリー・クラークソンのために椅子を回転させたのだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ナルカンは、麻薬の過剰摂取で命を落とす人の命を救う薬です。 エイミー・ワインハウスはアルコール中毒で亡くなった。\nQuestion: ナルカンがあればエイミー・ワインハウスの死は防げただろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マングースの最も一般的な毛皮の色は茶色と灰色です。 デザートカモフラージュカラーは、カフェオレブラウンとパステルグレーで構成されています。\nQuestion: マングースは砂漠に適した自然なカモフラージュを持っているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バッファローウィングは、スパイシーなソースがかかった揚げた鶏の手羽です。 辛い食べ物の辛さは唐辛子に含まれるカプサイシンから得られます。\nQuestion: バッファローウィングが好きな人はカプサイシンも好きでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルース・リーは1961年にワシントン大学に入学した。 ブルース・リーは1964年の初めに大学を中退した。\nQuestion: ブルース・リーは1964年のワシントン大学の卒業式に欠席したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルック・シールズはプリンストン大学を卒業した。 プリンストン大学は、US News によって全米第 1 位の大学としてランク付けされています。\nQuestion: ブルック・シールズはペンシルベニア大学で成功できるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マリストはハドソン川沿いにあります。 マリスト大学には男子と女子両方のボートチームがあります。\nQuestion: マリストの学生はボートチームを作るために請願しなければならないのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ロルキャットのミームはJPEG形式であることが多い jpegの平均サイズは10～30kbです。\nQuestion: 第一世代の iPhone に 10 万匹の lolcat が収まるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 人間の人口過剰は、ある国の出生率が死亡率を上回ることで発生します。 ルセフはブルガリア生まれのプロレスラーです。\nQuestion: ルセフは故郷の人口過剰を心配しなければならないのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 桃の皮は赤、オレンジ、黄色でふわふわしています。 ピーチ姫は任天堂マリオの世界のキャラクターです。\nQuestion: ピーチ姫のドレスは桃の実に似ていますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 精神疾患の病歴があると、ほとんどの人は軍隊に入隊できなくなります。 精神科患者は精神疾患の管理のために診察を受けています。\nQuestion: 精神病患者はアメリカ空軍に入隊できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Bing はデジタルオブジェクトである検索エンジンです。 バスケットは物理的な物体です。\nQuestion: バスケットにビングを入れてもいいですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: CPU はコンピューターのボード上のメインチップであり、大量の熱を発生します。 コンピューターメーカーは通常、メインボードのファンに加えて、CPU 上に専用の冷却システムを組み込みます。\nQuestion: 中央処理装置には通常、専用のファンが付いていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: シリル・ラマポーザは南アフリカの大統領である NATO事務総長はNATO加盟国の出身である\nQuestion: シリル・ラマポーザはNATOの事務総長になれるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルックリンとニューヨークのベーグルは高品質であることで世界的に知られています。 ブルックリンのピザは国内で最高と評されています。 \nQuestion: ブルックリンはパン製品で有名ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 義和団の乱は1899年から1901年にかけて起こった。 イギリス空軍は1918年4月1日に結成された。\nQuestion: イギリス空軍は義和団の乱で戦いましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フランソワ・ミッテランは1916年に生まれました。 ナポレオン・ボナパルトは1821年に亡くなった。\nQuestion: フランソワ・ミッテランはフランス軍でナポレオン・ボナパルトの下で勤務しましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメーバは単細胞生物です。 がんは、多くの不適切に形成された細胞からなる細胞組織の塊の不適切な増殖です。\nQuestion: アメーバは癌になることがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コレラは細菌の一種です。 細菌は生物とみなされます。\nQuestion: コレラは生きているのか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: サツマイモは皮が滑らかでオレンジ色をしています。 パイナップルは短くてずんぐりとした茎と丈夫でワックスのような葉を持ち、果実は黄色です。\nQuestion: 一般的にサツマイモとパイナップルを混同する人はいるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ペンギンは南半球の深くて非常に寒い地域に生息しています。 マイアミは北半球に位置し、非常に温暖な気候です。\nQuestion: マイアミでペンギンを見つけるのは普通のことでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リンパ腫は、リンパ節の腫瘍から始まる深刻なタイプの癌です。 リンパ腫は治療せずに放置すると死に至る可能性があります。\nQuestion: リンパ節の腫瘍は無視できるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『シビル・ウォー/キャプテン・アメリカ』では、意見の相違からアイアンマンとキャプテン・アメリカは敵対関係になった。 アイアンマンは、まだ忠誠を誓っているアベンジャーズのチームと戦うためにスパイダーマンを召喚しました。\nQuestion: MCUでスパイダーマンはファルコンと戦いましたか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ヨガのエクササイズでは、ナタラジャサラと呼ばれるポーズはシヴァの神聖な踊りを表しています。 このポーズは20世紀初頭に始まった新しいものである。\nQuestion: シヴァの神聖なダンスは古代の体力強化のポーズなのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スカーとはディズニーの『ライオンキング』に登場する邪悪なライオンです。 スカーの手下はハイエナの群れです。\nQuestion: ブロードウェイミュージカルにハイエナは登場しますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フクロウザルは果食動物であり、入手可能な場合は小さくて熟した果物を好みます。 イチゴの大きさはさまざまですが、一般的には幅が2インチ以下、直径が1インチ以下です。\nQuestion: フクロウザルはイチゴを楽しむでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: M60パットンは重さが数トンもある軍用戦車です。 ヘビが食べた最大の動物の一つは、体重130ポンドのインパラでした。\nQuestion: ヘビはM60パットンを飲み込むことができますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アベンジャーズはマーベルが制作した漫画です。 マーベルと DC はライバル企業であり、それぞれ独自の製品ラインと商品を持っています。 \nQuestion: アベンジャーズコミックスは DC コミックス ストアでは場違いでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ペルシャ湾の面積は96,912平方マイルです。 ニュージャージー州の面積は7,417平方マイルです。\nQuestion: ペルシャ湾はニュージャージー州に収まるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: サイロックはマーベルのスーパーヒーローで、本名はベッツィ・ブラドックです。 ベッツィ・ブラドックは身長5フィート11インチ、体重155ポンドです。\nQuestion: 身長と体重から判断すると、ニコール・キッドマンはサイロック役に理想的な選択でしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バーニー・サンダースは高齢者である NY、NJ、CT以外の地域の高齢者は1回の訪問につき17ドルを支払う必要があります。\nQuestion: バーニー・サンダースは200ドル以下でメトロポリタン美術館を20回訪問できるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Planned Parenthood は生殖医療を専門としています。 Planned Parenthood の医療従事者は、HIPAA により、患者の情報を一切開示しない義務を負っています。 \nQuestion: Planned Parenthood は、あなたが単純ヘルペスウイルスに感染していることを大学に伝えることができますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アキレスはかかとを矢で刺されて死んだギリシャの英雄です。 レゴラスは『ロード・オブ・ザ・リング』に登場するエルフの射手で、驚くほど速く矢を射ることができます。\nQuestion: 仮想的な戦いではアキレスがレゴラスに勝つでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ルーマニアのブカレストは東ヨーロッパに位置しています。 エジプトはアフリカにあります。\nQuestion: ブカレストはエジプトの南に位置していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 物体が浮き上がるのは、周囲の物質よりも密度が低い場合のみです。 岩石は空気よりも密度が高い。\nQuestion: 岩石は地球の大気圏で浮くでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: サイの角は性的不能の民間治療に使われます。 サイは角を取り除くために殺されます。\nQuestion: サイは人間の性生活を改善するために殺されてきたのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ABBA は 4 人のメンバーで構成されたスウェーデンのポップ グループです。 ママス＆パパスは4人のメンバーで構成されたアメリカのバンドでした。\nQuestion: ABBA の男女構成はママス＆パパスと似ていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 第13次修正条項は1865年に批准されました。 ルイザ・メイ・オルコットは1888年に亡くなった。\nQuestion: 『若草物語』の著者は、憲法修正第13条の批准を覚えていただろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Reddit のユーザーベースの 55% は米国から来ています。 議会の会期は、多くの地方政府会議や多くの民間団体が開催する会議と同様に、この誓いの朗読で始まります。\nQuestion: Reddit ユーザーの大半は忠誠の誓いについて知っていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 子どもたちはサンタクロースにクリスマスの手紙を送ります。 サンタクロースは北極に住んでいるという伝説があります。\nQuestion: 子供たちは南極にクリスマスの手紙を送るのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: マルーン5は2001年に結成されました。 ニルヴァーナの最後の公演は1994年でした。\nQuestion: マルーン5はニルヴァーナと一緒にツアーに行きましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イベンダー・ホリフィールドは2020年末に58歳になる。 スティーブ・ウォードは59歳で世界最年長のボクサータイトルを保持している。\nQuestion: イベンダー・ホリフィールドが2020年にボクシングに復帰すれば、年齢記録を樹立することになるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ポスト・マローンの体はたくさんのタトゥーで覆われている。 現代における最も一般的なタトゥーの方法は、振動ユニットに取り付けられたバーにはんだ付けされた 1 本の針または複数の針を介して皮膚にインクを挿入する電気タトゥー マシンです。\nQuestion: ポスト・マローンは注射が怖いのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 米西戦争は1898年4月21日から1898年8月13日まで続いた。 ウィリアム・マッキンリーは1897年3月4日から1901年9月14日までアメリカ合衆国大統領を務めた。\nQuestion: 米西戦争中のアメリカ大統領はエイブラハム・リンカーンと同様の死を遂げたのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 神はアダムから取り出した骨からイブを創りました。 イブはアダムから作られたので、彼らは似たような DNA を持っており、双子、または少なくとも兄弟と見なされていたはずです。\nQuestion: イブは近親相姦関係にありましたか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リル・ウェインはドウェイン・マイケル・カーターとして生まれました。 ジェイ・Zはショーン・コーリー・カーターとして生まれました。\nQuestion: リル・ウェインに似た本名のラッパーはウェインのグラミー賞を4回以上受賞している？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニッケルの沸点は3003ケルビンである。 地球の外核の温度は3,000～4,500ケルビンである\nQuestion: 地球の外核ではニッケルは沸騰するのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドロテア・ヴェンドリングはドイツのシュトゥットガルト生まれの歌手でした。 ポルシェは1931年にドイツのシュトゥットガルトで設立されました。\nQuestion: ドロテア・ウェンドリングはポルシェ発祥の地の出身ですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 手術は医学的な問題を矯正したり、身体に物理的な変化を加えるために行われる。 実存的危機は形而上学的な苦悩である\nQuestion: 手術は実存的危機を防ぐことができるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 偉大なシェイクはアヴィセンナの名である アヴィセンナは980年に生まれた\nQuestion: アル・ファラビは偉大なるシェイクの弟子だったのですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 塩素とナトリウムを混ぜたものが塩化ナトリウムであり、食卓塩としても知られています。 食卓塩は、あらゆる文化の中で最も一般的に消費されている調味料の一つです。\nQuestion: 塩素をナトリウムと混ぜて摂取するのは危険ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ベーカーズダースとは、何でも 13 個を指します。 ブラジリアン柔術はカルロス・グレイシーとエリオ・グレイシーによって創始されました。  \nQuestion: ブラジリアン柔術の創始者グレイシーには少なくとも13人の子供がいたのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドルチェ＆ガッバーナは1985年に設立されました。 ヴォルフガング・アマデウス・モーツァルトは1791年に亡くなりました。\nQuestion: モーツァルトはドルチェ＆ガッバーナから何かを買ったことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 1700 年代の裁判官は、法廷手続き中は粉をつけたかつらと大きな法衣を着用していました。 多くの正統派長老派は、聖書はかつらや宝石などの装飾品を禁じていると主張している。\nQuestion: 正統派長老派教会の信者は 1700 年代の裁判官の服装に異議を唱えるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 俳句は、5、7、5 の音節構造に従う短い日本の詩です。 「微生物の古代に関する詩」は、単に「ノミ」としても知られ、書かれた中で最も短い詩だと言われています。\nQuestion: 『微生物の古代についての行』はどんな俳句よりも短いのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リリー・ウォシャウスキーは『マトリックス』の監督を務めたトランスジェンダーの女性です。 レナ・ウォシャウスキーは『マトリックス』の監督を務めたトランスジェンダーの女性です。\nQuestion: 『マトリックス』の監督はトランスジェンダーの権利を擁護していますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 運転免許試験は、交通法規に従って運転する能力を測定します。 キタオットセイは合法的に車を運転する能力を持っていません。\nQuestion: キタオットセイは運転免許試験に合格するでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: タコベルは2018年現在、7,072以上のレストランを展開しています。 ロイ・ロジャースは最盛期には600を超えるレストランを経営していました。\nQuestion: 毎年、ロイ・ロジャースよりも多くの人がタコベルに出入りするのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 紅海は世界で最も塩分濃度の高い水域の一つです。 イエローパーチは、北アメリカの多くの地域に生息するスズキ目の淡水魚です。\nQuestion: 紅海でイエローパーチを見つけるのは珍しいことでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ゾッド将軍は悪役です。 Appleは映画製作者が悪役にiPhoneを与えることを許可していない。\nQuestion: ゾッド将軍はサムスン Galaxy S4 よりも iPhone を好むでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最も古い記録によれば、エジプト人とバビロニア人は紀元前 2000 年頃にはすでにすべての基本的な算術演算を使用していました。 ネアンデルタール人は、約 4 万年前までユーラシア大陸に住んでいた絶滅した種または古代人類の亜種です。\nQuestion: ネアンデルタール人は算数を使っていましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 猟犬は獲物を追跡するために使用される狩猟犬の一種です。 猟犬には、バセンジー、ダックスフント、ビーグルなどが含まれます。\nQuestion: 『スポーツマンシップに富んだチャーリー・ブラウン』に出てくる動物は、仮に猟犬だったのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『そして誰もいなくなった』はアガサ・クリスティが書いたミステリー小説です。 J.K.ローリングは魔法使いファンタジーシリーズ『ハリー・ポッター』で最もよく知られています。\nQuestion: JKローリングの本の中に『そして誰もいなくなった』というジャンルの本はありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジェイ・Zは1969年に生まれました。 ルイ・アームストロングは1971年に亡くなった。\nQuestion: ジェイ・Zはルイ・アームストロングとコラボレーションしたことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: メートルはメートル法の一部です。 英国では測定にメートル法を使用しています。\nQuestion: 英国では長さはメートルで測定されますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コロンブスはもともと現在のイタリアにあるジェノバ出身でした。 彼の遠征はスペイン王室によって資金提供された。\nQuestion: クリストファー・コロンブスは、元の出身国とは別の国を代表して航海したのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 酸素不足により唇と皮膚が青くなります。 酸素の流れが不十分な場合、人の健康が危険にさらされる可能性があります。\nQuestion: 青い唇は正常ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョン・ブラウワー・ミノックはアメリカ人男性で、体重がピークの時には 1,400 ポンドに達し、記録上最も重い人間でした。 神経性無食欲症は、低体重、食事制限、体重増加への恐怖、そして痩せたいという強い願望を特徴とする摂食障害です。拒食症の人の多くは、実際には体重が不足しているにもかかわらず、自分自身を太りすぎだと考えています。\nQuestion: ジョン・ブラウワー・ミノックは神経性食欲不振症を患っていたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: シェヘラザードは中東の民間伝承に登場する人物で、王に長い物語を語って処刑を遅らせた人物です。 シェイクスピアの戯曲『オセロ』には 26,450 語が含まれていました。\nQuestion: オセロは、シェヘラザードに王と過ごす時間を最大限に与えるためのシェイクスピアの戯曲でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フマ・アベディンは2009年にヒラリー・クリントンの副首席補佐官だった。 フマ・アベディンはアメリカのイスラム教徒である\nQuestion: 2009年のヒラリー・クリントンの副首席補佐官は洗礼を受けたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 人間に餌を与えられたツルは、飼い慣らす傾向があり、人間をつつくことはめったにありません。 世界で最も危険な鳥として知られるヒクイドリは、非常に攻撃的になり、人間や犬を殺害することさえあります。\nQuestion: ヒクイドリはツルよりも安全なペットですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニューイングランドはアメリカ合衆国にあります。 英国とニューイングランドは大きな海によって隔てられています。\nQuestion: ニューイングランドからセインズベリーまで車で行けますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 2年生は7歳か8歳であることが多いです。 ウッドハウスの作品は成人向けです。\nQuestion: PG ウッドハウスは2年生で教えられるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『不思議の国のアリス』には、水ギセルを吸う芋虫が登場人物の一人として登場します。 水パイプはタバコ製品を吸うのに使われる水パイプです。\nQuestion: 『不思議の国のアリス』では、タバコの使用が楽しいものであるかのように描かれているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最高裁判所はアメリカ合衆国の最高裁判所です。 サイモン・コーウェルはイギリスのタレントコンテスト審査員です。\nQuestion: サイモン・コーウェルは次期最高裁判事に投票できるか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 1933 年には大恐慌により約 1,500 万人が失業しました。 1930 年代、タイガー スタジアムの収容人数は約 50,000 人でした。\nQuestion: 1933 年の大恐慌による失業者は全員タイガー スタジアムに収容できるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドナテッロは高さ 5 フィートを超えるブロンズのダビデ像を制作しました。 成人男性の平均身長は5フィート9インチです。\nQuestion: 成人男性はドナテッロのブロンズ製ダビデ像の上に立ち、システィーナ礼拝堂の天井に触れることができるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アラブ・イスラエル紛争は数百年前に始まった。 1945年にイスラエルが独立するまで、イギリスは現在のイスラエルを占領していました。\nQuestion: イギリスはアラブ・イスラエル紛争に直接関与したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『不思議の国のアリス』は1865年に出版された。 マクベスは1606年に初演された。\nQuestion: 『不思議の国のアリス』はマクベスに影響を与えたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ツキノワグマは木々のある生息地に生息する動物です。 多色とは、複数の色で構成されているものを指します。\nQuestion: ツキノワグマは多色ですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: リチャーズ中尉は黒ひげと共に航海していた海賊でした。 リチャーズ中尉は多くの任務を担い、ボネットの復讐号の指揮を任された。\nQuestion: 海賊の中尉は海軍の中尉と似ていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Lorem Ipsum 段落は一時的なものです。 Web デザイナーは、公開前に必ず lorem ipsum 段落を削除します。\nQuestion: 完成したウェブサイトには lorem ipsum 段落が必要ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ビーバーダムは周囲の地域で洪水を引き起こすことがよくあります。 洪水により土壌が緩む可能性があります。\nQuestion: ビーバーダムの近くの土地は被害を受けますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エンパイア賞の最優秀新人賞は、デビュー作の俳優に授与されました。 ウィル・フェレルは1995年にデビューしました。\nQuestion: ウィル・フェレルがエンパイア賞の最優秀新人賞を受賞するのは難しいでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 銀婚式は結婚25年目に行われます。 シンシア・パウエルは1962年にジョン・レノンと結婚した。\nQuestion: シンシア・パウエルはジョン・レノンと銀婚式を祝ったのだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アル・パチーノは1940年に生まれました。 第二次世界大戦は1939年から1945年にかけて起こりました。\nQuestion: アル・パチーノは第二次世界大戦中に映画に出演しましたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: グジャラート文字はアブギダ文字である 漢字は表語文字として採用されたものである \nQuestion: グジャラート文字は漢字と同じカテゴリの文字ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: モリス郡はルイス・モリス大佐にちなんで名付けられました。 ルイス・モリス大佐はニューヨークの最高裁判所長官だった。\nQuestion: モリス郡は最高裁判所長官にちなんで名付けられたのですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 超大型望遠鏡は宇宙を観測します。 地球上で最も大きな山は海の下にある。\nQuestion: 超大型望遠鏡は地球上で最も大きな山を観測できるのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: メタンは環境を汚染し、気温の変化を引き起こすガスです。 車は年間2.7トンのメタンを排出します。\nQuestion: 牛のメタンは自動車よりも環境に安全ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 水上スキーとは、広い水面を滑走するスポーツです。 モロッコは干ばつに悩まされている主要国の一つです。\nQuestion: モロッコは水上スキーには理想的な場所ですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アマゾンの株価は2020年6月時点で1株当たり2,500ドルまで上昇した。 Netflix の基本サブスクリプションパッケージの料金は、2020 年現在、月額 8.99 ドルです。\nQuestion: アマゾンの株1株でNetflixの20年間のサブスクリプションを購入できるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニコラ・テスラはニューヨーク州ショアハムにウォーデンクリフタワーと呼ばれる施設を建設した。 ショアハムは70年代と80年代に原子力発電所があった場所だった。\nQuestion: ニコラ・テスラがかつて働いていた場所には放射線があるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハーレム・ルネッサンスは 1920 年代に起こりました。 アル・カポネは1920年代を生きた。\nQuestion: アル・カポネはハーレム・ルネッサンスの作品を読んだことがあるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブルー・ライブズ・マターは、警察官や法執行機関の職員を支援する米国の反対運動です。 Grand Theft Auto III では、ゲーム内で警察官に対する不当な暴力が認められています。\nQuestion: Blue Lives Matter のメンバーは Grand Theft Auto III のあらゆる要素を支持するでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 新年は毎年1月1日です。 特定の日付に該当する曜日は、毎年 1 つずつ回転します。\nQuestion: 元旦はいつも水曜日ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ダニの幼虫はケシの実ほどの大きさです。 ケシの実の大きさは約1mmです。\nQuestion: ダニの幼虫は標準的な穴あけパンチを通り抜けることができますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ボーイング737-800型機の価格は2019年時点で1億600万ドル。 レオナルド・ダ・ヴィンチ作とされる絵画「救世主」は、これまでに販売された絵画の中で最も高額である。\nQuestion: 美術商はダヴィンチの絵画が描かれたボーイング 737-800 を購入できるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ピーター・グリフィンはクアホッグにあるビール醸造所の従業員です。  ピーターは長年ビール醸造所で働いており、ビールの製造方法に精通していると思われます。\nQuestion: ピーター・グリフィンは醸造技術の専門家であるべきでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Rowe 550 は中国の SAIC モーター カンパニーが製造した自動車です。 Rowe 550 は 2007 年の上海モーターショーでデビューしました。\nQuestion: 2008 年夏季オリンピックに Rowe 550 で行けますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エイミー・ワインハウスは2011年に亡くなった。 『スター・ウォーズ ローグ・ワン』は2016年に公開されました。\nQuestion: エイミー・ワインハウスは『スター・ウォーズ ローグ・ワン』のファンだったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スヌーピーはNASAの安全のマスコットである シルバースヌーピー賞は、飛行安全に関する優れた功績に対してNASAの宇宙飛行士から従業員と請負業者に授与される賞です。 \nQuestion: ジェシー・W・ムーアは、NASA からスヌーピーをテーマにした賞を授与される可能性があるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts:  成体のハチクマは、肩の高さが23〜28cm（9.1〜11.0インチ）、体長が55〜77cm（22〜30インチ）、尾を加えるとさらに12〜30cm（4.7〜11.8インチ）になります。 30 インチのオーブンは、ほとんどの家庭やキッチンの標準です。オーブンの内部寸法は、幅約 25 インチ、高さ約 16 インチです。オーブンの奥行きは約 16 インチです。 \nQuestion: ハチクマはオーブンの中に入りますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 籾殻は製粉された穀物から出た余分な物質です。 いくつかの製粉所では穀物の製粉に水力発電を利用しています。\nQuestion: 籾殻は水力発電によって生産されるのですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: パウロ・コエーリョの妻はクリスティーナ・オイチカです。 クリスティーナ・オイチカはブラジルの芸術家です。\nQuestion: パウロ・コエーリョの妻はスピーチで生計を立てているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 救命ボートは液体の水域で使用される フック海は火星の表面にある地形である。\nQuestion: 救命ボートはフック海の人々を救助できるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フィアット クライスラーは、フィアットとクライスラーの 2 つの自動車会社が合併して誕生しました。 フィアットはアムステルダムに本社を置くイタリアの企業です。\nQuestion: フィアットクライスラーは日本車と関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハデスはギリシャ神話の死と冥界の神でした。 オシリスはエジプトの冥界の神でした。\nQuestion: 仮にハデスとオシリスが冥界の不動産をめぐって争うことになるでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジョン・ウェイン空港はオレンジ郡にあります。 ジョン・ウェイン空港は住宅街のすぐ近くにあります。\nQuestion: カリフォルニア州オレンジ郡では、飛行機は静かに飛行することが義務付けられていますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 2020年6月は世界的なパンデミックが起こりました。 世界的パンデミックの期間中、大規模なイベントを完全に開催することは許可されません。\nQuestion: パルク・デ・プランスは2020年6月中に完全に稼働していましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ほとんどの小売業の仕事では、従業員が 25 ～ 50 ポンドの重量を持ち上げたり、押したり、引いたりできることが求められます。  小売業では、従業員が顧客と定期的にやり取りすることが求められます。\nQuestion: 小売業は誰にでも向いている仕事でしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 火薬は低爆発物に分類される 低速爆薬は亜音速で燃焼する\nQuestion: 火薬貯蔵施設で爆発が起きると超音速の衝撃波が発生するのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 塩素を水に加えると家庭用漂白剤が作られます。 家庭用漂白剤はほとんどの100円ショップで購入できます。\nQuestion: 塩素は100円ショップで買えますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ワニはワニ科に属します。 ワニはアリゲーター科に属します。\nQuestion: イリエワニはアリゲーターと関係がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ペルセポネは植物の女神です。  植物神は、その消滅と再出現、すなわち生と死と再生が植物の成長サイクルを体現する自然神です。\nQuestion: ペルセポネは造園家にとって良いコンサルタントになるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アポロ15号の乗組員には3人の宇宙飛行士がいました。 一輪車にはサドルが 1 つしかなく、通常は 1 人で操作します。\nQuestion: アポロ15号の乗組員は、一輪車に乗るのに苦労したでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フリゲート艦は帆船の一種です。 船の多くの機能にはロープの使用が必要です。\nQuestion: フリゲート艦を操作するにはロープが必要ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジェイソンはクレウサとメデアを裏切った ドクター・ディスリスペクトは妻を裏切り、他の女性と浮気した\nQuestion: ジェイソンとドクター・ディスリスペクトには何か共通点がありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: セリアック病は体がグルテンを処理できない病気です。 グルテンは小麦に含まれるタンパク質です。\nQuestion: セリアック病患者はスパゲッティを避けるべきでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コアラは草食動物です。 コアラの主食はユーカリである \nQuestion: コアラは肉よりもユーカリを好むのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ボディビルダーは筋肉を増強し、脂肪を低く保ちたい ヘラジカの肉は牛肉よりも赤身が多い\nQuestion: ボディビルダーはビーフバーガーよりもヘラジカバーガーを好むでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 物体の密度によって、それが浮くかどうかが決まります。 物体は、それが置かれている液体よりも密度が低い場合、浮きます。\nQuestion: 水銀の海に沿ってコインを輸送できますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バッグス・バニーは擬人化された灰色と白のウサギです。 ウサギはオリーブの木の樹皮を食べ、特に若い木にかなりの損害を与える可能性があります。\nQuestion: バッグス・バニーは現実世界でオリーブの木に危害を加えるでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 副腎疲労は、体が十分なホルモンを生成せず、人が疲労する障害です。 芽キャベツはビタミンCが豊富な食品です。\nQuestion: 芽キャベツは副腎疲労に特に効果があるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「ファミリー・ガイ」はロードアイランド州クアホッグという架空の町を舞台にしています。 ロードアイランド州はアメリカ東海岸にある州です。\nQuestion: ファミリーガイはアメリカ西海岸を舞台にしているのですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 三菱は日本の自動車メーカーです 三菱はブラジルのカタラオに工場を運営している\nQuestion: ウベルランジアで三菱で働くことはできますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハンナ・ニクソンはリチャード・ニクソンの母親でした。 リチャード・ニクソンはウォーターゲート事件中に犯した非倫理的な行為により辞任した。\nQuestion: ウォーターゲート事件後のリチャード・ニクソンを、ハンナ・ニクソンは誇りに思うだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エディ・マーフィは1961年に生まれました。 アメリカでは1984年まで自動車電話は車に普及しませんでした。\nQuestion: エディ・マーフィは幼い頃、車の中で911に電話をかけることができたでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エドモンド・ヒラリーはエベレスト山に登頂した登山家でした。 エベレスト山は標高29,029フィートに達します。\nQuestion: エドモンド・ヒラリーにとって、ウィッチプルーフ山登頂は楽勝でしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 虹には、赤、オレンジ、黄、緑、青、藍、紫の色が含まれます。 ガボンの国旗は緑、黄、青です。\nQuestion: ガボンの国旗の色は虹の中にありますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: モリーモークはアホウドリの一種である 一般的にアホウドリがアクセスできない場所は、特定の種類のアホウドリもアクセスできない場所である。\nQuestion: モリーモークはアホウドリが生息できない場所に生息していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ヘアアイロンは熱を利用して髪をカールさせるために使用する道具です。 カーリングのスポーツには、カーリング用のほうき、ストーン（岩）、カーリングシューズが必要です。\nQuestion: カールにはヘアアイロンは必要ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エミューは飛べない鳥の一種です。 ヘラジカは哺乳類であるシカです。\nQuestion: エミューはヘラジカと関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: La Grenouille はニューヨークにある伝統的なフランス料理のレストランです。 サルサはメキシコ料理の主食です。\nQuestion: ラ・グルヌイユのシェフはサルサを奇妙なリクエストだと思うでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「Boom!」では、System of a Down がグローバリゼーションを非難しています。 バンド「システム・オブ・ア・ダウン」のリードボーカルは、グローバリゼーションに反対する声を上げている。 \nQuestion: System of a Downはグローバリゼーションに反対ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: コーヒーは亜熱帯と赤道気候でのみ栽培できる ニューイングランドは湿潤大陸性気候に位置している\nQuestion: ニューイングランドの人がコーヒーを栽培して利益を得ることができるでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 卓球の試合では、最初に 11 ポイントを獲得したプレイヤーが勝ちます。 11は素数です。\nQuestion: 卓球では素数を使いますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Capital One Venture カードの年会費は約 95 ドルです。 サタン教会には、生涯会員として 1 回限りの 225 ドルの会費がかかります。\nQuestion: Capital One Venture の 5 年間の会員であることは、Church of Satan の会員であることよりも費用対効果が高いですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ルートヴィヒ・ヴァン・ベートーヴェンは1827年に亡くなりました。 EDM は 20 世紀半ばから後半にかけて誕生しました。\nQuestion: ベートーベンはEDMを聴くのが好きでしたか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: Napster は P2P 音楽共有サービスでした。 メタリカは、このプログラムから利益を得ていないとして、ナップスターを訴え、自分たちの曲をプログラムから削除するよう求めた。\nQuestion: メタリカは自分たちの音楽を守ろうとしているのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: キャリー・アンダーウッドはアメリカンアイドルの第4シーズンの優勝者でした。 キャリー・アンダーウッドは6,500万枚以上のアルバムを売り上げた。\nQuestion: ケリー・クラークソンはアメリカン・アイドル・シーズン4の優勝者より売り上げが上回ったか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ヨーロッパヤマネコは、ヨーロッパ大陸、スコットランド、トルコ、コーカサス地方原産です。 オグロジャックウサギはメキシコとアメリカ西部原産です。\nQuestion: オグロウサギはヨーロッパヤマネコを恐れるのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: カール・フリードリヒ・ガウスは1777年に生まれました。 100 マイル離れた人と話すには電話が必要です。\nQuestion: カール・フリードリヒ・ガウスは100マイル離れた人と話すことができたでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ライオネル・リッチーはアメリカの歌手であり、ニコール・リッチーを育てた人物です。 ニコール・リッチーはシーラ・Eの兄弟、ピーター・マイケル・エスコヴェドの娘として生まれました。\nQuestion: ライオネル・リッチーはシーラ・Eと関係がありますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 食品には販売期限を設ける義務はありません。  ほとんどの食品の販売期限はアラビア数字で書かれています。\nQuestion: FDA は販売期限をローマ数字で表記することを義務付けていますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海上船上では船歌が歌われる オレゴン・トレイルは陸上の移民の道であった\nQuestion: オレゴン・トレイルの旅人たちは船乗りの歌を歌ったのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 白恐怖症は白色に対する恐怖症です。 アメリカ合衆国の国旗は赤、白、青の色です。\nQuestion: 白恐怖症の人はアメリカ合衆国の国旗を眺めて楽しむでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 女優テリー・ハッチャーは『デスパレートな妻たち』を合計180話まで出演した。 テリ・ハッチャーは、スーパーマンのコミックを原作とした『ロイス&amp;クラーク スーパーマンの新冒険』で主演を務めた。\nQuestion: テリ・ハッチャーは『デスパレートな妻たち』で、スーパーマン番組の2倍のエピソードに出演したのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 赤血球は人間の血液を構成する成分の約40～50%を占めています。 白血球は人体の血液の約1%を占めています。\nQuestion: 人体では白血球の数が赤血球の数を上回っているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 政治家ジョン・ジョージ・バイスはカリントンで生まれた。 コーンウォールはイングランド南西部に位置する場所です。\nQuestion: ジョン・ジョージ・バイスの出生地はコーンウォールの近くですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 恐竜は何百万年も前に絶滅しました。 対照的に、古代人類が歴史を記録し始めたのはほんの数千年前のことである。\nQuestion: ヨーロッパの歴史には恐竜の時代も含まれていますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ポール・バニヤンは、伝説上の物語に登場する巨人でした。 都市計画者は都市の建物や天井を設計する必要があります。\nQuestion: 仮にポール・バニヤンが都市計画家として不適切な選択だったとしたらどうでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 植物は光合成のために水素、酸素、炭素の3つの要素を必要とします。 火星の大気は二酸化炭素、窒素、アルゴン、微量の水蒸気、酸素、一酸化炭素、水素、その他の希ガスで構成されています。\nQuestion: 植物の光合成に必要なすべての要素が火星の大気中に存在するのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ビル・ナイは1955年に生まれた フランクリン・デラノ・ルーズベルトの最後の選挙は1944年だった。\nQuestion: ビル・ナイはフランクリン・デラノ・ルーズベルトに投票したのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「ジプシー」は、アメリカ大陸のロマの人々にとっては侮辱的な言葉とみなされている。 レディー・ガガは、曲のタイトルと歌詞に「ジプシー」という言葉を使ったことに関して、ネット上で批判に直面している。\nQuestion: ロマ人以外の人がジプシーという言葉を使うのは問題ないのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イスラエルの地は16世紀にオスマン帝国によって支配されました。  オスマン帝国の宗教はイスラム教スンニ派でした。 \nQuestion: 16 世紀にイスラエルの地はイスラム帝国の支配下にあったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: USDA は 1 日に少なくとも 3500 mg のカリウムを摂取することを推奨しています。 ズッキーニ1本には512mgのカリウムが含まれています。\nQuestion: ズッキーニ 7 本で USDA の 1 日のカリウム推奨量を満たすでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最初に広く生産された自動車はモデルTでした。 モデルTは1908年に製造されました。\nQuestion: イギリス車、ミニは最初に製造された車ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ピーマンは、乾燥機の代わりにオーブンで乾燥することができます。 太陽光と熱は、何世紀にもわたって唐辛子やその他の食品を乾燥させるのに利用されてきました。\nQuestion: パプリカは乾燥機なしでも作れますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ベンガル猫は肉食動物です。 パンケーキには肉は入っていません。\nQuestion: ベンガル猫はパンケーキだけを食べて生き残れるでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ワタリアホウドリは陸に戻るまでに少なくとも15,000 km（10,000マイル弱）の海上を移動することができます。  ブカレストからニューヨーク市までは4766マイル、つまり7670kmです。\nQuestion: ワタリアホウドリはブカレストからニューヨーク市まで休むことなく飛べるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ニューヨーク公共図書館はニューヨーク市の公共貸出図書館システムです。 アルポはペットフードと関連製品を製造しています\nQuestion: ニューヨーク公共図書館ではアルポ製品を販売していますか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: トニー・ベネットのフルネームはアンソニー・ドミニク・ベネデットです。 ドミニク・クルーズは2度UFCバンタム級チャンピオンに輝いた。\nQuestion: トニー・ベネットのミドルネームは元UFCチャンピオンと同じでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ブラックウィドウとは、金のために夫を殺害して再婚する女性のことを指します。 桃の種にはシアン化物の一種であるアミグダリンが含まれています。\nQuestion: 黒い未亡人女性は桃を必要とするでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: バーニングマンには、天候やスタイルのために通常は最小限の衣服を着ている若者がたくさん集まります。  バーニングマンのお祭りは夏の暑い太陽の下で行われるため、日陰のない場所で行われることが多いです。\nQuestion: バーニングマンでは日焼けする可能性が通常よりも高くなりますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ラフル・ドラヴィッドはプロのクリケット選手だった フィールドゴールキックはアメリカンフットボールの一部である\nQuestion: ラフル・ドラヴィッドはフィールドゴールを蹴ったことがありますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 海洋の研究には多くの分野や科学が関わってきます。 海洋学者は、特定の研究テーマを適切に研究するために、自分の研究分野が他の関連する科学とどのように相互作用するかを理解する必要があります。\nQuestion: 海洋学者は一人一人多くの科学を研究するのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 漫画の黄金時代は 1930 年代から 1950 年代にかけて起こりました。 『シャッター』はデジタルで描かれ、商業出版された最初のコミックでした。\nQuestion: スーパーヒーロー小説はデジタル形式で発明されたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメリカクロクマの赤ちゃんの平均的な大きさは、出生時わずか8インチです。 キングサイズベッドのサイズは76インチ×80インチです。\nQuestion: 生まれたばかりのアメリカクロクマの赤ちゃん 2 匹はキングサイズのベッドに収まるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アルディは、袋代を請求し、まとめ買いし、ブランド品を避けることでコストを削減している。  アルディでは、腐った食品や期限切れの食品を特定したらすぐに棚から撤去します。\nQuestion: アルディの食品は期限切れのため割引されるのですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 黒コショウは黒コショウの実から作られます。 黒胡椒はコショウ科の植物に生育します。\nQuestion: 黒コショウの主原料は挽いたピーマンですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「受け身を取る」とは、武道において倒れたり受けたりする技を指す。 受身をとるには、怪我を最小限に抑える方法で体を動かす必要があり、そのため運動エネルギーが使われる。\nQuestion: 受身をとると運動エネルギーは止まるのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: BLTはベーコン、レタス、トマトでできたサンドイッチです カサブランカはイスラム教徒が大多数を占める\nQuestion: カサブランカでBLTを手に入れるのは難しいですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スノーダウンでは年間約200インチの降水量がある  標準的なボウリングのピンの高さは1フィート3インチです\nQuestion: スノードンの年間降水量は、直立したボウリングのピンを水没させるでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: スタンリー・ボールドウィンの前首相はラムゼイ・マクドナルドであった。 スタンリー・ボールドウィンの後任としてネヴィル・チェンバレンが首相に就任した。\nQuestion: スタンリー・ボールドウィンの直前または直後に女性首相はいましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ハクトウワシは時速99マイルで移動することができます。 B-52は時速650マイルで飛行できるアメリカの航空爆撃機です。\nQuestion: ハクトウワシはB-52より先に緊急メッセージを届けるだろうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: プロボクサーは顔面へのパンチをよく受けます。 マウスガードを使用していても、ボクシングでは歯の怪我がよく起こります。\nQuestion: プロボクサーは歯科治療費が安く済むと期待できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ドクター・スースの妻は自殺した。 晩年、ドクター・スースは癌と診断されました。\nQuestion: ドクター・スースは悲劇のない人生を送ったのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ジャクソン・ポロックの両親はともにアイオワ州ティングリーで生まれ育った。 カリフォルニア州、ハワイ州、アイオワ州、バーモント州、ワイオミング州を除くすべての州では、公立学校で定期的にこの誓いの朗読を行うことを義務付けています。\nQuestion: ジャクソン・ポロックの両親は子供の頃に「忠誠の誓い」を言う必要がなかったのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: シャムウはシーワールドのマスコットシャチの名前です。 どのシーワールドにもシャムウがいます。\nQuestion: サンディエゴ郡はシャムウの故郷ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 古代の多神教は、西洋文化では一般的にはもはや人気がありません。 空飛ぶスパゲッティ モンスター教会は、2005 年に FSM 自体が設立された後、2006 年に設立されました。\nQuestion: 空飛ぶスパゲッティ・モンスターは古代の神々の一部なのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エリザベス2世女王は英国とその連邦の君主である。 バレアレス諸島はスペインの一部である\nQuestion: エリザベス2世はバレアレス諸島を統治しているのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フットボール戦争は1969年7月14日に始まった。 それは1969年7月20日に終了しました。\nQuestion: フットボール戦争は少なくとも1か月続きましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ロレンツォ・デ・メディチはフィレンツェの偉大な芸術パトロンであり、レオナルド・ダ・ヴィンチのパトロンでもありました。 ロレンツォ・デ・メディチは芸術家サンドロ・ボッティチェリのパトロンでもありました。\nQuestion: ロレンツォ・デ・メディチはダ・ヴィンチだけを特別に支援していたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 最後の晩餐はキリスト教においてイエスと12人の弟子の間で行われた食事でした。 イスラム教では、イエスは多くの尊敬される預言者の一人です。\nQuestion: イスラム教では最後の晩餐を祝う人がいるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 魚は水の中に住んでいます。  多くのベンガルの飼い主は、ベンガルが自然に物を拾ってくると言います。\nQuestion: ベンガル猫は魚を捕まえるのが怖いでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ベニート・ムッソリーニの身長は5フィート6インチ1⁄2インチでした。 ハフソー・ビョルンソンの身長は6フィート9インチです。\nQuestion: ベニート・ムッソリーニはハフソル・ビョルンソンより大きい靴を履いていたのでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ボビー・ジンダルはバトンルージュ・マグネット高校に通っていました。 バトンルージュ・マグネット高校のマスコットはブルドッグです。\nQuestion: ボビー・ジンダルの高校のマスコットはドッグフードを食べるだろうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 国会議事堂はワシントン DC のダウンタウンにあるナショナル モールの端に位置しています。 ホワイトハウスは、モールから少し下ったワシントン記念塔の隣にあります。\nQuestion: アメリカ合衆国議会議事堂はホワイトハウスの近くにありますか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 伐採によりパルプなどの製品が生産されます。 パルプはトイレットペーパーなどの紙製品の製造に使用されます。\nQuestion: 伐採業者がいなかったらトイレットペーパーを手に入れるのは難しいでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イギー・ポップの出生名はジェームズ・ニューウェル・オスターバーグ・ジュニアでした。 イギー・ポップの父親はジェームズ・ニューウェル・オスターバーグ・シニアでした。\nQuestion: イギー・ポップは父親にちなんで名付けられたのですか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 予防医療には性感染症（STI）の検査が含まれます。  性感染症の検査を増やすことで、国民は感染から身を守り、感染拡大を抑えることができます。\nQuestion: 予防医療は性感染症の感染を減らすことができるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 『美女と野獣』には、自分で動いたり話したりするアイテムがいっぱいの城が登場します。  無生物とは、いかなる意味でも生きていない物体のことです。\nQuestion: 『美女と野獣』では無生物が生き返るのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメリカバンディ協会は、米国における主要なバンディ競技を統括しています。 アメリカバンディ協会に登録されているテキサス州のチームはありません。\nQuestion: バンディはテキサスで人気が出る可能性はあるでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: カルシウムは骨の健康にとって重要な栄養素です。 ケールにはほうれん草よりも1食あたりのカルシウムが多く含まれています。\nQuestion: 骨の成長には、ほうれん草よりもケールのほうが効果的ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アマゾナス州は大部分が熱帯のジャングルです。 熱帯のジャングルには危険な生き物が生息しています。\nQuestion: アマゾナスを歩いて横断すると命が危険にさらされるのでしょうか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 任天堂はもともと 1983 年に発売され、カートリッジ形式のゲームを使用していました。 ソニーのプレイステーション 3 は 2006 年に発売され、CD 形式のゲームが搭載されていました。\nQuestion: オリジナルの任天堂にはプレイステーション 3 と同じ形式のゲームがありましたか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: フィボナッチ数列は、前の数字に数字を加算して永遠に続く数列です。 円周率は数字の列であり、2010 年に 2.7 兆桁が発見されました。\nQuestion: フィボナッチ数列は円周率で発見されたすべての数よりも長いですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 潔癖症は、細菌、バクテリア、微生物、汚染、感染に対する病的な恐怖を表すために心理学者が使用する用語です。 柔道を練習している場合は、一緒に練習している人との距離が近くなり、マットの上で転がることもあります。 \nQuestion: 潔癖症でも柔道に参加できますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アメリカの秋は9月から12月末まで続きます。 クマは9月から4月まで冬眠するため、ほとんど見かけません。\nQuestion: アメリカで秋はクマの毛皮を集めるのに良い時期ですか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 「Stupid Girls」のビデオには、ピンクと女性がトイレで歯ブラシを共用して嘔吐を誘発するシーンがある。 嘔吐行為に関する画像や議論は、摂食障害を持つ人々にとって刺激となる可能性があります。\nQuestion: 摂食障害患者にとって刺激となるピンクのミュージックビデオはありますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: アル・アンサー・ジュニアはレーシングカーのドライバーです 宇宙開発競争は、宇宙探査をめぐるソ連とアメリカの競争であった。\nQuestion: アル・アンサー・ジュニアは宇宙開発競争に勝利したのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: World of Warcraft はソフトウェアです。 ソフトウェアはデジタルです。\nQuestion: World of Warcraft はパン一斤より重いですか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: メトロイドは任天堂によって開発され、発売されました。 エレクトロニック・アーツは任天堂の競合となるビデオゲーム会社です。\nQuestion: エレクトロニック・アーツはメトロイドの販売で利益を得たのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 幼稚園教師の大部分は公立学校で働いています。 公立学校は政教分離の原則を遵守しており、全体的な宗教は存在しません。\nQuestion: 幼稚園の先生が新約聖書の授業をするでしょうか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: エイミー・ワインハウスは、演奏前や演奏中に酔っ払うことで知られていた。 エイミー・ワインハウスは前回のパフォーマンス中に自分の歌の歌詞を忘れてしまった。\nQuestion: エイミー・ワインハウスはいつもライブで完璧にパフォーマンスしていたのでしょうか?",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: ピザに使われるアンチョビは、通常、丸ごと油または水に漬けられています。  ピザに載るアンチョビは、通常、カットされたり切り身にされたりすることはありません。\nQuestion: アンチョビピザには骨が入っていますか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 標準的なNBAバスケットボールの直径は約9.5インチです スナネコの耳は2.8インチの高さに成長する\nQuestion: 砂猫の耳の中にバスケットボールを隠すことはできますか？",
+        "output": "No"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: イヴァン雷帝は、その厳しい統治のせいで「恐ろしい」というあだ名がつけられました。 イヴァン雷帝の父、ワシリー3世イワノビッチは「適任のワシリー」というあだ名で呼ばれていた。\nQuestion: イヴァン雷帝の父と祖父にはもっといいあだ名があったのでしょうか？",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 乳がんは哺乳類の乳腺組織に発生する病気です。 アメーバは乳腺組織を持たない単細胞生物です。\nQuestion: アメーバは乳がんに対して安全ですか?",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Please answer the following question with Yes or No based on the given facts.",
+        "input": "Facts: 円周率、つまり円の円周と直径の比は 3.14 です。 1980年代に中国は一人っ子政策を導入した。\nQuestion: 1980 年代の中国では、円周率は許容できる子供の数だったのでしょうか?",
+        "output": "No"
+    }
+]
