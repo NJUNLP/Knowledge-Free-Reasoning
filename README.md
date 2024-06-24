@@ -9,11 +9,11 @@ In this work, we decompose the process of reasoning tasks into two separated par
 ## Dataset
 We provide our Syntactic Knowledge-Free Reasoning Dataset as described in the paper in this repository. Additionally, we also include other datasets we used, along with their respective training and test set splits.
 
-All these datasets are stored in the `prepared_data` folder and are formatted according to the LLaMA-Factory data format.
+All these datasets are stored in the `prepared_data` folder and are formatted according to the [LLaMA-Factory data format](https://github.com/hiyouga/LLaMA-Factory/blob/v0.8.2/data/README.md).
 
 ## Model Evaluation
 
-We leverage the LLaMA-Factory factory for fine-tuning for all the experiments described in the paper.
+We leverage the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) library for fine-tuning for all the experiments described in the paper.
 You can use the following scripts to reproduce the cross-lingual transfer evaluation described in our paper, including training adapter and prediction.
 Please run these scripts in the root directory of the repository.
 
