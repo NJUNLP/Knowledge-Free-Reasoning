@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository shares the code and data of our latest work "Large Language Models Are Cross-Lingual Knowledge-Free Reasoners".
+This repository shares the code and data of our latest work [Large Language Models Are Cross-Lingual Knowledge-Free Reasoners](https://arxiv.org/abs/2406.16655).
 
 In this work, we decompose the process of reasoning tasks into two separated parts: knowledge retrieval and knowledge-free reasoning, and analyze the cross-lingual transferability of them. With adapted and constructed knowledge-free reasoning datasets, we show that the knowledge-free reasoning capability can be nearly perfectly transferred across various source-target language directions despite the secondary impact of resource in some specific target languages, while cross-lingual knowledge retrieval significantly hinders the transfer. Moreover, by analyzing the hidden states and feed-forward network neuron activation during the reasoning tasks, we show that higher similarity of hidden representations and larger overlap of activated neurons could explain the better cross-lingual transferability of knowledge-free reasoning than knowledge retrieval. Thus, we hypothesize that knowledge-free reasoning embeds in some language-shared mechanism, while knowledge is stored separately in different languages. 
 
@@ -34,7 +34,14 @@ The interpretability experiment results can be reproduced by running `./interpre
 Other optional parameters, such as `cosFlag` for setting the metric and `threshold` for setting the activation threshold, can be found in the code.
 
 ## Citation
-If you find this repository helpful, feel free to cite our paper. The following citation information is obtained from Google Scholar. 
+If you find this repository helpful, feel free to cite our paper.
 ```bibtex
-Stay tuned
+@misc{hu2024large,
+      title={Large Language Models Are Cross-Lingual Knowledge-Free Reasoners}, 
+      author={Peng Hu and Sizhe Liu and Changjiang Gao and Xin Huang and Xue Han and Junlan Feng and Chao Deng and Shujian Huang},
+      year={2024},
+      eprint={2406.16655},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}
 ```
