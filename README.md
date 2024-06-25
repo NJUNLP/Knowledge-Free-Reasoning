@@ -18,7 +18,7 @@ You can use the following scripts to reproduce the cross-lingual transfer evalua
 Please run these scripts in the root directory of the repository.
 
 ```bash
-pip install -f requirements.txt
+pip install -r requirements.txt
 python merge_lora.py
 vim train.sh # Modify GPU config, if necessary
 bash train.sh
