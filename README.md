@@ -25,7 +25,7 @@ bash train.sh
 bash predict_main.sh
 ```
 
-After finishing the model prediction, you will get the prediction results int the `eval/outputs` directory.
+After finishing the model prediction, you will get the prediction results in the `eval/outputs` directory.
 Then, you can use the notebook `eval_analysis.ipynb` to reproduce the pictures described in our paper.
 
 ## Interpretability
