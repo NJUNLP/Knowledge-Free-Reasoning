@@ -136,10 +136,10 @@
     "sqa_two_fact_dev_AR": {"file_name": "strategyqa/two_fact/strategyqa-two-fact-dev_ar.json"},
     "sqa_two_fact_dev_HE": {"file_name": "strategyqa/two_fact/strategyqa-two-fact-dev_he.json"},
     
-    "boolq_train_EN": {"file_name": "/home/nfs02/liusz/project/llm_mull/prepared_data/boolq-train.json"},
+    "boolq_train_EN": {"file_name": "boolq/boolq-train.json"},
   
-    "ambig_train_EN": {"file_name": "/home/nfs02/liusz/project/llm_mull/prepared_data/ambig_qa-train.json"},
+    "ambig_train_EN": {"file_name": "ambig_qa/ambig_qa-train.json"},
 
-    "mkqa_v2_train_EN": {"file_name": "/home/nfs02/liusz/project/llm_mull/prepared_data/mkqa-v2-train_en.json"}
+    "mkqa_v2_train_EN": {"file_name": "mkqa/mkqa-v2-train_en.json"}
   
 }
