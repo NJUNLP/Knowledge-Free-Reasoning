@@ -11,6 +11,35 @@ We provide our Syntactic Knowledge-Free Reasoning Dataset as described in the pa
 
 All these datasets are stored in the `prepared_data` folder and are formatted according to the [LLaMA-Factory data format](https://github.com/hiyouga/LLaMA-Factory/blob/v0.8.2/data/README.md).
 
+**DataGeneration**
+------------------
+
+This repository also provides tools for generating various reasoning datasets, including Arithmetic, Symbolic, and Logical reasoning tasks.
+
+### Dataset Generation
+
+* Use `./DataGeneration/genDataArithmeticAndSymbolic.py` to generate **Arithmetic** and **Symbolic reasoning** datasets.
+* Use `./DataGeneration/genDataLogical.py` to generate **Logical reasoning** datasets.
+
+The generated datasets will be located in `./DataGeneration/data`.
+
+#### Customizing Dataset Sizes
+
+You can modify the `TrainNum` and `TestNum` parameters in the respective scripts to adjust the number of training and test samples generated.
+
+### Advanced Parameters
+
+For more control over the dataset difficulty, you can adjust the following parameters in `./DataGeneration/dataTemplate.py`:
+
+* **Arithmetic Reasoning Dataset:**
+  * Modify `MAXNUM=999` to adjust the range of numbers used in arithmetic calculations (including the range of generated results).
+* **Symbolic Reasoning Dataset:**
+  * `STRLENMIN`: Set the minimum number of symbols to generate.
+  * `STRLENMAX`: Set the maximum number of symbols to generate.
+  * `SYMBOLICTURN`: Adjust the maximum number of turns for symbolic reasoning, where each turn generates the same number of cases.
+* **Logical Reasoning Dataset:**
+  * `CASENUM`: Adjust the number of propositions for logical reasoning cases.
+
 ## Model Evaluation
 
 We leverage the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) library for fine-tuning for all the experiments described in the paper.
