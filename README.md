@@ -32,7 +32,7 @@ You can modify the `TrainNum` and `TestNum` parameters in the respective scripts
 For more control over the dataset difficulty, you can adjust the following parameters in `./DataGeneration/dataTemplate.py`:
 
 * **Arithmetic Reasoning Dataset:**
-  * Modify `MAXNUM=999` to adjust the range of numbers used in arithmetic calculations (including the range of generated results).
+  * Modify `MAXNUM` to adjust the range of numbers used in arithmetic calculations (including the range of generated results).
 * **Symbolic Reasoning Dataset:**
   * `STRLENMIN`: Set the minimum number of symbols to generate.
   * `STRLENMAX`: Set the maximum number of symbols to generate.
