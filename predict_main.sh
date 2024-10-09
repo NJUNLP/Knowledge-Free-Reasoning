@@ -89,7 +89,22 @@ test_data_template="sqa_one_fact_dev_% sqa_two_fact_dev_%"
 adapter_name="none"
 run_part
 
-# Main + SFT-CPT
+# QASC
+
+export ALLOW_TOK='["A", "B", "C", "D", "E", "F", "G", "H"]'
+test_data_template="qasc_dev_%"
+adapter_name="qasc_train2e-4_0_1_lora-all"
+run_main_models
+test_data_template="qasc_two_facts_dev_%"
+adapter_name="qasc_two_facts_train2e-4_0_1_lora-all"
+run_main_models
+
+export MODEL="llama-2-7b-chat"
+test_data_template="qasc_one_facts_dev_%"
+adapter_name="qasc_one_facts_train2e-4_0_1_lora-all"
+run_main_models
+
+# Main
 
 export ALLOW_TOK='["A", "B", "C", "D"]'
 test_data_template="kfrd_arithmetic_%_test"
@@ -105,8 +120,26 @@ test_data_template="kfrd_arithmetic_%_test kfrd_symbolic_%_test kfrd_logical_%_t
 adapter_name="none"
 run_main_models
 
+export ALLOW_TOK='[]'
+export MAX_NEW_TOKENS="20"
+test_data_template="asdiv_a_test_%"
+adapter_name="asdiv_a_train_EN2e-4_0_4_lora-all"
+run_main_models
+unset MAX_NEW_TOKENS
+
+export ALLOW_TOK='["yes", "no"]'
+test_data_template="coin_flip_dev_%"
+adapter_name="coin_flip_train2e-4_0_1_lora-all"
+run_main_models
+
+export ALLOW_TOK='["A", "B", "C"]'
+test_data_template="proofwriter_all_test_depth1_sample100_%"
+adapter_name="proofwriter_all_train_depth1_EN2e-4_0_1_lora-all"
+run_main_models
+
 # Other Languages
 
+export ALLOW_TOK='["A", "B", "C", "D"]'
 export MODEL="llama-2-7b-chat"
 test_data_template="kfrd_arithmetic_%_test"
 adapter_name="kfrd_arithmetic_ZH_train2e-4_0_4_lora-all" run_part
@@ -128,6 +161,7 @@ adapter_name="kfrd_logical_AR_train2e-4_0_1_lora-all" run_part
 
 # SFT-CPT
 
+export ALLOW_TOK='["A", "B", "C", "D"]'
 test_data_template="kfrd_arithmetic_%_test"
 adapter_name="kfrd_arithmetic_EN_train2e-4_0_4_lora-all"
 run_aux_models

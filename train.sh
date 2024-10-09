@@ -126,10 +126,36 @@ model="llama-2-7b-chat"
 run_part
 
 
+# QASC
+
+datasets=(
+    "qasc_train"
+    "qasc_two_facts_train"
+)
+step=1
+model="mistral-7b-instruct-v0.1"
+run_part
+model="bloomz-7b1-mt"
+run_part
+model="qwen1.5-7b-chat"
+run_part
+model="llama-2-7b-chat"
+run_part
+
+
+datasets=(
+    "qasc_one_facts_train"
+)
+step=1
+model="llama-2-7b-chat"
+run_part
+
+
 # Main + SFT-CPT
 
 datasets=(
     "kfrd_arithmetic_EN_train"
+    "asdiv_a_train_EN"
 )
 step=4
 model="mistral-7b-instruct-v0.1"
@@ -155,6 +181,8 @@ run_part
 datasets=(
     "kfrd_symbolic_EN_train"
     "kfrd_logical_EN_train"
+    "coin_flip_train"
+    "proofwriter_all_train_depth1_EN"
 )
 step=1
 model="mistral-7b-instruct-v0.1"
