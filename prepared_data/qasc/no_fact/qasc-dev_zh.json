@@ -1,0 +1,4632 @@
+[
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气候一般用什么来描述？\n\nA. 沙\nB. 发生在很广泛的范围内\nC. 森林\nD. 全球暖化\nE. 发生快速变化\nF. 当地天气情况\nG. 运动测量\nH. 城市生活",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么随海拔高度而变化？\n\nA. 水的组成\nB. 雪、冰和岩石\nC. 盐和胡椒\nD. 黑色素量\nE. 受太阳加热\nF. 碎屑和碎屑生物\nG. 温度和湿度\nH. 极端环境",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "全球正在发生什么变化？\n\nA. 国家数量\nB. 快速增长\nC. 它们如何移动\nD. 温度和湿度\nE. 速度差异\nF. 净生物量\nG. 发生在很广泛的范围内\nH. 接触氧气和水",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一般用什么来描述温度和湿度？\n\nA. 雨量\nB. 单细胞生物\nC. 雪、冰和岩石\nD. 热量\nE. 水母和珊瑚\nF. 平均天气状况\nG. 生物体的构成要素\nH. 雪",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用温度和空气中的水分来描述什么？\n\nA. 风暴\nB. 气候\nC. 大量的\nD. 季节性\nE. 冬天\nF. 密度\nG. 长度\nH. 体液",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "温度和湿度一般用什么来形容？\n\nA. 七鳃鳗\nB. 光\nC. 颜色\nD. 天气\nE. 蜂蜜\nF. 生态系统\nG. 莫氏\nH. 味道",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气候一般用温度和其他什么来描述？\n\nA. 生态\nB. 温度计\nC. 已校准\nD. 关键元素\nE. 风暴\nF. 湿度\nG. SI 单位\nH. 暖空气",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气候通常用温度和什么来描述？\n\nA. 湿度\nB. 风\nC. 暖空气\nD. 已校准\nE. 百分比\nF. 事情\nG. 肤色\nH. SI 单位",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来运送人员和货物？\n\nA. 丝绸\nB. 重量\nC. 小木屋\nD. 树木\nE. 卫星\nF. 车辆\nG. 踏板\nH. 架子",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "简单的交通方式是什么？\n\nA. 七鳃鳗\nB. 钾\nC. 在陆地上\nD. 化学信使\nE. 哺乳动物\nF. 在陆地上移动\nG. 具有反馈回路\nH. 乘用车",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用于运输？\n\nA. 拖车和船只\nB. 故障\nC. 沙发\nD. 树木和鲜花\nE. 化学信使\nF. 钾\nG. 猫\nH. 气团",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "公交车用来做什么？\n\nA. 防护庇护所\nB. 运送人类\nC. 帮助其他物种受益\nD. 运输飞机\nE. 骨干力量\nF. 沟通\nG. 安全操作\nH. 安全驾驶",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "运输用什么？\n\nA. 船只\nB. 公路旅行\nC. 玉米\nD. 雕像\nE. 胖的\nF. 教堂\nG. 塑料\nH. 飞行",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数大城市需要什么？\n\nA. 氟化物\nB. 幻灯片\nC. 汽车\nD. 欲望\nE. 专门\nF. 骨干\nG. 自来水\nH. 宗教",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "运输用什么？\n\nA. 玉米\nB. 岩石\nC. 塑料\nD. 飞行\nE. 蚂蚁\nF. 冰\nG. 飞机\nH. 胖的",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "运输用什么？\n\nA. 头脑\nB. 胖的\nC. 化学品\nD. 卡车\nE. 獭\nF. 鬼魂\nG. 骨干\nH. 七鳃鳗",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "城市交通一般使用哪种？\n\nA. 气体\nB. 猫\nC. 飞机\nD. 车\nE. 大象\nF. 风\nG. 门户\nH. 核糖核酸",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么用于运输？\n\nA. 风化\nB. 摩托车\nC. 七鳃鳗\nD. 太阳\nE. 骨干\nF. 云\nG. 化学品\nH. 水生动物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "搬家车是用来干什么的？\n\nA. 他们的速度\nB. 运输\nC. 反馈机制\nD. 住在\nE. 极端环境\nF. 引人注目\nG. 安全操作\nH. 崩溃",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车辆导致\n\nA. 负面反馈\nB. 主要影响\nC. 脱水\nD. 沟通\nE. 反馈\nF. 破坏\nG. 加热\nH. 空气污染",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "领细胞有什么功能来捕获颗粒？\n\nA. 几个基因\nB. 大嘴巴\nC. 玉簪属植物\nD. 一副牙齿\nE. 抗体\nF. 黑色素含量\nG. 细小的毛发\nH. 蛋白质",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "领细胞上有微小的毛发，可以捕获什么东西的微小碎片？\n\nA. 事情\nB. 角蛋白\nC. 颜料\nD. 过敏原\nE. 核糖核酸\nF. 原生动物\nG. 化学品\nH. 鱼",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "领圈细胞有_，可以捕获颗粒。\n\nA. 灵活的\nB. 角蛋白\nC. 保护\nD. 触须\nE. 鞭毛\nF. 软骨\nG. 组织\nH. 抗原",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "内部腔室有微小的物质可以捕获颗粒\n\nA. 气孔\nB. 细丝\nC. 毛发\nD. 核糖核酸\nE. 玉簪属植物\nF. 细胞\nG. 纤毛\nH. 小孔",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西有细小的毛发可以捕获颗粒？\n\nA. 海绵\nB. 分子\nC. 橡树\nD. 蜥蜴\nE. 原生动物\nF. 蛇\nG. 纤毛\nH. 云",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵可以捕获什么？\n\nA. 水蒸气\nB. 抗原\nC. 粒子\nD. 光\nE. 岩浆\nF. 鱼\nG. 海蜇\nH. 腔肠动物",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西可以捕获颗粒？\n\nA. 碎屑和碎屑生物\nB. 阳光\nC. 粘稠的黏液\nD. 微生物和贻贝\nE. 鞭毛或细小毛发\nF. 可用空间\nG. 月光\nH. 管状器官",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵的工作马有细小的毛发，可以捕获什么？\n\nA. 组织\nB. 角蛋白\nC. 粒子\nD. 光\nE. 软骨\nF. 作为基础\nG. 原核生物\nH. 抗原",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水生动物有哪些？\n\nA. 盘龙类\nB. 糖果\nC. 水\nD. 被子植物\nE. 天气\nF. 海蜇\nG. 蛛形纲\nH. 饼干",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "所有刺胞动物都生活在 \n\nA. 水\nB. 太平洋\nC. 湖泊\nD. 南美洲\nE. 贝壳\nF. 海洋\nG. 海绵\nH. 和谐",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "所有水生触手都有什么用途？\n\nA. 感觉船\nB. 反对章鱼\nC. 拍打水母\nD. 主要影响\nE. 旅行\nF. 捕获猎物\nG. 沟通\nH. 挽救生命",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "所有刺胞动物都生活在哪里？\n\nA. 礁石\nB. 沙漠\nC. 水\nD. 表面\nE. 海洋\nF. 太平洋\nG. 空间\nH. 家",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些都是水生的？\n\nA. 昆虫\nB. 蜥蜴\nC. 天气\nD. 草履虫\nE. 海蜇\nF. 被子植物\nG. 人类\nH. 蛇",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是水母？\n\nA. 水\nB. 原生动物\nC. 土地\nD. 空气\nE. 地下\nF. 多孔动物门\nG. 钟虫\nH. 骨干",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是水生？\n\nA. 云\nB. 海葵\nC. 风化\nD. 被子植物\nE. 动物\nF. 人类\nG. 草履虫\nH. 蕨类植物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水母是什么动物？\n\nA. 原生动物\nB. 成人\nC. 草履虫\nD. 干燥\nE. 陆基\nF. 多孔动物门\nG. 海葵\nH. 水",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水生动物的例子是什么？\n\nA. 天气\nB. 鸟\nC. 被子植物\nD. 蛛形纲\nE. 四角龙\nF. 海蜇\nG. 大象\nH. 老虎",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水生生物有哪些？\n\nA. 腔肠动物\nB. 树木\nC. 蜥蜴\nD. 被子植物\nE. 保持营养物质\nF. 树木和鲜花\nG. 太阳\nH. 人类",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "所有腔肠动物都被认为是哪种生物？\n\nA. 陆地\nB. 嗜草性\nC. 生物发光\nD. 成人\nE. 水\nF. 昆虫\nG. 社会的\nH. 被子植物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "所有刺胞动物都通过什么移动？\n\nA. 生态系统\nB. 水\nC. 软骨\nD. 移动板块\nE. 肠\nF. 黑沙\nG. 海绵\nH. 组织",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "钵水母属于什么类型的生物？\n\nA. 被子植物\nB. 七鳃鳗\nC. 天气\nD. 水\nE. 盲鳗\nF. 分类学\nG. 分泌\nH. 钟虫",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "静水骨骼是某些什么的特征？\n\nA. 单细胞生物\nB. 水生动物\nC. 软骨细胞\nD. 真核细胞\nE. 被子植物\nF. 树木和鲜花\nG. 原核细胞\nH. 微观血管。",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成为一名气象学家需要学习什么？\n\nA. 化学品\nB. 天气\nC. 已校准\nD. 骨干\nE. 陨石\nF. 流星\nG. 表面\nH. 彗星",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家研究什么？\n\nA. 肉丸\nB. 热量\nC. 流星\nD. 天气。\nE. 相关生物\nF. 音乐\nG. 气团\nH. 地震仪",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "谁研究天气？\n\nA. 一些原核生物\nB. 相关生物\nC. 发生快速变化\nD. 一位法国科学家\nE. 具有反馈回路\nF. 气象学家\nG. 流行病学家\nH. 天文学家",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么需要研究天气？\n\nA. 猜测\nB. 宇宙飞船\nC. 研究\nD. 已校准\nE. 吃\nF. 地震仪\nG. 飞行\nH. 气象",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成为一名气象学家需要什么？\n\nA. 气温升高\nB. 体内平衡\nC. 已校准\nD. 雨\nE. 沉淀\nF. 研究天气\nG. 流星\nH. 地震仪",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "做什么需要准备当前和长期的天气预报？\n\nA. 沟通\nB. 具有反馈回路\nC. 发生快速变化\nD. 反馈机制\nE. 预测天气\nF. 收容流浪动物\nG. 70-75 华氏度\nH. 已校准",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么需要气象学？\n\nA. 等待恶劣天气\nB. 气体在空气中扩散\nC. 沉淀\nD. 在陆地上移动\nE. 预测天气\nF. 极其危险的风暴\nG. 运动测量\nH. 希望天气好",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "预测天气需要什么？\n\nA. 已校准\nB. 黑色素含量\nC. 气象学家\nD. 密度\nE. 沟通\nF. 反馈\nG. 伽马射线\nH. 反馈机制",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "天文学可以用来做什么？\n\nA. 沟通\nB. 安全操作\nC. 想象\nD. 体内平衡\nE. 园艺\nF. 烹饪\nG. 导航\nH. 建筑学",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "了解在公路或越野行驶时什么可以替代地图\n\nA. 卡车\nB. 星星\nC. 车辆\nD. 岩石\nE. 速度\nF. 数学\nG. 力学\nH. 安全",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来导航？\n\nA. 星座\nB. 海绵\nC. 水生生物\nD. 水的知识\nE. 七鳃鳗\nF. 温度计\nG. 海底\nH. 反馈机制",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果你在黑暗中迷路了，可以用什么来找到路？\n\nA. 七鳃鳗\nB. 防紫外线\nC. 光照进它里面\nD. 听觉速度\nE. 北极星\nF. 如何检查温度\nG. 观察潮汐\nH. 小孔",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "探险家传统上用什么来确定方向？\n\nA. 时钟\nB. 海绵\nC. 毛发\nD. 波浪\nE. 车辆\nF. 小孔\nG. 鱼叉\nH. 星星",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "迷失的时候我们怎样才能克服不确定性？\n\nA. 反馈\nB. 睡觉\nC. 导航\nD. 想象\nE. 七鳃鳗\nF. 漫步\nG. 步伐\nH. 移动",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "关于星星的知识可以用来做什么？\n\nA. 旅行\nB. 艺术\nC. 作为基础\nD. 安全\nE. 讲故事\nF. 光源\nG. 想象\nH. 生活",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来导航？\n\nA. 音乐\nB. 骨干\nC. 占星术\nD. 纤毛\nE. 魔法\nF. 海绵\nG. 天文学\nH. 七鳃鳗",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么用来在斜坡上停车\n\nA. 暖空气\nB. 岩石\nC. 一个春天\nD. 沙\nE. 体液\nF. 振动\nG. 摩擦\nH. 非常复杂",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些因素可能导致车辆折叠和翻车？\n\nA. 风暴\nB. 慢动作\nC. 摩擦\nD. 振动\nE. 地震\nF. 紧急服务\nG. 雷雨\nH. 安全气囊",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会产生刹车粉尘？\n\nA. 给轮胎充气\nB. 无法控制的燃烧\nC. 温和加热工艺\nD. 橡胶轮胎\nE. 微生物\nF. 地壳板块碰撞\nG. 一辆停放的汽车\nH. 停车",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来拦停卡车？\n\nA. 水\nB. 噪音\nC. 摩擦\nD. 振动\nE. 魔法\nF. 体液\nG. 火\nH. 化学品",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以利用阻碍运动的力来阻止车辆？\n\nA. 风\nB. 刹车\nC. 重量\nD. 纺纱\nE. 摇晃\nF. 卡车\nG. 鱼尾纹\nH. 滚动",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些纹理表面更难刹车？\n\nA. 天气\nB. 干燥\nC. 车\nD. 硬度\nE. 光滑的\nF. 寒冷的\nG. 远端\nH. 七鳃鳗",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么利用摩擦力来刹车？\n\nA. 人类\nB. 山猫\nC. 汽车\nD. 氧\nE. 人们\nF. 保险杠\nG. 郊狼\nH. 牛",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "通过刹车停车将产生\n\nA. 气体\nB. 危险\nC. 损害\nD. 死亡\nE. 86400\nF. 热\nG. 风\nH. 体液",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么利用摩擦力来停止使用刹车？\n\nA. 雷暴\nB. 在陆地上移动\nC. 具有反馈回路\nD. 反馈机制\nE. 雷雨\nF. 卡车和汽车\nG. 水生生物\nH. 车祸",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "花朵可以在哪里形成？\n\nA. 内部腔室\nB. 发生在很广泛的范围内\nC. 在具有气孔的植物上\nD. 成年前的最后阶段\nE. 在太阳上\nF. 在死去的植物上\nG. 由软骨细胞组成的组织\nH. 在月球上",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "花什么时候出现\n\nA. 0 至 3 岁\nB. 雄配子\nC. 射精\nD. 阵雨后\nE. 在冬末\nF. 由软骨细胞组成的组织\nG. 雪融化后\nH. 腔肠动物",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "植物上有哪些部位有气孔？\n\nA. 角蛋白\nB. 毛发\nC. 花朵\nD. 阿米巴病\nE. 多孔动物门\nF. 七鳃鳗\nG. 鞭毛\nH. 原生动物",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "被子植物上有什么形态？\n\nA. 幼虫\nB. 骨干\nC. 七鳃鳗\nD. 成人\nE. 睾丸\nF. 抗体\nG. 花朵\nH. 大肠菌群",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "被子植物有什么形态？\n\nA. 七鳃鳗\nB. 骨干\nC. 花朵\nD. 颜料\nE. 大肠菌群\nF. 成人\nG. 抗体\nH. 睾丸",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是多基因性状？\n\nA. 重量\nB. 一些珊瑚虫\nC. 密度\nD. 细小的毛发\nE. 花朵\nF. 水\nG. 黑寡妇\nH. 黑色素量",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "头发颜色有什么特征？\n\nA. 组织\nB. 蜂窝\nC. 角蛋白\nD. 天气\nE. 多基因\nF. 毛发\nG. 脑\nH. O型",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是多基因性状？\n\nA. 侏儒症\nB. 黑寡妇\nC. 色素沉着\nD. 镰状细胞性贫血症\nE. 橙子\nF. 大肠菌群\nG. 狼疮\nH. 卷舌能力",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肤色由多少个基因控制？\n\nA. 角蛋白\nB. 等位基因\nC. 染色体\nD. 分类\nE. 一些\nF. 八\nG. 神经元\nH. 颜料",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肤色是一种由什么控制的特征？\n\nA. 原核细胞\nB. 一个基因\nC. 酶\nD. 角蛋白\nE. 子孙\nF. 几个基因\nG. 环境\nH. 单个基因",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是图雷特综合症？\n\nA. 疟疾\nB. 癌症\nC. 特征\nD. 发烧\nE. 细胞\nF. 抗原\nG. 病毒\nH. O型",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是表型表达？\n\nA. 过度反应\nB. 劳力士\nC. 肤色\nD. 细小的毛发\nE. 变得兴奋\nF. 花朵\nG. 玉簪属植物\nH. 室内特征",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "另外两个基因控制什么？\n\nA. 蜥蜴\nB. 角蛋白\nC. 花朵\nD. 鞭毛\nE. 酶\nF. 肤色\nG. 野生犬科动物\nH. 昆虫",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么受到多个基因的影响？\n\nA. 肤色\nB. 白喉\nC. 玉簪属植物\nD. 花朵\nE. 环境\nF. 一些珊瑚虫\nG. 生态系统\nH. 劳力士",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "多基因性状的另一个例子是什么？\n\nA. O型\nB. 分类学\nC. 劳力士\nD. 兽孔类\nE. 颜料\nF. 阿米巴病\nG. 盘龙类\nH. 橙子",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是多基因性状？\n\nA. 黑色素含量\nB. 真核细胞\nC. 阿米巴病\nD. 花分泌\nE. 骨骼大量生长\nF. 尺寸变化\nG. 一些珊瑚虫\nH. 奶牛生产的东西",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "皮肤颜色的表型变化范围很广\n\nA. 人类\nB. 百分比\nC. 急剧地\nD. 蜥蜴\nE. 环境\nF. 表达\nG. 百分比\nH. 已校准",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些爬行动物父母给予最多的关爱？\n\nA. 鳄鱼宝宝\nB. 鳄鱼妈妈\nC. 孕育后代\nD. 雄配子\nE. 一些珊瑚虫\nF. 由软骨细胞组成的组织\nG. 蜥蜴妈妈\nH. 蛇父",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么动物对幼崽如此关爱？\n\nA. 非洲象\nB. 人类父母\nC. 海蜇\nD. 野生犬科动物\nE. 鬣蜥父母\nF. 一些珊瑚虫\nG. 红猩猩\nH. 单细胞生物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些父母会遗弃自己的蛋呢？\n\nA. 七鳃鳗\nB. 鸭嘴兽\nC. 鹿\nD. 不安全\nE. 哺乳动物\nF. 钟虫\nG. 爬虫\nH. 海蜇",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种动物很少照顾它们的幼崽？\n\nA. 狼疮\nB. 一些珊瑚虫\nC. 人类\nD. 野生犬科动物\nE. 企鹅\nF. 类人猿\nG. 其他成员\nH. 鳄鱼",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些父母很少或根本不关心自己的孩子？\n\nA. 猫鼬\nB. 人类\nC. 新生儿\nD. 盘龙类\nE. 猎豹\nF. 骨干\nG. 蜥蜴\nH. 红猩猩",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "鳄鱼妈妈照顾什么？\n\nA. 他们的尾巴\nB. 他们的年轻人\nC. 他们的皮肤\nD. 他们的猎物\nE. 其他成员\nF. 玉簪属植物\nG. 人类\nH. 0 至 3 岁",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "壁虎父母如何照顾幼崽？\n\nA. 它是通过基因遗传的\nB. 骨骼大量生长\nC. 0 至 3 岁\nD. 两组或多组等位基因\nE. 发生在很广泛的范围内\nF. 保护\nG. 几乎不在乎\nH. 避免受伤",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "_ 动物很少或根本不照顾它们的幼崽。\n\nA. 一些珊瑚虫\nB. 冷血\nC. 黑色素含量\nD. 卡车和汽车\nE. 在陆地上\nF. 人类\nG. 破坏\nH. 多基因",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地面组织构成了什么东西的大部分内部？\n\nA. 空气\nB. 地球\nC. 海绵\nD. 橡树\nE. 细菌\nF. 家\nG. 岩石\nH. 气孔",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "维管组织和根构成什么的内部？\n\nA. 地球\nB. 组织\nC. 软骨\nD. 多孔动物门\nE. 家\nF. 植物\nG. 海绵\nH. 细胞",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "基本组织由什么构成？\n\nA. 蕨类植物\nB. 地球\nC. 玉米\nD. 天气\nE. 事情\nF. 表面\nG. 生长\nH. 细胞",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "营养物质保存在哪里？\n\nA. 礁石\nB. 海洋\nC. 饱和\nD. 组织\nE. 森林\nF. 地球\nG. 水\nH. 鞭毛",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当开口容器中的气体扩散时，会带来什么危险？\n\nA. 分区\nB. 死亡\nC. 动物\nD. 纵火\nE. 大肠杆菌\nF. 颜色\nG. 火灾\nH. 烟雾",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果危险气体从敞开的容器中逸出，工作场所是否会受到污染？\n\nA. 是的\nB. 酒吧\nC. 风\nD. 车\nE. 食物\nF. 不可能的\nG. 想都别想\nH. 当然不",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当开口容器中的氧气蒸发时会发生什么？\n\nA. 射精\nB. 氧气压缩\nC. 发生快速变化\nD. 氧气扩散到空气中\nE. 约 5 至 27 摄氏度\nF. 热膨胀\nG. 氧气溶解\nH. 氧气着火",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么物质会从存放在敞开的容器中的液体扩散到空气中？\n\nA. 食物\nB. 17\nC. 热\nD. 气体\nE. 等离子体\nF. 水\nG. 固体\nH. 雨",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "从敞开的容器中蒸发时什么东西会扩散到空气中？\n\nA. 氢\nB. 伽马射线\nC. 湿度\nD. 密度\nE. 汞\nF. 风化\nG. 蒲公英\nH. 氟化物",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西可以在敞开的容器中蒸发并扩散到空气中？\n\nA. 卡车和汽车\nB. 缩合\nC. 没有什么\nD. 热量\nE. 蒲公英\nF. 加热\nG. 汞\nH. 水蒸气",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当将气体放入一个开口的盒子中并且气体蒸发时，会发生什么？\n\nA. 气体在空气中扩散\nB. 发生在很广泛的范围内\nC. 约 5 至 27 摄氏度\nD. 极端温度\nE. 安全操作\nF. 挽救生命\nG. 气体冻结\nH. 气体留在盒子里",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "发电机排气中的一氧化碳气体是什么\n\nA. 运输\nB. 空气污染\nC. 射弹\nD. 农作物被毁\nE. 破坏\nF. 蒸发\nG. 危险\nH. 车祸",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西比鲨鱼骨骼更不灵活，但更强壮\n\nA. 保持营养物质\nB. 卫生纸\nC. 已校准\nD. 植物茎\nE. 珊瑚的近亲\nF. 常规骨架\nG. 黏土\nH. 真皮和血管组织",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "耳朵是由什么构成的？\n\nA. 可以听到\nB. 声音\nC. 天气\nD. 保护\nE. 细小的毛发\nF. 粗砂\nG. 角蛋白\nH. 软骨",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么动物的骨骼比鲨鱼更不灵活，但却更强壮？\n\nA. 鱼\nB. 莫氏\nC. O型\nD. 细菌\nE. 软骨\nF. 病毒\nG. 成人\nH. 天气",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "骨头比覆盖它的材料更坚固，但没有什么\n\nA. 表面\nB. 重量\nC. 灵活的\nD. 关键元素\nE. 破坏\nF. 粘稠的\nG. 体液\nH. 钱",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "我们可以用灵活或强壮来形容身体的这些部位：\n\nA. 荷尔蒙\nB. 保护\nC. 组织\nD. 金属\nE. 体操运动员\nF. 移动\nG. SI 单位\nH. 滑冰运动员",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西比骨头更柔韧？\n\nA. 软骨\nB. 细小的毛发\nC. 四角龙\nD. 牙齿\nE. 股骨\nF. 矿物\nG. 兽孔类\nH. 角蛋白",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么类型的骨骼比鲨鱼骨骼更不灵活但更坚固？\n\nA. 冰\nB. 光滑的\nC. 成人\nD. 鱼\nE. 骨\nF. 肌肉\nG. O型\nH. 海洋",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西比软骨更轻但是更坚固？\n\nA. 皮肤\nB. 纤毛\nC. 组织\nD. 天气\nE. 成人\nF. O型\nG. 莫氏\nH. 骨",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西比半透明的纸巾更不灵活？\n\nA. 成人\nB. 丝绸\nC. 骨\nD. 气孔\nE. 酒吧\nF. 莫氏\nG. 天气\nH. 节点",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "恶劣天气会降低驾驶的哪些方面？\n\nA. 保护\nB. 体验驾驶\nC. 挡风玻璃雨刷的使用\nD. 驾驶员的知识\nE. 安全操作\nF. 关键元素\nG. 速度差异\nH. 空气污染",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "恶劣的天气会造成什么样的驾驶状况？\n\nA. 鞭伤\nB. 死亡\nC. 危险\nD. 不安全\nE. 破坏\nF. 这取决于\nG. 安全的\nH. 没有效果",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些因素会降低驾驶时的能见度？\n\nA. 警告\nB. 冰雹\nC. 风\nD. 意识\nE. 冬天\nF. 看着路\nG. 臭氧\nH. 暴风雨的",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么导致能见度接近于零？\n\nA. 移动板块\nB. 晴朗的天空\nC. 速度计\nD. 道路弯道\nE. 地震仪\nF. 坏天气\nG. 山间空气\nH. 缺少雨水",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些因素会增加车祸的风险？\n\nA. 坏天气\nB. 摩擦\nC. 清理道路\nD. 卡车和汽车\nE. 空气污染\nF. 交通最少\nG. 森林火灾\nH. 现代车辆",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些情况更容易发生车祸？\n\nA. 经验丰富的司机\nB. 北极\nC. 交通比平时少\nD. 5 英里/小时风速\nE. 雷暴\nF. 堵塞气道\nG. 卡车和汽车\nH. 反馈机制",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "恶劣天气会造成什么后果？\n\nA. 道路弯道\nB. 肿胀淋巴结\nC. 家\nD. 车祸\nE. 负面反馈\nF. 速度\nG. 堵塞气道\nH. 有罪",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "恶劣天气影响\n\nA. 树木和鲜花\nB. 滤食性动物\nC. 安全驾驶\nD. 环境\nE. 推进\nF. 体内平衡\nG. 道路弯道\nH. 黑色素量",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "各种化学相关的小分子的聚合物可以挤过什么孔隙？\n\nA. 蛋白质通道\nB. 运输\nC. 核膜\nD. 内部腔室\nE. 核\nF. 真皮和血管组织\nG. 细胞分裂\nH. 微观血管。",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "RNA 是一种小分子，可以挤过细胞内的孔隙 \n\nA. 真皮和血管组织\nB. 之间的空间\nC. 真核细胞\nD. 海蜇\nE. 发生在很广泛的范围内\nF. 挽救生命\nG. 保持营养物质\nH. 秒和分",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "能挤过核膜孔隙的小分子是什么？\n\nA. 抗原\nB. 透水墙\nC. 保持营养物质\nD. 触须\nE. 单细胞生物\nF. 微观血管。\nG. 挽救生命\nH. 核糖核酸",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "RNA 是一种小分子，可以挤过细胞核的孔隙，细胞核中含有\n\nA. 气体\nB. 食物\nC. 眼睛\nD. 中央处理器\nE. 洞\nF. 胖的\nG. 丝绸\nH. 脱氧核糖核酸",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么分子可以穿过增厚、圆形、略微不规则的孔隙？\n\nA. 生活\nB. 食物\nC. 核糖核酸\nD. 丝绸\nE. 中央处理器\nF. 骨\nG. 首席信息官\nH. 山猫",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "能够挤过真核细胞孔隙的小分子是什么？\n\nA. 核糖核酸\nB. 玉米\nC. 17\nD. 丝绸\nE. 尺寸\nF. 中央处理器\nG. 100\nH. 首席信息官",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海葵使用毒镖来做什么？\n\nA. 有丝分裂\nB. 有性生殖\nC. 破坏\nD. 保护\nE. 反击\nF. 安全操作\nG. 贮存\nH. 沟通",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "毒素通过什么来防御？\n\nA. 每个物种\nB. 相关生物\nC. 鹌鹑\nD. 原核细胞\nE. 小狗\nF. 抗原\nG. 海葵\nH. 人类",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一些海洋生物生活在哪里？\n\nA. 盲鳗\nB. 岩浆\nC. 礁石\nD. 鱼\nE. 溪\nF. 蜗牛\nG. 贝壳\nH. 海绵",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些是有毒的？\n\nA. 鳄鱼\nB. 乳酸杆菌\nC. 海葵\nD. 鸭子\nE. 小狗\nF. 七鳃鳗\nG. 脊椎动物\nH. 猫",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "珊瑚的近亲用什么来防御？\n\nA. 化学信使\nB. 微生物\nC. 鞭毛\nD. 毒镖\nE. 化学品\nF. 腔肠动物\nG. 抗体\nH. 七鳃鳗",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么使用毒镖来防御？\n\nA. 单细胞生物\nB. 相关生物\nC. 以死去的原生动物为食\nD. 单细胞微生物\nE. 希拉毒蜥\nF. 珊瑚的近亲\nG. 腔肠动物\nH. 黑寡妇",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海葵用什么作为保护手段？\n\nA. 七鳃鳗\nB. 毒镖\nC. 管状器官\nD. 以死去的原生动物为食\nE. 腔肠动物\nF. 胰岛\nG. 相关生物\nH. 滋润皮肤",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "珊瑚虫用什么进行防御？\n\nA. 抗原\nB. 毒镖\nC. 单细胞生物\nD. 化学品\nE. 草履虫\nF. 抗体\nG. 坚强的后盾\nH. 以死去的原生动物为食",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "与水母和珊瑚有关的生物用什么来防御\n\nA. 毒镖\nB. 化学品\nC. 专门\nD. 通过寄生于它们\nE. 软骨细胞\nF. 鞭毛\nG. 微观血管。\nH. 海绵",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会收集液体？\n\nA. 地震仪\nB. 阳光\nC. 软骨细胞\nD. 肺\nE. 空间\nF. 实验室\nG. 小毛细血管\nH. 草履虫",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "从毛细血管渗漏到细胞间隙中的液体中含有什么？\n\nA. 角蛋白\nB. 尿素\nC. 软骨细胞\nD. 淋巴细胞\nE. 硫\nF. 饮用水\nG. 铝\nH. 水蒸气",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "淋巴如何进入细胞之间的空间？\n\nA. 膜\nB. 挽救生命\nC. 保持营养物质\nD. 细胞\nE. 抗原\nF. 气体在空气中扩散\nG. 组织\nH. 透水墙",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "淋巴位于哪里？\n\nA. 表面\nB. 小孔\nC. 皮肤\nD. 静脉\nE. 骨头\nF. 睾丸\nG. 节点\nH. 脑",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "富含蛋白质的什么东西会泄漏到细胞之间的空隙中？\n\nA. 核糖核酸\nB. 激酶\nC. 活力\nD. 等离子体\nE. 体液\nF. 角蛋白\nG. 奶酪\nH. 抗原",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人类包含什么？\n\nA. 魔法\nB. 反物质\nC. 烟雾\nD. 克\nE. 淋巴\nF. 发烧\nG. O型\nH. 爪子",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "淋巴液从什么中漏出到细胞之间的间隙中？\n\nA. 遗传抗原+抗体\nB. 微观血管。\nC. 核苷酸组成聚合物\nD. 挽救生命\nE. 水槽漏水。\nF. 引起过敏的抗原\nG. 水管。\nH. 外太空。",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么液体从毛细血管泄漏到细胞之间的空间？\n\nA. 一些珊瑚虫\nB. 肿胀淋巴结\nC. 腔肠动物\nD. 卡车和汽车\nE. 黑寡妇\nF. 单细胞生物\nG. 触须\nH. 水生动物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "淋巴通过什么过滤？\n\nA. 海绵\nB. 组织\nC. 血\nD. 皮肤\nE. 节点\nF. 视网膜\nG. 哺乳动物\nH. 液体",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西从血管里漏出来了？\n\nA. 过敏原\nB. 水蒸气\nC. 核糖核酸\nD. 抗体\nE. 刺激物\nF. 抗原\nG. 黑色素含量\nH. 淋巴液",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "从毛细血管渗漏到细胞间隙的液体富含什么？\n\nA. 白血细胞\nB. 黑色素含量\nC. 黑色素量\nD. 核糖核酸\nE. 气体在空气中扩散\nF. 保持营养物质\nG. 运输\nH. 沉淀",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "富含蛋白质的液体从毛细血管泄漏到什么之间的空间？\n\nA. 睾丸\nB. 一些\nC. 血\nD. 细胞\nE. 事情\nF. 抗原\nG. 人们\nH. 皮肤",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "从动脉和静脉连接处漏出的液体是什么？\n\nA. O型\nB. 气体\nC. 液体\nD. 天气\nE. 氧\nF. 淋巴\nG. 水\nH. 红色的",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "某种蛋白质会引起过敏反应，它叫什么？\n\nA. 角蛋白\nB. 过敏原\nC. 酶\nD. 朊病毒\nE. 阿米巴病\nF. O型\nG. 免疫功能低下\nH. 抗原",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哮喘发作可能由以下因素引发\n\nA. 过敏原\nB. 荷尔蒙\nC. 坏天气\nD. 淋巴细胞\nE. 步枪\nF. 喘息\nG. 盗汗\nH. 雌激素",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "生产什么来对抗过敏原？ \n\nA. 氧化剂\nB. 细菌\nC. 鞭毛\nD. 抗体\nE. 红细胞\nF. 酶\nG. 荷尔蒙\nH. 橙子",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是花粉？\n\nA. 真核生物\nB. 单细胞生物\nC. 生物体的构成要素\nD. 引起过敏的抗原\nE. 蜜蜂\nF. 微生物\nG. 核苷酸组成聚合物\nH. 二倍体",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可能导致过敏反应？\n\nA. 荷尔蒙\nB. 肤色\nC. 七鳃鳗\nD. 雌激素\nE. 鞭伤\nF. 烟雾\nG. 抗原\nH. 热",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "过敏原是一种\n\nA. 单细胞微生物\nB. 发生在很广泛的范围内\nC. 黑色素含量\nD. 对身体来说，蛋白质是外来物质。\nE. 特化细胞\nF. 小分子\nG. 遗传抗原+抗体\nH. 化学信使",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "巴氏灭菌法可以减少什么中的细菌数量？\n\nA. 单细胞微生物\nB. 鱼条是用什么做成的\nC. 单细胞生物\nD. 布丁是由\nE. 牛排由什么制成\nF. 微生物\nG. 葡萄酒由什么材料制成\nH. 在小肠中",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "谁发现了如何去除牛奶中的细菌？\n\nA. 生物\nB. 科学研究\nC. 路易十四\nD. 制片人\nE. 治疗\nF. 爱因斯坦\nG. 氧化剂\nH. 一位法国科学家",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "巴氏灭菌会减少牛奶中的什么成分？\n\nA. 单细胞生物\nB. 引起过敏的抗原\nC. 对身体来说，蛋白质是外来物质。\nD. 核糖核酸\nE. 蛋白质\nF. 70-75 华氏度\nG. 淋巴细胞\nH. 纤维",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以减少牛奶中的结核病病因？\n\nA. 巴氏灭菌\nB. 黑色素量\nC. 安全操作\nD. 保护\nE. 小分子\nF. 核糖核酸\nG. 酶\nH. 冷藏",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以减少牛奶中的细菌数量？\n\nA. 加热\nB. 等待\nC. 氧化剂\nD. 老化\nE. 冷却\nF. 化学品\nG. 钙\nH. 抗体",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "巴氏灭菌法可以减少什么中的细菌数量？\n\nA. 微生物和贻贝\nB. 病毒\nC. 在小肠中\nD. 单细胞生物\nE. 胰岛细胞\nF. 天气\nG. 淋巴液\nH. 奶牛生产的东西",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以减少牛奶中的细菌？\n\nA. 化学信使\nB. 保护\nC. 70-75 华氏度\nD. 核糖核酸\nE. 温和加热工艺\nF. 接触氧气和水\nG. 微生物和贻贝\nH. 黑色素含量",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "巴氏杀菌牛奶减少了\n\nA. 70-75 华氏度\nB. 黑色素含量\nC. 保持营养物质\nD. 核糖核酸\nE. 原核细胞\nF. 卡车和汽车\nG. 挽救生命\nH. 慢下来",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "加热牛奶减少细菌量还能减少什么？\n\nA. 热膨胀\nB. 空气污染\nC. 雪、冰和岩石\nD. 黑色素量\nE. 维生素含量\nF. 负面反馈\nG. 过敏原\nH. 抗原",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "婴儿期比青春期生长得更快吗？\n\nA. 单细胞生物\nB. 几个基因\nC. 尺寸变化\nD. 速度变化\nE. 原核细胞\nF. 饮食变化\nG. 颜色变化\nH. 热膨胀",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪个时期的生长速度比青春期快？\n\nA. 黑色素量\nB. 胎儿发育\nC. 绝经\nD. 萌芽\nE. 几个基因\nF. 温和加热工艺\nG. 秒和分\nH. 它是通过基因遗传的",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "婴儿时期生长发育比什么时期更快？\n\nA. 青春期\nB. 鞭毛\nC. 软骨细胞\nD. 真核细胞\nE. 后代\nF. 米\nG. 被子植物\nH. 大量的",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些东西比青春期生长得更快？\n\nA. 神经元\nB. 成年人\nC. 橡树\nD. 冰\nE. 荷尔蒙\nF. 婴儿\nG. 岩石\nH. 精子",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么时候增长最快？\n\nA. 淋巴细胞\nB. 真核细胞\nC. 70-75 岁\nD. 25-30岁\nE. 12-15岁\nF. 黑色素含量\nG. 0 至 3 岁\nH. 被子植物",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么时期的生长比青春期更快？\n\nA. 人类\nB. 86400\nC. 成年\nD. 慢下来\nE. 八\nF. 被子植物\nG. 新生儿\nH. 制片人",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么时候增长更快？\n\nA. 成年\nB. 海绵\nC. 当乳房发育时\nD. 86400\nE. 被子植物\nF. 月经停止时\nG. 玉米\nH. 婴儿期",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人体什么时候生长最快？\n\nA. 子宫颈\nB. 22个月\nC. 86400\nD. 百分比\nE. 生活\nF. 婴儿期\nG. 成人\nH. 冬天",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震活动告诉我们什么？\n\nA. 火山何时爆发\nB. 等离子体和有形成分\nC. 极端温度\nD. 声音传播的速度\nE. 在南极洲上空形成了一个洞\nF. 飓风的强度\nG. 车辆行驶速度有多快\nH. 地震的强度和震级",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在仪器测量地震之前要对其进行什么处理？\n\nA. 安全操作\nB. 尺寸变化\nC. 湿润的\nD. 反馈\nE. 评估\nF. 已消毒\nG. 已校准\nH. 它们如何移动",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "我们如何对地震进行分级\n\nA. 地震仪\nB. 分类学\nC. 反馈\nD. 测量地面\nE. 看看天空\nF. 分类\nG. 测量体温\nH. 喜马拉雅山",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量什么？\n\nA. 由于断层运动而引起的一些事情。\nB. 70-75 华氏度\nC. 车辆行驶速度有多快\nD. 因愚蠢而起的事\nE. 引起过敏的抗原\nF. 由风引起的\nG. 由重力引起的事物\nH. 声音传播的速度",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "较大的地震中什么较大？\n\nA. 熔岩流出\nB. 由软骨细胞组成的组织\nC. 有脊椎的动物\nD. 奶牛生产的东西\nE. 圆润的山峰\nF. 最大振幅\nG. 引起过敏的抗原\nH. 对应风",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么设备来给出里氏震级的评级\n\nA. 风速计\nB. 天气\nC. 反馈\nD. 声音振动\nE. 湿度计\nF. 板块构造\nG. 温度计\nH. 地震仪",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量断层运动？\n\nA. 里氏震级\nB. 气压计\nC. 辐射热计\nD. 一些鱼\nE. 地震仪\nF. 板块构造\nG. 四角龙\nH. 声音振动",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪是用来测量什么的？\n\nA. 主要影响\nB. 三原子氧空穴\nC. 里氏常数\nD. 里氏震级\nE. 振动\nF. 70-75 华氏度\nG. 发生在很广泛的范围内\nH. 食物重量",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量地震的震动吗？\n\nA. 波浪\nB. 强度\nC. 阴影\nD. 分子\nE. 能见度\nF. 主要影响\nG. 它增加了\nH. 他们的速度",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪对地震波有什么作用？\n\nA. 它增加了\nB. 措施\nC. 停止\nD. 他们的速度\nE. 理由\nF. 反击\nG. 波浪于\nH. 能见度",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量震动的强度？\n\nA. 振动\nB. 黑色素量\nC. 声音振动\nD. 板块构造\nE. 地震仪\nF. 温度计\nG. 晴雨表\nH. 雨量计",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量地震的哪个方面？\n\nA. 摩擦\nB. 摇晃\nC. 球场\nD. 波浪\nE. 分数\nF. 能见度\nG. 加热\nH. 速度",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量什么？\n\nA. 波浪\nB. 冰雹\nC. 莫氏\nD. 一个尺度\nE. 体液\nF. 损害\nG. 酒吧\nH. 英里/小时",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "温度计用来测量热量做什么？\n\nA. 安全操作\nB. 包含它\nC. 低压\nD. 测量它\nE. 巴氏灭菌\nF. 它增加了\nG. 减少它\nH. 传播它",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么仪器可以测量发烧？\n\nA. 抗生素\nB. 间充质\nC. 听诊器\nD. 温度计\nE. 计算器\nF. 透析\nG. 地震仪\nH. 七鳃鳗",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "温度计是用来测量什么的？\n\nA. 具有反馈回路\nB. 血压\nC. 发生快速变化\nD. 气压变化\nE. 体积\nF. 低压\nG. 体内平衡\nH. 热量",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量热量？\n\nA. 化学信使\nB. 气压计\nC. 荷尔蒙\nD. 一个尺度\nE. 一位法国科学家\nF. 七鳃鳗\nG. 温度计\nH. 热",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以测量出来会是什么样的？\n\nA. 巴氏灭菌\nB. 寒冷的环境\nC. 一个温度计。\nD. 温和加热工艺\nE. 婴儿的成长\nF. 受太阳加热\nG. 雪融化后\nH. 一個秤。",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "温度计可以诊断什么？\n\nA. 骨头断\nB. 气孔\nC. 发烧\nD. 躁郁症\nE. 癌症\nF. 细胞\nG. 抗原\nH. 疟疾",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "温度计用热量来做什么？\n\nA. 蒸发\nB. 温度计\nC. 减少它\nD. 冷却\nE. 保护\nF. 它增加了\nG. 已消毒\nH. 措施",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量热量？\n\nA. 七鳃鳗\nB. 加热\nC. 液体\nD. 车速表\nE. 黑色素含量\nF. 温度计\nG. 晴雨表\nH. 统治者",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么在管内膨胀和上升用于测量温度？\n\nA. 管\nB. 沙\nC. 汞\nD. 烟雾\nE. 莫氏\nF. 事情\nG. 水\nH. 七鳃鳗",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量温度通常不要使用装有酒精的设备或：\n\nA. 汞\nB. 不安全\nC. 七鳃鳗\nD. 寒冷的\nE. 莫氏\nF. 一些药物\nG. 液体\nH. 烟雾",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "旅行用什么？\n\nA. 阿尔卑斯山\nB. 弹簧单高跷\nC. 沙发\nD. 卡车和汽车\nE. 雪、冰和岩石\nF. 安全带\nG. 化学信使\nH. 透水墙",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "空气污染的原因是什么？\n\nA. 死亡\nB. 氧\nC. 氧化\nD. 旅行\nE. 游泳\nF. 细菌\nG. 雷暴\nH. 雨",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "旅行用什么？\n\nA. 旅游\nB. 七鳃鳗\nC. 公里\nD. 阿尔卑斯山\nE. 彩虹\nF. 摩托车\nG. 透水墙\nH. 耳声学",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卡车和汽车用于什么用途？\n\nA. 污染\nB. 旅行\nC. 食物\nD. 破坏\nE. 步行\nF. 安全\nG. 加热\nH. 占用空间",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卡车用于什么用途？\n\nA. 光合作用\nB. 航天\nC. 距离\nD. 治疗\nE. 燃料来源\nF. 旅行\nG. 安全\nH. 重量",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当从一个地方到另一个地方时，什么可以帮助人们旅行？\n\nA. 车\nB. 鱼\nC. 鸟的羽毛\nD. 食物\nE. 云\nF. 核糖核酸\nG. 狗\nH. 丝绸",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "汽车和卡车用于什么用途？\n\nA. 旅行\nB. 机壳\nC. 跑步\nD. 越野车\nE. 危险\nF. 破坏\nG. 导航\nH. 安全",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么样的旅行方式能让你看见脚下广阔的土地？\n\nA. 在陆地上\nB. 一艘黄色潜水艇\nC. 在陆地上移动\nD. 一辆自行车\nE. 天气\nF. 山脉\nG. 旅游巴士\nH. 一架飞机。",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "使用中的车辆需要\n\nA. 专门\nB. 力量\nC. 沟通\nD. 导航\nE. 饮用水\nF. 加热\nG. 骨干\nH. 黑色素量",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，那么可能出现什么情况？\n\nA. 负面反馈\nB. 湖泊被毁\nC. 农作物被毁\nD. 严重旱灾\nE. 雪、冰和岩石\nF. 空气污染\nG. 空湖\nH. 热量",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": " 春天里能看见什么\n\nA. 雨天\nB. 河流结冰\nC. 尺寸变化\nD. 冰川融化\nE. 存款\nF. 地震仪\nG. 白天变短\nH. 运动测量",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因导致降雨概率增大？\n\nA. 低湿度\nB. 受太阳加热\nC. 树木和鲜花\nD. 干旱\nE. 在陆地上\nF. 卡车和汽车\nG. 低压\nH. 道路弯道",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "飓风更有可能造成哪些情况？\n\nA. 英里/小时\nB. 发烧\nC. 家\nD. 土壤\nE. 火\nF. 生活\nG. 雨\nH. 空气",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "暴风雨天气对植物有何帮助？\n\nA. 生活\nB. 枯萎\nC. 冻结\nD. 移动\nE. 雨\nF. 生长\nG. 烧伤\nH. 学习",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在暴风雨天气发生什么事情的可能性更大？\n\nA. 卡车和汽车\nB. 空气污染\nC. 沉淀\nD. 微波炉\nE. 树木和鲜花\nF. 移动板块\nG. 阳光\nH. 晴朗的天空",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "夏天带来了什么？\n\nA. 冬天\nB. 雌激素\nC. 岩浆\nD. 生长\nE. 玉簪属植物\nF. 气候\nG. 化学品\nH. 风暴",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果大气状况如何，那么降雨的可能性会更大吗？\n\nA. 冷静的\nB. 阳光\nC. 破坏\nD. 季节性\nE. 清除\nF. 危险\nG. 风\nH. 暴风雨的",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，发生什么情况的可能性会更大？\n\nA. 黄昏\nB. 沉淀\nC. 阳光\nD. 负面反馈\nE. 日光\nF. 空气污染\nG. 卡车和汽车\nH. 英里每小时",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，植物会吸收什么？\n\nA. 氧\nB. 钙\nC. 知识\nD. 花粉\nE. 光\nF. 云\nG. 颜料\nH. 水",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，\n\nA. 热膨胀\nB. 晴朗的天空\nC. 卡车和汽车\nD. 干旱期\nE. 太阳\nF. 沉淀\nG. 英里每小时\nH. 负面反馈",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些因素会增加洪水发生的可能性？\n\nA. 滤食性动物\nB. 低潮\nC. 透水墙\nD. 加固现有堤坝\nE. 玉米价格上涨\nF. 暴风雨天气\nG. 在陆地上\nH. 反馈机制",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，那么发生什么情况的可能性会更大？\n\nA. 回响噪音\nB. 地震\nC. 火\nD. 空气污染\nE. 卡车和汽车\nF. 沉淀\nG. 负面反馈\nH. 阳光",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，则更有可能\n\nA. 摩擦\nB. 侵蚀\nC. 鞭伤\nD. 太平洋\nE. 破坏\nF. 冬天\nG. 车辆\nH. 导航",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如果天气暴风雨，那么减少的可能性就更大\n\nA. 英里每小时\nB. 空气污染\nC. 沉淀\nD. 雄配子\nE. 运输\nF. 雨量\nG. 能见度\nH. 强度",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "原生动物位于使人类患病的地方\n\nA. 肠\nB. 狼疮\nC. 大肠菌群\nD. 脚\nE. 卡车和汽车\nF. 一些珊瑚虫\nG. 汗腺\nH. 鞭毛",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "弓形虫对人体有什么危害？\n\nA. 抗体\nB. 破坏\nC. 让他们感到恶心\nD. 气体在空气中扩散\nE. 大肠菌群\nF. 使他们坚强\nG. 注射毒液\nH. 让他们健康",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "能引起感染的生物有哪些作用？\n\nA. 绷带包扎伤口\nB. 保持肉体清洁\nC. 注射毒液\nD. 改变生态系统\nE. 抗体\nF. 使人类变得更好\nG. 使人类患病\nH. 发生在很广泛的范围内",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肉孢子虫属的种类是如何使人类患病的？\n\nA. 导致癌症\nB. 注射毒液\nC. 通过寄生于它们\nD. 心脏病\nE. 引起过敏的抗原\nF. 黑色素含量\nG. 殺害人類\nH. 无法控制的燃烧",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么让人类变成寄生虫而生病？\n\nA. 水\nB. 由软骨细胞组成的组织\nC. 抗体\nD. 兽孔类\nE. 单细胞动物\nF. 重力\nG. 无法控制的燃烧\nH. 消化",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "使人类患病的原生动物的一个例子是\n\nA. 盘龙类\nB. 大肠菌群\nC. O型\nD. 蠕虫\nE. 刺胞动物\nF. 盲鳗\nG. 疟疾\nH. 兽孔类",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如何找到真正的北方？\n\nA. 磁铁\nB. 飞行\nC. 天气\nD. 地震仪\nE. 风\nF. 光谱仪\nG. 远端\nH. 导航",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "谁会使用利用指向北方的磁铁的工具？\n\nA. 作为基础\nB. 运动员\nC. 神经科医生\nD. 玉簪属植物\nE. 天气\nF. 动物\nG. 莫氏\nH. 测量员",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "可以使用指南针来寻找方向，那是什么？\n\nA. 295 开尔文\nB. 安全操作\nC. 指出\nD. 分享想法\nE. 指向北方\nF. 作为基础\nG. 专门\nH. 指向奇怪",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针用什么来指向？\n\nA. 压力\nB. 他们的速度\nC. 一种金属\nD. 风\nE. 磁性\nF. 全球定位系统\nG. 远端\nH. 七鳃鳗",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以指引航行的北方向？\n\nA. 山脉\nB. 北极\nC. 科学\nD. 纬度\nE. 磁性\nF. 南极洲\nG. 占星术\nH. 正确的",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针用来指示什么？\n\nA. 太阳\nB. 辐射\nC. 杆子\nD. 地标\nE. 八\nF. 英里/小时\nG. 湿度\nH. 罗盘",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来指向磁极？\n\nA. 它是通过基因遗传的\nB. 波兰人\nC. 70-75 华氏度\nD. 化学品\nE. 天然磁性\nF. 钢管舞者\nG. 295 开尔文\nH. 北极的照片",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么样的磁铁可以帮助指南针指向北方？\n\nA. O型\nB. 他们的速度\nC. 七鳃鳗\nD. 北极\nE. 作为基础\nF. 天气\nG. 永恒的\nH. 海洋",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是钛？\n\nA. 一种金属\nB. 保护\nC. 坚硬的\nD. 氧化铁\nE. 生物元素\nF. SI 单位\nG. 非金属\nH. 软骨",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "元素周期表中不太常见的元素类型在哪里？\n\nA. 第三页\nB. 氢\nC. 天气\nD. 元素\nE. 金字塔顶层\nF. 不包含\nG. 右上角\nH. 矿物",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "非金属物质的原子数目与其他物质相比是多少？\n\nA. 295 开尔文\nB. 秒和分\nC. 显示百分比\nD. 数量少得多\nE. 百分比\nF. 数量大致相同\nG. 小数\nH. 发生在很广泛的范围内",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些地方非金属的数量要少得多？\n\nA. 山脉\nB. 元素周期表\nC. 雪、冰和岩石\nD. 道路弯道\nE. 板块构造\nF. SI 单位\nG. 卡车和汽车\nH. 黑色素含量",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "非金属或准金属元素的数量是多少？\n\nA. 脱氧核糖核酸\nB. O型\nC. 莫氏\nD. 更少\nE. 八\nF. 不安全\nG. 86400\nH. 远端",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "元素周期表上有多少种非金属？\n\nA. 中央处理器\nB. 红色的\nC. 是的\nD. 脱氧核糖核酸\nE. 色调\nF. 气体\nG. 胖的\nH. 17",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "半导体右侧的元素数量是多少？\n\nA. 尺寸\nB. 洞\nC. 更少\nD. 八\nE. 钙\nF. 一些\nG. 坚硬的\nH. 贝壳",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "了解谁拥有相容的血液有何重要意义？\n\nA. 财务原因\nB. 保护\nC. 医疗原因\nD. 沟通\nE. 胎儿发育\nF. 治疗原因\nG. 预防受伤\nH. 私人原因",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "医院工作人员可能希望使用哪些信息来治疗您？\n\nA. 你在哪里上学\nB. 数据值\nC. SI 单位\nD. 血型\nE. 挽救生命\nF. 祖父母的名字\nG. 已校准\nH. 你最喜欢的聚会场所",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "对于某些人来说，血型是必要的：\n\nA. 查理·卓别林\nB. 人类\nC. 挽救生命\nD. 吸血鬼\nE. 动物\nF. 组织\nG. 治疗\nH. 0 至 3 岁",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出于医学原因需要了解哪些信息\n\nA. 您的身高不足 6 英尺\nB. 运动测量\nC. 你有棕色的眼睛\nD. 你是O型血\nE. 牙釉质\nF. 大肠菌群\nG. 你有一头金发\nH. 气压计",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "对于医学原因来说什么才是重要的？\n\nA. 由软骨细胞组成的组织\nB. 发色\nC. 遗传抗原+抗体\nD. 肤色\nE. 眼睛的颜色\nF. 特化细胞\nG. 两组或多组等位基因\nH. 化学信使",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手术前了解患者哪些信息比较重要？\n\nA. 组织\nB. 保护\nC. 蛋白质\nD. 数据值\nE. 血型\nF. 肤色\nG. 安全\nH. 防腐剂",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "移植的一个重要因素是\n\nA. 眼睛的颜色\nB. 安全操作\nC. 血型\nD. 保护\nE. 挽救生命\nF. 黑色素含量\nG. 肤色\nH. 骨骼结构",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "对于医生来说通常需要了解什么？\n\nA. 气压计\nB. 血型\nC. 几个基因\nD. 血液浓度\nE. 所有亲属的姓名\nF. 已校准\nG. 信用记录\nH. 黑色素含量",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "谁对古菌仍然知之甚少？\n\nA. 单细胞生物\nB. 单细胞生物\nC. 单细胞微生物\nD. 做研究的人\nE. 一位法国科学家\nF. 以死去的原生动物为食\nG. 微生物\nH. 居住在 Arcaea 的人们",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是继承？\n\nA. 淋巴细胞\nB. 最喜欢的颜色\nC. 想象\nD. 肤色\nE. 白喉\nF. 发烧\nG. 皮肤长度\nH. 骨色",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "几个基因相互作用的结果是什么？\n\nA. 狼疮\nB. 肤色\nC. 饥饿\nD. 风化\nE. 死亡\nF. 劳力士\nG. 主要影响\nH. 白喉",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么由两个或多个基因控制？\n\nA. 人类\nB. 黑寡妇\nC. 昆虫\nD. 下巴裂痕\nE. 野生犬科动物\nF. 鞭毛\nG. 酶\nH. 肤色",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么决定了肤色？\n\nA. 偏爱\nB. 两组或多组等位基因\nC. 特化细胞\nD. 单细胞微生物\nE. 出生地点\nF. 引起过敏的抗原\nG. 只有一个等位基因\nH. 由软骨细胞组成的组织",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肤色从何而来？\n\nA. 由软骨细胞组成的组织\nB. 没人知道\nC. 发生快速变化\nD. 这是一个选择\nE. 接触氧气和水\nF. 它是随机的\nG. 它是通过基因遗传的\nH. 成年前的最后阶段",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是基于多基因性状？\n\nA. 大肠菌群\nB. 科学研究\nC. 姓名\nD. 重量\nE. 黑色素含量\nF. 被子植物\nG. 尺寸变化\nH. 气体",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是继承？\n\nA. 发烧\nB. 污垢\nC. 感觉\nD. 酶\nE. 淋巴细胞\nF. 肤色\nG. 图层\nH. 白喉",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "几个基因相互作用的结果是什么？\n\nA. 主要影响\nB. 呼吸\nC. 劳力士\nD. 密度\nE. 白喉\nF. 狼疮\nG. 肤色\nH. 消化",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "你的多基因特征决定了：\n\nA. 遗传抗原+抗体\nB. 非亲属的颜色\nC. 如果你是白人或棕色人种\nD. 生物体的构成要素\nE. 引起过敏的抗原\nF. 职业选择\nG. 你会和谁成为朋友\nH. 雄配子。",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么特性是遗传的？\n\nA. 智力\nB. 重量\nC. 想象\nD. 角蛋白\nE. 人类\nF. 狼疮\nG. 力量\nH. 牙釉质",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "皮肤中黑色素的含量是 \n\nA. 同步\nB. 强度\nC. 多基因性状\nD. 措施\nE. 保护乘客\nF. 制片人\nG. 关键元素\nH. 小分子",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "受精卵什么时候变成后代？\n\nA. 原核细胞\nB. 当它诞生时\nC. 单细胞生物\nD. 雪融化后\nE. 受太阳加热\nF. 当它死去\nG. 被子植物\nH. 同步",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么导致人口增长？\n\nA. 抗原\nB. 不孕不育\nC. 色素沉着\nD. 隔离\nE. 抗体\nF. 流产\nG. 几个基因\nH. 怀孕",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "从受精到胎儿发育到哪个阶段？\n\nA. 出生\nB. 有丝分裂\nC. 青春期\nD. 太阳\nE. 一个孩子\nF. 成人\nG. 配子\nH. 乳房",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "胚胎发育也称为\n\nA. 怀孕\nB. O型\nC. 受精\nD. 新生儿\nE. 细胞\nF. 婴儿期\nG. 青春期\nH. 青春期",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "受精会导致什么结果？\n\nA. 流产\nB. 植物\nC. 主要影响\nD. 输卵管\nE. 开花\nF. 青春期\nG. 花蜜\nH. 怀孕",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "怀胎十月是从什么时候算起？\n\nA. 受精直至出生\nB. 童年至成年\nC. 雪融化后\nD. 成年前的最后阶段\nE. 雄配子。\nF. 性成熟\nG. 胚胎至受精卵\nH. 婴儿期至死亡",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是妊娠？\n\nA. 出生后三个阶段\nB. 出生后时期\nC. 生孩子\nD. 计划生育\nE. 成年前的最后阶段\nF. 流产\nG. 性成熟\nH. 孕育后代",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "从受精到出生携带后代会导致什么结果？\n\nA. 花朵\nB. 脱氧核糖核酸\nC. 受精卵\nD. 一个宝宝\nE. 夸克\nF. 生长\nG. 精子\nH. 荷尔蒙",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大象从受精到出生需要多长时间？\n\nA. 分钟\nB. 更少\nC. 冬天\nD. 22个月\nE. 八\nF. 0 至 3 岁\nG. 86400\nH. 已校准",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数峭壁是由什么形成的？\n\nA. 飓风\nB. 透水墙\nC. 冰川融化\nD. 七鳃鳗\nE. 龙卷风\nF. 粗砂\nG. 小狗\nH. 单细胞生物",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "山里能形成什么？\n\nA. 雨\nB. 坚硬的\nC. 山谷\nD. 低地\nE. 球场\nF. 骨干\nG. 巨石\nH. 作为基础",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "漂砾是由什么形成的？\n\nA. 雨天\nB. 粗砂\nC. 雨量\nD. 化石\nE. 冰雹\nF. 雨\nG. 冰川\nH. 雷雨",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西有时会融化形成巨石？\n\nA. 雪、冰和岩石\nB. 沉淀\nC. 热膨胀\nD. 生物体的构成要素\nE. 发生快速变化\nF. 70-75 华氏度\nG. 透水墙\nH. 保持营养物质",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "我们如何知道兽孔类的血统？\n\nA. 实验室\nB. 恐龙\nC. 原核细胞\nD. 一些珊瑚虫\nE. 化石记录\nF. 口头传统\nG. 多基因\nH. 已校准",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是兽孔类？\n\nA. 细菌\nB. 动物\nC. 七鳃鳗\nD. 老虎\nE. 原核生物\nF. 海洋\nG. 蛛形纲\nH. 水",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "四角龙是什么？\n\nA. 灵活的\nB. 水生动物\nC. 腔肠动物\nD. 狼疮\nE. 天气\nF. 制片人\nG. 被子植物\nH. 盘龙类",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一些盘龙进化成为哺乳动物的祖先\n\nA. 蛛形纲\nB. 软骨\nC. 软骨细胞\nD. 原核生物\nE. 细小的毛发\nF. 被子植物\nG. 肤色\nH. 爬行动物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一些盘龙进化出了\n\nA. 七鳃鳗\nB. 被子植物\nC. 哺乳动物\nD. 草履虫\nE. 动物\nF. 原生动物\nG. 蛛形纲\nH. 骨干",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狼如何警告其他狼？\n\nA. 人类\nB. 说\nC. 声音\nD. 分心\nE. 纸\nF. 摇晃\nG. 动物\nH. 听到",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狼采用独特的形式：\n\nA. 独狼\nB. 化学消化\nC. 犬科动物\nD. 沟通\nE. 土狼和狗\nF. 智力\nG. 骨干\nH. 反馈机制",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狼用什么来警告其他狼？\n\nA. 声音传播的速度\nB. 70-75 华氏度\nC. 谨慎的呼喊\nD. 轻声细语\nE. 发生在很广泛的范围内\nF. 两组或多组等位基因\nG. 大声说话\nH. 回响噪音",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "犬科动物用什么来警告他人？\n\nA. 抗体\nB. 气喘吁吁\nC. 噪音\nD. 振动\nE. 化学品\nF. 嚎叫\nG. 七鳃鳗\nH. 打猎",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狼用什么声音来警告其他狼？\n\nA. 鞭伤\nB. 嚎叫\nC. 咆哮声\nD. 一些\nE. 嗅探声\nF. 噪音\nG. 摇晃\nH. 声音",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狼獾种用嚎叫来警告谁？\n\nA. 相关生物\nB. 其他成员\nC. 哺乳动物\nD. 鳄鱼妈妈\nE. 其他门\nF. 没有人\nG. 动物\nH. 不同物种的成员",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狼用不同的什么来警告其他狼？\n\nA. 骨干\nB. 派对\nC. 荷尔蒙\nD. 颜色\nE. 表达\nF. 抗原\nG. 一些\nH. 球场",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么嚎叫？\n\nA. 猫\nB. 脊椎动物\nC. 水\nD. 兽孔类\nE. 声音振动\nF. 可以听到\nG. 昆虫\nH. 狼疮",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "嚎叫如何能警告别人呢？\n\nA. 鳄鱼\nB. 每个物种\nC. 鱼\nD. 鲶鱼\nE. 动物\nF. 希拉毒蜥\nG. 人类\nH. 野生犬科动物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "是什么让狼嚎叫\n\nA. 强度\nB. 危险\nC. 玉簪属植物\nD. 意图\nE. 抗原\nF. 荷尔蒙\nG. 移动\nH. 听到",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "嚎叫是用来警告其他动物的 \n\nA. 生态系统\nB. 动物\nC. 人类\nD. 天气\nE. 旅行\nF. 声音\nG. 社会的\nH. 人们",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "磨料起什么作用？\n\nA. 发生在很广泛的范围内\nB. 透水墙\nC. 发生快速变化\nD. 光滑的木质物体\nE. 牛仔裤\nF. 农作物被毁\nG. 降低强度\nH. 改变生态系统",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以去除粗糙？\n\nA. 软骨\nB. 角蛋白\nC. 硬组织\nD. 砂纸\nE. 秤\nF. 冰\nG. 七鳃鳗\nH. 体液",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来使桌子光滑？\n\nA. 骨干\nB. 角蛋白\nC. 砂纸\nD. 沙钱\nE. 七鳃鳗\nF. 蜡纸\nG. 海绵\nH. 铝箔",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以去除油漆？\n\nA. 砂纸\nB. 空气污染\nC. 加热\nD. 油\nE. 细胞\nF. 卡车\nG. 治疗\nH. 岩浆",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来使桌子光滑？\n\nA. 蜡纸\nB. 海绵\nC. 七鳃鳗\nD. 组织\nE. 砂纸\nF. 搔痒\nG. 角蛋白\nH. 细小的毛发",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以使木材光滑？\n\nA. 毛发\nB. 纤毛\nC. 反馈\nD. 七鳃鳗\nE. 砂纸\nF. 纸浆\nG. 角蛋白\nH. 体液",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以使鼓槌光滑？\n\nA. 搔痒\nB. 角蛋白\nC. 细小的毛发\nD. 硬组织\nE. 鼓\nF. 砂纸\nG. 冰\nH. 污垢",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以使木制物品光滑？\n\nA. 七鳃鳗\nB. 粗砂\nC. 搔痒\nD. 表面\nE. 橡树\nF. 大量的\nG. 水\nH. 声音振动",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "砂纸是用来打磨什么的？\n\nA. 尺寸变化\nB. 小木屋\nC. 它们如何移动\nD. 骨干\nE. 软骨\nF. 气孔\nG. 组织\nH. 硬组织",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么可以使剪贴画变得平滑？\n\nA. 纤毛\nB. 淋巴液\nC. 角蛋白\nD. 鞭毛\nE. 荷尔蒙\nF. 软骨\nG. 砂纸\nH. 鞭毛",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "航天器向前推力是用来做什么的？\n\nA. 哔哔声\nB. 导航\nC. 飞行\nD. 距离\nE. 坐\nF. 倒车\nG. 旅行\nH. 安全",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "推进力是用来做什么的？\n\nA. 飞行卫星\nB. 受精\nC. 安全驾驶\nD. 受太阳加热\nE. 观星\nF. 做面包\nG. 沟通\nH. 睡一小会儿",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "推力能量有什么用处？\n\nA. 力量\nB. 鱼\nC. 移动非常缓慢\nD. 生态系统\nE. 反击\nF. 飞行\nG. 牛\nH. 睡眠",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么利用推进力来飞行？\n\nA. 哺乳动物\nB. 风筝\nC. 海蜇\nD. 脊椎动物\nE. 被子植物\nF. 阿波罗 13 号\nG. 鸡\nH. 汽车",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "宇宙飞船可以利用什么来飞行？\n\nA. 液体\nB. 卫星\nC. 火箭\nD. 气垫船\nE. 导弹\nF. 喷气背包\nG. 气团\nH. 重力",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么利用推进力进行飞行？\n\nA. 小狗\nB. 海蜇\nC. 人类\nD. 鸸\nE. 阿波罗 12 号\nF. 鸵鸟\nG. 哺乳动物\nH. 脊椎动物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "阿波罗 13 号使用什么飞行？\n\nA. 天气\nB. 暖空气\nC. 氧\nD. 耳声学\nE. 昏睡\nF. 脚力\nG. 推进\nH. 体液",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "黄油能导致什么？\n\nA. 心脏病\nB. 空气污染\nC. 再生产\nD. 破坏\nE. 宗教\nF. 树木\nG. 加热\nH. 牙疼",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "脂肪在室温下可以保存在冷藏室中吗？\n\nA. 融化了\nB. 胖的\nC. 克\nD. 液体\nE. 不安全\nF. 坚硬的\nG. 柔软的\nH. 体液",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "室温下的饱和脂肪是什么？\n\nA. 坚硬的\nB. 猫\nC. 牛\nD. 牛扒\nE. 气体\nF. 液体\nG. 蛋白质\nH. 不饱和",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "黄油属于哪种脂肪？\n\nA. 光滑的\nB. 制片人\nC. 饱和\nD. 氢化\nE. 多不饱和\nF. 不饱和\nG. 灵活的\nH. 关键元素",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么样的脂肪会使黄油在室温下变成固体？\n\nA. 饱和\nB. 松动的\nC. 蛋白质\nD. 有机的\nE. 元素\nF. 动物\nG. 体液\nH. 克",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "黄油是一种在什么温度下呈固态的脂肪？\n\nA. 脂质\nB. 沸点\nC. 雪、冰和岩石\nD. 热量\nE. 为了在自己的环境中生存\nF. 100 摄氏度\nG. 70-75 华氏度\nH. 运动测量",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "黄油什么时候变成固体？\n\nA. 发生快速变化\nB. 保护实验室里的眼睛\nC. 约 5 至 27 摄氏度\nD. 糖尿病的影响之一\nE. 对身体来说，蛋白质是外来物质。\nF. 自然大气成分\nG. 降低食物的酸度\nH. 声音传播的速度",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么样的脂肪在室温下是固体？\n\nA. 动物\nB. O型\nC. 饱和\nD. 不安全\nE. 兽孔类\nF. 克\nG. 哺乳动物\nH. 天气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "室温下由紧密堆积的分子组成的脂肪是什么？\n\nA. 钾\nB. 牛扒\nC. 胖的\nD. 角蛋白\nE. 黄油\nF. 液体\nG. 莫氏\nH. 蛋白质",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "胆囊的功能之一是什么？\n\nA. 生殖\nB. 帮助平衡身体\nC. 保持营养物质\nD. 保持脊柱挺直\nE. 成年前的最后阶段\nF. 保持皮肤湿润\nG. 管状器官\nH. 降低食物的酸度",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "降低食物酸度的液体储存在\n\nA. 喉咙\nB. 微观血管。\nC. 直肠\nD. 胆囊\nE. 软骨细胞\nF. 小肠\nG. 保持营养物质\nH. 肠",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以降低从高酸性胃中进入的食物的酸度？\n\nA. 布洛芬\nB. 氧化剂\nC. 水\nD. 阳光\nE. 黑色素含量\nF. 胆囊\nG. 冰\nH. 核糖核酸",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种器官有助于降低食物的酸度？\n\nA. 唾液\nB. 酶\nC. 粘液\nD. 胃蛋白酶酸\nE. 小孔\nF. 肺\nG. 肝\nH. 皮肤",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么有助于消化脂肪？\n\nA. 慢下来\nB. 蛋白质\nC. 胃酸\nD. 肠\nE. 软骨细胞\nF. 一些原核生物\nG. 水\nH. 空气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪个器官可以降低从高酸性胃进入的食物的酸度？\n\nA. 管状器官\nB. 钾\nC. 酶\nD. 布洛芬\nE. 鞭毛\nF. 肠\nG. 肝脏\nH. 雌激素",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "胆汁可以降低酸度并有助于从食物中吸收什么？\n\nA. 热\nB. 皮肤\nC. 鱼\nD. 玉米\nE. 胖的\nF. 脱氧核糖核酸\nG. 气体\nH. 核糖核酸",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么器官在降低食物的酸性方面发挥作用\n\nA. 酶\nB. 小孔\nC. 肝\nD. 唾液\nE. 玉簪属植物\nF. 胰岛素\nG. 细胞\nH. 蛋白质",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "胆汁吸收什么？\n\nA. 脂肪\nB. 体液\nC. 粘液\nD. 细胞\nE. 唾液\nF. 淋巴\nG. 热\nH. 血",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么有助于减少进入胃的食物的酸性？\n\nA. 纤毛\nB. 烟雾\nC. 激酶\nD. 肝\nE. 粘液\nF. 酶\nG. 胰岛素\nH. 草药",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么受反馈机制调节？\n\nA. 卡车和汽车\nB. 水摄入量\nC. 化学信使\nD. 一些原核生物\nE. 引起过敏的抗原\nF. 皮肤细胞\nG. 密度\nH. 原核细胞",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么控制激素？\n\nA. 布洛芬\nB. 细胞\nC. 激酶\nD. 阳光\nE. 酶\nF. 动物\nG. 血\nH. 哺乳动物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "身体内的反馈机制调节什么？\n\nA. 发动机机制。\nB. 70-75 华氏度\nC. 一些药物\nD. 原核细胞\nE. 国家监管机构。\nF. 化学信使。\nG. 反馈调查。\nH. 巴氏灭菌",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么调节体内的化学信使？\n\nA. 几个基因\nB. 木制机制\nC. 引起过敏的抗原\nD. 反馈机制\nE. 淋巴细胞\nF. 机械机制\nG. 电子机制\nH. 两组或多组等位基因",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "管理身体的压力是通过什么来调节的？\n\nA. 小型计算机\nB. 两组或多组等位基因\nC. 反馈机制\nD. 原核细胞\nE. 几个基因\nF. 小药丸\nG. 它是通过基因遗传的\nH. 每日服药",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "反馈机制调节什么？\n\nA. 雌激素\nB. 激酶\nC. 耳声学\nD. 色素沉着\nE. 鸭子\nF. 原核生物\nG. 鸟类\nH. 鱼",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数事物必然受不确定性控制的调节吗？\n\nA. 荷尔蒙\nB. 抗原\nC. 气孔\nD. 汽车\nE. 动物\nF. 摩托车\nG. 导航\nH. 安全驾驶",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "反馈机制调节什么？ \n\nA. 胰腺分泌物\nB. 花瓣和果实\nC. 动作速度\nD. 树木和鲜花\nE. 两组或多组等位基因\nF. 70-75 华氏度\nG. 热带气旋\nH. 引起过敏的抗原",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "体内平衡调节什么？\n\nA. 荷尔蒙\nB. 蛋白质\nC. 软骨细胞\nD. 酶\nE. 抗原\nF. 原核生物\nG. 色素沉着\nH. 表达",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "激素如何保持平衡\n\nA. 挽救生命\nB. 预防受伤\nC. 由软骨细胞组成的组织\nD. 黑色素含量\nE. 关键元素\nF. 70-75 华氏度\nG. 同步\nH. 具有反馈回路",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人类生长和生活需要什么？\n\nA. 热量\nB. 娱乐\nC. 抗体\nD. 破坏\nE. 黑色素量\nF. 葡萄\nG. 黑色素含量\nH. 小肠",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "营养物质的吸收主要发生在什么地方？\n\nA. 运输\nB. 原核细胞\nC. 方形风琴\nD. 蒲公英\nE. 三角器官\nF. 玉簪属植物\nG. 管状器官\nH. 卡车和汽车",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西在胃肠道中被吸收？\n\nA. 淋巴液\nB. 角蛋白\nC. 想法\nD. 抗原\nE. 淋巴细胞\nF. 镁\nG. 氧\nH. 神经元",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "腹泻主要降低以下部位的功能：\n\nA. 秒和分\nB. 前列腺\nC. 小肠\nD. 胰腺\nE. 肠\nF. 肾脏\nG. 白血细胞\nH. 主要影响",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "营养物质在身体的哪里被吸收？\n\nA. 微观血管。\nB. 静脉\nC. 运输\nD. 软骨细胞\nE. 直肠\nF. 原核细胞\nG. 小肠\nH. 喉",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "食物吸收的主要发生地点是哪里？\n\nA. 括约肌\nB. 环境\nC. 生态系统\nD. 发生在很广泛的范围内\nE. 细胞外\nF. 血浆\nG. 小肠\nH. 微观血管。",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "小肠主要发生什么？\n\nA. 引起过敏的抗原\nB. 食物的吸收\nC. 细菌感染\nD. 传递特质\nE. 一些原核生物\nF. 吸收知识\nG. 废物吸收\nH. 阿米巴病",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "可以通过以下方法抑制小肠活动：\n\nA. 一些\nB. 一些药物\nC. 空气污染\nD. 黑色素含量\nE. 布洛芬\nF. 环境\nG. 酶\nH. 热量",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "矿物质的吸收主要发生在哪里？\n\nA. 单细胞生物\nB. 树木和鲜花\nC. 喜马拉雅山\nD. 小肠\nE. 环境\nF. 鞭毛\nG. 雪融化后\nH. 微观血管。",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "脂肪和蛋白质的吸收主要发生在哪里？\n\nA. 雪融化后\nB. 移动\nC. 骨骼大量生长\nD. 运输\nE. 维生素含量\nF. 阿尔卑斯山\nG. 肠\nH. 小肠",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "营养物质的吸收发生在哪里？\n\nA. 大西洋组织\nB. 在蜂巢里\nC. 原核细胞\nD. 内部腔室\nE. 在管状器官中\nF. 由软骨细胞组成的组织\nG. 发生在很广泛的范围内\nH. 卡车和汽车",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "有性生殖过程中精液存放在哪里？\n\nA. 树木和鲜花\nB. 在阴道内\nC. 婴儿\nD. 尿\nE. 花分泌\nF. 配子\nG. 被子植物\nH. 内部腔室",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交过程中精子是在什么之后沉积的？\n\nA. 禁止性交\nB. 花分泌\nC. 孕育后代\nD. 温和加热工艺\nE. 接触氧气和水\nF. 性生活停滞\nG. 射精\nH. 热量",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交过程中会产生多少精子？\n\nA. 百万\nB. 百分比\nC. 数百\nD. 一些\nE. 百分比\nF. 千\nG. 许多\nH. 八",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交过程中会释放什么？\n\nA. 精子\nB. 钙\nC. 花蜜\nD. 氧\nE. 受精卵\nF. 抗原\nG. 唾液\nH. 卵巢",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交后，精子穿过\n\nA. 鞭毛\nB. 同步\nC. 卵巢\nD. 拉夫运河\nE. 距离\nF. 子宫颈\nG. 血流\nH. 组织",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交时沉积在阴道内的东西是在哪里制造的？\n\nA. 组织\nB. 乳房\nC. 纤毛\nD. 体液\nE. 分泌\nF. 鞭毛\nG. 睾丸\nH. 卵巢",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交过程中什么东西会沉积到阴道内？\n\nA. 刺激物\nB. 原核细胞\nC. 雄配子\nD. 蛋\nE. 事情\nF. 睾丸\nG. 角蛋白\nH. 几个基因",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交过程中阴道内沉积了什么？\n\nA. 后代\nB. 刺激物\nC. 毒镖\nD. 原核细胞\nE. 触须\nF. 生殖\nG. 雄配子\nH. 卵子",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "精子沉积在阴道内有时会导致什么？\n\nA. 破坏\nB. 怀孕\nC. 危险\nD. 抗原\nE. 表达\nF. 阿米巴病\nG. 经前症状\nH. 不安全",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交过程中什么通常会沉积到女性的生殖器官中？\n\nA. 脱氧核糖核酸\nB. 花蜜\nC. 阴道分泌物\nD. 尿\nE. 唾液\nF. 核糖核酸\nG. 精子\nH. 粘液",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "精子在什么时期沉积在阴道内？\n\nA. 拖延\nB. 偏差\nC. 青春期\nD. 热量\nE. 分钟\nF. 腔肠动物\nG. 联盟\nH. 生殖",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "性交时阴道内会沉积哪些物质？\n\nA. 几个基因\nB. 原核细胞\nC. 纤毛\nD. 雌配子\nE. 睾丸\nF. 雄配子\nG. 刺激物\nH. 触须",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么通过排水孔被释放到周围的水中？\n\nA. 角蛋白\nB. 氢\nC. 触须\nD. 雄配子\nE. 黑色素含量\nF. 刺激物\nG. 沉淀\nH. 水蒸气",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些物质会通过排水孔释放到周围的水中？\n\nA. 原核细胞\nB. 沉淀\nC. 触须\nD. 水蒸气\nE. 黑色素含量\nF. 雄配子\nG. 刺激物\nH. 鞭毛",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会对植被和野生动物造成巨大破坏？\n\nA. 季节变换\nB. 飞机\nC. 气温温和\nD. 汞\nE. 肥沃的土壤\nF. 七鳃鳗\nG. 闪电\nH. 大肠菌群",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "闪电会造成什么危害？\n\nA. 环境\nB. 暴雨\nC. 破坏\nD. 能见度\nE. 雷\nF. 太阳\nG. 天气。\nH. 运输",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么样的天气会引发森林火灾？\n\nA. 暴风雪\nB. 龙卷风\nC. 雨\nD. 寒冷的环境\nE. 雷雨\nF. 热带气旋\nG. 受太阳加热\nH. 非常复杂",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以促使森林重新生长和复兴？\n\nA. 花朵\nB. 玉簪属植物\nC. 星尘\nD. 雄配子\nE. 联系方式\nF. 荷尔蒙\nG. 互联网连接\nH. 闪电",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些天气事件可能引发森林火灾？\n\nA. 雷雨\nB. 泥石流\nC. 气温升高\nD. 雪、冰和岩石\nE. 热膨胀\nF. 非常复杂\nG. 湿度\nH. 暴风雪",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "闪电能点燃什么？\n\nA. 水\nB. 光\nC. 火灾\nD. 事情\nE. 热\nF. 岩浆\nG. 玉簪属植物\nH. 磁铁",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因造成野火？\n\nA. 移动\nB. 闪电\nC. 雪\nD. 道路弯道\nE. 地震\nF. 七鳃鳗\nG. 洪水\nH. 移动板块",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可能导致野火？\n\nA. 雪\nB. 道路弯道\nC. 闪电\nD. 卡车\nE. 洪水\nF. 七鳃鳗\nG. 雷\nH. 车辆",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以摧毁城镇？\n\nA. 闪电\nB. 侵蚀\nC. 库\nD. 卡车\nE. 一架飞机。\nF. 飞机\nG. 神父\nH. 车祸",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可能导致野火？\n\nA. 雨\nB. 雪\nC. 破坏\nD. 月亮\nE. 加热\nF. 坏天气\nG. 道路弯道\nH. 闪电",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可能导致森林火灾？\n\nA. 化学品\nB. 一种金属\nC. 野火\nD. O型\nE. 酸\nF. 热\nG. 风暴\nH. 橡树",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可能导致森林火灾？\n\nA. 拖车和船只\nB. 静电\nC. 等离子体和有形成分\nD. 在陆地上\nE. 热膨胀\nF. 未消毒的表面\nG. 微生物和贻贝\nH. 两组或多组等位基因",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "闪电会导致物体被毁坏 \n\nA. 软骨\nB. 神经元\nC. 森林\nD. 我们的星球\nE. 破坏\nF. 岩石\nG. 野火\nH. 礁石",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "那么听力会根据所传递的材料而发生怎样的变化呢？\n\nA. 反馈机制\nB. 有脊椎的动物\nC. 引起过敏的抗原\nD. 它是通过基因遗传的\nE. 听觉速度\nF. 接触氧气和水\nG. 黑色素含量\nH. 它增加了",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "声音穿过的物质类型会改变什么？\n\nA. 振动质量\nB. 发生在很广泛的范围内\nC. 时间流逝\nD. 关系\nE. 发生快速变化\nF. 70-75 华氏度\nG. 声音振动\nH. 寂静之声",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "机械波穿过的材料类型会发生哪些变化？\n\nA. 卡车和汽车\nB. 黑色素含量\nC. 它们的颜色\nD. 它们的味道\nE. 旅行\nF. 热量\nG. 他们的光束\nH. 他们的速度",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么以不同的速率穿过不同的材料\n\nA. 丝绸\nB. 速度\nC. 食物\nD. 玉米\nE. 天气\nF. 颜色\nG. 声音\nH. 金属",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因造成声波的折射？\n\nA. 降低音量\nB. 它是通过基因遗传的\nC. 胰岛\nD. 未消毒的表面\nE. 速度差异\nF. 光速不是恒定的\nG. 卡车和汽车\nH. 天然磁性",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当声音穿过纤维材料时会发生什么？\n\nA. 加热\nB. 摩擦\nC. 肿胀淋巴结\nD. 保护\nE. 热量\nF. 反馈\nG. 慢下来\nH. 不安全",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西以不同的速度穿过材料？\n\nA. 波浪\nB. 车辆\nC. 飞行\nD. 动物\nE. 汞\nF. 卡车\nG. 丝绸\nH. 莫氏",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "葡萄糖会使胰腺分泌什么？\n\nA. 慢下来\nB. 激酶\nC. 胰岛素\nD. 蛋白质\nE. 布洛芬\nF. 细胞\nG. 矿物质\nH. 酶",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "反馈抑制通过什么控制胰岛素的分泌？\n\nA. 原核细胞\nB. 黑色素量\nC. 低血糖\nD. 药物\nE. 人类\nF. 巴氏灭菌\nG. 胰腺癌\nH. 胰腺",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "胰岛细胞位于哪里？\n\nA. 内部腔室\nB. 更加专业\nC. 流体结缔组织\nD. 引起过敏的抗原\nE. 胰岛素分泌的地方\nF. 生物体的构成要素\nG. 珊瑚的近亲\nH. 在阴道内",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵吃\n\nA. 组织\nB. 细胞\nC. 浮游生物\nD. 海葵\nE. 软骨\nF. 软骨细胞\nG. 鱼\nH. 乌贼",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "底栖生物可以是哪些？\n\nA. 人类\nB. 大肠菌群\nC. 滤食性动物\nD. 破坏\nE. 蛛形纲\nF. 火创造者\nG. 生态系统\nH. 吃石头的人",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么吃磷虾和浮游生物\n\nA. 海绵\nB. 兽孔类\nC. 水\nD. 人类\nE. 水\nF. 原生动物\nG. 植物\nH. 食物",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当水流过时，什么东西会通过捕获和过滤食物来进食？\n\nA. 人类\nB. 蜥蜴\nC. 兽孔类\nD. 海蜇\nE. 奶牛\nF. 海绵\nG. 蚊子\nH. 七鳃鳗",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵可以清洁什么？\n\nA. 动物\nB. 事情\nC. 犯罪\nD. 水\nE. 组织\nF. 视网膜\nG. 皮肤\nH. 泥",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在供给水时什么可以净化水？\n\nA. 生态系统\nB. 鲨鱼\nC. 猫\nD. 鱼\nE. 蛛形纲\nF. 马匹\nG. 七鳃鳗\nH. 海绵",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当水流过时，海绵会捕获并过滤掉其中的物质。\n\nA. 芽孢\nB. 蜗牛\nC. 粘液\nD. 蠕虫\nE. 事情\nF. 蛋\nG. 食物\nH. 海洋",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵主要吃\n\nA. 磷虾和浮游生物\nB. 水\nC. 保持营养物质\nD. 珊瑚的近亲\nE. 什么也不吃\nF. 海陆大餐\nG. 软骨\nH. 动物较少的地方",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵可以清洁什么？\n\nA. 礁石\nB. 树木\nC. 水\nD. 事情\nE. 污垢\nF. 视网膜\nG. 蜗牛\nH. 水",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么动物的进食方式与须鲸相似？\n\nA. 草履虫\nB. 海绵\nC. 原核生物\nD. 被子植物\nE. 动物\nF. 天气\nG. 制片人\nH. 山猫",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狗和人之间存在什么？\n\nA. 互利共生\nB. 重力\nC. 沟通\nD. 抗原\nE. 几个基因\nF. 之间的空间\nG. 电子\nH. 德国牧羊犬",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "互利共生的一个例子是驯化什么\n\nA. 矿物质\nB. 农场\nC. 家\nD. 七鳃鳗\nE. 树木\nF. 被子植物\nG. 哺乳动物\nH. 动物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "互利共生的一个例子是\n\nA. 霉菌生长\nB. 核苷酸组成聚合物\nC. 发生在很广泛的范围内\nD. 病毒\nE. 遗传抗原+抗体\nF. 寄生虫\nG. 动物的驯养\nH. 沟通",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "珊瑚和藻类之间的相互作用就是一个例子。\n\nA. 同步\nB. 沟通\nC. 竞赛\nD. 腔肠动物\nE. 掠食\nF. 摩擦\nG. 破坏\nH. 互利共生",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "共生关系是两个不同物种之间的关联，其好处是什么？\n\nA. 无物种\nB. 人类\nC. 海绵\nD. 树木和鲜花\nE. 原核细胞\nF. 灭绝物种\nG. 花朵\nH. 每个物种",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "两种生物都受益的共生关系叫什么？\n\nA. 太平洋\nB. 同步\nC. 社会的\nD. 阿米巴病\nE. 互利共生\nF. 夫妻\nG. 植物群和动物群\nH. 肠道菌群",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些具有互利共生关系？\n\nA. 海葵\nB. 珊瑚的近亲\nC. 非细菌原核生物\nD. 引起过敏的抗原\nE. 微生物和贻贝\nF. 四角龙\nG. 真核细胞\nH. 被子植物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "互利共生能给双方带来什么好处？\n\nA. 黑色素量\nB. 一些珊瑚虫\nC. 珊瑚和藻类\nD. 沟通\nE. 单细胞生物\nF. 树木和鲜花\nG. 原核细胞\nH. 海蜇",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么因素增加了物种相互作用的复杂性？\n\nA. 海葵\nB. 振动\nC. 动物\nD. 色素沉着\nE. 海葵\nF. 几个基因\nG. 互利共生\nH. 海绵",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "牛椋鸟会做什么？\n\nA. 为了在自己的环境中生存\nB. 帮助其他物种受益\nC. 发生在很广泛的范围内\nD. 有脊椎的动物\nE. 运输\nF. 运动测量\nG. 沟通\nH. 改变生态系统",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "黄瓜和什么具有使两个物种都受益的互利共生关系？\n\nA. 海洋\nB. 树木\nC. 食物\nD. 蕨类植物\nE. 玉米\nF. 山猫\nG. 植物\nH. 天气",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成年之前生命的最后阶段会发生什么\n\nA. 绝经\nB. 人会变异\nC. 胎儿发育\nD. 发生在很广泛的范围内\nE. 由软骨细胞组成的组织\nF. 发生快速变化\nG. 死亡发生\nH. 0 至 3 岁",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成年之前生命的最后阶段始于\n\nA. 22个月\nB. 产前\nC. 婴儿期\nD. 童年晚期\nE. 被子植物\nF. 怀孕\nG. 荷尔蒙\nH. 青春期",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成年之前的最后阶段是什么样的？\n\nA. 一些珊瑚虫\nB. 很简单\nC. 巴氏灭菌\nD. 原核细胞\nE. 死亡\nF. 非常复杂\nG. 慢下来\nH. 不存在的",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成年生命阶段之前是什么？\n\nA. 前\nB. 成为父母\nC. 怀孕\nD. 感染\nE. 发烧\nF. 冬天\nG. 青春期\nH. 30 个生日",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成年之前生命的最后阶段始于\n\nA. 被子植物\nB. 22个月\nC. 青春期前\nD. 婴儿期\nE. 新生儿\nF. 怀孕\nG. 青春期\nH. 绝经",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "成年之前生命的最后一个阶段从什么开始？\n\nA. 有性生殖\nB. 青春期\nC. 婴儿期\nD. 死亡\nE. 荷尔蒙\nF. 22个月\nG. 钟虫\nH. 怀孕",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人类发展的关键后期阶段是什么？\n\nA. 它是通过基因遗传的\nB. 骨骼大量生长\nC. 出生后时期\nD. 青春期\nE. 特化细胞\nF. 胎儿发育\nG. 胰岛素分泌的地方\nH. 成年前的最后阶段",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "青春期是成年之前的一个什么阶段？\n\nA. 疯狂时光\nB. 急剧地\nC. 不安全\nD. 特征\nE. 86400\nF. 表达\nG. 永恒的\nH. 慢下来",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "分类依据是什么？\n\nA. 树木和鲜花\nB. 革命\nC. 生物的进化历史\nD. 引起过敏的抗原\nE. 黑色素含量\nF. 人类\nG. 地震的强度和震级\nH. 水",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "系统发育是什么的历史和有机多样性？\n\nA. 单细胞生物\nB. 无关生物\nC. 进化区域\nD. 不相关事件\nE. 单细胞动物\nF. 树木和鲜花\nG. 相关生物\nH. 生态系统",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人们对后生动物有哪些了解不足？\n\nA. 栖息地\nB. 引起过敏的抗原\nC. 脊椎动物间\nD. 演化史\nE. 对身体来说，蛋白质是外来物质。\nF. 核苷酸组成聚合物\nG. 黑色素含量\nH. 脊椎动物",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "下列哪项可以解释生物环境的进化部分？\n\nA. 哲学\nB. 季节性\nC. 气候\nD. 沟通\nE. 星系\nF. 一些\nG. 原核生物\nH. 系统发生",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是门？\n\nA. 最具多样性的生物群体\nB. 单细胞微生物\nC. 微生物\nD. 一些原核生物\nE. 单细胞生物\nF. 水生生物\nG. 单细胞生物\nH. 一组相关生物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "速度计向驾驶员提供有关车辆哪个部件的反馈？\n\nA. 295 开尔文\nB. 安全操作\nC. 它们如何移动\nD. 英里的时间\nE. 发生快速变化\nF. 安全驾驶\nG. 英里每小时\nH. 雨刷速度",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车速表测量什么？\n\nA. 天然气使用量\nB. 当地天气情况\nC. 295 开尔文\nD. 旅行速度\nE. 发生在很广泛的范围内\nF. 温度\nG. 振动\nH. 70-75 华氏度",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车速表能向车辆驾驶员提供哪些反馈？\n\nA. 运动测量\nB. 70-75 华氏度\nC. 发生快速变化\nD. 发生在很广泛的范围内\nE. 车祸\nF. 电池电量\nG. 油位\nH. 无线电频率",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车辆的速度表向驾驶员显示什么？\n\nA. 风\nB. 测量\nC. 17\nD. 英里/小时\nE. 温度计\nF. 100\nG. 晴雨表\nH. 莫氏",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车速表能帮助驾驶员导航吗？\n\nA. 正确的\nB. 黑色素量\nC. 水\nD. 七鳃鳗\nE. 道路弯道\nF. 环境\nG. 黑色素含量\nH. 在陆地上",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车辆行驶时，车速表测量什么？\n\nA. 速度\nB. 已校准\nC. 里程\nD. 地震仪\nE. 方向\nF. 导航\nG. 它增加了\nH. 关键元素",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种设备能提供与车速表类似的信息？\n\nA. 轮胎尺寸\nB. 地震仪\nC. 雷达枪\nD. 已校准\nE. 油表\nF. 里程表\nG. 七鳃鳗\nH. 天气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "里程表测量什么？\n\nA. 时间\nB. 距离\nC. 能见度\nD. 骨干\nE. 雄配子\nF. 抗原\nG. 速度\nH. 已校准",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么测量英里每小时？\n\nA. 能见度\nB. 一把尺子\nC. 速度计\nD. 四角龙\nE. 七鳃鳗\nF. 295 开尔文\nG. 显微镜\nH. 气压计",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "汽车司机如何获得汽车速度的反馈？\n\nA. 里程表\nB. 安全操作\nC. 耳声学\nD. 车速表\nE. 它们如何移动\nF. 它增加了\nG. 温度计\nH. 七鳃鳗",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车速表测量什么？\n\nA. 速度差异\nB. 反馈机制\nC. 小数\nD. 运输\nE. 车辆行驶速度有多快\nF. 驾驶员的技术\nG. 距离\nH. 车辆耗油量",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "驾驶员使用车速表做什么？\n\nA. 为了在自己的环境中生存\nB. 监控他的燃料\nC. 它们如何移动\nD. 以避免收到罚单\nE. 速度和意图。\nF. 检查发动机\nG. 射精\nH. 秒和分",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种工具可以帮助驾驶员避免事故？\n\nA. 车速表\nB. 七鳃鳗\nC. 煤气表\nD. 安全驾驶\nE. 天气\nF. 安全操作\nG. 子宫颈\nH. 钾",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用于向驾驶员提供速度反馈的速度表是什么？\n\nA. 86400\nB. 山猫\nC. 作为基础\nD. 七鳃鳗\nE. 人类\nF. 天气\nG. 卡车\nH. O型",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "北极熊如何在其环境中生存？\n\nA. 保护\nB. 体内平衡\nC. 水\nD. 长毛\nE. 失眠\nF. 蜕皮\nG. 吃蚂蚁\nH. 飞行",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海豹生活在哪里？\n\nA. 胰岛\nB. 在海底\nC. 水生动物\nD. 在外太空\nE. 保持营养物质\nF. 单细胞生物\nG. 寒冷的环境\nH. 沙漠",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "为什么北极熊有两层毛？\n\nA. 70-75 华氏度\nB. 预防受伤\nC. 为了在自己的环境中生存\nD. 黑色素含量\nE. 保持寒冷\nF. 防紫外线\nG. 保护板\nH. 帮助它们游得更快",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "北极的温度是多少？\n\nA. 寒冷的\nB. 温暖的\nC. 热\nD. 雨天\nE. 湿\nF. 86400\nG. 不安全\nH. 远端",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "北极熊需要什么样的环境？\n\nA. 热带\nB. 气候\nC. 水\nD. 森林覆盖\nE. 丛林\nF. 皮肤\nG. 食物\nH. 冬天",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么动物生活在与北极熊相似的气候中？\n\nA. 狮子\nB. 狐猴\nC. 莫氏\nD. 山猫\nE. 牛\nF. 家猫\nG. 人类\nH. 海洋",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "北极熊可以生活在哪里？\n\nA. 在非自然栖息地\nB. 水\nC. 在火山中\nD. 小木屋\nE. 在沙漠中\nF. 北极\nG. 在陆地上\nH. 环境",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "飓风因哪一部分减少而失去热量和水分？\n\nA. 颜色\nB. 雨\nC. 鞭毛\nD. 形状\nE. 低压\nF. 力量\nG. 雨量\nH. 声音",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "飓风何时会减弱？\n\nA. 发生在很广泛的范围内\nB. 旅行速度\nC. 气体在空气中扩散\nD. 成年前的最后阶段\nE. 当它飞过湖泊时\nF. 当它穿过一个大陆时\nG. 当它越过一条小溪时\nH. 当它在海洋中停滞时",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么因素使飓风变弱？\n\nA. 风力增强\nB. 发生快速变化\nC. 龙卷风\nD. 速度差异\nE. 热量\nF. 在陆地上\nG. 化学信使\nH. 温水",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "飓风何时会降到萨菲尔-辛普森飓风等级？\n\nA. 70-75 华氏度\nB. 暴风雨天气\nC. 沉淀\nD. 295 开尔文\nE. 在陆地上移动\nF. 当它获得力量时\nG. 当它被命名时\nH. 强化",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在陆地上移动时什么物质的强度会减小？\n\nA. 云\nB. 卡车和汽车\nC. 土壤\nD. 单细胞微生物\nE. 70-75 华氏度\nF. 碎屑和碎屑生物\nG. 极其危险的风暴\nH. 风化",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当暖热带雷电形成的飓风到达地面时会发生什么？ \n\nA. 增加加速度\nB. 热量\nC. 分化和强化\nD. 极端温度\nE. 降低强度\nF. 声音振动\nG. 气体在空气中扩散\nH. 发生在很广泛的范围内",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么在陆地上移动时强度会减弱？\n\nA. 发生快速变化\nB. 70-75 华氏度\nC. 热带气旋\nD. 黑寡妇\nE. 雪、冰和岩石\nF. 热量\nG. 黑色素量\nH. 卡车和汽车",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么向其他组织输送氧气和营养物质？\n\nA. 眼睛\nB. 细胞\nC. 血\nD. 人类\nE. 肝\nF. 淋巴\nG. 肺\nH. 氧",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "体内的粘弹性物质是\n\nA. 体液\nB. 血\nC. 胖的\nD. 小孔\nE. 指甲\nF. 光滑的\nG. 骨\nH. 牙齿",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么在身体里流动？\n\nA. 引起过敏的抗原\nB. 磁场\nC. 黑色素含量\nD. 两组或多组等位基因\nE. 更高的紫外线辐射\nF. 流体结缔组织\nG. 射精\nH. 肾脏",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "我们的身体里哪些东西含有矿物质？\n\nA. 组织\nB. 颜料\nC. 种子\nD. 蛋白质\nE. 字节\nF. 钙\nG. 血\nH. 信息",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是液体结缔组织？\n\nA. 坚硬的\nB. 细胞\nC. 血\nD. 粘液\nE. 玉簪属植物\nF. 天气\nG. O型\nH. 小孔",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么将氧气输送到大脑？\n\nA. 微生物\nB. 一些原核生物\nC. 反馈机制\nD. 化学信使\nE. 有脊椎的动物\nF. 水生生物\nG. 液体结缔组织\nH. 原核细胞",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "血癌的真实情况是怎样的？\n\nA. 它们很稀有。\nB. 一些\nC. 巴氏灭菌\nD. 黑色素含量\nE. 已校准\nF. 百分比\nG. 多基因\nH. 黑色素量",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针用于在什么表面上旅行？\n\nA. 飞机\nB. 水\nC. 星星\nD. 船只\nE. 海洋\nF. 云\nG. 杆子\nH. 太阳",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来航行于海洋？\n\nA. 刺胞动物\nB. 七鳃鳗\nC. 海洋温度\nD. 磁铁\nE. 烟火信号\nF. 宇宙飞船\nG. 笔记本电脑\nH. 已校准",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针用于导航吗？\n\nA. 七鳃鳗\nB. 已校准\nC. 导航\nD. 八\nE. 电梯\nF. 100 米短跑\nG. 太平洋\nH. 相同",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "即使在没有月亮的夜晚，海洋也会\n\nA. 反射阳光\nB. 非常复杂\nC. 光合作用\nD. 移动板块\nE. 坚硬的\nF. 破坏\nG. 自由泳\nH. 已导航",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针用于导航吗？\n\nA. 生态系统\nB. 到太阳的距离\nC. 他们的速度\nD. 水深\nE. 大西洋\nF. 南极洲\nG. 气压\nH. 七鳃鳗",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在海上航行可能会更加困难 \n\nA. 月食\nB. 寒冷的环境\nC. 速度差异\nD. 发生快速变化\nE. 板块构造\nF. 海滩侵蚀\nG. 磁暴\nH. 在陆地上",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针可以找到什么？\n\nA. 速度差异\nB. 针\nC. 圆润的山峰\nD. 磁北\nE. 295 开尔文\nF. 单细胞生物\nG. 火星\nH. 玫瑰",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指南针用于导航吗？\n\nA. 密度\nB. 七鳃鳗\nC. 海洋\nD. 外太空\nE. 他们的速度\nF. 南极洲\nG. 非磁性行星\nH. 大西洋组织",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来航行于海洋？\n\nA. 宇宙飞船\nB. 磁铁\nC. 导航\nD. 高度计\nE. 太阳晷\nF. 已校准\nG. 风\nH. 船只",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "磁铁有何用途？\n\nA. 创建植物\nB. 安全操作\nC. 反馈机制\nD. 制作胶带\nE. 航行海洋\nF. 化学信使\nG. 引导思想\nH. 沟通",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "你可以用什么来航行穿越太平洋？\n\nA. 已校准\nB. 宇宙飞船\nC. 速度\nD. 温度计\nE. 罗盘\nF. 七鳃鳗\nG. 波浪\nH. 海洋",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水手们用什么航行于海洋？\n\nA. 罗盘\nB. 七鳃鳗\nC. 海绵\nD. 树木\nE. 体液\nF. 鲸鱼\nG. 冰山\nH. 波浪",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来航行于海洋？\n\nA. 鱼\nB. 流体结缔组织\nC. 反馈机制\nD. 脊椎\nE. 微观血管。\nF. 桶\nG. 骨干力量\nH. 方向（度数）",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "磁性有何用途？\n\nA. 航行海洋\nB. 安全驾驶\nC. 捕获猎物\nD. 化学信使\nE. 沟通\nF. 安全操作\nG. 能见度\nH. 70-75 华氏度",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么用于转向？\n\nA. 刹车\nB. SI 单位\nC. 细小的毛发\nD. 七鳃鳗\nE. 罗盘\nF. 子宫颈\nG. 纤毛\nH. 反馈",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "降水量取决于什么？\n\nA. 喷发产物\nB. 空气的重量\nC. 在陆地上\nD. 缩合\nE. 百分比\nF. 磁性\nG. 树木和鲜花\nH. 耳声学",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以增加水分？\n\nA. 小毛细血管\nB. 暴风雨期间吹的风\nC. 树木和鲜花\nD. 发生快速变化\nE. 在具有气孔的植物上\nF. 一些珊瑚虫\nG. 院子里下着雨\nH. 火山喷发",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以增加水分？\n\nA. 密度\nB. 太阳\nC. 风\nD. 雨\nE. 蜂蜜\nF. 17\nG. 干旱\nH. O型",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西随着海拔高度而增加？\n\nA. 水分\nB. 大象\nC. 蠕虫\nD. 发烧\nE. 热\nF. 重力\nG. 水蒸气\nH. 地震",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "雨量增加什么？\n\nA. 百分比\nB. 强度\nC. 太阳\nD. 雪\nE. 百分比\nF. 水分\nG. 干旱\nH. 速度",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会增加水分？\n\nA. 冬天\nB. 灰尘\nC. 17\nD. 雨\nE. 风\nF. 蜂蜜\nG. 雷\nH. 干旱",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么因素使环境由干燥转为潮湿？\n\nA. 沉淀\nB. 空气污染\nC. 热膨胀\nD. 树木和鲜花\nE. 空气\nF. 落下\nG. 飓风\nH. 雪、冰和岩石",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "降水需要什么？\n\nA. 存款\nB. 云\nC. 体液\nD. 树木\nE. 龙卷风\nF. 液体\nG. 七鳃鳗\nH. 氧化剂",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会增加水分？\n\nA. 荒漠化\nB. O型\nC. 雨\nD. 脱水\nE. 风\nF. 干旱\nG. 17\nH. 蜂蜜",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么活动会导致您周围的空气中含有更多的水分？\n\nA. 动物\nB. 野火\nC. 鳄鱼\nD. 森林火灾\nE. 雨量\nF. 季节性\nG. 热\nH. 破坏",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "湿度用什么计量单位来测量？\n\nA. 晴雨表\nB. 水\nC. 液体\nD. 英寸\nE. 蜂蜜\nF. 措施\nG. 七鳃鳗\nH. 小孔",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "木材被降水浸湿后，其电导率会发生什么变化？\n\nA. 危险\nB. 破坏\nC. 破坏\nD. 热膨胀\nE. 热量\nF. 它增加了\nG. 慢下来\nH. 主要影响",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么动物用网来捕捉食物？\n\nA. 动物\nB. 小狗\nC. 每个物种\nD. 相关生物\nE. 一夫一妻制的物种\nF. 黑寡妇\nG. 鱼\nH. 蜥蜴",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "八足蜘蛛用网捕获猎物后会做什么？\n\nA. 注射毒液\nB. 在陆地上移动\nC. 搔痒\nD. 营养液\nE. 分泌\nF. 沟通\nG. 它们如何移动\nH. 雄配子",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "网络捕获了什么？\n\nA. 精子\nB. 花蜜\nC. 熊\nD. 水\nE. 成人\nF. 蜂蜜\nG. 食物\nH. 毛发",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蛛网可以捕获什么？\n\nA. 蜘蛛\nB. 七鳃鳗\nC. 昆虫\nD. 蠕虫\nE. 原生动物\nF. 灰尘\nG. 抗原\nH. 事情",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜘蛛捕捉什么？\n\nA. 昆虫\nB. 毛发\nC. 雨\nD. 狮子\nE. 原生动物\nF. 细小的毛发\nG. 七鳃鳗\nH. 刺胞动物",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么有腿的动物建造网来捕捉食物？\n\nA. 六\nB. 九\nC. 动物\nD. 蠕虫\nE. 四\nF. 成人\nG. 八\nH. 山猫",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜘蛛用陷阱来捕捉什么\n\nA. 幼虫\nB. 蠕虫\nC. 水\nD. 睾丸\nE. 食物\nF. 蜂蜜\nG. 光\nH. 纤毛",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么动物用网来捕捉食物？\n\nA. 蛛形纲\nB. 动物\nC. 昆虫\nD. 海洋\nE. 猫\nF. 七鳃鳗\nG. 兽孔类\nH. 刺胞动物",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜘蛛网是用来捕捉什么的？\n\nA. 核糖核酸\nB. 猫\nC. 鱼\nD. 食物\nE. 灰尘\nF. 头发\nG. 波浪\nH. 雨",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜘蛛用什么来捕捉昆虫？\n\nA. 飞行\nB. 武器\nC. 皮肤\nD. 劳力士\nE. 天气\nF. 电\nG. 食物\nH. 网状结构",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么用网来捕捉食物？\n\nA. 小丑鱼\nB. 蜥蜴\nC. 刺胞动物\nD. 每个物种\nE. 猴子\nF. 海绵\nG. 蛛形纲\nH. 蒲公英",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜘蛛用什么来捕获食物？\n\nA. 元\nB. 体液\nC. 唾液\nD. 丝绸\nE. 纤毛\nF. 速度\nG. 毛发\nH. 皮肤",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是鞭毛虫？\n\nA. 鱼\nB. 细菌\nC. 海葵\nD. 青蛙\nE. 大肠菌群\nF. 原生动物\nG. 软骨细胞\nH. 制片人",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "原生动物可以通过什么来识别？\n\nA. 青蛙\nB. 核糖核酸\nC. O型\nD. 生长\nE. 唱歌\nF. 尺寸\nG. 移动\nH. 藻类",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "挥手做什么动作？\n\nA. 人类\nB. 纤毛\nC. 孩子们\nD. 藻类\nE. 细胞\nF. 人们\nG. 浮游生物\nH. 天气",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "草履虫的分类方法是什么？ \n\nA. 气味\nB. 大肠菌群\nC. 味道\nD. 狼疮\nE. 它们如何移动\nF. 长度\nG. 肤色\nH. 腔肠动物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "根据它们的运动方式可以对其进行分类吗？\n\nA. 蛋\nB. 单细胞动物\nC. 卵巢\nD. 微生物和贻贝\nE. 雪、冰和岩石\nF. 黑色素含量\nG. 真皮和血管组织\nH. 哺乳动物的祖先爬行动物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "根据它们的运动方式可以对其进行分类吗？\n\nA. 每个物种\nB. 水生生物\nC. 哺乳动物的祖先爬行动物\nD. 单细胞生物\nE. 微生物和贻贝\nF. 拖车和船只\nG. 车辆行驶速度有多快\nH. 黑色素含量",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "隐孢子虫这类动物该如何分类？\n\nA. 原核细胞\nB. 保持营养物质\nC. 实验室\nD. 它们如何移动\nE. 真核细胞\nF. 腔肠动物\nG. 黑色素含量\nH. 被子植物",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "纤毛虫可根据其什么进行分类？\n\nA. 贝壳\nB. 海洋\nC. 光滑的\nD. 毛发\nE. 组织\nF. 细胞\nG. 移动\nH. 蜗牛",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么产生和储存红色和黄色？\n\nA. 树木和鲜花\nB. 水\nC. 运输\nD. 黑色素含量\nE. 原核细胞\nF. 细菌\nG. 有色体\nH. 单细胞生物",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么给油漆着色？\n\nA. 几个基因\nB. 刷子\nC. 原核细胞\nD. 树木和鲜花\nE. 水\nF. 有色体\nG. 肤色\nH. 罐子",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "有色体产生和储存颜色，并且在什么中呈现红色、黄色或橙色？\n\nA. 尺寸\nB. 核糖核酸\nC. 食物\nD. 丝绸\nE. 色调\nF. 热\nG. 绘画\nH. 眼睛",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以制作和储存颜料？\n\nA. 单细胞生物\nB. 单细胞生物\nC. 粉彩\nD. 单细胞微生物\nE. 铅笔\nF. 丙烯酸树脂\nG. 花瓣和果实\nH. 一些原核生物",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "鲜花含有什么成分？\n\nA. 细胞\nB. 黑色素\nC. 皮肤\nD. 角蛋白\nE. 细小的毛发\nF. 鞭毛\nG. 表皮\nH. 颜料",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "有色体制造什么物质，并做什么，与赋予油漆颜色的是同一种物质吗？\n\nA. 店铺\nB. 细胞\nC. 爆炸\nD. 橙子\nE. 植物\nF. 画\nG. 花朵\nH. 丢弃",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "吸收可见光的物质有哪些？\n\nA. 半音阶\nB. 有色体\nC. 卡车和汽车\nD. 海葵\nE. 染色质\nF. 染色单体\nG. 黑寡妇\nH. 原核细胞",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是有色体？\n\nA. 海洋\nB. 纤毛\nC. 睾丸\nD. 橙子\nE. 天气\nF. 有色\nG. O型\nH. 细胞",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么制造和储存彩色化合物？\n\nA. 可以是有机的\nB. 被子植物\nC. 海蜇\nD. 一些珊瑚虫\nE. 有色体\nF. 树木和鲜花\nG. 泡菜\nH. 海葵",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "chomoplasts 会产生什么样的颜色？\n\nA. 胖的\nB. 移动\nC. 红色的\nD. 生长\nE. 核糖核酸\nF. 皮肤\nG. 眼睛\nH. 脱氧核糖核酸",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "花蜜在哪里可以转化为蜂蜜？\n\nA. 水下\nB. 地下\nC. 管状器官\nD. 在养蜂场\nE. 真核细胞\nF. 雄配子\nG. 玉簪属植物\nH. 茧内",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜜蜂从植物的哪个部分采集酿蜜所需的物质？\n\nA. 水果\nB. 玉簪属植物\nC. 食物\nD. 树叶\nE. 角蛋白\nF. 花朵\nG. 液体\nH. 干",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "花蜜在哪里变成蜂蜜？\n\nA. 水\nB. 雄配子\nC. 花朵\nD. 在蜂巢里\nE. 树\nF. 巢\nG. 开花\nH. 雪、冰和岩石",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜜蜂从哪里获取花蜜？\n\nA. 空气\nB. 蜂蜜\nC. 制片人\nD. 橙子\nE. 七鳃鳗\nF. 玉簪属植物\nG. 花朵\nH. 水",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜜蜂用什么来转化成蜂蜜？\n\nA. 雄配子\nB. 葵花籽\nC. 核糖核酸\nD. 花分泌\nE. 单细胞生物\nF. 橡树\nG. 单细胞生物\nH. 黑色素含量",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜜蜂能将什么东西转化成茶？\n\nA. 七鳃鳗\nB. 开花\nC. 花蜜\nD. 鞭毛\nE. 核糖核酸\nF. 生产者\nG. 熊\nH. 草药",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜜蜂从花朵中采集到的东西能创造出什么？\n\nA. 巢穴\nB. 丝绸\nC. 酶\nD. 核糖核酸\nE. 草药\nF. 水\nG. 玉簪属植物\nH. 蜂蜜",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "蜜蜂在哪里可以找到酿造蜂蜜所需的材料？\n\nA. 受太阳加热\nB. 发生在很广泛的范围内\nC. 树木和鲜花\nD. 建筑\nE. 麻疹\nF. 树叶\nG. 70-75 华氏度\nH. 内部腔室",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "有一种动物会分泌大量浓稠、黏稠的粘液。\n\nA. 蜥蜴\nB. 蛛形纲\nC. 蜜蜂\nD. 甲虫\nE. 水\nF. 海绵\nG. 无颌鱼\nH. 被子植物",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一些无颌鱼会分泌大量什么？\n\nA. 粘稠的黏液\nB. 软骨细胞\nC. 鳃\nD. 黑色素含量\nE. 秤\nF. 汽油\nG. 引起过敏的抗原\nH. 保持营养物质",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗会分泌什么？\n\nA. 汗\nB. 核糖核酸\nC. 水\nD. 空气\nE. 蛋白质\nF. 粘液\nG. 唾液\nH. 抗原",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些环境含有浓稠、黏糊糊的粘液？\n\nA. 太平洋\nB. 海绵\nC. 月亮\nD. 海洋\nE. 外太空\nF. 多孔动物门\nG. 牛\nH. 重力",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些动物因分泌大量浓稠、黏稠的粘液而闻名？\n\nA. 珊瑚的近亲\nB. 被子植物\nC. 一些原核生物\nD. 痰\nE. 一些无颌鱼\nF. 赫特人贾巴\nG. 蛛形纲\nH. 保持营养物质",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "根本没有内部硬组织的生物因大量厚的硬组织而闻名？\n\nA. 之间的空间\nB. 保护\nC. 分泌\nD. 粗砂\nE. 蒲公英\nF. 海绵\nG. 细小的毛发\nH. 兽孔类",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "山脉是由什么板块形成的？\n\nA. 反击\nB. 骨干\nC. 溶解\nD. O型\nE. 移动\nF. 静止的\nG. 移动\nH. 酿造",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "山脉是由什么形成的？\n\nA. 移动板块\nB. 侵蚀\nC. 雪盖\nD. 沉淀\nE. 卡车和汽车\nF. 峰\nG. 水蒸气\nH. 龙卷风",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "喜马拉雅山脉是由什么形成的？\n\nA. 侵蚀\nB. 龙卷风\nC. 洪水\nD. 地震\nE. 飓风\nF. 热量\nG. 沉淀\nH. 透水墙",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "山有哪些形态？\n\nA. 非常复杂\nB. 七鳃鳗\nC. 永恒的\nD. 活力\nE. 马匹\nF. 移动板块\nG. 受太阳加热\nH. 生活",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "板块移动会造成什么后果？\n\nA. 尘云\nB. 危险\nC. 摩擦\nD. 风暴\nE. 沉淀\nF. 空气污染\nG. 山脉\nH. 飓风",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以导致振奋发生\n\nA. 声音振动\nB. 石油钻探\nC. 它增加了\nD. 地震\nE. 存款\nF. 侵蚀\nG. 泥石流\nH. 飓风",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震形成了什么？\n\nA. 存款\nB. 粗砂\nC. 骨干\nD. 道路弯道\nE. 阿尔卑斯山\nF. 球场\nG. 波浪\nH. 耳声学",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么形成了山？\n\nA. 岩石\nB. 杆子\nC. 天气\nD. 球场\nE. 冬天\nF. 重量\nG. 寒冷的\nH. 生长",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "日本有很多什么东西？ \n\nA. 音乐\nB. 树木\nC. 抗体\nD. 花朵\nE. 骨干\nF. 抗原\nG. 山脉\nH. 几个基因",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "小肠里有什么？\n\nA. 抗原\nB. 胃\nC. 大肠菌群\nD. 呼吸\nE. 脂肪\nF. 食物\nG. 酶\nH. 尿",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "患有乳糜泻的患者可能会减少 \n\nA. 化学消化\nB. 动作速度\nC. 鼻环\nD. 表达\nE. 淋巴细胞\nF. 银屑病\nG. 智力\nH. 白血细胞",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "化学吸收发生在哪里？\n\nA. 气体在空气中扩散\nB. 环境\nC. 脑\nD. 寒冷的环境\nE. 心\nF. 肺\nG. 小肠\nH. 秒和分",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在人体中，复杂的化学物质分解成简单的过程发生在什么地方？\n\nA. 化学实验室\nB. 胰岛素分泌的地方\nC. 综合运动场\nD. 70-75 华氏度\nE. 约 5 至 27 摄氏度\nF. 人类的手\nG. 主要在小肠\nH. 环境",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些与消化有关的事情主要发生在小肠中？\n\nA. 玉米\nB. 营养物质\nC. 细胞\nD. 食物\nE. 鱼\nF. 酶\nG. 脂肪\nH. 钟虫",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么有助于化学消化？\n\nA. 热量\nB. 蒲公英\nC. 几个基因\nD. 鞭毛\nE. 乳酸杆菌\nF. 玉簪属植物\nG. 黑色素含量\nH. 保持营养物质",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人吃完饭之后，食物主要在哪里进行化学消化？\n\nA. 引起过敏的抗原\nB. 在小肠中\nC. 原核细胞\nD. 在具有气孔的植物上\nE. 真皮和血管组织\nF. 环境\nG. 保持营养物质\nH. 发生在很广泛的范围内",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "酶位于哪里？\n\nA. 在小肠中\nB. 发生在很广泛的范围内\nC. 微观血管。\nD. 由软骨细胞组成的组织\nE. 软骨细胞\nF. 保持营养物质\nG. 雪、冰和岩石\nH. 为了在自己的环境中生存",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "复杂化学物质主要在_中分解成简单化学物质。\n\nA. 温和加热工艺\nB. 秒和分\nC. 单细胞生物\nD. 热带气旋\nE. 被子植物\nF. 小肠\nG. 实验室\nH. 草履虫",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "您可以使用哪个计算机组件来测量时间？\n\nA. 尺寸\nB. 风\nC. 莫氏\nD. 老鼠\nE. 热\nF. 中央处理器\nG. 秒\nH. 硬盘",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量周期？\n\nA. 百分比\nB. 秒\nC. 雨量\nD. 七鳃鳗\nE. 脚\nF. 英镑\nG. 距离\nH. 米",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "你用什么来测量秒？\n\nA. 70-75 华氏度\nB. 数量少得多\nC. 速度差异\nD. 计算日出\nE. 使用秒表\nF. 时钟上的时针\nG. 数着你的呼吸\nH. 声音振动",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秒可以用来测量\n\nA. 摇晃\nB. 秒\nC. 速度\nD. 事情\nE. 风\nF. 雨\nG. 字段\nH. 学生",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "动物脸上的硬毛有什么用途？\n\nA. 喝\nB. 振动\nC. 感觉\nD. 洗澡\nE. 移动\nF. 吃\nG. 力量\nH. 保护",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "狗脸上的硬毛有什么用处？\n\nA. 移动\nB. 它们如何移动\nC. 表达\nD. 能见度\nE. 为了情感。\nF. 为了感觉。\nG. 用于造型。\nH. 为了听觉。",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "猫咪特殊的长毛可以用来做什么？\n\nA. 复制\nB. 生长\nC. 探测鬼魂\nD. 损害\nE. 吃\nF. 学习\nG. 感觉\nH. 生长",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "猫的身体部位有什么用途？\n\nA. 骨\nB. 抗原\nC. 航班\nD. 魔法\nE. 感觉\nF. 组织\nG. 成人\nH. 心灵感应",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "胡须有什么用途？\n\nA. 成人\nB. 海蜇\nC. 猫\nD. 婴儿\nE. 牛\nF. 细菌\nG. 人类\nH. 天气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "动物用什么构成的组织来感觉？\n\nA. 蛋白质\nB. 脂肪\nC. 细胞\nD. 神经元\nE. 粘液\nF. 振动\nG. 软骨\nH. 角蛋白",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来测量秒？\n\nA. 手表\nB. 秒\nC. 体液\nD. 统治者\nE. 风镜\nF. 眼镜\nG. 钻头\nH. 规模",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么仪器可以用来测量秒？\n\nA. 一只手表\nB. 天气\nC. 湿度计\nD. 分数\nE. 卫星\nF. 地震仪\nG. 风速计\nH. 七鳃鳗",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量时间？\n\nA. 速度\nB. 罗盘\nC. 烧杯\nD. 劳力士\nE. 码尺\nF. 86400\nG. 眼镜\nH. 温度计",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么测量小时、秒和分钟？\n\nA. 实验室\nB. 太阳\nC. 太平洋\nD. 蜡烛\nE. 天气\nF. 一只手表\nG. 节拍器\nH. 玉簪属植物",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手表可以用来做什么？\n\nA. 安全操作\nB. 婴儿的成长\nC. 听力\nD. 水\nE. 帮助其他物种受益\nF. 当地天气情况\nG. 研究天气\nH. 科学研究",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手表可以测量什么？\n\nA. 保护\nB. 百分比\nC. 作为基础\nD. 英寸\nE. 分钟\nF. 温度\nG. 抗原\nH. 重量",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手表需要追踪什么？\n\nA. 保护\nB. 天\nC. 振动\nD. 秒\nE. 年\nF. 卫星\nG. 月份\nH. 移动",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量时间？\n\nA. 闪烁的球体\nB. 反馈机制\nC. 发光的灯光\nD. 雪、冰和岩石\nE. 管状器官\nF. 七鳃鳗\nG. 滴答作响的手\nH. 移动的墙壁",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手表可以用来测量\n\nA. 地震\nB. 振动\nC. 尺寸变化\nD. 70-75 华氏度\nE. 动作速度\nF. 当地天气情况\nG. 反馈机制\nH. 295 开尔文",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "微生物可以在任何未经什么处理的表面上生存？\n\nA. 玉簪属植物\nB. 野火\nC. 移动板块\nD. 死亡\nE. 破坏\nF. 多基因\nG. 已消毒\nH. 水",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "表面不太可能被吃和消化食物的东西覆盖？\n\nA. 软骨\nB. 塑料\nC. 肮脏的\nD. 已消毒\nE. 玉簪属植物\nF. 被细菌覆盖\nG. 不安全\nH. 牙釉质",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "未经消毒的表面会对人体造成什么危害？\n\nA. 预防受伤\nB. 帮助人们学习\nC. 让他们生病\nD. 让人们赚钱\nE. 让他们坚强\nF. 破坏\nG. 破坏\nH. 伤害他们",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "任何未经消毒的表面都可能覆盖有：\n\nA. 粘性物质\nB. 死蜗牛壳\nC. 单细胞微生物\nD. 大型生物\nE. 微生物和贻贝\nF. 营养液\nG. 70-75 华氏度\nH. 水",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "您应该对表面做些什么来确保其上没有细菌？\n\nA. 看它\nB. 保护\nC. 抗体\nD. 措施\nE. 吹掉它\nF. 已校准\nG. 打扫\nH. 用手扫掉它",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "将未煮熟的汉堡包放在上面后应该进行什么消毒？\n\nA. 等离子体和有形成分\nB. 表面和柜台\nC. 安全操作\nD. 芝麻包子\nE. 引起过敏的抗原\nF. 热煎锅\nG. 生肉\nH. 单细胞动物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西如果没有经过消毒就有可能布满细菌呢？\n\nA. 反击\nB. 兽孔类\nC. 蒲公英\nD. 云\nE. 淋巴液\nF. 海葵\nG. 蕨类植物\nH. 密度",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "任何还没有被细菌覆盖的区域都可能被细菌覆盖吗？\n\nA. 引起过敏的抗原\nB. 用牙齿漂白\nC. 70-75 华氏度\nD. 用漂白剂擦洗\nE. 在具有气孔的植物上\nF. 极端环境\nG. 用抹布洗\nH. 用沙子擦洗",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "任何未经消毒的表面会造成什么后果？\n\nA. 主要影响\nB. 糖尿病\nC. 空气污染\nD. 侵蚀\nE. 消毒剂\nF. 感染\nG. 车祸\nH. 肥皂",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "未经消毒的表面可能覆盖什么？\n\nA. 微生物\nB. 岩石\nC. 发生在很广泛的范围内\nD. 70-75 华氏度\nE. 真皮和血管组织\nF. 水\nG. 牙釉质\nH. 冰",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以减少表面的细菌？\n\nA. 杀菌\nB. 阿米巴病\nC. 抗原\nD. 塑料\nE. 尺寸变化\nF. 软骨\nG. 气压计\nH. 氟化物",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "杀菌剂可以用来做什么？\n\nA. 运输\nB. 气温升高\nC. 拖车和船只\nD. 治愈它们\nE. 树木和鲜花\nF. 运送人类\nG. 测量工具\nH. 清理桌子",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "氟化物有什么作用？\n\nA. 降低食物的酸度\nB. 缓解口腔疼痛\nC. 骨骼大量生长\nD. 使牙釉质生长\nE. 保护实验室里的眼睛\nF. 它是通过基因遗传的\nG. 气体在空气中扩散\nH. 减少牙釉质的破坏",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "氟化物会降低哪些潜能？\n\nA. 沉淀\nB. 友谊\nC. 关系\nD. 牙疼\nE. 体重减轻\nF. 移动\nG. 破坏\nH. 摩擦",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "牙膏中的氟化物可以防止什么的破坏？\n\nA. 钙\nB. 骨密度\nC. 牙釉质\nD. 保持营养物质\nE. 组织\nF. 核糖核酸\nG. 抗原\nH. 细小的毛发",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以防止牙釉质的破坏？\n\nA. 保护\nB. 治疗\nC. 氟化物\nD. 子宫颈\nE. 角蛋白\nF. 雌激素\nG. 苏打\nH. 氮",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么元素有助于预防蛀牙？\n\nA. 天气\nB. 软骨\nC. 铯\nD. 体内平衡\nE. 抗体\nF. 纤毛\nG. 镁\nH. 氟化物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "氢氟酸盐对蛀牙有什么作用？\n\nA. 加热\nB. 阿米巴病\nC. 肿胀淋巴结\nD. O型\nE. 分泌\nF. 减少它\nG. 沉淀\nH. 硬组织",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以减少蛀牙？\n\nA. 皮肤\nB. 抗原\nC. 水\nD. 热\nE. 橙子\nF. 胰岛素\nG. 小孔\nH. 天气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以减少蛀牙？\n\nA. 维生素含量\nB. 黑色素含量\nC. 体内平衡\nD. 热膨胀\nE. 雌激素\nF. 饮用水\nG. 核糖核酸\nH. 暖空气",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "专业化是如何发生的？\n\nA. 渗透\nB. 喷发\nC. 一些原核生物\nD. 磁性\nE. 分化\nF. 骨骼大量生长\nG. 腔肠动物\nH. 改变生态系统",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "神经元产生的过程是怎样的？\n\nA. 沟通\nB. 突变\nC. 景点\nD. 脱落\nE. 秒和分\nF. 受太阳加热\nG. 分化\nH. 黑色素含量",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "植物在发育过程中如何变得专业化？\n\nA. 分割\nB. 树木和鲜花\nC. 分化\nD. 单细胞生物\nE. 授粉\nF. 黑色素含量\nG. 一些原核生物\nH. 骨骼大量生长",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当头发变得特殊化时它叫什么？\n\nA. 秃顶\nB. 毛发生长\nC. 抗原\nD. 光合作用\nE. 黑色素量\nF. 尺寸变化\nG. 分化\nH. 耳声学",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "分化是未特化的生命基本单位变成什么的过程？\n\nA. 生态系统\nB. 专门\nC. 更相似\nD. 一些原核生物\nE. 完全相同的\nF. 人类\nG. 腔肠动物\nH. 植物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么对于神经细胞的发育至关重要？\n\nA. 振动\nB. 钢\nC. 骨骼大量生长\nD. 可以听到\nE. 压力\nF. 黑色素含量\nG. 声音振动\nH. 分化",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "神经元产生的过程是怎样的？\n\nA. 受太阳加热\nB. 沟通\nC. 毕业\nD. 光合作用\nE. 实验室\nF. 秒和分\nG. 分化\nH. 黑色素含量",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "记忆细胞和效应细胞与 T 辅助细胞相比\n\nA. 真皮和血管组织\nB. 抗体\nC. 胎儿发育\nD. 抗原\nE. 发生在很广泛的范围内\nF. 原核细胞\nG. 单细胞生物\nH. 更加专业",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "未分化细胞变成分化细胞的方法是什么？\n\nA. 实验室\nB. 巴氏灭菌\nC. 色素沉着\nD. 差异化\nE. 几个基因\nF. 多基因性状\nG. 原核细胞\nH. 软骨细胞",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先被认为是最早具有这种能力的动物吗？\n\nA. 阳光\nB. 细胞\nC. 几个基因\nD. 化石记录\nE. 冰\nF. 骨干\nG. 色素沉着\nH. 抗体",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "最早的脊椎动物是什么，它们与今天有亲缘关系？\n\nA. 蜗牛\nB. 人类\nC. 山猫\nD. 蕨类植物\nE. 牛\nF. 鱼\nG. O型\nH. 猫",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先可能拥有什么？\n\nA. 软骨\nB. 脚\nC. 骨干\nD. 财富\nE. 毛发\nF. 角蛋白\nG. 朋友们\nH. 牙釉质",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是鲨鱼？\n\nA. 脊椎动物\nB. 熊\nC. 冷血\nD. 爬虫\nE. 鲸鱼\nF. 他们的年轻人\nG. 腔肠动物\nH. 挽救生命",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先被认为是最早具有什么特征的动物？\n\nA. 化石记录\nB. 抗原\nC. 骨干\nD. 抗体\nE. 武器\nF. 脚\nG. 毛发\nH. 翅膀",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先被认为拥有最早的什么？\n\nA. 生长\nB. 颜料\nC. 86400\nD. 皮肤憔悴\nE. 海洋\nF. 骨骼\nG. 清晨\nH. 鱼腥味",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先被认为是最早拥有什么的生物？\n\nA. 颜料\nB. 骨头\nC. 角蛋白\nD. 生活\nE. 贝壳\nF. 尺寸\nG. 翅膀\nH. 武器",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先被认为是最早的\n\nA. 滤食性动物\nB. 单细胞生物\nC. 孕育后代\nD. 有脊椎的动物\nE. 成年前的最后阶段\nF. 原核细胞\nG. 为了在自己的环境中生存\nH. 遗传抗原+抗体",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗的祖先被认为最早是什么？\n\nA. 骨骼大量生长\nB. 单细胞生物\nC. 人类\nD. 成年前的最后阶段\nE. 有脊椎的动物\nF. 恐龙\nG. 细菌\nH. 为了在自己的环境中生存",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种鱼的祖先被认为是最早的脊椎动物？\n\nA. 盲鳗\nB. 盘龙类\nC. 鱼\nD. 被子植物\nE. 成人\nF. 兽孔类\nG. 海洋\nH. 水",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "寄生的无颌鱼的祖先被认为是最早的\n\nA. 在陆地上移动\nB. 尺寸变化\nC. 水\nD. 爬虫\nE. 一些\nF. 软骨细胞\nG. 脊椎动物\nH. 真核细胞",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "盲鳗有什么？\n\nA. 细小的毛发\nB. 骨干力量\nC. 毛发\nD. 玉簪属植物\nE. 被子植物\nF. 牙釉质\nG. 一些珊瑚虫\nH. 触须",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数鱼不需要处理什么问题？\n\nA. 坚强的后盾\nB. 死亡\nC. 接触氧气和水\nD. 脊椎\nE. 灾难\nF. 极端温度\nG. 磷虾和浮游生物\nH. 掠食者",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "通常什么不需要应对极端温度或湿度？\n\nA. 海绵\nB. 蕨类植物\nC. 企鹅\nD. 北极熊\nE. 鱼\nF. 蜗牛\nG. 纤毛\nH. 胖的",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数什么不需要应对极端温度或湿度？\n\nA. 纤毛\nB. 鱼\nC. 蜗牛\nD. 海洋\nE. 人类\nF. 骆驼\nG. 蕨类植物\nH. 蜥蜴",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数水生生物不需要做什么？\n\nA. 危险的东西\nB. 沉淀\nC. 发生快速变化\nD. 水下游泳\nE. 滋润皮肤\nF. 改变生态系统\nG. 生活在潮湿环境中\nH. 吃东西",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数鱼不需要处理什么问题？\n\nA. 负面反馈\nB. 反馈机制\nC. 接触氧气和水\nD. 环境\nE. 极端温度\nF. 对身体来说，蛋白质是外来物质。\nG. 引起过敏的抗原\nH. 气温升高",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数情况下不必应对极端的温度或湿度？\n\nA. 男孩们\nB. 蜗牛\nC. 纤毛\nD. 蕨类植物\nE. 苹果\nF. 细胞\nG. 鱼\nH. 胖的",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大多数不需要应对极端的温度或湿度。\n\nA. 事情\nB. 移动\nC. 蜗牛\nD. 组织\nE. 天气\nF. 冬天\nG. 鱼\nH. 生活",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么不需要应对极端的温度或湿度？\n\nA. 人类\nB. 草履虫\nC. 被子植物\nD. 生态系统\nE. 爬虫\nF. 蜥蜴\nG. 雄配子\nH. 大多数鱼",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些生物通常不需要应对极端温度或潮湿？\n\nA. 生态系统\nB. 单细胞动物\nC. 单细胞生物\nD. 蒲公英\nE. 珊瑚的近亲\nF. 被子植物\nG. 鳄鱼\nH. 水生生物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当铁氧化时，该金属会变成橙色吗？\n\nA. 在室内\nB. 道路弯道\nC. 元素\nD. 制片人\nE. 户外\nF. 表面\nG. 暖空气\nH. 里面",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因导致金属表面变成橙色？\n\nA. 振动\nB. 摩擦\nC. 水分\nD. 汽车\nE. 铬合金\nF. 镁\nG. 干燥条件\nH. 矿物油",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会导致金属变成橙色？\n\nA. 接触氮气\nB. 更高的紫外线辐射\nC. 热膨胀\nD. 接触盐酸\nE. 引起过敏的抗原\nF. 未消毒的表面\nG. 暴露于氦和碳\nH. 接触氧气和水",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "金属表面变成橙色，是因为\n\nA. 磁性\nB. 摩擦\nC. 治疗\nD. 加热\nE. 车祸\nF. 氧化\nG. 空气污染\nH. 凝结",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水分会使金属变成什么颜色\n\nA. 橙子\nB. 破坏\nC. 坚硬的\nD. 侵蚀\nE. 光滑的\nF. 油桃\nG. 矿物\nH. 不安全",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "铁生锈时表面会发生什么情况？\n\nA. 变成橙色\nB. 它生长\nC. 极端温度\nD. 气体在空气中扩散\nE. 它飞\nF. 破坏\nG. 295 开尔文\nH. 它爆炸了",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "是什么原因导致金属表面呈橙色？\n\nA. 黑色素含量\nB. 金子\nC. 抗原\nD. 空气污染\nE. 电子\nF. 指挥家\nG. 黑色素量\nH. 氧化铁",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "暴露在氧气和水中会导致铁 \n\nA. 降低强度\nB. 熔化\nC. 无法控制的燃烧\nD. 热膨胀\nE. 表面变成橙色\nF. 颤动\nG. 极端温度\nH. 悬浮",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么使金属变成橙色？\n\nA. 色素沉着\nB. 加热\nC. 管状器官\nD. 抗原\nE. 软骨细胞\nF. 辐射\nG. 氧化\nH. 几个基因",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "铁生锈后表面会变成什么？\n\nA. 小孔\nB. 一种金属\nC. 黑色的\nD. 粉色的\nE. 元素\nF. 无形的\nG. 有色\nH. 橙子",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当钢生锈时，它就会\n\nA. 蓝色的\nB. 莫氏\nC. 不安全\nD. 坚硬的\nE. 橙子\nF. 破坏\nG. 彩虹\nH. 粉色的",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "铸铁和钢的表面容易变成什么表面？\n\nA. 硬度\nB. 坚硬的\nC. 刺激物\nD. 酸\nE. 橙子\nF. 热\nG. 不安全\nH. 破坏",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "珠宝生锈会变成什么颜色？\n\nA. 天气\nB. 一种金属\nC. 不安全\nD. 多基因\nE. 七鳃鳗\nF. 橙子\nG. 破坏\nH. 坚硬的",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因导致金属表面变成橙色？\n\nA. 风暴\nB. 热\nC. 火灾\nD. 风\nE. 抗原\nF. 颜料\nG. 水\nH. 光",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当声波使耳膜振动时会发生什么？\n\nA. 摇晃\nB. 它增加了\nC. 癌症\nD. 旅行速度\nE. 一个人可以睡觉\nF. 一个人失聪\nG. 可以听到\nH. 强度",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "到达大脑后会进行什么处理？\n\nA. 微波炉\nB. 食物\nC. 抗原\nD. 噪音\nE. 核糖核酸\nF. 辐射\nG. 射线\nH. 胰岛素",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "耳朵有什么用处？\n\nA. 想象\nB. 移动\nC. 婴儿\nD. 视觉评估\nE. 保护\nF. 听到\nG. 嚎叫\nH. 品尝食物",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当你的耳膜听到某个声音时会发生什么？\n\nA. 扩展\nB. 没有什么\nC. 反馈\nD. 它增加了\nE. 回声\nF. 振动\nG. 天气\nH. 移动",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么时候可以听到音乐？\n\nA. 声音振动\nB. 当音乐进入眼睛\nC. 当耳朵不工作时\nD. 当音乐传入耳朵\nE. 回响噪音\nF. 当音乐消逝\nG. 70-75 华氏度\nH. 声音传播的速度",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "到达耳朵能听到什么？\n\nA. 水\nB. 音乐\nC. 体液\nD. 冰雹\nE. 耳垂\nF. 花蜜\nG. 烟雾\nH. 伽马射线",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当振动到达耳朵时，能听到什么？\n\nA. 昆虫\nB. 安静\nC. 摇晃\nD. 危险\nE. 孤独\nF. 是的\nG. 安静的\nH. 音乐",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "耳朵里的振动叫什么？\n\nA. 强度\nB. 非常复杂\nC. 黑色素含量\nD. 七鳃鳗\nE. 耳声学\nF. 天气\nG. 地震仪\nH. 卡车和汽车",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当声音传到我们的耳朵里能听到什么？\n\nA. 反馈\nB. 振动\nC. 非常复杂\nD. 动物\nE. 热量\nF. 移动\nG. 空气污染\nH. 太平洋",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "将矿物置于莫氏硬度等级需要 \n\nA. 力量\nB. 镁\nC. 作为基础\nD. 运输\nE. 搔痒\nF. 分类\nG. 元素周期表\nH. 拍摄它",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如何测量宝石的硬度？\n\nA. 黑色素量\nB. 分类\nC. 英寸\nD. 称一下重量\nE. 刮掉它\nF. 三角函数\nG. 打破它\nH. 放在阳光下",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "对矿物进行分类必须做什么？\n\nA. 把这些清洗一下\nB. 系统发生\nC. 埋葬他们\nD. 抓挠它们\nE. 治疗\nF. 分类学\nG. 元素周期表\nH. 扔掉它们",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "你能刮擦什么来测量？\n\nA. 气孔\nB. 骨\nC. 尺度\nD. 钻石\nE. 统治者\nF. 距离\nG. 毛发\nH. 卷尺",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量硬度需要刮擦什么？\n\nA. 指甲\nB. 气孔\nC. 空气\nD. 水\nE. 橡树\nF. 杆子\nG. 天气\nH. 宝石",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "对矿物进行划痕是为了按什么标准对其进行排序？\n\nA. 气孔\nB. 特性\nC. 莫氏\nD. 属性\nE. 八\nF. 骨\nG. 划痕\nH. 天气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量方解石的硬度需要什么？\n\nA. 熔化这些材料\nB. 坚强的后盾\nC. 热量\nD. 70-75 华氏度\nE. 切割这些材料\nF. 抓挠自己\nG. 热膨胀\nH. 刮擦这些材料",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量珍珠的硬度需要什么？\n\nA. 七鳃鳗\nB. 玩转它\nC. 抓挠\nD. 角蛋白\nE. 黑色素含量\nF. 钾\nG. 镁\nH. 帮助它",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量矿物的哪些成分需要切碎这些材料？\n\nA. 存款\nB. 钾\nC. 尺寸\nD. 重量\nE. 硬度\nF. 形状\nG. 关键元素\nH. 力量",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量材料硬度需要什么？\n\nA. 治疗\nB. 窃听\nC. 擦\nD. 品尝\nE. 七鳃鳗\nF. 搔痒\nG. 力量\nH. 钾",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量矿物的硬度需要更硬的什么？\n\nA. 钙\nB. 作为基础\nC. 软骨\nD. 矿物\nE. 气孔\nF. 小孔\nG. 相同\nH. 天气",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如何获得莫氏硬度测量值？\n\nA. 力量\nB. 距离\nC. 搔痒\nD. 毛发生长\nE. 分类学\nF. 英寸\nG. 尺寸变化\nH. 英里每小时",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量矿物的硬度需要对其做什么？\n\nA. 三角函数\nB. 软骨\nC. 反馈\nD. 分类学\nE. 小孔\nF. 破坏\nG. 表面\nH. 治疗",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "如何对矿物进行处理来确定其在莫氏硬度计上的位置？\n\nA. 划痕\nB. 角蛋白\nC. 实验室\nD. 分类\nE. 治疗\nF. 测量员\nG. 百分比\nH. 作为基础",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "莫氏硬度等级是通过对材料做什么来使用的\n\nA. 加热\nB. 工具扩展\nC. 保护\nD. 分类\nE. 搔痒\nF. 作为基础\nG. 它们如何移动\nH. 分类学",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来从太空拍摄红外照片？\n\nA. 相机\nB. 化学品\nC. 波浪\nD. 光\nE. 天气\nF. 显微镜\nG. 望远镜\nH. 卫星",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "下列哪项是预报的关键气象数据来源\n\nA. 沉淀\nB. 小行星\nC. 沟通\nD. 哈勃望远镜\nE. 派克大衣\nF. 卫星\nG. 季节性\nH. 黑色素量",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地球图像由\n\nA. 卫星\nB. 光\nC. 沟通\nD. 百万\nE. 雷达\nF. 板块构造\nG. 移动板块\nH. 七鳃鳗",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么能从全球视角看待臭氧空洞？\n\nA. 70-75 华氏度\nB. 太空影像\nC. 光照进它里面\nD. 风向标\nE. 地壳板块碰撞\nF. 未消毒的表面\nG. 太阳镜\nH. 反馈机制",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卫星能做什么？\n\nA. 安全操作\nB. 养蜥蜴\nC. 运送人类\nD. 品种狗\nE. 从太空拍摄照片\nF. 收获小行星\nG. 捕获猎物\nH. 帮助其他物种受益",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卫星用来拍摄什么？\n\nA. 人们\nB. 地球\nC. 动物\nD. 人类\nE. 地下\nF. 小动物\nG. 树木\nH. 手机",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家使用的工具是什么？\n\nA. 化学品\nB. 反馈\nC. 专门\nD. 一些\nE. 能见度\nF. 沟通\nG. 骨干\nH. 卫星",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卫星用于从太空获取什么？\n\nA. 发生快速变化\nB. 雪、冰和岩石\nC. 树木和鲜花\nD. 画家\nE. 发生在很广泛的范围内\nF. 数码照片\nG. 数字文件\nH. 摄影师",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么有助于防止儿童在车内受伤？\n\nA. 安全带\nB. 黑色素含量\nC. 镁\nD. 黑色素量\nE. 收音机\nF. 腿部空间\nG. 屋顶储存\nH. 化学品",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "防止车内乘客受伤有什么作用？\n\nA. 导致无聊\nB. 头部外伤\nC. 体内平衡\nD. 不安全\nE. 巴氏灭菌\nF. 挽救生命\nG. 从车内弹出\nH. 慢下来",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以帮助防止死亡？\n\nA. 荷尔蒙\nB. 后座驾驶\nC. 安全带\nD. 体内平衡\nE. 黑色素含量\nF. 分心驾驶\nG. 抗体\nH. 粗心驾驶",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "发生交通事故时，乘客的安全带起什么作用？\n\nA. 提起诉讼\nB. 造成伤害\nC. 医疗原因\nD. 安全驾驶\nE. 被捕\nF. 安全操作\nG. 避免受伤\nH. 它们如何移动",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "安全带和头盔起什么作用？\n\nA. 破坏\nB. 改变生态系统\nC. 安全驾驶\nD. 保护乘客\nE. 只会让人不舒服\nF. 傷害人\nG. 氧气扩散到空气中\nH. 安全操作",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "安全带什么时候有用？\n\nA. 马匹事故\nB. 摩托车事故\nC. 在陆地上\nD. 车祸\nE. 295 开尔文\nF. 能见度\nG. 冬天\nH. 寒冷的环境",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "车祸会对乘客造成什么影响？\n\nA. 伤害他们\nB. 确保安全\nC. 堵塞气道\nD. 不安全\nE. 脱水\nF. 车祸\nG. 指引他们方向\nH. 让汽车变得更好",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "安全带可以帮助避免哪些情况？\n\nA. 堵塞气道\nB. 乘客\nC. 破坏\nD. 鞭伤\nE. 脱水\nF. 振动\nG. 驾驶\nH. 过敏原",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用于防止车辆乘客受伤的是哪些？\n\nA. 钟虫\nB. 巴氏灭菌\nC. 七鳃鳗\nD. 轮辋\nE. 安全带\nF. 专门\nG. 马匹\nH. 神经元",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "转弯时什么可以帮助防止受伤？\n\nA. 迎面而来的车辆\nB. 安全带\nC. 爆胎\nD. 力量\nE. 安全驾驶\nF. 钟虫\nG. 摩擦\nH. 鹿过路",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "汽车里的沃尔德伦铅扣起什么作用？\n\nA. 降低强度\nB. 破坏\nC. 它们如何移动\nD. 改变生态系统\nE. 预防受伤\nF. 安全驾驶\nG. 安全操作\nH. 负面反馈",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一场野火能带来什么巨大变化？ \n\nA. 发生快速变化\nB. 单细胞生物\nC. 火\nD. 岩石\nE. 大自然中的社区。\nF. 发生在很广泛的范围内\nG. 改变\nH. 单细胞微生物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "谁能彻底改变生态系统？\n\nA. 熊\nB. 蟑螂\nC. 狮子\nD. 海绵\nE. 人类\nF. 山猫\nG. 海蜇\nH. 动物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么改变了森林？\n\nA. 微风\nB. 移动\nC. 野火\nD. 它增加了\nE. 反馈\nF. 小雨\nG. 体内平衡\nH. 道路弯道",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会彻底改变特定区域的物种群落？\n\nA. 反击\nB. 停滞\nC. 微风\nD. 分类学\nE. 野火\nF. 观察\nG. 反馈\nH. 七鳃鳗",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么力量可以彻底改变生态系统？\n\nA. 山猫\nB. 天气\nC. 黏土\nD. 移动\nE. 破坏\nF. 青春期\nG. 反馈\nH. 声音",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以改变生态系统？\n\nA. 大肠菌群\nB. 负面反馈\nC. 道路弯道\nD. 排水\nE. 侵蚀\nF. 在陆地上移动\nG. 一场森林火灾\nH. 雷暴",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "野火如何改变生物群系？\n\nA. 很少\nB. 尺寸变化\nC. 体内平衡\nD. 仅在过去\nE. 非常复杂\nF. 小的\nG. 环境\nH. 急剧地",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么能彻底改变一片森林？\n\nA. 小雪\nB. 侵蚀\nC. 破坏\nD. 野火\nE. 鸟类\nF. 火灾\nG. 橡树\nH. 雨",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "森林火灾会彻底改变什么？\n\nA. 危险\nB. 生态系统\nC. 移动\nD. 水\nE. 破坏\nF. 道路弯道\nG. 火\nH. 雷",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么会彻底改变生态系统？\n\nA. 70-75 华氏度\nB. 在陆地上移动\nC. 发生快速变化\nD. 发生在很广泛的范围内\nE. 未消毒的表面\nF. 反馈机制\nG. 尺寸变化\nH. 无法控制的燃烧",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么通常可以彻底改变生物群系？\n\nA. 野火\nB. 破坏\nC. 感染\nD. 冬天\nE. 移动\nF. 疟疾\nG. 海葵\nH. 北极",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "西方正在经历着巨大的变化\n\nA. 内部的\nB. 骨干\nC. 体内平衡\nD. 组织\nE. 移动板块\nF. 沟通\nG. 生态系统\nH. 系统发生",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当人们每天环顾四周时，他们需要什么？\n\nA. 热\nB. 偏执狂\nC. 颜料\nD. 音乐\nE. 光\nF. 色调\nG. 水\nH. 朋友们",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "看见和看到有什么区别？\n\nA. 品尝\nB. 想象\nC. SI 单位\nD. 移动\nE. 纤毛\nF. 远端\nG. 手表\nH. O型",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "眼睛需要什么？\n\nA. 蛋白质\nB. 沙\nC. 风\nD. 毛发\nE. 抗原\nF. 光\nG. 纤毛\nH. 酶",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "眼睛需要什么？\n\nA. 氧气的一种形式\nB. 光照进它里面\nC. 接触氧气和水\nD. 黑暗的环境\nE. 隐形眼镜\nF. 黑色素量\nG. 由软骨细胞组成的组织\nH. 眼镜",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么需要光？\n\nA. 蝙蝠\nB. 岩石\nC. 橙子\nD. 家\nE. 眼睛\nF. 山猫\nG. 猫\nH. 深海居民",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "视觉需要什么？\n\nA. 光\nB. 风镜\nC. 食物\nD. 闻\nE. 荷尔蒙\nF. 蛋白质\nG. 颜色\nH. 色调",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "看见需要什么？\n\nA. 纤毛\nB. 小孔\nC. 秒\nD. 风镜\nE. 距离\nF. 学生\nG. 强度\nH. 眼镜",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "米尺是用来测量什么的？\n\nA. 微小的细节\nB. 细胞间\nC. 作为基础\nD. 圆润的山峰\nE. 295 开尔文\nF. 能见度\nG. 之间的空间\nH. 微观物品",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一米是多少度？\n\nA. 米尺\nB. 足球场\nC. 四角龙\nD. 能见度\nE. 天气\nF. 美国习惯单位\nG. 马匹\nH. 七鳃鳗",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "米尺是什么？\n\nA. 作为基础\nB. 测量工具\nC. 灵活的\nD. 节拍器\nE. 厘米\nF. 武器\nG. 具有反馈回路\nH. 发生快速变化",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "船舶经纪公司和经销商之间的路径是通过什么来衡量的\n\nA. 骨干\nB. 振动\nC. 等级\nD. 米尺\nE. 眼力\nF. 望远镜\nG. 在陆地上\nH. 英寸",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一厘米等于多少米？\n\nA. 英寸\nB. 硬组织\nC. 距离\nD. 重量\nE. 大量的\nF. 作为基础\nG. 力量\nH. 力量",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么单位为米？\n\nA. 四角龙\nB. 阳光\nC. 量筒\nD. 动物\nE. 作为基础\nF. 码尺\nG. 米尺\nH. 七鳃鳗",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来衡量人与物之间的\n\nA. 里程表\nB. 米尺\nC. 雷达\nD. 智力\nE. 沟通\nF. 车速表\nG. 它们如何移动\nH. 力量",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一米等于多少厘米？\n\nA. 脚\nB. 16\nC. 17\nD. 100\nE. 洞\nF. 英寸\nG. 酒吧\nH. 重量",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一根100厘米的棍子用来测量什么？\n\nA. 摩擦\nB. 距离\nC. 亚原子距离\nD. 能见度\nE. 异步距离\nF. 力量\nG. 雨量\nH. 振动",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "米尺是用来测量事物之间的什么的？\n\nA. 体积\nB. 空间\nC. 秒\nD. 速度\nE. 光\nF. 重量\nG. 英里/小时\nH. 时间",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么工具来测量长度？\n\nA. 规模\nB. 天气\nC. 烧杯\nD. 英寸\nE. 米尺\nF. 温度计\nG. 七鳃鳗\nH. 玉簪属植物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来测量英尺？\n\nA. 七鳃鳗\nB. 量筒\nC. 一种金属\nD. 营养液\nE. 气压计\nF. 显微镜\nG. 米尺\nH. 雪、冰和岩石",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么通常计算一个点到另一个点之间的距离？\n\nA. 英寸\nB. 量杯\nC. 计时码表\nD. 分类学\nE. 米尺\nF. 兽孔类\nG. 板块构造\nH. 天文钟",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因造成臭氧层空洞？\n\nA. 冰\nB. 风暴\nC. 温暖\nD. 雷暴\nE. 化学品\nF. 飓风\nG. 太阳\nH. 坏天气",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "臭氧消失会造成什么后果？\n\nA. 刺激物\nB. 坏天气\nC. 车祸\nD. 臭氧空洞\nE. 雨\nF. 飓风\nG. 暴风雨天气\nH. 农作物被毁",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "全球气候变暖造成了臭氧层什么的？\n\nA. 层\nB. 洞\nC. 热\nD. 电影\nE. 死亡\nF. 气体\nG. 记录\nH. 暴风雨的",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "南极洲上空的洞会造成什么后果？\n\nA. 全球暖化\nB. 空气污染\nC. 寒冷的天气\nD. 宗教\nE. 侵蚀\nF. 改变生态系统\nG. 农作物被毁\nH. 修补",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大气中天然成分的流失造成了什么后果？\n\nA. 发生快速变化\nB. 调节温度\nC. 发生在很广泛的范围内\nD. 氢膨胀\nE. 在南极洲上空形成了一个洞\nF. 当它穿过一个大陆时\nG. 未消毒的表面\nH. 风化",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "是什么导致了南极洲上空出现洞？\n\nA. 喷发产物\nB. 碎屑和碎屑生物\nC. 云\nD. 磷虾和浮游生物\nE. 水\nF. 单细胞微生物\nG. 自然大气成分\nH. 重力",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "平流层上部的强烈紫外线辐射在哪里造成了臭氧空洞？\n\nA. 云量\nB. 山脉\nC. 高山\nD. 气氛\nE. 雪\nF. 地球\nG. 环境\nH. 南极洲",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么正在迅速消失？\n\nA. 抗原\nB. 臭氧\nC. 气体\nD. O型\nE. 空气\nF. 家\nG. 核糖核酸\nH. 油",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "为什么居住在南极洲附近的人患皮肤癌的风险会增加？\n\nA. 70-75 华氏度\nB. 更高的紫外线辐射\nC. 接触氧气和水\nD. 制革机关闭\nE. 更具传染性的游客\nF. 在陆地上\nG. 更闪亮的北极熊\nH. 未消毒的表面",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "南极洲上空的空洞减少了什么？\n\nA. 空气的重量\nB. 环境\nC. 水蒸气\nD. 防紫外线\nE. 空气污染\nF. 暖气\nG. 辐射\nH. 温水",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "是什么东西丢失了，导致南极上空出现一个洞？\n\nA. 钙\nB. 气体\nC. 臭氧\nD. 抽烟\nE. 水\nF. 氧\nG. 体液\nH. 侵蚀",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "三原子氧的消失导致了南极洲出现什么现象？\n\nA. 三原子氧空穴\nB. 约 5 至 27 摄氏度\nC. 发生在很广泛的范围内\nD. 极其危险的风暴\nE. 空气污染\nF. 未消毒的表面\nG. 主要影响\nH. 农作物被毁",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么原因导致高山和山峰的形成？\n\nA. 空气污染\nB. 加热\nC. 飓风\nD. 尺寸变化\nE. 透水墙\nF. 海啸\nG. 地震\nH. 雷",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在山峰高耸的地区会发生什么\n\nA. 黑色素量\nB. 沙漠\nC. 丛林\nD. 地震\nE. 珊瑚\nF. 透水墙\nG. 空气污染\nH. 雄配子",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "板块构造能用什么形成高山？\n\nA. 尺寸变化\nB. 反馈机制\nC. 圆润的山峰\nD. 在陆地上移动\nE. 发生快速变化\nF. 透水墙\nG. 发生在很广泛的范围内\nH. 等离子体和有形成分",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "板块构造学可以解释哪些自然现象？\n\nA. 未消毒的表面\nB. 环境\nC. 道路弯道\nD. 热膨胀\nE. 动作速度\nF. 尺寸变化\nG. 山脉的形成\nH. 发生快速变化",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震的形成方式与\n\nA. 卡车和汽车\nB. 反馈机制\nC. 道路弯道\nD. 球场\nE. 发生快速变化\nF. 高山\nG. 尺寸变化\nH. 运动测量",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地壳板块碰撞会形成什么？\n\nA. 北极\nB. 粗砂\nC. 存款\nD. 树木和鲜花\nE. 喜马拉雅山\nF. 内部腔室\nG. 化石\nH. 透水墙",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "最有可能在哪些地方附近发现火山？\n\nA. 胰岛\nB. 指向北方\nC. 热量\nD. 受太阳加热\nE. 内部腔室\nF. 高山\nG. 存款\nH. 非常复杂",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪个领域研究具有圆形山峰的高山的形成？\n\nA. 已校准\nB. 微生物\nC. 非常复杂\nD. 它们如何移动\nE. 受太阳加热\nF. 板块构造\nG. 单细胞生物\nH. 一位法国科学家",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "山峰巍峨的高山是由什么东西碰撞而形成的？\n\nA. 板块构造\nB. 单细胞生物\nC. 胰岛\nD. 尺寸变化\nE. 存款\nF. 透水墙\nG. 卡车和汽车\nH. 发生快速变化",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "宝宝在快速成长期最常做什么？\n\nA. 出生\nB. 移动\nC. 跑步\nD. 斗争\nE. 青春期\nF. 玩\nG. 学习\nH. 摇晃",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "婴儿期是生长最迅速的时期，之后会发生什么？\n\nA. 八\nB. 色素沉着\nC. 死亡\nD. 狼疮\nE. 热量\nF. 疾病\nG. 米\nH. 诞生",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "学习什么时候开始？\n\nA. 非洲西部\nB. 翻译\nC. 出生后\nD. 在蜂巢里\nE. 同步\nF. 道路弯道\nG. 成年后\nH. 喜马拉雅山",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出生后生长最迅速的时期是什么时候？\n\nA. 一些原核生物\nB. 树木和鲜花\nC. 病得很严重的婴儿\nD. 细小的毛发\nE. 原核细胞\nF. 非常伤心的婴儿\nG. 真核细胞\nH. 非常小的婴儿",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出生后生长发育最快的时期是什么时候？\n\nA. 玉米\nB. 乳房\nC. 精子\nD. 男子气概\nE. 婴儿\nF. 怀孕\nG. 成年\nH. 老年人",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出生后生长发育最快的时期是什么时候？\n\nA. 生长\nB. 哺乳动物\nC. 怀孕\nD. 22个月\nE. 动物\nF. 八\nG. 一个宝宝\nH. 细胞",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人生成长最快的时期是什么时候？\n\nA. 出生后三个阶段\nB. 四角龙\nC. 哺乳动物的祖先爬行动物\nD. 老年\nE. 单细胞生物\nF. 70-75 华氏度\nG. 绝经\nH. 约 5 至 27 摄氏度",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "童年时期什么是快速？\n\nA. 萎缩\nB. 色素沉着\nC. 学校\nD. 发展\nE. 花分泌\nF. 肿胀淋巴结\nG. 磁性\nH. 移动",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出生后长得最快的时期是什么时候？\n\nA. 86400\nB. 婴儿期\nC. 成人\nD. 玉簪属植物\nE. 怀孕\nF. 成年\nG. 八\nH. 被子植物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "第一年是指什么时期？\n\nA. 沟通\nB. 开花\nC. 快速增长\nD. 花朵\nE. 花分泌\nF. 史前\nG. 中生代\nH. 黑色素含量",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "高营养燃料需要什么？\n\nA. 奶牛生产的东西\nB. 灌木丛\nC. 挽救生命\nD. 保持营养物质\nE. 可以是有机的\nF. 肥胖\nG. 运送人类\nH. 婴儿的成长",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出生后生长发育最快的时期是什么时候？\n\nA. 青春期\nB. 幼儿时期\nC. 怀孕\nD. 成人\nE. 老年\nF. 八\nG. 青少年时期\nH. 婴儿期",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "出生后生长最快的时期开始发生什么\n\nA. 怀孕\nB. 原核细胞\nC. 花朵\nD. 胡子\nE. 沟通\nF. 鞭毛\nG. 树木和鲜花\nH. 脱发",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "进步最快的时期是什么时候？\n\nA. 婴儿期\nB. 导航\nC. 阿尔卑斯山\nD. 药品\nE. 天文学\nF. 原生动物\nG. 青春期\nH. 86400",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "食物更容易咀嚼，因为它被唾液润湿了，从哪里开始？\n\nA. 肠\nB. 味蕾\nC. 环境\nD. 生态系统\nE. 组织\nF. 人类\nG. 口腔\nH. 肛腔",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西更容易咀嚼，因为它被唾液腺分泌的唾液润湿了\n\nA. 牛\nB. 哺乳动物\nC. 牛扒\nD. 水\nE. 汽\nF. 氢\nG. 蜂蜜\nH. 角蛋白",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么能让食物更容易咀嚼？\n\nA. 由软骨细胞组成的组织\nB. 黑色素含量\nC. 核苷酸组成聚合物\nD. 口腔中的酶\nE. 巴氏灭菌\nF. 引起过敏的抗原\nG. 保持营养物质\nH. 你的水分含量如何",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "消化酶使什么更容易咀嚼？\n\nA. 水\nB. 食物\nC. 86400\nD. 阳光\nE. 草药\nF. 天气\nG. 唾液\nH. 胖的",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "食物更容易咀嚼，因为它被来自哪里的腺体的唾液润湿了？\n\nA. 触须\nB. 牙釉质\nC. 细小的毛发\nD. 原核细胞\nE. 人类\nF. 在鼻窦中\nG. 在胃里\nH. 在嘴里",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么能让百吉饼更容易咀嚼？\n\nA. 纤毛\nB. 摩擦\nC. 唾液\nD. 维生素D\nE. 胆汁\nF. 角蛋白\nG. 热\nH. 化学品",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是丸剂？\n\nA. 湿润的食物\nB. SI 单位\nC. 制片人\nD. 单细胞生物\nE. 沉淀\nF. 分数\nG. 保持营养物质\nH. 测量工具",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么能让食物更容易咀嚼？\n\nA. 激酶\nB. 热\nC. 玉米\nD. 七鳃鳗\nE. 角蛋白\nF. 蛋白质\nG. 液体\nH. 纤毛",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "奶牛会做什么？\n\nA. 阳光\nB. 抗体\nC. 电脑\nD. 抗原\nE. 岩石\nF. 可以是有机的\nG. 营养液\nH. 保持营养物质",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "牛奶营养丰富，还能预防什么？\n\nA. 空气污染\nB. 溢出\nC. 刺激物\nD. 脱水\nE. 过敏原\nF. 呕吐\nG. 破坏\nH. 阿米巴病",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "牛奶含有哪些营养成分？\n\nA. 抗原\nB. 巧克力\nC. 克\nD. 作为基础\nE. 牛肉\nF. 细菌\nG. 酶\nH. 维生素D",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "新生儿从哪里获取营养？\n\nA. 水\nB. 新生儿\nC. 乳房\nD. 怀孕\nE. 空气\nF. 蛋白质\nG. 固体食物\nH. 肠",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "牛能产出什么？\n\nA. 猪肉\nB. 可以是有机的\nC. 保持营养物质\nD. 饮用水\nE. 米\nF. 抗原\nG. 营养液\nH. 玉米",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是营养饮料？\n\nA. 玉簪属植物\nB. 矿物\nC. 水\nD. 布洛芬\nE. 奶昔\nF. 蒲公英\nG. 挽救生命\nH. 蜂蜜",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么产生营养液？\n\nA. 橡树\nB. 树木\nC. 蜂蜜\nD. 牛\nE. 草药\nF. 玉米\nG. 淋巴\nH. 食物",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "牛奶可以预防什么？\n\nA. 移动\nB. 空气污染\nC. 车祸\nD. 摇晃\nE. 挽救生命\nF. 刺激物\nG. 脱水\nH. 过敏原",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "父母生下孩子后会做什么？\n\nA. 天气\nB. 移动\nC. 扔掉它们\nD. 分散他们的注意力\nE. 把它们送出去\nF. 在陆地上移动\nG. 飞行\nH. 培育他们",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种物种需要父母双方共同抚养孩子\n\nA. 同步\nB. 几个基因\nC. 秒和分\nD. 海蜇\nE. 原核细胞\nF. 胎儿发育\nG. 一夫一妻制的物种\nH. 真核细胞",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "孩子出生后，可能需要一段时间的父母照顾？\n\nA. 花朵\nB. 移动\nC. 胞衣\nD. 玉簪属植物\nE. 一个孩子\nF. 父母\nG. 护理中心\nH. 新生儿",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "父母对后代有怎样的照顾期？\n\nA. 天气\nB. 菌\nC. 婴儿\nD. 多孔动物门\nE. 细菌\nF. 海蜇\nG. 分子\nH. 人类",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些后代最有可能受到父母照顾？\n\nA. 蜥蜴\nB. 成年人\nC. 老年\nD. 动物\nE. 中年男性\nF. 幼虫\nG. 婴儿\nH. 昆虫",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "孩子出生后通常会发生什么？\n\nA. 父母接受超声波检查\nB. 父母埋葬孩子\nC. 射精\nD. 父母照顾孩子\nE. 成年前的最后阶段\nF. 父母遗弃孩子\nG. 引起过敏的抗原\nH. 性成熟",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "父母对后代的照顾期之后会怎样？\n\nA. 孩子出生\nB. 热带气旋\nC. 真皮和血管组织\nD. 在养蜂场\nE. 巴氏灭菌\nF. 雪融化后\nG. 尺寸变化\nH. 在蜂巢里",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "我们怎样才能知道物体的重量？\n\nA. 295 开尔文\nB. 检查密度\nC. 反馈机制\nD. 使用秤\nE. 使用尺子\nF. 专门\nG. 具有反馈回路\nH. 在陆地上移动",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量磅？\n\nA. 动物\nB. 七鳃鳗\nC. 一个鼠标\nD. 一把尺子\nE. 人类\nF. 测量员\nG. 一个尺度\nH. 显微镜",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秤能测量什么？\n\nA. 方面\nB. 温度\nC. 震级\nD. 英镑\nE. 时间\nF. SI 单位\nG. 强度\nH. 英寸",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用于测量的尺度是什么？\n\nA. 莫氏\nB. 克\nC. 表面\nD. 英里/小时\nE. 胖的\nF. 高度\nG. 速度\nH. 波浪",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秤可以测量什么的力量？\n\nA. 玉簪属植物\nB. 腹足类\nC. 距离\nD. 将要\nE. 人类\nF. 重力\nG. 子宫颈\nH. 平衡",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西可以计量公斤？\n\nA. 一个尺度\nB. 一把尺子\nC. 分数\nD. 七鳃鳗\nE. aa 渐变\nF. 动物\nG. 人类\nH. 望远镜",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用于测量的尺度是什么？\n\nA. 波浪\nB. 硬度\nC. SI 单位\nD. 措施\nE. 强度\nF. 胖的\nG. 力量\nH. 英镑",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量时使用什么尺度？\n\nA. 英寸\nB. 克\nC. 波浪\nD. 摇晃\nE. 胖的\nF. 尺寸\nG. 速度\nH. 特征",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "身体呈锥形的类似鱼类的小动物的幼崽如何游动？\n\nA. 他们的年轻人\nB. 飞行\nC. 步行\nD. 水\nE. 自由泳\nF. 软骨细胞\nG. 风化\nH. 灵活的",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "文昌鱼幼虫生活在哪里？\n\nA. 玉簪属植物\nB. 水\nC. 橡树\nD. 天气\nE. 花朵\nF. 沉淀\nG. 字段\nH. 云",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "身体呈锥形的类似鱼类的小型动物如何游动？\n\nA. 自由泳\nB. 在陆地上移动\nC. 受太阳加热\nD. 运输\nE. 飞行\nF. 鳃\nG. 步行\nH. 黑色素含量",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "需要怎样做才能让文昌鱼卵自己在水中航行呢？\n\nA. 受精\nB. 秒和分\nC. 关键元素\nD. 动作速度\nE. 安全操作\nF. 已校准\nG. 能见度\nH. 保护",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "男孩什么时候性成熟？\n\nA. 死亡\nB. 冬天\nC. 树木和鲜花\nD. 40岁\nE. 5岁\nF. 腔肠动物\nG. 12岁\nH. 天气",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "梦遗是\n\nA. 暴风雨天气\nB. 肿胀淋巴结\nC. 当地天气情况\nD. 发生在很广泛的范围内\nE. 补水不足\nF. 无法控制的燃烧\nG. 性成熟\nH. 黑色素含量",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人类何时性成熟？\n\nA. 在陆地上移动\nB. 青春期\nC. 死亡\nD. 精子\nE. 软骨细胞\nF. 真核细胞\nG. 绝经\nH. 腔肠动物",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "_ 通常在人类性成熟时结束。\n\nA. 冬天\nB. 细胞分裂\nC. 怀孕\nD. 生长\nE. 教育\nF. 鞭毛\nG. 发烧\nH. 22个月",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人类性成熟期间会发生什么？\n\nA. 腔肠动物\nB. 衰老发生\nC. 移动\nD. 乳房发育\nE. 增长结束\nF. 肿胀淋巴结\nG. 几个基因\nH. 气体在空气中扩散",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当人类性成熟时会发生什么？\n\nA. 腔肠动物\nB. 沟通\nC. 改变生态系统\nD. 动作速度\nE. 皮肤出现皱纹\nF. 乳房发育\nG. 心脏停止跳动\nH. 移动",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "自婴儿期以来，青少年何时营养需求最高？\n\nA. 孕育后代\nB. 发生在很广泛的范围内\nC. 它增加了\nD. 它是通过基因遗传的\nE. 性成熟前\nF. 70-75 华氏度\nG. 真皮和血管组织\nH. 两组或多组等位基因",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图可用于显示\n\nA. 抗原\nB. 分类学\nC. 分数\nD. 几个基因\nE. 公式\nF. 碎片\nG. 化学品\nH. 光",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪个是圆形图？\n\nA. 条状图\nB. 饼形图\nC. 节点\nD. 非常复杂\nE. 桌子\nF. 他们的速度\nG. 专门\nH. 點編號",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来显示小数？\n\nA. 加热\nB. 表达\nC. 分类学\nD. 反馈机制\nE. 作为基础\nF. 具有反馈回路\nG. 七鳃鳗\nH. 圆形图",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图可以显示什么样的数值？\n\nA. 线图\nB. 一些\nC. 作为基础\nD. 数据值\nE. 条形图\nF. 散点图\nG. 黑色素量\nH. 七鳃鳗",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来显示数据\n\nA. 地震\nB. 分化\nC. 季节性\nD. 艺术品\nE. 百分比\nF. 视窗\nG. 分类学\nH. 雕像",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "饼图可以用来显示什么？\n\nA. 百分比\nB. 分类学\nC. 电影胶片\nD. 抗原\nE. 系统发生\nF. 维恩图\nG. 一些\nH. 化学",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图显示什么？\n\nA. 骨干\nB. 295 开尔文\nC. 发生在很广泛的范围内\nD. 未消毒的表面\nE. 小数\nF. 70-75 华氏度\nG. 无理数\nH. 不可测量的单位",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图可以用来显示什么？\n\nA. 正方形\nB. 小数\nC. 树木和鲜花\nD. 295 开尔文\nE. 氧\nF. 发生快速变化\nG. 化学品\nH. 70-75 华氏度",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是图表类型？\n\nA. 脱氧核糖核酸\nB. 酒吧\nC. 正方形\nD. 伪造的\nE. 核糖核酸\nF. 不均匀的\nG. 色调\nH. 中央处理器",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来显示黑人、亚洲人和拉丁裔居民的数量\n\nA. 绘画\nB. 分类\nC. 作为基础\nD. 温度计\nE. 它增加了\nF. 快速增长\nG. 圆形图\nH. 歌曲",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图可以用来显示什么？\n\nA. 移动板块\nB. 形状\nC. 关系\nD. 化学品\nE. 尺寸\nF. 颜色\nG. 分数\nH. 几个基因",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图可以用来显示什么？\n\nA. 主要影响\nB. 抗原\nC. 作为基础\nD. 光\nE. 分数\nF. 云\nG. 水\nH. 几个基因",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以用来显示百分数？\n\nA. 尺寸变化\nB. 抗原\nC. 圆形图\nD. 看不见的图表\nE. 没有什么\nF. 表面和柜台\nG. 黑色素量\nH. 录音",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "圆形图可以用来做什么？\n\nA. 说明因果关系\nB. 体内平衡\nC. 安全操作\nD. 反馈\nE. 反馈机制\nF. 安全驾驶\nG. 显示模式\nH. 显示百分比",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来确定方向？\n\nA. 化学信使\nB. 速度表\nC. 温度计\nD. 气压\nE. 树木和鲜花\nF. 磁场\nG. 七鳃鳗\nH. 反馈机制",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "磁铁可以用来做什么？\n\nA. 捕获猎物\nB. 在陆地上移动\nC. 反馈机制\nD. 摧毁磁铁\nE. 复制\nF. 帮助其他物种受益\nG. 导演一出戏\nH. 确定方向",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "导航用什么？\n\nA. 海洋\nB. 飞机\nC. 耳声学\nD. 晴雨表\nE. 北极\nF. 指南针\nG. 地震仪\nH. 船只",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "罗盘上有多少个方位？\n\nA. 酒吧\nB. 17\nC. 16\nD. 中央处理器\nE. 红色的\nF. 核糖核酸\nG. 100\nH. 是的",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "导航是用来做什么的？\n\nA. 预测天气\nB. 沟通\nC. 声音传播的速度\nD. 在陆地上\nE. 当地天气情况\nF. 确定方向\nG. 帮助其他物种受益\nH. 停车",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家用什么来完成他们的工作？\n\nA. 骨干力量\nB. 自然大气成分\nC. 灵媒的建议\nD. 营养液\nE. 未消毒的表面\nF. 卫星技术\nG. 氧气的一种形式\nH. 通过分析天体活动",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家使用什么？\n\nA. 更高的紫外线辐射\nB. x 射线\nC. 骨干力量\nD. 股市\nE. 发生在很广泛的范围内\nF. 卫星技术\nG. 拖拉机\nH. 营养液",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么人可能会使用卫星技术？\n\nA. 智力\nB. 具有反馈回路\nC. 听到\nD. 坚强的后盾\nE. 发生快速变化\nF. 它们如何移动\nG. 制片人\nH. 气象学家",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家使用什么？\n\nA. 地图集\nB. 反馈机制\nC. 更高的紫外线辐射\nD. 剑\nE. 卫星技术\nF. 发生在很广泛的范围内\nG. 刀具\nH. 骨干力量",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家使用什么？\n\nA. 小行星\nB. 光谱学\nC. 反馈机制\nD. 70-75 华氏度\nE. 卫星技术\nF. 色谱法\nG. 发生在很广泛的范围内\nH. 化学信使",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卫星技术用来预测什么？\n\nA. 气候\nB. 氧\nC. 风雨无阻\nD. 手机\nE. 全球暖化\nF. 地震\nG. 环境\nH. 到太阳的距离",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "卫星技术用来预测什么？\n\nA. 秒和分\nB. 地震的强度和震级\nC. 每天外面是什么样子\nD. 70-75 华氏度\nE. 发生快速变化\nF. 死胡同和错误的开始。\nG. 雪、冰和岩石\nH. 约 5 至 27 摄氏度",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气象学家用什么来探测龙卷风？\n\nA. 耳声学\nB. 沉淀\nC. 化学品\nD. 抗原\nE. 卫星\nF. 雷雨\nG. 声音\nH. 骨干",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量作用于单位面积的力？\n\nA. 天气\nB. 荷尔蒙\nC. 英寸\nD. 指南针\nE. 钾\nF. 温度计\nG. 气压计\nH. 一把尺子",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气压计测量什么？\n\nA. 空气温度\nB. 空气的重量\nC. 风速\nD. 速度差异\nE. 营养液\nF. 体内平衡\nG. 295 开尔文\nH. 气温升高",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "指示气压的工具是什么？\n\nA. 雨量计\nB. 振动\nC. 地震仪\nD. 七鳃鳗\nE. 晴雨表\nF. 耳声学\nG. 温度计\nH. 天气",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气压计测定什么？\n\nA. 295 开尔文\nB. 沉淀\nC. 液体压力\nD. 能见度\nE. 水压力\nF. 黑色素含量\nG. 黑色素量\nH. 空气的重量",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气压计可以测量什么？\n\nA. 沉淀\nB. 气温升高\nC. 295 开尔文\nD. 马匹\nE. 指南针\nF. 70-75 华氏度\nG. 营养液\nH. 空气的重量",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量单位面积上空气的力量？\n\nA. 它增加了\nB. 天气\nC. 摩擦\nD. 摩托车\nE. 脊椎动物\nF. 车速表\nG. 晴雨表\nH. 手表",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气压计用于测量空气的什么方面？\n\nA. 气孔\nB. 重量\nC. 摩擦\nD. 震级\nE. 球场\nF. 体液\nG. 湿度\nH. 距离",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么类型的水银用于测量气压？\n\nA. 天气\nB. 七鳃鳗\nC. 管状器官\nD. O型\nE. 耳声学\nF. 相同\nG. 元素\nH. 海洋",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "气压计用于测量什么？\n\nA. 295 开尔文\nB. 雪、冰和岩石\nC. 能见度\nD. 雨量\nE. 安全操作\nF. 雨天\nG. 气候\nH. 空气的重量",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "安全护目镜可以防护什么？\n\nA. 坏天气\nB. 白喉\nC. 死亡\nD. 空气污染\nE. 雷暴\nF. 主要影响\nG. 刺激物\nH. 破坏",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验时护目镜用来保护什么？\n\nA. 触须\nB. 八\nC. 天气\nD. 七鳃鳗\nE. 视网膜\nF. 水\nG. 手\nH. 烧杯",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验时用什么来保护眼睛？\n\nA. 镁\nB. 化学品\nC. 触须\nD. O型\nE. 劳力士\nF. 塑料\nG. 水\nH. 风",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验过程中什么会损害眼睛？\n\nA. 危险\nB. 酸\nC. 加热\nD. 空气\nE. 凉水\nF. 海绵\nG. 噪音\nH. 温水",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "安全护目镜有何用途？\n\nA. 停车\nB. 运送人类\nC. 保护实验室里的眼睛\nD. 安全驾驶\nE. 保护实验室里的脚\nF. 保护实验室里的武器\nG. 在实验室中保护头发\nH. 运输",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在实验过程中，建议使用哪种侧护罩来保护眼睛？\n\nA. 墙壁\nB. 触须\nC. 一些\nD. 帽子\nE. 七鳃鳗\nF. 已校准\nG. 眼镜\nH. 障碍",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验在_中进行。\n\nA. 实验室\nB. 牙釉质\nC. 生态系统\nD. 治疗\nE. 卫生间\nF. 一些\nG. 健身房\nH. 海洋",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验时用什么来保护眼睛？\n\nA. 安全操作\nB. 安全词\nC. 保护口袋\nD. 专门\nE. 防护装备\nF. 接触氧气和水\nG. 黑色素量\nH. 眼贴",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "在实验过程中用什么可以保护眼睛安全？\n\nA. 呼吸器\nB. 抗体\nC. 角蛋白\nD. 隐形眼镜\nE. 风镜\nF. 氧\nG. 安全手套\nH. 化学品",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "做实验时戴什么样的护目镜可以保护感觉器官？\n\nA. 破碎的\nB. 眼睛\nC. 无透镜\nD. 假想\nE. 莫氏\nF. 触须\nG. 安全\nH. 皮肤",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验室里经常需要做哪些练习？\n\nA. 健康午餐\nB. 接触氧气和水\nC. 受精\nD. 骨骼大量生长\nE. 巴氏灭菌\nF. 保护眼睛\nG. 引起过敏的抗原\nH. 血液过滤程序",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "安全护目镜用于保护眼睛免受哪些伤害？\n\nA. 眼泪\nB. 极端温度\nC. 70-75 华氏度\nD. 粘稠的黏液\nE. 危险的东西\nF. 有用的东西\nG. 森林火灾\nH. 闪烁",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验时用什么来保护眼睛？\n\nA. 太阳镜\nB. 眼镜\nC. 护目镜\nD. 七鳃鳗\nE. 安全操作\nF. 没有什么\nG. 专门\nH. 化学品",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "实验时用什么来保护瞳孔？\n\nA. 专门\nB. 安全手套\nC. 护目镜\nD. 安全操作\nE. 七鳃鳗\nF. 化学品\nG. 化学信使\nH. 安全服",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "护目镜有何用途？\n\nA. 体内平衡\nB. 医疗原因\nC. 沟通\nD. 保护\nE. 治疗\nF. 冬天\nG. 可以听到\nH. 安全驾驶",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种动物是水生无脊椎动物？\n\nA. 小丑鱼\nB. 昆虫\nC. 海蜇\nD. 四角龙\nE. 鲨鱼\nF. 兽孔类\nG. 盘龙类\nH. 天气",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪一类动物包括水母和珊瑚？\n\nA. 海葵\nB. 植物\nC. 触须\nD. 珊瑚\nE. 腔肠动物\nF. 海绵\nG. 保持营养物质\nH. 原核细胞",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水母和珊瑚没有什么？\n\nA. 水下生活\nB. 移动\nC. 鞭毛或细小毛发\nD. 身体\nE. 成年前的最后阶段\nF. 引起过敏的抗原\nG. 脊椎\nH. 核膜",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么没有脊椎？\n\nA. 人类\nB. 脊柱\nC. 被子植物\nD. 希拉毒蜥\nE. 刺胞动物\nF. 鱼\nG. 野生犬科动物\nH. 大肠菌群",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么具有静水骨架？\n\nA. 原核生物\nB. 花朵\nC. 昆虫\nD. 人类\nE. 被子植物\nF. 海蜇\nG. 奶牛\nH. 细胞",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "有哪些主要生活在海洋中的放射状触手动物？\n\nA. 水母和珊瑚\nB. 海葵\nC. 一些珊瑚虫\nD. 单细胞生物\nE. 动物\nF. 对称\nG. 珊瑚的近亲\nH. 数量少得多",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是水母？\n\nA. 原生动物\nB. 天气\nC. 穴居动物\nD. 山地居民\nE. 钟虫\nF. 水\nG. 七鳃鳗\nH. 地面",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水母和珊瑚等刺胞动物没有什么？\n\nA. 玉簪属植物\nB. 骨干\nC. 之间的空间\nD. 海洋栖息地\nE. 鞭毛\nF. 海葵\nG. 细胞\nH. 软骨",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "水母和珊瑚等无脊椎动物是什么？\n\nA. 门\nB. 原核细胞\nC. 保持营养物质\nD. 被子植物\nE. 鱼\nF. 属\nG. 腔肠动物\nH. 灵活的",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "无脊椎动物的例子是\n\nA. 保持营养物质\nB. 微观血管。\nC. 海葵和珊瑚\nD. 原核细胞\nE. 大西洋组织\nF. 可以是有机的\nG. 一些珊瑚虫\nH. 引起过敏的抗原",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当风速计显示读数超过 73 英里/小时时，发生了什么\n\nA. 雨量\nB. 一场暴雨\nC. 它增加了\nD. 沉淀\nE. 冬天\nF. 低压\nG. 干旱\nH. 飓风",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "风速计测量什么？\n\nA. 寒冷的\nB. 英寸\nC. 重量\nD. 雨\nE. 风暴\nF. 风\nG. 水\nH. 波浪",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "风速计用于评估什么造成的损害？\n\nA. 火灾\nB. 冰雹\nC. 飞机\nD. 风\nE. 冬天\nF. 车\nG. 雪\nH. 雨",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量飓风？\n\nA. 分类学\nB. 它们如何移动\nC. 七鳃鳗\nD. 龙卷风\nE. 雨量\nF. 动物\nG. 风速计\nH. 海洋",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "风力可以用来测量它的什么\n\nA. 摇晃\nB. 速度\nC. 英寸\nD. 球场\nE. 湿度\nF. 酒吧\nG. 重量\nH. 降雨概率",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量飓风？\n\nA. 风速计\nB. 黑色素量\nC. 黑色素含量\nD. 七鳃鳗\nE. 量筒\nF. 卷尺\nG. 沉淀\nH. 统治者",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "测量风的装置放在哪里？\n\nA. 在车站顶部\nB. 在陆地上\nC. 当地天气情况\nD. 水下\nE. 在树里面\nF. 指向北方\nG. 车站内\nH. 当它穿过一个大陆时",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪种工具可用于确定飓风类型？\n\nA. 七鳃鳗\nB. 风速计\nC. 黑色素含量\nD. 化学信使\nE. 分类\nF. 预测天气\nG. 分类学\nH. 黑色素量",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地球上最多样化和最丰富的生命形式是什么？\n\nA. 海绵\nB. 海蜇\nC. 细菌\nD. 海葵\nE. 氢\nF. 草履虫\nG. 树木\nH. 水",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "细菌是最多样化和最丰富的生物群体吗？\n\nA. 我们的星球\nB. 太阳\nC. 海绵\nD. 鞭毛\nE. 玉簪属植物\nF. 太平洋\nG. 外太空\nH. h2o分子",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是细菌？\n\nA. 生物体的构成要素\nB. 相关生物\nC. 单细胞微生物\nD. 发生在很广泛的范围内\nE. 引起过敏的抗原\nF. 最小生物群\nG. 最相似组\nH. 最具多样性的生物群体",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地球上最多样化和最丰富的生物群体是什么？\n\nA. 生态系统\nB. 海蜇\nC. 保持营养物质\nD. 核糖核酸\nE. 腔肠动物\nF. 原核细胞\nG. 蛛形纲\nH. 被子植物",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "寄居蟹生活在死的什么壳里？\n\nA. 海绵\nB. 盔甲\nC. 化石\nD. 乌龟\nE. 蜗牛\nF. 玉簪属植物\nG. 甲壳\nH. 原生动物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "一些清道夫用死蜗牛做什么？\n\nA. 食物\nB. 贝壳\nC. 组织\nD. 生物质\nE. 骨干\nF. 海绵\nG. 身体\nH. 蛞蝓",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "寄居蟹吃谁的壳？\n\nA. 龟类\nB. 多孔动物门\nC. 海蜇\nD. 珊瑚\nE. 草履虫\nF. 蛛形纲\nG. 腹足类\nH. 海绵",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "螃蟹吃死蜗牛壳是为了什么？\n\nA. 核糖核酸\nB. 家\nC. 打洞\nD. 损害\nE. 玉簪属植物\nF. 蛋白质\nG. 事情\nH. 筑巢",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "寄居蟹用什么作为家？\n\nA. 蜗牛\nB. 组织\nC. 化石\nD. 海绵\nE. 多孔动物门\nF. 食物\nG. 礁石\nH. 玉簪属植物",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么是不寻常的家？\n\nA. 树木和鲜花\nB. 未消毒的表面\nC. 胰岛\nD. 70-75 华氏度\nE. 受太阳加热\nF. 尺寸变化\nG. 有脊椎的动物\nH. 死蜗牛壳",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "寄居蟹是食腐动物吗？\n\nA. 他们的年轻人\nB. 抗原\nC. 捕获猎物\nD. 雄配子\nE. 死蜗牛\nF. 它们如何移动\nG. 营养液\nH. 环境",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "有些气溶胶可以通过阻断\n\nA. 云\nB. 热\nC. 事情\nD. 风\nE. 雨量\nF. 能见度\nG. 太阳\nH. 压力",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西遮住了太阳？\n\nA. 地震\nB. 雪、冰和岩石\nC. 卫星\nD. 珊瑚和藻类\nE. 卡车和汽车\nF. 喷发产物\nG. 蒲公英\nH. 水",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大气中的什么东西会增加遮挡太阳的云量？\n\nA. 负面反馈\nB. 风\nC. 垃圾\nD. 火山灰\nE. 黑色素含量\nF. 黑色素量\nG. 氧化剂\nH. 树木和鲜花",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "为什么空气中充满火山灰时气温会变冷？\n\nA. 旅行速度\nB. 具有反馈回路\nC. 它是通过基因遗传的\nD. 负面反馈\nE. 它遮挡了阳光\nF. 火山很冷\nG. 下雨\nH. 它有助于阳光照射",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大气中的细小尘埃颗粒通过阻挡什么来降低温度？\n\nA. 雨\nB. 云\nC. 危险\nD. 能见度\nE. 风\nF. 雨量\nG. 太阳\nH. 月亮",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地球周围空气中的火山灰如何降低温度？\n\nA. 温和加热工艺\nB. 遮挡阳光\nC. 放大光线\nD. 受太阳加热\nE. 摩擦\nF. 雪融化后\nG. 离开大气层\nH. 在空气中凝固",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大气中的火山灰会对自然生态系统造成什么影响？\n\nA. 创造财富\nB. 负面反馈\nC. 发生快速变化\nD. 主要影响\nE. 侵蚀\nF. 没有效果\nG. 森林火灾\nH. 启动引擎",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西遮挡了太阳就会降低温度？\n\nA. 纤毛\nB. 太阳\nC. 风\nD. 阴霾\nE. 冰\nF. 胖的\nG. 雨\nH. 酸",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "大气层中的飞机面临哪些特殊问题？\n\nA. 运输\nB. 堵塞气道\nC. 湿度极低\nD. 火山云\nE. 反馈机制\nF. 负面反馈\nG. 气体在空气中扩散\nH. 非常复杂",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "下列哪项可以降低地球的温度？\n\nA. 飞行卫星\nB. 反馈机制\nC. 卡车和汽车\nD. 里氏震级\nE. 锥状火山\nF. 非常复杂\nG. 镁\nH. 移动板块",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么东西可以遮挡阳光？\n\nA. 氧化铁\nB. 火山\nC. 宇宙飞船\nD. 七鳃鳗\nE. 玉簪属植物\nF. 卫星\nG. 四角龙\nH. 黑寡妇",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "黑沙能对太阳做什么？\n\nA. 保护\nB. 加热\nC. 破坏\nD. 挽救生命\nE. 伤害他们\nF. 破坏\nG. 阻挡\nH. 危险",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "火山喷发产生的大气中的细小尘埃颗粒如何降低温度？\n\nA. 发生在很广泛的范围内\nB. 急剧地\nC. 已校准\nD. 遮挡阳光\nE. 它们如何移动\nF. 未消毒的表面\nG. 氧气扩散到空气中\nH. 反馈机制",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以检测断层运动？\n\nA. 地震仪\nB. 神经元\nC. 晴雨表\nD. 海蜇\nE. 专门\nF. 温度计\nG. 声音振动\nH. 量筒",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量地震的哪方面？\n\nA. 主要影响\nB. 震级\nC. 耳声学\nD. 力量\nE. 分类\nF. 专门\nG. 寿命\nH. 他们的速度",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量什么？\n\nA. 等离子体和有形成分\nB. 约 5 至 27 摄氏度\nC. 里氏震级\nD. 降雪量\nE. 海啸\nF. 发生在很广泛的范围内\nG. 主要影响\nH. 脊椎",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪用于测量事故造成的损害有多大？\n\nA. 冰雹\nB. 颜色\nC. 形状\nD. 气孔\nE. 尺寸\nF. 死亡\nG. 景点\nH. 家",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪可以预防什么？\n\nA. 风暴\nB. 噪音\nC. 知识\nD. 损害\nE. 安全\nF. 饥荒\nG. 电击\nH. 火灾",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪是用来测量什么的？\n\nA. 速度差异\nB. 飓风速度\nC. 发生在很广泛的范围内\nD. 主要影响\nE. 喷发产物\nF. 里氏震级\nG. 70-75 华氏度\nH. 脊椎",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以测量震动的规模？\n\nA. 荷尔蒙\nB. 卷尺\nC. 统治者\nD. 板块构造\nE. 量筒\nF. 七鳃鳗\nG. 地震仪\nH. 黑色素量",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "地震仪测量到什么会造成实际损害？\n\nA. 天气\nB. 风\nC. 气孔\nD. 波浪\nE. 洞\nF. 莫氏\nG. 骨\nH. 侵蚀",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当海绵吸收浮游生物食物时，它的特化细胞会做什么？\n\nA. 开始消化\nB. 运输\nC. 捕获猎物\nD. 复制品\nE. 制片人\nF. 挽救生命\nG. 模具\nH. 发生在很广泛的范围内",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵用什么来收集和消化食物？\n\nA. 胃胀\nB. 非细菌原核生物\nC. 特化细胞\nD. 保持营养物质\nE. 真皮和血管组织\nF. 专门的肢体\nG. 大嘴巴\nH. 单细胞生物",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么具有与海绵相似的细胞类型？\n\nA. 一些原核生物\nB. 海葵\nC. 衬衫细胞\nD. 一些珊瑚虫\nE. 玉簪属植物\nF. 大肠菌群\nG. 腔肠动物\nH. 领细胞",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵细胞的哪个方面使其能够收集食物？\n\nA. 子宫颈\nB. 牙齿\nC. 鞭毛\nD. 软骨\nE. 等离子体\nF. 小孔\nG. 组织\nH. 钾",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵是不对称的，有哪些？\n\nA. 圆润的山峰\nB. 组织\nC. 黑色素含量\nD. 原核细胞\nE. 一些\nF. 腔肠动物\nG. 移动板块\nH. 领细胞",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "海绵有专门的工作马，可以向海绵中持续不断地输送什么？\n\nA. 细胞\nB. 粘液\nC. 氧\nD. 淋巴\nE. 水\nF. 精子\nG. 组织\nH. 血",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人们生病的时候用什么来治病？\n\nA. 细胞\nB. 草药\nC. 毒\nD. 俯卧撑\nE. 海绵\nF. 细菌\nG. 钙\nH. 苹果",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当人们生病的时候什么能治好呢？\n\nA. 食物\nB. 核糖核酸\nC. 药物\nD. 脱氧核糖核酸\nE. 脱水\nF. 毒\nG. 胰岛素\nH. 病毒",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "适当使用什么对患者有益？\n\nA. 胰岛素\nB. 延迟预防\nC. 缺乏保险\nD. 人员短缺\nE. 黑色素含量\nF. 维生素D\nG. 药物\nH. 蛋白质",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "把药丸整个吞下去是用来治什么病的？\n\nA. 健康\nB. 生病的\nC. O型\nD. 不安全\nE. 死亡\nF. 危险\nG. 安全的\nH. 人们",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "当人们生病时，医生通常会给他们开什么药？\n\nA. 淋巴液\nB. 假肢\nC. 抗体\nD. 蠕动\nE. 棒棒糖\nF. 雄配子\nG. 抗原\nH. 处方",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来让人变得更好？\n\nA. 基因\nB. 细胞\nC. 药品\nD. 荷尔蒙\nE. 维生素D\nF. 氧\nG. 反馈\nH. 血",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "生病的孩子需要什么？\n\nA. 家\nB. 细菌\nC. 岩浆\nD. 人们\nE. 土壤\nF. 肝\nG. 光\nH. 食物",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "许多什么物质对生病的人是有效的治疗方法\n\nA. 气体\nB. 淋巴\nC. 甜的\nD. 植物\nE. 食物\nF. 动物\nG. 海洋\nH. 花蜜",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "宝宝生病了用药怎么办？\n\nA. 抗生素\nB. 杀死他们\nC. 已消毒\nD. 伤害他们\nE. 毒害他们\nF. 巴氏灭菌\nG. 一些药物\nH. 治愈它们",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "抗生素可以治疗哪些病？\n\nA. 遗传抗原+抗体\nB. 发生在很广泛的范围内\nC. 麻疹\nD. 细菌感染\nE. 非细菌原核生物\nF. 具有感染力的笑声\nG. 原核细胞\nH. 淋巴细胞",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "药物可以治愈人类，当\n\nA. 成人\nB. 健康\nC. 合身\nD. O型\nE. 疲劳的\nF. 蠕虫\nG. 生病的\nH. 不安全",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "人们生病的时候用什么来治病？\n\nA. 布洛芬\nB. 酶\nC. 病毒\nD. 专门\nE. 毒\nF. 淋巴液\nG. 漂白\nH. 蒲公英",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "药物可以预防什么？\n\nA. 财富\nB. 阳光\nC. 出生\nD. 多动症\nE. 死亡\nF. 自然灾害\nG. 阴霾\nH. 危险",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以在手指末端形成保护板来防止受伤？\n\nA. 软骨\nB. 角蛋白\nC. 七鳃鳗\nD. 保护\nE. 骨\nF. 骨折\nG. 风化\nH. 水蒸气",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "通过形成保护板来防止受伤的东西是由什么制成的？\n\nA. 头发\nB. 蛋白质\nC. 皮肤\nD. 矿物\nE. 岩石\nF. 氧化铁\nG. 一种金属\nH. 角蛋白",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手指末端形成什么可以防止受伤？\n\nA. 组织\nB. 角蛋白\nC. 毛发\nD. 针\nE. 贝壳\nF. 骨\nG. 软骨\nH. 细小的毛发",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "谁能通过在手指末端形成保护板来防止受伤？\n\nA. 七鳃鳗\nB. 角蛋白\nC. 软骨\nD. 蝴蝶\nE. 蚂蚁\nF. 人们\nG. 神经元\nH. 蛇",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手指末端的保护板应具备哪些品质？\n\nA. 光滑且形状优美\nB. 形成\nC. 遗传抗原+抗体\nD. 关键元素\nE. 70-75 华氏度\nF. 反馈机制\nG. 约 5 至 27 摄氏度\nH. 流体结缔组织",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "什么可以在手指末端形成保护板来防止受伤？\n\nA. 骨\nB. 钟虫\nC. 角蛋白\nD. 保护\nE. 七鳃鳗\nF. 软骨\nG. 皮肤\nH. 水",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "通过在手指末端形成保护板来防止受伤。\n\nA. 血\nB. 骨\nC. 软骨\nD. 七鳃鳗\nE. 治疗\nF. 角蛋白\nG. 头盔\nH. 多孔动物门",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手指末端随着年龄增长而变得更脆弱的原因是什么？\n\nA. 细小的毛发\nB. 数量少得多\nC. 保护板\nD. 主要影响\nE. 它是通过基因遗传的\nF. 保护\nG. 尺寸变化\nH. 几个基因",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "手指末端的保护板是由什么制成的？\n\nA. 角蛋白\nB. 组织\nC. 一种金属\nD. 骨\nE. 氧化铁\nF. 细小的毛发\nG. 抗原\nH. 软骨",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秒表用于测量什么？\n\nA. 太平洋\nB. 百分比\nC. 速度\nD. 距离\nE. 秒\nF. 力量\nG. 振动\nH. 分数",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量分钟？\n\nA. 光\nB. 晴雨表\nC. 跑表\nD. 天气\nE. 温度计\nF. 七鳃鳗\nG. 反馈\nH. 声音",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秒表测量什么？\n\nA. 秒和分\nB. 电压\nC. 体积\nD. 温度\nE. 当地天气情况\nF. 发生在很广泛的范围内\nG. 发生快速变化\nH. 成年前的最后阶段",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秒表测量什么？\n\nA. 百分比\nB. 反馈\nC. 秒\nD. 作为基础\nE. 到达时间\nF. 天\nG. 个月\nH. 分数",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来测量秒？\n\nA. 声音振动\nB. 一种金属\nC. 米尺\nD. 量筒\nE. 他们的速度\nF. 玉簪属植物\nG. 秒表\nH. 振动",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用什么来计时？\n\nA. 罗盘\nB. 雨量计\nC. 胰岛素\nD. 日志\nE. 一个尺度\nF. 手表\nG. 中央处理器\nH. 晴雨表",
+        "output": "F"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秒表是用来测量什么的？\n\nA. 百分比\nB. 英寸\nC. 分数\nD. 冬天\nE. 水\nF. 黄铜\nG. 大量的\nH. 秒",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "秒表有何用途？\n\nA. 准时\nB. 安全操作\nC. 做梦\nD. 安全驾驶\nE. 什一税\nF. 人类\nG. 作为基础\nH. 破坏",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "用人工肾净化血液你在治疗什么？\n\nA. 单细胞生物\nB. 癌症\nC. 大肠菌群\nD. 肾功能衰竭\nE. 肾脏生长\nF. 细菌感染\nG. 巴氏灭菌\nH. 挽救生命",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肾衰竭可以用清理的方式治疗吗？\n\nA. 心\nB. 皮肤\nC. 组织\nD. 厨房\nE. 血\nF. 痰\nG. 细胞\nH. 体液",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些疾病可以通过过滤血液的程序来治疗？\n\nA. 黑色素含量\nB. 细菌感染\nC. 车祸\nD. 灰尘\nE. 挽救生命\nF. 头痛\nG. 轻微擦伤\nH. 肾功能衰竭",
+        "output": "H"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "透析用于治疗什么？\n\nA. 大肠菌群\nB. 原核细胞\nC. 透析\nD. 失血\nE. 白喉\nF. 挽救生命\nG. 肾衰竭\nH. 肾脏切除",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "哪些疾病可以通过过滤血液的程序来治疗？\n\nA. 挽救生命\nB. 车祸\nC. 肾功能衰竭\nD. 头痛\nE. 黑色素含量\nF. 疱疹\nG. 单细胞生物\nH. 胃肠炎",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "透析可以清洁哪些体液？\n\nA. 淋巴\nB. 液体\nC. 组织\nD. 生活\nE. 唾液\nF. 肾\nG. 血\nH. 体液",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肾衰竭该如何治疗？\n\nA. 安全操作\nB. 肝衰竭\nC. 水\nD. 血液过滤程序\nE. 由软骨细胞组成的组织\nF. 巴氏灭菌\nG. 接触氧气和水\nH. 吸干所有血液",
+        "output": "D"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "使用人工肾净化血液可以帮助治疗哪些疾病？\n\nA. 肾功能衰竭\nB. 预防受伤\nC. 巴氏灭菌\nD. 已校准\nE. 细菌感染\nF. 治愈它们\nG. 安全操作\nH. 挽救生命",
+        "output": "A"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肾衰竭可以通过清洁的机械过程来治疗吗？\n\nA. 淋巴\nB. 血\nC. 细胞\nD. 体液\nE. 表面\nF. 损害\nG. 骨\nH. 液体",
+        "output": "B"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "透析可以治疗什么疾病？\n\nA. 胰腺\nB. 淋巴液\nC. 非细菌原核生物\nD. 细菌感染\nE. 挽救生命\nF. 单细胞生物\nG. 糖尿病的影响之一\nH. 引起过敏的抗原",
+        "output": "G"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "需要透析时不进行会有什么后果？\n\nA. 多动症\nB. 一些\nC. 死亡\nD. 不安全\nE. 大肠杆菌\nF. 重量\nG. O型\nH. 寒冷的",
+        "output": "C"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肾衰竭可以用哪种肾脏净化血液来治疗？\n\nA. 挽救生命\nB. 酶\nC. 触须\nD. 矿物\nE. 人造的\nF. 淋巴细胞\nG. 治愈它们\nH. 玉簪属植物",
+        "output": "E"
+    },
+    {
+        "instruction": "Please choose the correct option of answer.",
+        "input": "肾衰竭可以用什么来治疗？\n\nA. 实验室\nB. 淋巴细胞\nC. 挽救生命\nD. 透析\nE. 淋巴液\nF. 蒲公英\nG. 布洛芬\nH. 蛋白质",
+        "output": "D"
+    }
+]

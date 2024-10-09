@@ -1,0 +1,1332 @@
+[
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Se tutti i partecipanti trovassero un totale di 40 uova nella club house, 25 uova nel parco e 15 uova nel municipio, quante uova di Pasqua sono state trovate quel giorno?",
+        "output": "80"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La classe di Penny andrà ad Animaland, il più grande zoo del mondo, per la gita scientifica. Lo zoo ospita una varietà di animali selvatici in cattività. La loro prima destinazione era la voliera. La voliera ha 3 specie di aquile in mostra quel giorno. Hanno 20 aquile calve, 15 aquile arpie e 30 aquile coronate. Quante aquile sono in mostra quel giorno?",
+        "output": "65"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dopo la voliera c&#39;era l&#39;area paludosa dello zoo. Penny ha contato un totale di 55 raganelle, 10 rane velenose e 13 rane selvatiche. Quante rane è riuscita a contare Penny?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Oltre alle rane, l&#39;area paludosa ospita anche alcuni animali pericolosi. L&#39;insegnante di Penny ha indicato 22 coccodrilli, 23 alligatori e 5 vipere. Quanti animali pericolosi ha indicato in totale l&#39;insegnante?",
+        "output": "50"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Successivamente nel loro itinerario c&#39;era l&#39;insettario, che ospita centinaia di specie di insetti. Penny, a cui piacciono le farfalle e le formiche, ha scattato foto delle diverse specie. È riuscita a catturare 60 specie di farfalle, 15 specie di formiche e 20 specie di altri insetti. Quante specie di insetti ha catturato Penny?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "L&#39;ultima tappa della loro gita è stata l&#39;acquario. Penny ha identificato 35 specie di squali, 15 specie di anguille e 5 diverse specie di balene. Quante specie Penny è riuscita a identificare?",
+        "output": "55"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sofia, presidente dell&#39;organizzazione studentesca della scuola, ha tenuto un incontro per parlare del cibo servito nella mensa scolastica. La prima cosa da fare è discutere se agli studenti piace il cibo servito a scuola. Se 383 studenti hanno detto che gli piace il cibo e 431 studenti hanno detto di no, quanti studenti hanno partecipato alla discussione?",
+        "output": "814"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dopo aver concordato che il menu della scuola doveva essere modificato, hanno votato per i suggerimenti alimentari. Se 337 hanno votato per aggiungere più verdure al menu e 335 hanno votato per aggiungere più carne, quanti studenti hanno votato?",
+        "output": "672"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Poiché il risultato della votazione era vicino, si è deciso di bilanciare il menu con carne e verdure. Questa decisione è stata concordata da 154 studenti di terza elementare e 237 studenti di quarta elementare. Quanti studenti erano d&#39;accordo con la decisione?",
+        "output": "391"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A causa di questa decisione, Sofia ha chiesto agli studenti di suggerire specifici tipi di cibo. Se 279 studenti suggerissero di aggiungere il purè di patate mentre 234 suggerivano di aggiungere la pancetta al menu, quanti studenti avrebbero partecipato al suggerimento di nuovi prodotti alimentari?",
+        "output": "513"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dopo una settimana, Sofia ha fatto un sondaggio per chiedere se agli studenti fosse piaciuto il nuovo menu. Ha scoperto che a 235 studenti è piaciuto il nuovo menu mentre a 165 no. Quanti studenti hanno preso parte al sondaggio di Sofia?",
+        "output": "400"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tyler, un sostenitore dei diritti degli animali, ha deciso di costruire il proprio rifugio per animali per proteggere diversi animali dai bracconieri. Il santuario era diviso in diverse regioni. La prima regione ad essere costruita fu un santuario degli uccelli. Inizialmente, in quella regione c&#39;erano 29 specie di uccelli in via di estinzione. Se ogni specie ha 7 coppie di uccelli, quante coppie ha in totale?",
+        "output": "203"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un&#39;altra regione era la riserva acquatica per gli organismi d&#39;acqua dolce. Se nella regione ci sono 6 specchi d&#39;acqua, ciascuno con 175 pesci diversi, quanti pesci ha in totale?",
+        "output": "1050"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Possedeva anche 8 acquari per animali d&#39;acqua salata. Ogni acquario contiene 64 animali. Quanti animali d&#39;acqua salata ha Tyler?",
+        "output": "512"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Il santuario comprende anche diverse aree paludose dove solitamente risiede la maggior parte dei rettili. Se ci sono 4 paludi, ciascuna con 356 rettili diversi, quanti rettili vivono nelle aree paludose?",
+        "output": "1424"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono altre 3 sezioni non sviluppate. Ciascuna delle restanti sezioni ha una superficie di 2435 piedi quadrati. Qual è la superficie totale del terreno non edificato?",
+        "output": "7305"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "È il compleanno di Rachel. I suoi genitori volevano che si divertisse, così andarono al circo che si trovava in città quel giorno. Una volta arrivati al circo, sono andati alla biglietteria e hanno chiesto quanto costava ciascun biglietto. Se ogni biglietto costa $ 44,00 e hanno acquistato 7 biglietti, quanti soldi hanno speso per i biglietti?",
+        "output": "308"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sono entrati nel tendone del circo e hanno visto che ci sono quattro posti a sedere per il pubblico. Se ogni sezione può ospitare 246 persone, quante persone può ospitare in totale la tenda?",
+        "output": "984"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Il primo atto comprendeva 5 giostrine da clown, ciascuna piena di 28 clown. Quanti clown ci sono dentro tutte le giostrine clown messe insieme?",
+        "output": "140"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "L&#39;atto successivo ha coinvolto diversi giocolieri. Se ogni giocoliere fa il giocoliere con 6 palline alla volta, quante palline saranno necessarie se ci sono 378 giocolieri che danno spettacolo contemporaneamente?",
+        "output": "2268"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per l&#39;atto finale, il circo ha fatto uscire animali danzanti che indossavano corone. Se ogni corona è realizzata con 7 piume di colore diverso, quante piume sono necessarie per 934 corone?",
+        "output": "6538"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amanda e le sue amiche hanno deciso di andare al parco divertimenti per il fine settimana. Il parco divertimenti più vicino alla loro città è Super Fun-tastic Land. Se percorrono una distanza di 27 miglia per ogni ora di viaggio e viaggiano per 3 ore, quanto dista SFL dalla città?",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Quando sono arrivati, hanno visto che SFL è già piena di gente. Ad ogni ingresso c&#39;è una lunga fila, con 283 persone in attesa di entrare. Se SFL ha 5 ingressi, quante persone in totale stanno aspettando di entrare?",
+        "output": "1415"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Determinati a divertirsi, si recarono al prossimo parco divertimenti, HappyLand. Se percorrono una distanza di 328 piedi per ogni minuto di viaggio e viaggiano per 9 minuti, quanto dista HappyLand da SFL?",
+        "output": "2952"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Quando sono arrivati a HappyLand, sono entrati subito e hanno comprato i biglietti. Se ogni biglietto costa $ 17,00 e hanno acquistato 8 biglietti, quanto hanno speso per i biglietti?",
+        "output": "136"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ha anche una sezione piena di opuscoli di racconti. Se ogni opuscolo ha 9 pagine e ci sono 49 opuscoli nella sezione dei racconti, quante pagine dovrà sfogliare Jack se intende leggerli tutti?",
+        "output": "441"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Uno dei suoi preferiti è un libro intitolato Encyclopedia of Life and Everything Else. Il libro ha 7 grandi capitoli, ciascuno di 566 pagine. Quante pagine ha in totale l&#39;enciclopedia?",
+        "output": "3962"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La mini biblioteca ha anche una sezione per i classici. Se Jack ha una collezione di 6 autori classici, dove ogni autore ha 33 libri, quanti libri ha nella sezione dei classici?",
+        "output": "198"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "179 uccelli erano seduti su un albero. Altri 38 uccelli volarono sull&#39;albero. Quanti uccelli c&#39;erano in tutto sull&#39;albero?",
+        "output": "217"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La mamma di Cindy ha preparato 1215 biscotti. Il padre di Paul ha preparato 1112 biscotti. Entrambi li hanno portati a scuola per una festa. Quanti biscotti avevano in tutto?",
+        "output": "2327"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "C&#39;erano 27 ragazzi e 35 ragazze nel cortile durante la ricreazione. Quanti bambini c&#39;erano nel parco giochi durante la ricreazione?",
+        "output": "62"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paul aveva 28 fragole nel cestino. Raccolse altre 35 fragole. Quante fragole aveva allora?",
+        "output": "63"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gary aveva 73 dollari. Ha speso 55 dollari per un serpente domestico. Quanti dollari gli sono rimasti a Gary?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ellen aveva 380 Lego, ma ne perse 57. Quanti Lego ha adesso?",
+        "output": "323"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Arthur ha preparato 35 muffin. Quanti altri muffin deve cuocere Arthur per avere 83 muffin?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Willy ha 1400 pastelli. Lucy ha 290 pastelli. Quanti pastelli ha in più Willy e Lucy?",
+        "output": "1110"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lizette ha 813 francobolli. Ha 125 francobolli in più di Minerva. Quanti francobolli ha Minerva?",
+        "output": "688"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Megan aveva 217 marcatori. Robert le ha dato altri 109 pennarelli. Quanti marcatori ha in tutto Megan?",
+        "output": "326"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un libro DVD contiene 126 DVD. Ci sono già 81 DVD nel libro. Quanti altri DVD si possono inserire nel libro?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kelly ha 121 giochi Nintendo. Quanti ne deve regalare per avere ancora 22 partite?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Connie aveva delle biglie. Ha dato 183 a Juan. Ora le restano 593 biglie. Con quanti doveva iniziare?",
+        "output": "776"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Iesha ha 344 libri. 136 riguardano la scuola e il resto riguarda lo sport. Quanti libri sullo sport ha Iesha?",
+        "output": "208"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "James ha 1222 palloncini. Amy ha 513 palloncini. Quanti palloncini ha James in più rispetto ad Amy?",
+        "output": "709"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sean ha 223 fischi. Ha 95 fischi in più di Charles. Quanti fischi ha Charles?",
+        "output": "128"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Connie ha 323 biglie. Juan ha 175 biglie in più di Connie. Quante biglie ha Juan?",
+        "output": "498"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adamo ha $ 5,00 per acquistare un aereo che costa $ 4,28. Quanto resto otterrà?",
+        "output": "0.72"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Il signor Guzman ha acquistato 48 ciambelle imballate equamente in 4 scatole. Quante ciambelle c&#39;erano in ogni scatola?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un francobollo costa $ 0,34. Due francobolli costano $ 0,68. Tre francobolli costano $ 1,02. Se il costo di ogni francobollo rimanesse lo stesso, quanto costerebbero 4 francobolli?",
+        "output": "1.36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La città di Milburg conta 5.256 adulti e 2.987 bambini. Quante persone vivono a Milburg?",
+        "output": "8243"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lisa ha noleggiato 4 DVD per $ 4,80. Quanto è costato il noleggio di ciascun DVD?",
+        "output": "1.2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "In un barattolo c&#39;erano 3.409 caramelle. Se 145 pezzi fossero rossi e il resto fosse blu, quanti sarebbero blu?",
+        "output": "3264"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Il contadino aveva 127 mele. Ha dato 88 mele al suo vicino. Quante mele ha adesso?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La signora Hilt è andata a un concerto. Al concerto hanno assistito un totale di 65.899 persone. La settimana successiva andò a un secondo concerto, al quale parteciparono altre 119 persone. Quante persone c&#39;erano al secondo concerto?",
+        "output": "66018"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La signora Hilt deve condividere equamente $ 3,75 tra tre persone in totale. Quanti soldi riceverà ogni persona?",
+        "output": "1.25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La signora Hilt sta cuocendo il pane. Ha bisogno di 5 tazze di farina per cuocere due pagnotte di pane. Di quanta farina avrà bisogno per fare una pagnotta?",
+        "output": "2.5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lucy ha un acquario con 212 pesci. Vuole comprare altri 68 pesci. Quanti pesci avrebbe allora Lucy?",
+        "output": "280"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lucy ha 212 pesci. Quanti altri pesci deve acquistare per avere 280 pesci?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Harry Hound ieri ha avuto un terribile mal d&#39;orecchi. Quando ieri ho sbirciato nelle sue orecchie, ho trovato 36 vivaci pulci che facevano festa nel suo orecchio destro e 85 pulcini che dormivano pacificamente nel suo orecchio sinistro. Ho pulito le orecchie di Harry Hound. Quante pulci sono morte?",
+        "output": "121"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio di articoli per animali dispone di 600 sacchi di cibo per cani e 327 sacchi di cibo per gatti. Quanti sacchetti di cibo per cani ci sono in più rispetto a quelli per gatti?",
+        "output": "273"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "532 persone stanno guardando un film al cinema. Il teatro ha 750 posti a sedere. Quanti posti sono vuoti nel teatro?",
+        "output": "218"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kendra ha fatto un viaggio. Nel pomeriggio ha visto 4 minivan come il suo. Più tardi, quella sera, vide un altro minivan come il suo. Quanti minivan come il suo ha visto in tutto?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 4 maschi e 5 femmine in un asilo nido prescolare. Quanti bambini ci sono nell&#39;asilo nido?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 7 palloni da basket in una scuola. Se la scuola acquista altri 3 palloni da basket, quanti palloni avrà la scuola?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Garrett è andato a fare la spesa per gli snack e ha comprato 6 barrette di cereali con farina d&#39;avena e uvetta e 8 barrette di cereali con arachidi. Quante barrette di cereali ha comprato in tutto?",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jack ha ricevuto 8 e-mail al mattino e 2 e-mail nel pomeriggio. Quante email ha ricevuto Jack durante la giornata?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un club di scacchi ha 3 membri. Se vengono iscritti 4 nuovi membri, quanti membri ci sono in totale nel club degli scacchi?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ogni giorno, Ryan dedica 4 ore all&#39;apprendimento dell&#39;inglese e 3 ore all&#39;apprendimento del cinese. Quante ore dedica in tutto all&#39;apprendimento dell&#39;inglese e del cinese?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La mamma ha comprato delle patate. Ha usato 15 patate per preparare insalate e 24 patate per il purè di patate. Se fossero rimaste 13 patate, quante patate ha comprato la mamma all&#39;inizio?",
+        "output": "52"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gary aveva degli adesivi. Ha dato 42 adesivi a Lucy e 26 adesivi ad Alex. Se gli erano rimasti 31 adesivi, quanti adesivi aveva inizialmente Gary?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Se Simone deve realizzare 519 sacchetti regalo al ritmo di 42 sacchetti al giorno, quanti giorni gli occorreranno per finire di realizzare tutti i pacchetti regalo?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jane può sistemare 16 vasi di fiori in un giorno. Se ci sono 248 vasi di fiori da sistemare, quanti giorni le occorrono per finire tutte le composizioni floreali?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Una scatola può contenere 18 gessetti. Se ci sono 3.484 pezzi di gesso, quante scatole sono piene per contenere tutto il gesso?",
+        "output": "194"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un autobus può trasportare 48 passeggeri. Se una scuola di 1.230 studenti e insegnanti parte per una gita scolastica, quanti autobus dovrebbero essere noleggiati?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La capacità di un serbatoio è di 32 galloni. Se un’azienda acquistasse 728 galloni di petrolio, quanti serbatoi sarebbero necessari per contenere tutto il petrolio?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nella fattoria ci sono 22 cani. Vivono equamente in 5 cucce. Quanti cani ci sono in ogni cuccia?",
+        "output": "4"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dividi 39 palloncini in 7 gruppi uguali. Quanti palloncini ci sono in ogni gruppo?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La scuola ha acquistato 54 palloni da basket e li ha distribuiti equamente in 7 classi. Quanti palloni da basket ha ricevuto ciascuna classe?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 32 studenti nella classe. L&#39;insegnante li ha divisi in 5 gruppi uguali. Quanti studenti ci sono in ogni gruppo?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un gruppo turistico è composto da 26 persone. In un albergo vogliono affittare alcune stanze grandi per 3 persone ciascuna e alcune stanze piccole per 2 persone ciascuna. Per affittare il minor numero di stanze e avere tutte le stanze completamente occupate, quante stanze grandi dovrebbero essere affittate?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Una classe di danza classica vuole dividere i suoi 90 membri in alcuni grandi gruppi di 7 membri ciascuno e alcuni piccoli gruppi di 3 membri ciascuno. Per creare il minor numero di gruppi, quanti gruppi grandi dovrebbero essere creati?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nick ha risparmiato $ 68,50. Se Nick risparmiasse $25,43 più di Lee, quanto risparmierebbe Lee?",
+        "output": "43.07"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Inserisco un altro numero nella mia segreteria. La macchina aggiunse 15 e poi sottrasse 6. Dalla macchina uscì il numero 35. Che numero ho inserito?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Cindy e Dan hanno lo stesso numero di adesivi. Cindy ha utilizzato 15 dei suoi adesivi. Dan ha comprato altri 18 adesivi. Quanti adesivi in più aveva Dan rispetto a Cindy allora?",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ed aveva 22 biglie in più di Doug. Doug ha perso 8 biglie al parco giochi. Quante biglie aveva Ed in più rispetto a Doug allora?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Oggi la mia gelateria era molto affollata. C&#39;erano 48 gradi e abbiamo venduto 67 coni gelato. Abbiamo venduto 15 frappè in più rispetto ai coni gelato. Quanti frappè sono stati venduti?",
+        "output": "82"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lo stadio della piccola lega ha 92 posti a sedere. Oggi sono venute alla partita 47 persone. 38 persone portavano striscioni. Quanti posti erano vuoti?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maura raccoglie conchiglie ogni estate. La sua famiglia rimane nella casa al mare per 21 giorni. Quest&#39;estate Maura ha trovato 75 conchiglie. Ne diede un po&#39; alla sua sorellina. Maura aveva allora 57 conchiglie. Quante conchiglie ha regalato Maura a sua sorella?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La giraffa più alta dello zoo è alta 96 pollici. Ci sono 14 giraffe adulte allo zoo. La giraffa più corta è di 68 pollici. Quanto è più alta la giraffa più grande?",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lo zoo di Central City ospita 45 scimpanzé. Ogni giorno gli scimpanzé mangiano un totale di 72 banane. La prossima settimana, lo zoo trasferirà 18 scimpanzé in una nuova gabbia. Quanti scimpanzé rimarranno nella vecchia gabbia?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Il guardiano dello zoo ha 68 pesci da dare da mangiare ai pinguini. 19 pinguini hanno già preso un pesce. Lo zoo ha 36 pinguini. Quanti altri pinguini hanno bisogno per procurarsi un pesce?",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ralph ha un album fotografico con 50 pagine. Ha 26 immagini di animali selvatici. L&#39;amico di Ralph, Derrick, ha 34 foto di animali selvatici. Quante foto di animali selvatici in meno ha Ralph?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lisa ha invitato tutta la terza elementare alla sua festa. Ci sono 48 studenti in tutto. 23 studenti sono ragazzi e 25 ragazze. 9 studenti non potranno andare alla festa. Quanti studenti ci saranno?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Billy può suonare 24 canzoni nel suo libretto di spartiti. Conosce i nomi di 18 diversi accordi di chitarra. Il libro di musica di Billy contiene 52 canzoni. Quante canzoni deve ancora imparare Billy?",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La mamma ha preparato 32 biscotti con gocce di cioccolato. Ci sono voluti 24 minuti per mescolare gli ingredienti e 16 minuti per cuocere. Julie e Matt hanno mangiato 9 biscotti dopo cena. Quanti biscotti erano rimasti?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 45 domande nel test di matematica. 17 domande sono problemi di parole. 28 domande sono problemi di addizione e sottrazione. Steve può rispondere solo a 38 domande. Quante domande ha lasciato in bianco Steve?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kendra impara 12 nuove parole di ortografia ogni settimana. Il suo obiettivo è imparare 60 nuove parole prima del suo ottavo compleanno. Ha già imparato 36 nuove parole. Quante altre parole deve imparare Kendra?",
+        "output": "24"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tripp e Charlotte stanno facendo un&#39;escursione di 36 miglia. Lo zaino di Tripp pesa 25 libbre. Lo zaino di Charlotte pesa 7 chili in meno. Hanno camminato per 9 miglia il primo giorno. Quante miglia hanno lasciato?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dora festeggerà il suo decimo compleanno sabato prossimo. Ha invitato 64 persone. Sua madre ha ordinato 36 panini. 16 persone non possono venire alla festa. Quante persone ci saranno alla festa di Dora?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tommy ha $79. Vuole comprare una macchina fotografica da 35 dollari. Vuole anche comprare un lettore CD da 59 dollari. Di quanti più soldi ha bisogno Tommy?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Omar ama giocare a dama. Ieri ha giocato 37 partite. Oggi ha giocato 49 partite. Omar ha perso 18 partite. Quante partite ha vinto?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sean sta giocando a Monopoli con i suoi amici. Ha già 27 case. Sean ha scambiato 8 case con denaro per acquistare Park Place. Raccolse così tanto l&#39;affitto che decise di acquistare altre 12 case. Quante case aveva Sean allora?",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Diane vuole comprare un pacchetto di biscotti. I biscotti costano 65 centesimi. Diane ha 27 centesimi. Di quanti più soldi ha bisogno?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Andy aveva 31 figurine di baseball. Suo padre gliene ha dato un altro. Poi Andy aveva 50 figurine di baseball. Quante figurine di baseball ha ricevuto Andy da suo padre?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Laurie ha 12 biglie in più di Kurt. Kurt ha 45 biglie in meno di Dennis. Dennis ha 70 biglie. Quante biglie ha Laurie?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Anthony riceve 75 centesimi ogni giorno per il pranzo. Ha comprato un succo di frutta per 27 centesimi. Ha comprato anche un cupcake. Ad Anthony erano rimasti 8 centesimi. Quanto è costato il cupcake?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dicembre è un mese impegnativo per il negozio di giocattoli. Avevano 95 giochi sullo scaffale. Nella prima settimana furono venduti 68 giochi. Il negozio ha ricevuto altri 47 giochi dalla fabbrica. Quanti giochi avevano allora?",
+        "output": "74"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gli alunni della terza elementare stanno facendo una fiera. Hanno 90 biglietti da vendere. Hanno venduto 38 biglietti la prima settimana e 17 biglietti la seconda settimana. Quanti biglietti restano da vendere?",
+        "output": "35"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La pista di pattinaggio dispone di 85 paia di pattini a noleggio. All&#39;apertura della pista di pattinaggio 18 persone hanno noleggiato i pattini. Altre 25 persone hanno noleggiato i pattini durante la prima ora. Quante paia di pattini restano?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jake ha allestito un chiosco di caramelle nel suo cortile. Ha 80 caramelle da vendere. Lunedì ha venduto 15 caramelle. Martedì ha venduto molto di più. Mercoledì, a Jakes erano rimasti solo 7 pezzi. Quante caramelle ha venduto Jake martedì?",
+        "output": "58"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nel mese di gennaio la stazione sciistica ha registrato 65 pollici di neve. Durante la prima settimana hanno misurato 18 pollici di neve. Hanno misurato 25 pollici di neve la seconda settimana. Quanta neve hanno avuto il resto del mese?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Carey e Pat stanno spostando le sedie in palestra. Hanno deciso di spostare 74 sedie. Carey ha spostato 28 sedie. Pat ha spostato 29 sedie. Quante altre sedie restano da spostare?",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jean aveva un sacchetto di caramelle. Ha dato 18 pezzi alla sua amica. Jean ha mangiato 7 pezzi. Ora le restano 16 pezzi. Quante caramelle aveva Jean all&#39;inizio?",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Charlene ha realizzato 60 collane di perline. Ne ha venduti 16 a una fiera dell&#39;artigianato. Ne ha regalati 18 ai suoi amici. Quante collane aveva allora Charlene?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ramon lavora al supermercato. Ha messo 26 scatole di Choco Delights sullo scaffale. C&#39;erano già 15 scatole lì. Più tardi quel giorno, Ramon contò 22 scatole sullo scaffale. Quante scatole di Choco Delights mancavano?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "All&#39;incontro di atletica hanno partecipato 52 bambini e 29 adulti. Lo stadio ha 95 posti a sedere. Quanti posti erano vuoti?",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Diane vuole comprare un pacchetto di biscotti. I biscotti costano 65 centesimi. Diane ha 27 centesimi. Qual è la differenza tra il costo dei biscotti e il denaro di Diane?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 45 domande nel test di matematica. 17 domande sono problemi di parole. 28 domande sono problemi di addizione e sottrazione. Steve può rispondere solo a 38 domande. Qual è la differenza tra il numero di tutte le domande del test di matematica e il numero di domande a cui Steve può rispondere?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Alla sala giochi Billy aveva vinto quarantotto biglietti. Dopo aver comprato uno yo-yo gli erano rimasti trentadue biglietti. Qual è la differenza tra il numero di biglietti che Billy ha vinto e quelli che gli erano rimasti dopo aver acquistato yoyo?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per Halloween Frank ha ricevuto quindici chili di caramelle. Se ha dato otto sterline a Nancy, qual è la differenza tra le libbre di caramelle di Frank prima di darle a Nancy e quelle che ha dato a Nancy?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Billy stava giocando a basket con il suo amico. Billy ha segnato 7 punti e il suo amico ha segnato 9 punti. Qual è la differenza tra i punti di Billy e quelli del suo amico?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Quando Maria arrivò alla fiera aveva 87 dollari. Quando se ne andò aveva 16 dollari. Qual è la differenza tra il numero di dollari quando Maria è arrivata e quando ha lasciato la fiera?",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio di mobili aveva quindici sedie. Dopo averne venduti alcuni, ne erano rimasti tre. Qual è la differenza tra il numero di sedie prima della vendita e quello a sinistra?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Zoe ha raccolto cinque mele dal suo albero. Ora sull&#39;albero ci sono ancora sei mele. Qual è la differenza tra il numero di mele raccolte da Zoe e il numero di mele che ha ora l&#39;albero?",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un clown aveva sedici palloncini. Ne ha regalati quattro a una festa. Qual è la differenza tra il numero di palloncini che il clown aveva all&#39;inizio e quelli che ha regalato ad una festa?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amy aveva delle caramelle. Ha dato alla sua amica sei pezzi e ne erano rimasti cinque. Qual è la differenza tra le caramelle che Amy ha regalato e quelle sinistra?",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un fast food aveva novantuno hotdog. Dopo averne venduti alcuni, ne erano rimasti venti. Qual è la differenza tra il numero di hotdog prima della vendita e dopo la vendita?",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Se un pacchetto di gomme da masticare costa 2$, quanti pacchetti di gomme puoi comprare con 16$?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Se un giro costa $80, quanti giri di golf puoi giocare con $400?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Se una cartuccia costa 15 dollari, quante cartucce d&#39;inchiostro puoi acquistare con 180 dollari?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Se un pacchetto costa 11 dollari, quanti pacchetti di DVD puoi acquistare con 110 dollari?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "L&#39;azienda dispone di cartucce d&#39;inchiostro grandi e piccole in magazzino. Quante cartucce d&#39;inchiostro puoi acquistare con 182 dollari se una cartuccia costa 14 dollari?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Il negozio ha i CD e i DVD di cui hai bisogno. Quanti pacchi di DVD puoi comprare con 132 dollari se un pacco costa 12 dollari?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Al carnevale, 6 amici hanno acquistato 234 biglietti in totale. Se ciascuno avesse acquistato la stessa quantità, quanti biglietti avrebbe acquistato ciascuna persona?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sarah sta realizzando collane di perline. Ha 945 perle e sta realizzando 7 collane con ciascuna collana utilizzando lo stesso numero di perle. Quante perle utilizzerà ciascuna collana?",
+        "output": "135"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "George aveva 648 caramelle. Se dividesse le caramelle in 8 sacchetti con la stessa quantità di caramelle in ogni sacchetto, quanti pezzi conterrebbe ogni sacchetto?",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un pallet di scatole pesava 267 chilogrammi. Se sul pallet ci fossero 3 scatole e ciascuna scatola pesasse la stessa quantità, quanto peserebbe ciascuna?",
+        "output": "89"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Edward aveva 763 figurine di baseball in 7 raccoglitori. Se ogni raccoglitore ha lo stesso numero di carte, quante carte ci sono in ogni raccoglitore?",
+        "output": "109"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 234 persone presenti a un pranzo. Se un tavolo può contenere 9 persone, quanti tavoli servono?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio di scarpe stava organizzando una svendita per il rientro a scuola dove potevi acquistare 2 paia di scarpe per $ 23,10. Se una famiglia numerosa decidesse di acquistare 7 paia di scarpe, quanto le costerebbe?",
+        "output": "80.85"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Al negozio la carne secca costava $ 34,23 per 3 sterline. Se comprassi 7 sterline, quanto costerebbe?",
+        "output": "79.87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nel negozio di prodotti ortofrutticoli puoi acquistare 2 sacchi di banane per $ 12,46. Quanto costerebbe se comprassi 6 buste?",
+        "output": "37.38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paul stava impacchettando i suoi vecchi giocattoli. È riuscito a infilare otto giocattoli in una scatola. Se Paolo riempisse quattro scatole, quanti giocattoli avrebbe confezionato in totale?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam poteva sistemare nove action figure su ogni scaffale della sua stanza. La sua stanza ha tre scaffali. Quante action figure in totale potrebbero contenere i suoi scaffali?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Una compagnia aerea consente a ciascun passeggero di portare otto bagagli. Se volassero quattro persone, quanti bagagli potrebbero portare?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maria stava mettendo gli spiccioli nelle pile. Ogni pila aveva tre monete. Se avesse cinque pile, quante monete avrebbe?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Luke stava aiutando sua madre a lavare i vestiti. Hanno lavato sei carichi con sette asciugamani in ciascun carico. Quanti asciugamani hanno lavato in totale?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Larry&#39;s Lawn Care chiede nove dollari per tagliare una siepe. Se Henry avesse tre siepi, quanti soldi spenderebbe?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paul stava leggendo la sua serie di libri preferita. Ogni settimana leggeva quattro libri diversi. Quanti libri avrebbe letto dopo cinque settimane?",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un gruppo di 8 amici si travestiva da pirati per Halloween. Se ogni costume costasse 5 dollari, quanto avrebbero speso?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kale stava disegnando su carta straccia. Potrebbe contenere 5 disegni su ogni pagina. Se ha 6 pagine, quanti disegni può realizzare?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per il compleanno di Bianca 5 sue amiche le hanno regalato 6 dollari. Quanti soldi ha ricevuto per il suo compleanno?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Le montagne russe alla fiera statale costano 6 biglietti per corsa. Se 8 amici andassero sulle montagne russe, di quanti biglietti avrebbero bisogno?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nancy stava comprando il sapone per il bagno. Ha comprato 6 confezioni, ciascuna contenente 5 barrette. Quante saponette ha comprato?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tiffany stava comprando degli asciugamani per la sua casa. Ha comprato 9 confezioni con ciascuna confezione contenente 3 asciugamani. Quanti asciugamani ha comprato?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "I cassetti del comò di Paige possono contenere 2 capi di abbigliamento ciascuno. Se avesse 4 cassetti, quanti vestiti potrebbe contenere?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Carol stava inviando gli inviti di compleanno ai suoi amici. Se ogni pacchetto di inviti che ha acquistato contenesse 9 inviti e lei ne acquistasse 5, quanti amici potrà invitare?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un museo aveva tredici dipinti. Se ne eliminassero otto, quante foto rimarrebbero? ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per Halloween Will ha ricevuto quindici chili di caramelle. Dopo averne dato un po&#39; a Haley, gli erano rimaste nove sterline. Quante sterline ha dato a Haley? ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor aveva diciannove app sul suo telefono. Ne ha cancellati otto. Quante app sono rimaste a Victor? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un nastro era lungo tredici metri. Haley ne usò un po&#39; per sigillare i cartoni. Ora il nastro è lungo sei metri. Quanto nastro ha usato?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Alla sala giochi Dave aveva vinto tredici biglietti. Se ne avesse usati sei per comprare dei giocattoli, quanti biglietti gli sarebbero rimasti? ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Frank ha preso quindici chili di funghi per il barbecue di famiglia. Se mangiassero otto libbre, quante libbre sarebbero rimaste?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kaleb ha diciassette magliette. Se si fosse sbarazzato di sette di loro, quante magliette avrebbe Kaleb? ",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un clown aveva sedici palloncini. Ne ha regalati quattro a una festa. Quanti palloncini ha ancora? ",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Debby possedeva tredici DVD. Se ne avesse venduti sei, quanti ne sarebbero rimasti? ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Frank aveva tredici scatole. Se ne riempisse otto di giocattoli, quante scatole gli rimarrebbero?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono novantotto gatti nella cittadina. Se novantadue di loro dormono, quanti gatti sono ancora svegli?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un contadino aveva novantasette pomodori dal suo orto. Se ne avesse scelti ottantatré, quanti ne sarebbero rimasti? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sullo scaffale c&#39;erano novantotto cipolle. Ne furono venduti sessantacinque. Quante cipolle ci sono adesso sullo scaffale?",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Olivia aveva ottantuno pezzi di carta nella sua cartella. Ha usato cinquantasei pezzi. Quanti pezzi ha adesso? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mentre giocava, Kaleb aveva novantotto vite. Dopo aver perso alcune vite, gliene restavano settantatré. Quante vite ha perso Kaleb? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio ha quarantanove camicie. Dopo averne venduti alcuni, ne rimanevano ventotto. Quanti ne hanno venduti? ",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Billy aveva settantaquattro ciliegie. Ne mangiò settantadue. Quante ciliegie sono rimaste a Billy? ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam aveva degli alloggi. Ne passò nove alla sala giochi e ne rimase settantanove. Con quanti trimestri doveva iniziare? ",
+        "output": "88"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un contadino aveva quarantasei pomodori dal suo orto. Dopo averne scelti alcuni, ne erano rimasti tre. Quanti ne ha scelti? ",
+        "output": "43"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Uno chef aveva quarantasei mele. Dopo aver preparato alcune torte, gliene restavano quattordici. Quante mele ha usato? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sul treno c&#39;erano cinquantotto persone. Alla fermata successiva scesero quarantacinque persone. Quante persone ci sono adesso sul treno? ",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam ha dovuto salire novantasei gradini per raggiungere il tetto. Ha già scalato i settantaquattro. Quanti gradini restano da salire adesso ad Adam?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mike aveva cinquantuno libri, ma ne vendette quarantacinque a un mercatino dell&#39;usato. Quanti libri ha ancora Mike? ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Alla sala giochi Billy aveva vinto quarantotto biglietti. Dopo aver comprato uno yo-yo gli erano rimasti trentadue biglietti. Quanti biglietti è costato lo yoyo? ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per una festa di compleanno un clown regalò sei palloncini. Adesso gli restano cinquantacinque palloncini. Con quanti palloncini doveva iniziare il clown? ",
+        "output": "61"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "C&#39;erano novantaquattro dollari nel portafoglio di Olivia. Dopo aver visitato un supermercato, erano rimasti settantotto dollari. Quanto ha speso?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mentre giocava ad un videogioco Ned perse tredici vite. Ora ha settanta vite. Quante vite aveva Ned all&#39;inizio? ",
+        "output": "83"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gwen ha preparato novantotto libri da vendere al mercatino delle pulci. Al termine dell&#39;attività le erano rimasti novantasei libri. Quanti ne ha venduti?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Uno chef aveva settantasette ciliegie. Se ne usasse sessanta per fare una torta, quante ciliegie gli rimarrebbero? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Isabel aveva novanta giochi per DS. Se ne avesse dati ottantasette alla sua amica, quanti ne sarebbero rimasti? ",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio ha trentacinque camicie. Se ne vendessero trenta, quante magliette avrebbero? ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige ha usato tre delle sue matite. Adesso ha novantuno matite. Con quante matite ha dovuto cominciare Paige? ",
+        "output": "94"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam raccolse trentacinque fragole. Dopo averne mangiato un po&#39;, gliene restavano trentatré. Quante fragole ha mangiato Adam?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Allo zoo c&#39;erano sessantotto serpenti in una gabbia. Se quarantadue si nascondevano, quanti serpenti non si nascondevano? ",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio di animali aveva ottantacinque gerbilli. Se ne vendessero sessantanove, quanti ne rimarrebbero?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mentre organizzava i suoi file, Bianca ha cancellato 2 foto, 8 canzoni e 7 file di testo. Qual è il numero totale di file che ha eliminato? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per la festa di Capodanno sono stati utilizzati 2 palloncini rossi, 12 palloncini verdi e 6 palloncini bianchi. Qual è il numero totale di palloncini utilizzati? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Henry aveva già 5 dollari, ma guadagnava altri 2 dollari facendo i lavori domestici. Il suo amico aveva 13 dollari. Se mettessero insieme i loro soldi, quanto avrebbero? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Enrico ha acquistato 2 nuovi fuochi d&#39;artificio e il suo amico ne ha acquistati 3. Se ne avevano già salvati 6 dall&#39;anno scorso, quanti ne hanno adesso? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio di animali aveva 13 gatti siamesi e 5 gatti domestici. Durante una svendita hanno venduto 10 gatti. Quanti gatti gli sono rimasti? ",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Oliver ha dovuto lavare 39 magliette a maniche corte e 47 magliette a maniche lunghe prima di andare a scuola. Se ne avesse lavati solo 20 prima dell&#39;inizio della scuola, quanti non ne avrebbe lavati? ",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye e sua madre stavano raccogliendo carote dal loro giardino. Faye ne raccolse 23 e sua madre 5. Se solo 12 carote erano buone, quante carote cattive avevano? ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Alla fiera del libro della scuola, Sam ha acquistato 13 libri di avventure e 17 libri gialli. Se sono stati utilizzati 15 libri, quanti nuovi libri ha acquistato? ",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amy aveva 26 file musicali e 36 file video sulla sua unità flash. Se avesse eliminato 48 file, quanti file sarebbero rimasti sulla sua unità flash? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige aveva 43 problemi di matematica e 12 problemi di scienze come compiti. Se avesse finito 44 problemi a scuola, quanti problemi avrebbe dovuto fare come compiti? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mentre faceva la spesa, Maria ha acquistato 35 asciugamani verdi e 21 asciugamani bianchi. Se ne avesse dati a sua madre 34, quanti asciugamani si sarebbe ritrovata Maria? ",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "C&#39;erano 17 ragazze e 32 ragazzi che provavano per la squadra di basket della scuola. Se solo 10 di loro venissero richiamati, quanti studenti non riuscirebbero a passare? ",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un cameriere del ristorante &quot;The Greasy Spoon&quot; aveva 39 clienti da servire. Durante l&#39;ora di punta del pranzo ha aggiunto altri 12 clienti. Se 49 clienti non gli hanno lasciato la mancia, quanti clienti l&#39;hanno lasciata? ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La mensa scolastica ha ordinato 25 mele rosse e 17 mele verdi per il pranzo degli studenti. Ma se solo 10 studenti volessero la frutta, quanti extra si ritroverebbero con la mensa? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Uno chef aveva solo 3 mele, quindi ne ordinò altre 2 buste. Se ogni sacchetto contiene 9 mele, quante mele ha in totale?",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Edward guadagnava 8 dollari per ogni prato che falciava. Se ha falciato 5 prati e ha già messo da parte 7 dollari, quanti soldi ha in totale?",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ad una convention di fumetti Janet voleva comprare 8 fumetti, ma ognuno costa 4 dollari, più ne costa 2 anche solo per entrare. Quanti soldi dovrebbe portare con sé per poter entrare e comprare quello che vuole?",
+        "output": "34"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio di alimentari aveva quarantanove bottiglie di soda normale e trentacinque bottiglie di soda dietetica. Quante bottiglie avevano in totale?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nella prima metà di una partita a quiz Kaleb ha segnato quarantatré punti. Nella ripresa ha segnato ventitré punti. Quanti punti ha totalizzato?",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per una festa Henry spese quarantacinque dollari in cibo e trentatré dollari in bevande. Quanto ha speso Henry in totale?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Bianca ha trascorso ventidue minuti a disegnare a scuola e diciannove minuti a casa. Quanti minuti in totale ha trascorso a disegnare?",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un fast food ha venduto cinquantotto hotdog piccoli e ventuno hotdog grandi. Quanti hot dog hanno venduto in totale?",
+        "output": "79"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un acquario conteneva dieci pesci. Successivamente aggiunsero tre pesci. Quanti pesci ci sono adesso nell&#39;acquario?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maria aveva cinquanta fogli sulla scrivania e altri quarantuno nello zaino. Quanti ne aveva in totale?",
+        "output": "91"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam aveva settantanove dollari da parte. Dopo aver svolto alcuni lavori, sua madre gli diede altri tredici dollari. Quanti soldi ha in totale?",
+        "output": "92"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Alla fiera Amy iniziò con trentatré biglietti e poi ne comprò altri ventuno. Quanti biglietti aveva in totale Amy?",
+        "output": "54"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un fornaio aveva già settantotto torte ma ne fece nove in più. Quante torte aveva in totale il fornaio?",
+        "output": "87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Allo zoo Zoe scattò sessantasette foto. Se sua sorella avesse scattato altre diciassette foto, quante ne avrebbe scattate in totale?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Katie aveva settantadue giochi DS e la sua amica ventitré giochi. Quanti ne hanno in totale?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Durante l&#39;allenamento Paul ha fatto cinquantanove flessioni al mattino e altre trentotto nel pomeriggio. Quante flessioni ha fatto in totale Paul?",
+        "output": "97"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Haley guardava la TV per sei ore il sabato e tre ore la domenica. Quante ore ha trascorso in totale Haley a guardare la TV?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor aveva 10 dollari. Per la sua indennità ricevette altri $ 8. Quanti soldi ha in totale?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio vendeva otto bevande fredde e tre bevande calde. Quante bevande hanno venduto in totale?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye aveva sette libri. Se ne comprasse altri dodici a un mercatino dell&#39;usato, quanti ne avrebbe in totale?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Roger è andato al cinema quindici volte l&#39;anno scorso e tre volte quest&#39;anno. Quante volte Roger è andato al cinema tutti insieme?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor aveva nove libri. Durante la fiera del libro ne comprò altri tre. Quanti libri aveva in totale Victor?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Debby aveva dodici libbre di farina. Se comprasse altre quattro sterline, quante sterline avrebbe in totale?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jerry possedeva sette videogiochi. Per il suo compleanno ne ha ricevuti altri due. Quanti giochi aveva in totale Jerry?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un insegnante aveva 38 fogli di lavoro da valutare. Se avesse valutato 4, ma poi ne fossero stati consegnati altri 15, quanti fogli di lavoro avrebbe dovuto valutare?",
+        "output": "49"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Bianca aveva 45 libri da colorare. Se ne regalasse 6, ma poi ne comprasse altri 20, quanti ne avrebbe in totale?",
+        "output": "59"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Robin aveva 30 canzoni sul suo lettore mp3. Se cancellasse 8 vecchi brani e poi ne aggiungesse 10 nuovi, quanti brani avrà sul suo lettore mp3?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nancy ha raccolto 12 carote dal suo giardino. Se ne buttasse via 2 e poi ne raccogliesse altre 21 il giorno successivo, quante carote avrebbe in totale?",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Zoe aveva 42 bottiglie d&#39;acqua nel frigorifero. Se ne bevesse 25 e poi ne comprasse altre 30, quante bottiglie avrebbe?",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un fiorista aveva 50 rose. Se ne vendesse 15 e poi ne raccogliesse altre 21, quante rose avrebbe?",
+        "output": "56"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio aveva 40 arance in un contenitore. Se buttassero via 25 di quelli vecchi e ne mettessero 21 nuovi nella spazzatura, quanti ne rimarrebbero nella spazzatura?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un negozio aveva ottantasette libri da colorare in stock. Alla fine li hanno messi in vendita e si sono sbarazzati di trentatré di essi. Quelli che avevano ancora li misero sugli scaffali con sei su ogni scaffale. Quanti scaffali hanno utilizzato?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tom aveva trentasei capi di abbigliamento da lavare. Ne mise diciotto in un carico, ma decise di dividere il resto in due carichi uguali. Quanti capi di abbigliamento potrebbero stare in ciascuno dei piccoli carichi?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mike ha guadagnato novanta dollari falciando i prati durante l&#39;estate. Se avesse speso quarantacinque dollari per comprare nuove lame per tosaerba, quanti giochi da cinque dollari avrebbe potuto comprare con i soldi che gli erano rimasti?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye ha raccolto ottantotto fiori per il matrimonio della sua amica. Stava preparando dei mazzi di fiori con cinque fiori ciascuno. Se quarantotto fiori fossero appassiti prima del matrimonio, quanti mazzi avrebbe ancora potuto realizzare?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Roger aveva sessantatré dollari. Se avesse speso quarantotto dollari per un nuovo gioco, quanti giocattoli da tre dollari avrebbe potuto comprare con i soldi che gli erano rimasti?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La squadra di Faye ha vinto la partita di baseball e ha segnato sessantotto punti in totale. Se Faye segnasse ventotto punti e tutti gli altri segnassero otto punti ciascuno, quanti giocatori ci sarebbero nella sua squadra?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Per Halloween Bianca ha ricevuto diciassette caramelle. Ne mangiò due pezzi e poi mise il resto in pile con tre in ciascuna pila. Quante pile potrebbe fare?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jerry vendeva i suoi vecchi giochi. Ha iniziato con sessantotto ma ne ha venduti quattro. Ha impacchettato il resto mettendo otto giochi in ogni scatola. Quante scatole ha dovuto usare?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Un nuovo edificio necessitava di 14 finestre. Il costruttore ne aveva già installati 5. Se impiega 4 ore per installare ogni finestra, quanto tempo impiegherà lui a installare il resto?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Wendy ha guadagnato 5 punti per ogni sacchetto di lattine che ha riciclato. Se avesse 11 sacchetti ma non ne riciclasse 2, quanti punti avrebbe guadagnato?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam guadagnava 9 dollari per ogni prato che falciava. Se avesse 12 prati da falciare, ma si dimenticasse di falciarne 8, quanti soldi guadagnerebbe effettivamente?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A pranzo un cameriere aveva 10 clienti e 5 di loro non lasciavano la mancia. Se ha ricevuto 3$ ciascuno da quelli che hanno dato la mancia, quanti soldi ha guadagnato?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dave aveva 10 videogiochi ma 2 di loro non funzionavano. Se volesse vendere i giochi funzionanti per 4 dollari ciascuno, quanti soldi potrebbe guadagnare?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Alla fiera Kaleb ha acquistato 6 biglietti. Dopo essere salito sulla ruota panoramica gli erano rimasti 3 biglietti. Se ogni biglietto costasse 9 dollari, quanti soldi spenderebbe Kaleb per salire sulla ruota panoramica?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sam ha invitato 9 amici ad una festa di compleanno, ma 6 non sono potuti venire. Se volesse comprare abbastanza cupcakes in modo che ogni persona possa averne esattamente 2, quanti ne dovrebbe comprare?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Anne aveva 15 dolcetti. Se Anna avesse dato un numero uguale di dolcetti ai suoi 3 amici, quante caramelle avrebbe mangiato ciascuna persona?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Shirley ha venduto 54 scatole di Trifogli. Quante casse da 6 scatole deve consegnare Shirley?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 25 matite nella collezione di matite di Frances. Se le matite sono organizzate in 5 gruppi, quanto è grande ogni gruppo?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 9 studenti nella classe e 27 birilli. Se i birilli vengono divisi equamente tra gli studenti, quanti ne riceve ogni studente?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 560 tappi di bottiglia nella collezione di tappi di bottiglia di Terry. Se i tappi di bottiglia sono organizzati in 80 gruppi, quanto è grande ciascun gruppo?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lawrence ha 5504 biglie. Se le condivide tra 64 amici, quante biglie riceve ogni amico?",
+        "output": "86"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Albert invita 34 amici a una festa. Ha 1802 biscotti. Quanti biscotti riceverà ogni amico?",
+        "output": "53"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 407 banane nella collezione di banane di Philip. Se le banane sono organizzate in 11 gruppi, quanto è grande ciascun gruppo?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Peter ha 54 biglietti e 4 matite. Se condivide i biglietti tra 9 amici, quanti biglietti riceve ogni amico?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Rebecca vuole dividere una collezione di uova in gruppi di 2. Rebecca ha 16 uova e 3 biglie. Quanti gruppi verranno creati?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Catherine ha 18 tappi di bottiglia e 19 blocchi. Se condivide i tappi di bottiglia tra 6 amici, quanti tappi di bottiglia riceverà ciascun amico?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "La scuola sta organizzando una gita scolastica. La scuola ha 11 aule. Ci sono 100 studenti nella scuola e 20 posti su ogni scuolabus. Quanti autobus sono necessari per effettuare il viaggio?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 3300 banane nella collezione di banane di Janice. Janice ha anche 5 pastelli. Se le banane sono organizzate in 75 gruppi, quanto è grande ciascun gruppo?",
+        "output": "44"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Chris sta invitando 82 amici a una festa. Ha 1804 biscotti e 10 caramelle. Quanti biscotti riceverà ogni amico?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ci sono 43 studenti e 1720 mele. Ogni studente ha 9 birilli. Se le mele vengono divise equamente tra gli studenti, quante ne riceve ogni studente?",
+        "output": "40"
+    }
+]

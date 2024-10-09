@@ -1,0 +1,1332 @@
+[
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "参加者全員がクラブハウスから合計 40 個の卵、公園から 25 個の卵、市役所から 15 個の卵を見つけた場合、その日に見つかったイースターエッグの数はいくつになりますか?",
+        "output": "80"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペニーのクラスは、科学の遠足で世界最大の動物園であるアニマランドに行きます。動物園にはさまざまな野生動物が飼育されています。最初の目的地は鳥園です。その日、鳥園では 3 種類のワシが展示されます。ハクトウワシが 20 羽、オウギワシが 15 羽、カンムリワシが 30 羽います。その日は何羽のワシが展示されるのでしょうか。",
+        "output": "65"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "鳥小屋の次は動物園の沼地です。ペニーは合計 55 匹のアオガエル、10 匹の毒ガエル、13 匹のアメリカアカガエルを数えました。ペニーは何匹のカエルを数えることができたでしょうか。",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "カエル以外にも、沼地には危険な動物が数匹生息しています。ペニーの先生は、ワニ 22 匹、アリゲーター 23 匹、毒蛇 5 匹を指摘しました。先生は全部で何匹の危険な動物を指摘したでしょうか。",
+        "output": "50"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "次に訪れたのは、何百種類もの昆虫が生息する昆虫館です。蝶とアリが好きなペニーは、さまざまな昆虫の写真を撮りました。彼女は、60 種類の蝶、15 種類のアリ、20 種類のその他の昆虫を捕らえることができました。ペニーは何種類の昆虫を捕らえたでしょうか。",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "校外学習の最後の目的地は水族館でした。ペニーは 35 種類のサメ、15 種類のウナギ、5 種類のクジラを特定しました。ペニーは何種類の生物を特定できたでしょうか?",
+        "output": "55"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校の生徒組織の代表であるソフィアは、学校の食堂で出される食事について話し合う会議を開きました。最初に議題に上がったのは、学校で出される食事が生徒たちに気に入られているかどうかを話し合うことです。383 人の生徒が食事が気にいっていると答え、431 人の生徒が気にいっていないと答えた場合、話し合いに参加した生徒は何人でしょうか。",
+        "output": "814"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校のメニューを変更する必要があることに同意した後、生徒は食事の提案に投票しました。337 人がメニューに野菜をもっと追加することに投票し、335 人が肉をもっと追加することに投票した場合、投票した生徒は何人ですか?",
+        "output": "672"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "投票の結果が僅差だったため、肉と野菜をバランスよく取り入れたメニューに決定しました。この決定には、3年生154名と4年生237名が賛成しました。この決定に賛成した生徒は何名ですか。",
+        "output": "391"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "この決定を受けて、ソフィアは学生たちに具体的な食べ物の種類を提案するように頼みました。279 人の学生がマッシュポテトをメニューに加えることを提案し、234 人がベーコンをメニューに加えることを提案した場合、新しい食べ物の提案に参加した学生は何人いたでしょうか。",
+        "output": "513"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "1 週間後、ソフィアは学生たちに新しいメニューが気に入ったかどうかを尋ねるアンケートを実施しました。その結果、235 人の学生が新しいメニューを気に入り、165 人が気に入らなかったことがわかりました。ソフィアのアンケートには何人の学生が参加しましたか?",
+        "output": "400"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "動物の権利を主張するタイラーは、さまざまな動物を密猟者から守るために、独自の動物保護区を建設することにしました。保護区はいくつかの地域に分かれています。最初に建設された地域は鳥類保護区でした。当初、その地域には絶滅の危機に瀕した鳥類が 29 種いました。それぞれの種に 7 組の鳥がいるとすると、合計で何組の鳥がいることになりますか。",
+        "output": "203"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "もう一つの地域は淡水生物の水生保護区でした。その地域に 6 つの水域があり、それぞれに 175 種類の魚がいるとすると、合計で何匹の魚がいることになりますか。",
+        "output": "1050"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "彼は海水動物用の水槽も 8 つ持っていました。それぞれの水槽には 64 匹の動物がいます。タイラーは何匹の海水動物を飼っていますか?",
+        "output": "512"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "保護区には、爬虫類のほとんどが通常生息する沼地もいくつかあります。沼地が 4 つあり、それぞれに 356 種類の爬虫類がいる場合、沼地に生息する爬虫類の数はどれくらいでしょうか。",
+        "output": "1424"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "未開発の区画があと 3 つあります。残りの区画の土地面積はそれぞれ 2,435 平方フィートです。未開発の土地の総面積はどれくらいですか?",
+        "output": "7305"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "今日はレイチェルの誕生日です。両親はレイチェルに楽しい時間を過ごしてもらいたいと思い、その日たまたま町で開催されていたサーカスに行きました。サーカスに到着すると、両親はチケット売り場に行き、チケット 1 枚あたりの値段を尋ねました。チケット 1 枚あたりの値段が 44 ドルで、7 枚のチケットを購入した場合、チケットにいくらお金を使ったことになりますか。",
+        "output": "308"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "サーカスのテントに入ってみると、観客用の座席が 4 つありました。各座席に 246 人を収容できるとしたら、テント全体では何人を収容できるでしょうか。",
+        "output": "984"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "最初の幕には 5 つのピエロのモビールが登場し、それぞれに 28 人のピエロが詰め込まれています。すべてのピエロのモビールの中には合計何人のピエロがいますか?",
+        "output": "140"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "次の演目は、数人のジャグラーが演じます。各ジャグラーが一度に 6 個のボールをジャグリングする場合、378 人のジャグラーが同時にショーを行う場合、ボールはいくつ必要でしょうか。",
+        "output": "2268"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "最後の演目として、サーカスは王冠をかぶった踊る動物たちを登場させました。各王冠が 7 色の羽で作られている場合、934 個の王冠に必要な羽の数はいくつでしょうか。",
+        "output": "6538"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アマンダと彼女の友達は週末に遊園地に行くことにしました。彼らの街から一番近い遊園地はスーパー ファンタスティック ランドです。1 時間の移動で 27 マイルの距離を移動し、3 時間移動した場合、SFL は街からどのくらい離れているでしょうか。",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "彼らがそこに着くと、SFL はすでに人でいっぱいでした。すべての入り口に長い列ができており、283 人が入場を待っています。SFL に 5 つの入り口がある場合、合計で何人が入場を待っているでしょうか。",
+        "output": "1415"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "楽しもうと決心した彼らは、次の遊園地であるハッピーランドへ向かいました。1 分の移動で 328 フィートの距離を移動し、9 分間移動した場合、ハッピーランドは SFL からどのくらい離れているでしょうか。",
+        "output": "2952"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ハッピーランドに到着すると、彼らはすぐに中に入ってチケットを購入しました。チケット 1 枚あたりの価格が 17 ドルで、8 枚のチケットを購入した場合、チケットにいくら費やしたことになりますか。",
+        "output": "136"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "また、短編小説の小冊子が詰まったセクションもあります。各小冊子が 9 ページで、短編小説セクションに 49 冊の小冊子がある場合、ジャックがそれらをすべて読むには、何ページ読む必要がありますか。",
+        "output": "441"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "彼のお気に入りの本の一つは、「Encyclopedia of Life and Everything Else」という本です。この本は 7 つの大きな章から成り、各章は 566 ページあります。この百科事典は全部で何ページありますか。",
+        "output": "3962"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ミニ図書館には古典文学のセクションもあります。ジャックが 6 人の古典文学作家のコレクションを持っていて、各作家が 33 冊の本を持っている場合、古典文学セクションには何冊の本があるでしょうか。",
+        "output": "198"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "179 羽の鳥が木に止まっていました。さらに 38 羽の鳥が木に飛んできました。木には全部で何羽の鳥がいたでしょうか。",
+        "output": "217"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "シンディのお母さんは 1215 枚のクッキーを焼きました。ポールのお父さんは 1112 枚のクッキーを焼きました。二人ともパーティーのためにクッキーを学校に持ってきました。全部で何枚のクッキーがあったでしょうか。",
+        "output": "2327"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "休み時間に遊び場には男の子が 27 人、女の子が 35 人いました。休み時間に遊び場には何人の子供がいましたか。",
+        "output": "62"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ポールはバスケットに 28 個のイチゴを入れました。さらに 35 個のイチゴを摘みました。それで、彼が持っていたイチゴの数はいくつですか。",
+        "output": "63"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ゲイリーは 73 ドル持っていました。ペットのヘビに 55 ドルを費やしました。ゲイリーにいくら残っていましたか?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "エレンは 380 個のレゴを持っていましたが、そのうち 57 個を失くしてしまいました。今、彼女はいくつのレゴを持っているでしょうか?",
+        "output": "323"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アーサーは 35 個のマフィンを焼きました。83 個のマフィンを作るには、あと何個のマフィンを焼く必要がありますか?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ウィリーはクレヨンを 1400 本持っています。ルーシーはクレヨンを 290 本持っています。ウィリーはルーシーよりクレヨンを何本多く持っていますか?",
+        "output": "1110"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "リゼットは 813 個の切手を持っています。ミネルバより 125 個多いです。ミネルバはいくつの切手を持っていますか?",
+        "output": "688"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ミーガンは 217 個のマーカーを持っていました。ロバートはさらに 109 個のマーカーを彼女に与えました。ミーガンは全部でいくつのマーカーを持っているでしょうか?",
+        "output": "326"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "DVD ブックには 126 枚の DVD が入っています。ブックにはすでに 81 枚の DVD が入っています。ブックにさらに何枚の DVD を入れることができますか?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ケリーさんは 121 本の任天堂のゲームを持っています。22 本のゲームを残すには、いくつを寄付する必要がありますか?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "コニーはビー玉を持っていました。彼女は 183 個をフアンにあげました。今、彼女に残っているビー玉は 593 個です。彼女は最初いくつ持っていたでしょうか。",
+        "output": "776"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Iesha は 344 冊の本を持っています。そのうち 136 冊は学校に関するもので、残りはスポーツに関するものです。Iesha はスポーツに関する本を何冊持っていますか?",
+        "output": "208"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジェームズは 1222 個の風船を持っています。エイミーは 513 個の風船を持っています。ジェームズはエイミーより何個多い風船を持っていますか?",
+        "output": "709"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ショーンは 223 本のホイッスルを持っています。チャールズより 95 本多いです。チャールズは何本のホイッスルを持っていますか?",
+        "output": "128"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "コニーは 323 個のビー玉を持っています。フアンはコニーより 175 個多いビー玉を持っています。フアンはビー玉をいくつ持っていますか?",
+        "output": "498"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは 4 ドル 28 セントの飛行機を買うために 5 ドル持っています。お釣りはいくらもらえるでしょうか。",
+        "output": "0.72"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "グスマンさんは 4 つの箱に均等に詰められた 48 個のドーナツを購入しました。各箱にはドーナツがいくつ入っていましたか?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "切手 1 枚の価格は 0.34 ドルです。切手 2 枚の価格は 0.68 ドルです。切手 3 枚の価格は 1.02 ドルです。切手 1 枚の価格が同じであれば、切手 4 枚の価格はいくらになりますか?",
+        "output": "1.36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ミルバーグの町には大人 5,256 人と子供 2,987 人が住んでいます。ミルバーグには何人の人が住んでいますか?",
+        "output": "8243"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "リサは 4 枚の DVD を 4.80 ドルでレンタルしました。各 DVD のレンタル料金はいくらですか?",
+        "output": "1.2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "瓶の中に 3,409 個のキャンディーが入っていました。145 個が赤で残りが青だった場合、青いキャンディーは何個ありますか?",
+        "output": "3264"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "農夫はリンゴを 127 個持っていました。彼は隣人に 88 個のリンゴを与えました。今、彼はリンゴをいくつ持っていますか。",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヒルト夫人はコンサートに行きました。コンサートには合計 65,899 人が参加しました。翌週、彼女は 2 回目のコンサートに行きましたが、参加者は 119 人以上でした。2 回目のコンサートには何人の人が参加しましたか。",
+        "output": "66018"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヒルト夫人は 3 ドル 75 セントを 3 人で均等に分ける必要があります。各人が受け取るお金はいくらでしょうか。",
+        "output": "1.25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヒルト夫人はパンを焼いています。パンを 2 斤焼くには小麦粉が 5 カップ必要です。パンを 1 斤焼くには小麦粉はどれくらい必要ですか。",
+        "output": "2.5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ルーシーは 212 匹の魚がいる水槽を持っています。彼女はさらに 68 匹の魚を購入したいと考えています。そうするとルーシーは何匹の魚を飼うことになるでしょうか。",
+        "output": "280"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ルーシーは 212 匹の魚を飼っています。280 匹の魚を飼うには、あと何匹の魚を買う必要がありますか?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ハリー ハウンドは昨日ひどい耳痛に襲われました。昨日耳の中を覗いてみると、右耳には元気いっぱいのノミが 36 匹、左耳には子ノミが 85 匹、静かに眠っていました。ハリー ハウンドの耳を掃除しました。何匹のノミが死んだでしょうか?",
+        "output": "121"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペット用品店にドッグフードが 600 袋、キャットフードが 327 袋あります。ドッグフードの袋の数はキャットフードの袋の数より何袋多いでしょうか。",
+        "output": "273"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "532 人が映画館で映画を見ています。劇場には 750 席あります。劇場の空席は何席ありますか?",
+        "output": "218"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ケンドラはドライブ旅行に出かけました。午後、彼女は自分の車と同じようなミニバンを 4 台見ました。その後、夕方には、自分の車と同じようなミニバンをもう 1 台見ました。彼女は自分の車と同じようなミニバンを全部で何台見たでしょうか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "幼稚園には男の子が 4 人、女の子が 5 人います。保育園には何人の子供がいますか?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校にはバスケットボールが 7 個あります。学校がさらに 3 個バスケットボールを購入した場合、学校にはバスケットボールがいくつあることになりますか?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ギャレットはおやつを買うために買い物に行き、オートミールレーズングラノーラバーを 6 本とピーナッツグラノーラバーを 8 本買いました。全部で何本のグラノーラバーを買ったでしょうか。",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジャックは午前中に 8 通、午後に 2 通のメールを受け取りました。ジャックは 1 日に何通のメールを受け取りましたか?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "チェス クラブには 3 人の会員がいます。4 人の新会員が入会した場合、チェス クラブには合計何人の会員がいるでしょうか。",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ライアンは毎日、英語の学習に 4 時間、中国語の学習に 3 時間を費やしています。彼は英語と中国語の学習に合計何時間を費やしているでしょうか。",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "お母さんはジャガイモを買いました。15 個をサラダに使い、24 個をマッシュポテトに使いました。残ったジャガイモが 13 個だとすると、最初にお母さんが買ったジャガイモは何個でしょうか。",
+        "output": "52"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ゲイリーはステッカーをいくつか持っていました。彼はルーシーに 42 枚のステッカーを、アレックスに 26 枚のステッカーを渡しました。残りのステッカーが 31 枚だった場合、ゲイリーが最初に持っていたステッカーの数はいくつですか。",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "サイモンが 1 日あたり 42 個のペースで 519 個のギフトバッグを作る必要がある場合、すべてのギフトボックスを作り終えるのに何日かかりますか。",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジェーンは 1 日に 16 個の花瓶に花を生けることができます。生けるべき花が 248 個ある場合、すべてのフラワー アレンジメントを仕上げるのに何日かかりますか。",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "1 箱にチョークを 18 本入れることができます。チョークが 3,484 本ある場合、すべてのチョークを収納するには何箱必要でしょうか。",
+        "output": "194"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "バスは 48 人の乗客を運ぶことができます。1,230 人の生徒と教師がいる学校が校外学習に行く場合、何台のバスをレンタルする必要がありますか?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "タンクの容量は 32 ガロンです。会社が 728 ガロンの石油を購入した場合、すべての石油を保管するにはタンクがいくつ必要ですか?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "農場には 22 匹の犬がいます。犬たちは 5 つの犬小屋に均等に住んでいます。各犬小屋には何匹の犬がいますか。",
+        "output": "4"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "39 個の風船を 7 つの均等なグループに分けます。各グループには風船がいくつありますか?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校は 54 個のバスケットボールを購入し、7 つのクラスに均等に配布しました。各クラスにはバスケットボールが何個ずつ配られましたか?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "クラスには 32 人の生徒がいます。先生は生徒を 5 つの均等なグループに分けました。各グループには何人の生徒がいますか。",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "観光客のグループは 26 人です。ホテルでは、3 人用の大きな部屋と 2 人用の小さな部屋をいくつか借りたいと考えています。部屋数を最小限にしてすべての部屋を満室にするには、大きな部屋をいくつ借りればよいでしょうか。",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "バレエ教室では、90 人の生徒を 7 人ずつの大きなグループと 3 人ずつの小さなグループに分けたいと考えています。グループの数を最小限にするには、大きなグループをいくつ作ればよいでしょうか。",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ニックは 68.50 ドル節約しました。ニックがリーより 25.43 ドル多く節約した場合、リーはいくら節約したでしょうか。",
+        "output": "43.07"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "私は機械に別の数字を入力しました。機械は 15 を足して、6 を引きました。機械から 35 という数字が出てきました。私が入力した数字は何でしょうか。",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "シンディとダンは同じ数のステッカーを持っています。シンディは 15 枚のステッカーを使用しました。ダンは 18 枚多くステッカーを購入しました。ダンはシンディより何枚多くステッカーを持っていたでしょうか。",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "エドはダグより 22 個多くビー玉を持っていました。ダグは遊び場で 8 個のビー玉を失いました。それでエドはダグより何個多くビー玉を持っていましたか?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "私のアイスクリームショップは今日とても忙しかったです。気温は 98 度で、アイスクリームコーンを 67 個販売しました。ミルクシェイクはアイスクリームコーンより 15 個多く売れました。ミルクシェイクは何個売れたでしょうか?",
+        "output": "82"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "リトルリーグのスタジアムには 92 席あります。今日の試合には 47 人が来場しました。38 人が横断幕を持っていました。空席は何席ありましたか?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "マウラは毎年夏に貝殻を集めます。彼女の家族は 21 日間ビーチハウスに滞在します。この夏、マウラは 75 個の貝殻を見つけました。彼女はそのうちのいくつかを妹にあげました。マウラの貝殻は 57 個になりました。マウラは妹に何個の貝殻をあげたでしょうか。",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "動物園で一番背の高いキリンは、96 インチの高さです。動物園には大人のキリンが 14 頭います。一番背の低いキリンは 68 インチです。大きいキリンはどれくらい背が高いでしょうか。",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "セントラル シティ動物園には 45 匹のチンパンジーがいます。チンパンジーは毎日合計 72 本のバナナを食べます。来週、動物園は 18 匹のチンパンジーを新しい檻に移します。古い檻に残るチンパンジーは何匹でしょうか。",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "動物園の飼育員はペンギンに与える魚を 68 匹持っています。19 匹のペンギンがすでに魚をもらっています。動物園には 36 匹のペンギンがいます。あと何匹のペンギンに魚をあげればよいでしょうか。",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ラルフは 50 ページの写真アルバムを持っています。彼は野生動物の写真を 26 枚持っています。ラルフの友人のデリックは野生動物の写真を 34 枚持っています。ラルフが持っている野生動物の写真は、ラルフより何枚少ないでしょうか。",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "リサは3年生全員をパーティーに招待しました。生徒は全部で48人います。そのうち23人は男子生徒で、25人は女子生徒です。9人の生徒はパーティーに行けません。何人の生徒が参加するでしょうか？",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビリーは楽譜に載っている 24 曲を演奏できます。18 種類のギターコードの名前を知っています。ビリーの楽譜には 52 曲が載っています。ビリーがまだ覚えなければならない曲は何曲ありますか。",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "お母さんはチョコチップクッキーを 32 枚作りました。材料を混ぜるのに 24 分、焼くのに 16 分かかりました。ジュリーとマットは夕食後に 9 枚のクッキーを食べました。残ったクッキーは何枚ですか?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "数学のテストには 45 問あります。17 問は文章題です。28 問は足し算と引き算の問題です。スティーブは 38 問しか答えられません。スティーブは何問空欄のままにしましたか?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ケンドラは毎週 12 個の新しいスペリング単語を学習します。彼女の目標は、8 歳の誕生日までに 60 個の新しい単語を学習することです。彼女はすでに 36 個の新しい単語を学習しました。ケンドラはあと何個の単語を学習する必要がありますか?",
+        "output": "24"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "トリップとシャーロットは 36 マイルのハイキングに出かけます。トリップのバックパックの重さは 25 ポンドです。シャーロットのバックパックの重さはそれより 7 ポンド軽いです。彼らは初日に 9 マイルハイキングしました。あと何マイル残っていますか?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ドラは次の土曜日に 10 歳の誕生日パーティーをします。64 人を招待しました。彼女のお母さんは 36 個のサンドイッチを注文しました。16 人はパーティーに来られません。ドラのパーティーには何人来るでしょうか。",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "トミーは 79 ドル持っています。35 ドルのカメラを購入したいと考えています。また、59 ドルの CD プレーヤーも購入したいと考えています。トミーにはあといくらお金が必要ですか。",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "オマールはチェッカーをするのが大好きです。昨日は 37 ゲームをしました。今日は 49 ゲームをしました。オマールは 18 ゲーム負けました。何ゲーム勝ちましたか?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ショーンは友達とモノポリーをしています。彼はすでに 27 軒の家を持っています。ショーンはパーク プレイスを購入するために 8 軒の家を売却しました。彼は家賃をたくさん受け取ったので、さらに 12 軒の家を購入することにしました。ショーンは当時何軒の家を持っていましたか。",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ダイアンはクッキーを一箱買いたいと思っています。クッキーの値段は 65 セントです。ダイアンは 27 セント持っています。あといくらお金が必要ですか。",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アンディは 31 枚の野球カードを持っていました。お父さんがさらに何枚かくれました。すると、アンディは 50 枚の野球カードを所有することになります。アンディはお父さんから何枚の野球カードをもらったでしょうか。",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ローリーはカートよりビー玉を 12 個多く持っています。カートはデニスよりビー玉を 45 個少なく持っています。デニスはビー玉を 70 個持っています。ローリーはビー玉をいくつ持っていますか?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アンソニーは毎日昼食に 75 セントもらいます。彼は 27 セントでジュース ボックスを買いました。また、カップケーキも買いました。アンソニーには 8 セントが残りました。カップケーキはいくらでしたか?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "12 月はおもちゃ屋にとって忙しい月です。棚には 95 個のゲームが並んでいました。最初の週に 68 個のゲームが売れました。店は工場からさらに 47 個のゲームを入荷しました。当時、ゲームはいくつありましたか。",
+        "output": "74"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "3 年生はフェアを開催します。販売するチケットは 90 枚あります。最初の週に 38 枚、2 週目に 17 枚が売れました。まだ何枚のチケットが売れるでしょうか。",
+        "output": "35"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アイスリンクにはレンタルできるスケート靴が 85 足あります。アイスリンクがオープンしたときにスケート靴をレンタルしたのは 18 人でした。最初の 1 時間でさらに 25 人がスケート靴をレンタルしました。スケート靴は何足残っていますか?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジェイクは家の前庭にキャンディスタンドを設置しました。彼は 80 個のキャンディを販売しています。月曜日には 15 個のキャンディを販売しました。火曜日にはそれよりはるかに多くのキャンディを販売しました。水曜日までにジェイクの手元には 7 個しか残っていませんでした。ジェイクは火曜日にキャンディを何個販売しましたか。",
+        "output": "58"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "スキー場は 1 月に 65 インチの積雪があったと報告しました。最初の週には 18 インチの積雪が観測されました。2 週目には 25 インチの積雪が観測されました。その月の残りの期間はどのくらいの積雪がありましたか?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "キャリーとパットは体育館に椅子を運んでいます。2人は椅子74脚を運ぶことに同意しました。キャリーは椅子28脚を運びました。パットは椅子29脚を運びました。あと何脚の椅子を運ばなければならないでしょうか。",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジーンはキャンディーの袋を持っていました。彼女は友達に 18 個あげました。ジーンは 7 個食べました。今残っているのは 16 個です。ジーンは最初キャンディーを何個持っていたでしょうか。",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "シャーリーンはビーズネックレスを 60 個作りました。そのうち 16 個をクラフト フェアで売りました。18 個を友達にあげました。シャーリーンはネックレスを何本持っていたのでしょうか。",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ラモンはスーパーマーケットで働いています。彼はチョコデライトの箱を 26 個棚に置きました。棚にはすでに 15 個ありました。その日、ラモンは棚の上の箱を 22 個数えました。チョコデライトの箱が何個なくなっていましたか。",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "52 人の子供と 29 人の大人が陸上競技大会に行きました。スタジアムには 95 席あります。空席は何席ありましたか。",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ダイアンはクッキーを一箱買いたいです。クッキーの値段は 65 セントです。ダイアンは 27 セント持っています。クッキーの値段とダイアンのお金の差額はいくらですか?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "数学のテストには 45 問あります。17 問は文章題です。28 問は足し算と引き算の問題です。スティーブは 38 問しか答えられません。数学のテストの全問題数とスティーブが答えられる問題数の差はどれくらいですか。",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビリーはゲームセンターで 48 枚のチケットを獲得しました。ヨーヨーを購入した後、32 枚のチケットが残りました。ビリーが獲得したチケットの数とヨーヨーを購入した後に残ったチケットの数の差はいくらですか。",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ハロウィーンにフランクは 15 ポンドのキャンディーをもらいました。彼がナンシーに 8 ポンドあげたとしたら、フランクがナンシーにあげる前のキャンディーのポンド数とフランクがナンシーにあげたキャンディーのポンド数の差はいくらですか?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビリーは友達とバスケットボールをしていました。ビリーは 7 点を獲得し、友達は 9 点を獲得しました。ビリーの得点と友達の得点の差はどれくらいでしょうか。",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "マリアがフェアに着いたとき、彼女の所持金は 87 ドルでした。フェアを去ったとき、彼女の所持金は 16 ドルでした。マリアがフェアに着いたときと去ったときのドルの額の差はいくらですか。",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "家具店に椅子が 15 脚ありました。いくつか売れて、3 脚が残りました。売れる前の椅子の数と残った椅子の数の差はいくらですか。",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ゾーイは木からリンゴを 5 個摘みました。今、木にはまだリンゴが 6 個残っています。ゾーイが摘んだリンゴの数と今木にあるリンゴの数の違いは何ですか。",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ピエロは風船を 16 個持っていました。パーティーで 4 個を配りました。ピエロが最初に持っていた風船の数とパーティーで配った風船の数の違いはどれくらいでしょうか。",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "エイミーはキャンディーを持っていました。彼女は友達に6個あげて、5個が残りました。エイミーがあげたキャンディーと残したキャンディーの違いは何でしょうか。",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "あるファーストフード店にホットドッグが 91 個ありました。いくつか売れた後、20 個が残りました。売れる前のホットドッグの数と売れた後のホットドッグの数の差はどれくらいでしょうか。",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ガム 1 パックの値段が 2 ドルの場合、16 ドルでガムを何パック買えますか?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "1 ラウンドの費用が 80 ドルの場合、400 ドルでゴルフを何ラウンドプレイできますか?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "カートリッジ 1 個が 15 ドルの場合、180 ドルでインク カートリッジをいくつ購入できますか?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "1 パックの値段が 11 ドルだとすると、110 ドルで DVD を何パック買えますか?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "会社には大小さまざまなインクカートリッジが在庫されています。カートリッジ 1 個が 14 ドルの場合、182 ドルで何個のインクカートリッジを購入できますか。",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "店には必要な CD と DVD があります。1 パックが 12 ドルの場合、132 ドルで DVD を何パック購入できますか?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "カーニバルでは、6 人の友人が合計 234 枚のチケットを購入しました。各人が同じ枚数を購入した場合、各人が購入したチケットの枚数はいくつになりますか。",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "サラはビーズネックレスを作っています。彼女は 945 個のビーズを持っていて、同じ数のビーズを使って 7 つのネックレスを作っています。各ネックレスには何個のビーズを使うのでしょうか。",
+        "output": "135"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジョージは 648 個のキャンディーを持っていました。キャンディーを 8 つの袋に分けて、各袋に同じ量のキャンディーを入れた場合、各袋には何個のキャンディーが入っているでしょうか。",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "パレットに積まれた箱の重さは 267 キログラムです。パレットに 3 つの箱が積まれていて、それぞれの箱の重さが同じだった場合、それぞれの重さはいくらになりますか。",
+        "output": "89"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "エドワードは 7 つのバインダーに 763 枚の野球カードを保管していました。各バインダーに同じ数のカードが入っている場合、各バインダーには何枚のカードが入っているでしょうか。",
+        "output": "109"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "昼食会には 234 人が出席します。テーブルに 9 人座れる場合、テーブルはいくつ必要ですか。",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "靴屋が新学期セールを行っていて、2 足の靴を 23.10 ドルで購入できました。大家族が 7 足の靴を購入するとしたら、費用はいくらになるでしょうか。",
+        "output": "80.85"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "店ではビーフジャーキーが 3 ポンドで 34.23 ドルでした。7 ポンド買ったらいくらになりますか?",
+        "output": "79.87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "青果店ではバナナ 2 袋を 12.46 ドルで購入できます。6 袋買うといくらになりますか?",
+        "output": "37.38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ポールは古いおもちゃを梱包していました。8 個のおもちゃを 1 つの箱に詰め込むことができました。ポールが 4 つの箱に詰めたとしたら、全部でいくつのおもちゃを梱包したことになりますか。",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは自分の部屋の棚ごとに 9 体のアクション フィギュアを収めることができます。彼の部屋には棚が 3 つあります。棚には合計で何体のアクション フィギュアを収納できるでしょうか。",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "航空会社では、乗客 1 人につき 8 個の荷物を持ち込むことができます。4 人で飛行機に乗る場合、荷物は何個まで持ち込めますか?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "マリアは小銭を積み重ねていました。それぞれの積み重ねには 3 枚のコインがありました。積み重ねが 5 つあった場合、彼女が持っていたコインの枚数はいくつですか。",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ルークはお母さんの洗濯を手伝っていました。彼らは 1 回につき 7 枚のタオルを 6 回洗濯しました。全部で何枚のタオルを洗ったでしょうか。",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Larry&#39;s Lawn Care では、生け垣の刈り込みに 9 ドルかかります。ヘンリーが生け垣を 3 つ持っている場合、いくらかかるでしょうか。",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ポールはお気に入りの本シリーズを読み進めていました。毎週 4 冊の本を読みました。5 週間後には何冊の本を読み終えたでしょうか。",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "8 人の友人グループがハロウィーンのために海賊の衣装を着ていました。衣装 1 着につき 5 ドルかかるとしたら、いくらかかったでしょうか。",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ケールはメモ用紙に絵を描いていました。1 ページに 5 枚の絵を描けます。6 ページある場合、何枚の絵を描くことができますか。",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビアンカの誕生日に、友達 5 人が彼女に 6 ドルをくれました。彼女は誕生日にいくらお金をもらったでしょうか?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "州立フェアのジェットコースターは、1 回の乗車につきチケットが 6 枚かかります。8 人の友人がジェットコースターに乗る場合、チケットは何枚必要でしょうか。",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ナンシーは浴室用の石鹸を買っていました。1 パックに 5 個入った石鹸を 6 パック購入しました。彼女は何個の石鹸を買ったでしょうか。",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ティファニーは家用のハンドタオルを買っていました。彼女は 9 パックを購入しました。各パックにはタオルが 3 枚入っています。彼女は何枚のタオルを買ったでしょうか。",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペイジのドレッサーの引き出しには、それぞれ 2 着の衣類を収納できます。引き出しが 4 つあったら、何着の衣類を収納できるでしょうか。",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "キャロルは友達に誕生日の招待状を送っていました。彼女が購入した招待状のパッケージ 1 つに 9 枚の招待状が入っていて、5 パック購入した場合は、何人の友達を招待できるでしょうか。",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある美術館に絵画が 13 枚ありました。そのうち 8 枚を処分したら、何枚の絵が残るでしょうか。 ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ハロウィーンのためにウィルは 15 ポンドのキャンディーを手に入れました。ヘイリーに少しあげた後、残りは 9 ポンドでした。ウィルはヘイリーに何ポンドあげたでしょうか。 ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビクターの携帯電話には 19 個のアプリがありました。そのうち 8 個を削除しました。ビクターにはいくつのアプリが残っていますか? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "テープの長さは 13 メートルでした。ヘイリーはそれを段ボール箱の封印に使用しました。現在、テープの長さは 6 メートルです。彼女はどのくらいの量のテープを使用したのでしょうか。",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "デイブはゲームセンターで 13 枚のチケットを獲得しました。そのうち 6 枚を使っておもちゃを買ったとしたら、デイブに残ったチケットは何枚でしょうか。 ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フランクは家族のバーベキュー用に 15 ポンドのキノコを買いました。8 ポンド食べたら、何ポンド残りましたか?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "カレブはシャツを 17 枚持っています。そのうち 7 枚を処分したら、カレブは何枚のシャツを持つことになりますか。 ",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ピエロは風船を 16 個持っていました。パーティーで 4 個あげました。まだ風船はいくつ残っていますか? ",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "デビーは 13 枚の DVD を所有していました。そのうち 6 枚を売った場合、何枚残ったでしょうか。 ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フランクは 13 個の箱を持っていました。8 個をおもちゃでいっぱいにしたら、まだいくつの箱が残っていますか?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "小さな町には 98 匹の猫がいます。そのうち 92 匹が眠っているとしたら、まだ起きている猫は何匹でしょうか。",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある農家の庭には 97 個のトマトがありました。そのうち 83 個を収穫したら、何個残ったでしょうか。 ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "棚には玉ねぎが 98 個ありました。そのうち 65 個が売れました。今、棚には玉ねぎが何個ありますか。",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "オリビアのフォルダーには 81 枚の紙が入っていました。彼女は 56 枚を使いました。今彼女は何枚持っているでしょうか。 ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ゲームをプレイしている間、ケイレブのライフは 98 個ありました。いくつかのライフを失った後、残りは 73 個でした。ケイレブはいくつのライフを失ったでしょうか? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある店にシャツが 49 枚あります。何枚か売れて、28 枚が残りました。何枚売れたでしょうか。 ",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビリーは 74 個のさくらんぼを持っていました。そのうち 72 個を食べました。ビリーにはさくらんぼがいくつ残っていますか。 ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは25セント硬貨を持っていました。ゲームセンターで9枚使い、79枚が残りました。最初に何枚の25セント硬貨を持っていたのでしょうか。 ",
+        "output": "88"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある農家の庭にはトマトが 46 個ありました。いくつか収穫した後、3 個が残りました。何個収穫したでしょうか。 ",
+        "output": "43"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "あるシェフがリンゴを 46 個持っていました。パイをいくつか作った後、14 個が残りました。シェフはリンゴを何個使いましたか? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "電車には58人が乗っていました。次の停車駅で45人が降りました。今電車には何人乗っていますか？ ",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは屋上に着くまでに 96 段の階段を登る必要がありました。彼はすでに 74 段登りました。アダムが今登るべき階段はあと何段残っていますか。",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "マイクは 51 冊の本を持っていましたが、ガレージ セールで 45 冊を売りました。マイクはまだ何冊の本を持っていますか。 ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビリーはゲームセンターで 48 枚のチケットを獲得しました。ヨーヨーを購入した後、32 枚のチケットが残りました。ヨーヨーのチケットの値段はいくらですか。 ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "誕生日パーティーで、ピエロが 6 個の風船を配りました。現在、残っている風船は 55 個です。ピエロは最初、風船をいくつ持っていたでしょうか。 ",
+        "output": "61"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "オリビアの財布には 94 ドル入っていました。スーパーマーケットに行った後、78 ドル残っていました。彼女はいくら使ったでしょうか。",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ネッドはビデオゲームをプレイ中に 13 個の命を失いました。現在、彼の命は 70 個あります。ネッドは最初いくつの命を持っていましたか? ",
+        "output": "83"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "グウェンはフリーマーケットで売るために 98 冊の本を用意しました。活動が終わった後、96 冊の本が残っていました。何冊売れたでしょうか。",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "あるシェフが 77 個のチェリーを持っていました。そのうち 60 個を使ってパイを作った場合、チェリーはいくつ残りますか? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "イザベルは DS ゲームを 90 個持っていました。彼女が 87 個を友達にあげたら、何個残るでしょうか? ",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある店にシャツが 35 枚あります。そのうち 30 枚売れた場合、シャツは何枚残りますか。 ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペイジは鉛筆を 3 本使いました。現在、彼女は 91 本の鉛筆を持っています。ペイジは最初、何本の鉛筆を持っていましたか。 ",
+        "output": "94"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは35個のイチゴを摘みました。少し食べた後、33個が残りました。アダムはイチゴを何個食べましたか？",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "動物園の檻には 68 匹のヘビがいました。42 匹が隠れていたとしたら、隠れていなかったヘビは何匹でしょうか。 ",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペットショップに 85 匹のスナネズミがいました。そのうち 69 匹を売ったとしたら、何匹残ったでしょうか。",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ファイルを整理しているときに、ビアンカは 2 枚の写真、8 曲、7 個のテキスト ファイルを削除しました。削除したファイルの合計数はいくつですか? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "新年のパーティーでは、赤い風船 2 個、緑の風船 12 個、白い風船 6 個が使用されました。使用された風船の合計数はいくつですか? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヘンリーはすでに 5 ドル持っていましたが、家事をしてさらに 2 ドル稼ぎました。友達は 13 ドル持っていました。2 人のお金を合わせると、いくらになるでしょうか。 ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヘンリーは新しい花火を 2 個購入し、友人は 3 個購入しました。昨年からすでに 6 個取っておいたとしたら、今は何個あるでしょうか。 ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペットショップにシャム猫が 13 匹と飼い猫が 5 匹いました。セール中に 10 匹の猫が売れました。今残っている猫は何匹ですか? ",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "オリバーは学校が始まる前に半袖シャツ 39 枚と長袖シャツ 47 枚を洗わなければなりませんでした。学校が始まるまでに 20 枚しか洗っていなかったとしたら、洗わなかったシャツは何枚でしょうか。 ",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フェイとお母さんは庭でニンジンを摘んでいました。フェイは 23 本、お母さんは 5 本摘みました。良いニンジンが 12 本だけなら、悪いニンジンは何本あったでしょうか。 ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校の図書フェアで、サムは冒険小説を 13 冊、ミステリー小説を 17 冊購入しました。15 冊が中古だった場合、サムは新しい本を何冊買ったことになりますか。 ",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "エイミーのフラッシュ ドライブには 26 個の音楽ファイルと 36 個のビデオ ファイルがありました。48 個のファイルを削除した場合、フラッシュ ドライブに残っているファイルはいくつありますか? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ペイジさんは宿題として数学の問題を 43 問、理科の問題を 12 問やりました。学校で 44 問を終わらせたとしたら、宿題で何問やらなければならなかったでしょうか。 ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "買い物中、マリアは緑のタオルを 35 枚、白いタオルを 21 枚買いました。そのうち 34 枚を母親にあげたら、マリアは最終的に何枚のタオルを手に入れたでしょうか。 ",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校のバスケットボール チームのトライアウトを受けた女子は 17 名、男子は 32 名でした。そのうち 10 名だけが呼び戻されたとしたら、何人の生徒が選考に落ちたのでしょうか。 ",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "「The Greasy Spoon」レストランのウェイターは 39 人の客の接客を担当していました。ランチタイムの混雑時に、さらに 12 人の客が来ました。49 人の客がチップを残さなかったとしたら、何人の客がチップを残したでしょうか。 ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校のカフェテリアは、生徒の昼食用に赤いリンゴを 25 個、青いリンゴを 17 個注文しました。しかし、果物を希望した生徒が 10 人だけだった場合、カフェテリアには最終的に何個の余分なリンゴが残ったでしょうか。 ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "シェフはリンゴを 3 個しか持っていなかったので、さらに 2 袋注文しました。各袋にリンゴが 9 個入っている場合、シェフが持っているリンゴは全部で何個でしょうか?",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "エドワードは芝刈り1回につき8ドル稼ぎました。5回の芝刈りですでに7ドル貯金していた場合、合計でいくらのお金があるでしょうか？",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "コミックコンベンションで、ジャネットはコミックを 8 冊買いたいのですが、1 冊あたり 4 ドルかかり、入場料も 2 ドルかかります。入場して欲しいものを買うには、いくらお金を持っていくべきでしょうか。",
+        "output": "34"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "食料品店に、普通のソーダのボトルが 49 本、ダイエットソーダのボトルが 35 本ありました。全部で何本ありましたか?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "クイズゲームの前半で、ケイレブは 43 ポイントを獲得しました。後半では 23 ポイントを獲得しました。合計で何ポイントを獲得したでしょうか。",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヘンリーはパーティーで食べ物に 45 ドル、飲み物に 33 ドルを費やしました。ヘンリーは合計でいくら使いましたか?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビアンカは学校で 22 分、家で 19 分絵を描きました。彼女は合計何分絵を描いたでしょうか。",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "あるファーストフード店では、小さいホットドッグを 58 個、大きいホットドッグを 21 個販売しました。合計で何個のホットドッグが売れたでしょうか。",
+        "output": "79"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "水槽には 10 匹の魚がいました。その後、3 匹の魚が追加されました。現在、水槽には魚が何匹いますか。",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "マリアの机には 50 枚の紙があり、バックパックにはさらに 41 枚の紙がありました。全部で何枚ありましたか?",
+        "output": "91"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは 79 ドルを貯金していました。家事を少しした後、母親がさらに 13 ドルくれました。彼が持っているお金は全部でいくらですか。",
+        "output": "92"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フェアでエイミーは 33 枚のチケットを持っていて、その後さらに 21 枚を購入しました。エイミーは全部で何枚のチケットを持っていたでしょうか。",
+        "output": "54"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "パン屋はすでに 78 個のケーキを持っていましたが、さらに 9 個作りました。パン屋が持っていたケーキは全部で何個でしょうか。",
+        "output": "87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "動物園でゾーイは 67 枚の写真を撮りました。彼女の妹がさらに 17 枚の写真を撮ったとしたら、全部で何枚の写真を撮ったことになりますか。",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ケイティは DS ゲームを 72 個持っていて、彼女の友達は 23 個持っていました。彼女たちは全部でいくつ持っていますか?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "運動中、ポールは午前中に 59 回、午後にさらに 38 回腕立て伏せをしました。ポールは合計で何回腕立て伏せをしましたか?",
+        "output": "97"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ヘイリーは土曜日に 6 時間、日曜日に 3 時間テレビを見ました。ヘイリーは合計で何時間テレビを見ましたか。",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビクターは 10 ドル持っていました。お小遣いとしてさらに 8 ドルもらいました。彼が持っているお金は全部でいくらですか?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある店では冷たい飲み物を 8 杯、温かい飲み物を 3 杯販売しました。合計で何杯売れたでしょうか。",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フェイは 7 冊の本を持っていました。ガレージセールでさらに 12 冊買ったら、全部で何冊になるでしょうか。",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ロジャーは去年 15 回、今年は 3 回映画を見に行きました。ロジャーは全部で何回映画を見に行きましたか?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビクターは 9 冊の本を持っていました。ブックフェア中にさらに 3 冊購入しました。ビクターは全部で何冊の本を持っていましたか。",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "デビーは小麦粉を 12 ポンド持っていました。さらに 4 ポンド買ったら、合計で何ポンドになりますか。",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジェリーは 7 台のビデオゲームを持っていました。誕生日にさらに 2 台もらいました。ジェリーは全部で何台のゲームを持っていましたか?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "教師は 38 枚のワークシートを採点する必要がありました。教師が 4 枚を採点し、その後さらに 15 枚が提出された場合、教師は何枚のワークシートを採点する必要がありますか?",
+        "output": "49"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ビアンカは 45 冊の塗り絵の本を持っていました。そのうち 6 冊を寄付し、さらに 20 冊購入したら、合計で何冊になるでしょうか。",
+        "output": "59"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ロビンの MP3 プレーヤーには 30 曲が入っていました。古い曲を 8 曲削除して、新しい曲を 10 曲追加した場合、彼女の MP3 プレーヤーには何曲入っているでしょうか。",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ナンシーは庭からニンジンを 12 本摘みました。そのうち 2 本を捨てて、翌日さらに 21 本摘んだとしたら、全部で何本のニンジンが手に入るでしょうか。",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ゾーイの冷蔵庫には 42 本のボトル入りの水がありました。そのうち 25 本を飲んで、さらに 30 本買ったら、何本のボトルが残るでしょうか。",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある花屋が 50 本のバラを育てていました。そのうち 15 本を売り、その後さらに 21 本摘んだとしたら、バラは何本になるでしょうか。",
+        "output": "56"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある店の箱にはオレンジが 40 個入っていました。古いオレンジ 25 個を捨てて、新しいオレンジ 21 個を箱に入れると、箱にはオレンジが何個入るでしょうか。",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ある店に塗り絵の本の在庫が 87 冊ありました。結局、それらをセールにして 33 冊を処分しました。残った本を棚に並べ、各棚に 6 冊ずつ並べました。棚は何段使用しましたか。",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "トムは 36 着の衣類を洗濯しなければなりませんでした。そのうち 18 着を 1 回の洗濯で洗いましたが、残りを 2 回に分けて洗うことにしました。1 回の洗濯で何着の衣類が洗えるでしょうか。",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "マイクは夏の間、芝刈りをして 90 ドルを稼ぎました。新しい芝刈り機の刃を買うのに 45 ドルを費やしたら、残ったお金で 5 ドルのゲームをいくつ買えるでしょうか。",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フェイは友人の結婚式のために 88 個の花を摘みました。彼女は 1 個につき 5 個の花でブーケを作っていました。結婚式の前に 48 個の花が枯れてしまったら、彼女はあと何個のブーケを作ることができるでしょうか。",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ロジャーは 63 ドル持っていました。新しいゲームに 48 ドルを費やしたら、残ったお金で 3 ドルのおもちゃをいくつ買えるでしょうか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フェイのチームは野球の試合に勝ち、合計 68 点を獲得しました。フェイが 28 点を獲得し、他の全員がそれぞれ 8 点を獲得した場合、彼女のチームには何人の選手がいたでしょうか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ハロウィーンにビアンカはキャンディーを 17 個もらいました。彼女は 2 個食べて、残りを 3 個ずつ山に積みました。彼女はいくつの山を作ることができたでしょうか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジェリーは古いゲームを売っていました。最初は 68 個持っていましたが、そのうち 4 個を売りました。残りは箱 1 つにゲームを 8 個ずつ入れて梱包しました。箱は何個必要だったでしょうか。",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "新しい建物には 14 枚の窓が必要です。建築業者はそのうち 5 枚をすでに取り付けていました。各窓の取り付けに 4 時間かかる場合、残りの窓の取り付けにはどのくらいの時間がかかりますか?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ウェンディはリサイクルした缶の袋 1 つにつき 5 ポイントを獲得しました。缶が 11 袋あったが、そのうち 2 袋をリサイクルしなかった場合、獲得したポイントはいくつになるでしょうか。",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アダムは芝刈り1回につき9ドル稼ぎました。芝刈りをしなければならなかったのに、8回刈り忘れた場合、実際に稼いだお金はいくらになるでしょうか。",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "昼食時にウェイターが 10 人の客に接客し、そのうち 5 人はチップを残しませんでした。チップをくれた客から 1 人あたり 3 ドル受け取った場合、ウェイターはいくら稼いだことになりますか。",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "デイブは 10 台のビデオ ゲームを持っていましたが、そのうち 2 台は動作しませんでした。動作するゲームを 1 台あたり 4 ドルで販売するとしたら、いくら稼げるでしょうか。",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フェアで、ケイレブはチケットを 6 枚購入しました。観覧車に乗った後、チケットが 3 枚残りました。チケット 1 枚が 9 ドルだとすると、ケイレブは観覧車に乗るのにいくらお金を使ったでしょうか。",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "サムは 9 人の友達を誕生日パーティーに招待しましたが、6 人は来られませんでした。各人がちょうど 2 個ずつ食べられるようにカップケーキを買いたい場合、何個買えばよいでしょうか。",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アンは 15 個のスイートタートを持っていました。アンが 3 人の友達に同じ数のスイートタートをあげた場合、各人はスイートタートを何個食べたでしょうか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "シャーリーはトレフォイルを 54 箱販売しました。シャーリーは 6 箱入りのケースを何個配達する必要がありますか?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フランシスの鉛筆コレクションには 25 本の鉛筆があります。鉛筆を 5 つのグループに分けると、各グループの大きさはどれくらいですか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "クラスには 9 人の生徒がいて、スキットルズは 27 個あります。スキットルズを生徒間で均等に分けるとしたら、生徒 1 人あたり何個もらえるでしょうか。",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "テリーのボトルキャップコレクションには 560 個のボトルキャップがあります。ボトルキャップを 80 のグループに分けると、各グループの大きさはどれくらいでしょうか。",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ローレンスは 5504 個のビー玉を持っています。それを 64 人の友人に分けると、各友人はビー玉を何個もらえるでしょうか。",
+        "output": "86"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "アルバートは 34 人の友人をパーティーに招待しています。彼は 1802 個のクッキーを持っています。各友人はクッキーを何枚ずつ受け取るでしょうか?",
+        "output": "53"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "フィリップのバナナコレクションには 407 本のバナナがあります。バナナが 11 のグループに分かれている場合、各グループの大きさはどれくらいですか。",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ピーターはチケットを 54 枚と鉛筆を 4 本持っています。チケットを 9 人の友達に分けると、友達 1 人あたり何枚のチケットがもらえるでしょうか。",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "レベッカは卵のコレクションを 2 つずつのグループに分割したいと考えています。レベッカは 16 個の卵と 3 個のビー玉を持っています。いくつのグループが作成されますか?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "キャサリンは 18 個のボトルキャップと 19 個のブロックを持っています。彼女がボトルキャップを 6 人の友達と分け合った場合、友達 1 人あたりボトルキャップはいくつもらえるでしょうか?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校では校外学習を計画しています。学校には 11 の教室があります。全校生徒数は 100 人で、スクールバス 1 台につき座席数は 20 です。校外学習には何台のバスが必要ですか。",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ジャニスのバナナコレクションには 3300 本のバナナがあります。ジャニスはクレヨンも 5 本持っています。バナナが 75 のグループに分かれている場合、各グループの大きさはどれくらいでしょうか。",
+        "output": "44"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "クリスは 82 人の友人をパーティーに招待しています。彼は 1804 枚のクッキーと 10 個のキャンディーを持っています。各友人はクッキーを何枚ずつ受け取るでしょうか。",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "生徒は 43 人で、リンゴは 1720 個あります。生徒はそれぞれ 9 個の Skittles を持っています。リンゴを生徒間で均等に分けると、生徒はそれぞれ何個もらえるでしょうか。",
+        "output": "40"
+    }
+]

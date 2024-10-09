@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is big. Anne is cold. Anne is furry. Anne is green. Anne is kind. Anne is rough. Anne is round. Bob is big. Bob is kind. Bob is rough. Big things are kind. If something is green then it is kind. If something is big then it is round. Green, big things are kind. If something is kind and rough then it is furry. All kind, green things are rough.\nConclusion: Bob is not round.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Fiona is big. Fiona is blue. Fiona is green. Fiona is quiet. Fiona is white. Fiona is young. Harry is blue. Harry is green. Harry is quiet. Harry is white. If someone is young and blue then they are white. If someone is young then they are blue. Young, blue people are big. If someone is green and blue then they are cold. All cold, quiet people are green. If someone is green and big then they are cold.\nConclusion: Harry is not big.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle chases the tiger. The bald eagle is not red. The bald eagle visits the tiger. The tiger is nice. The tiger is rough. The tiger is round. The tiger sees the bald eagle. If something visits the tiger then the tiger chases the bald eagle. If something is red and it does not see the bald eagle then the bald eagle does not chase the tiger. If something is round and it does not see the tiger then it chases the bald eagle.\nConclusion: The bald eagle is big.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is not blue. Bob is green. Bob is white. Dave is blue. Dave is furry. Erin is not blue. Erin is white. Gary is furry. Gary is green. Gary is kind. Gary is not smart. Gary is not white. Green, smart things are furry. All smart things are not furry. Kind things are not blue. If something is nice and not kind then it is not white. Blue, furry things are white. Nice things are smart.\nConclusion: Dave is nice.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle chases the bear. The bald eagle eats the mouse. The bald eagle needs the bear. The bear eats the mouse. The bear is green. The bear is kind. The bear is red. The mouse chases the bear. The mouse eats the bald eagle. The mouse eats the bear. If something eats the bear and the bear eats the mouse then the mouse is nice. If something is kind then it needs the bald eagle.\nConclusion: The bear does not chase the bald eagle.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat is rough. The rabbit likes the tiger. The tiger likes the cat. If something likes the cat then the cat is big.\nConclusion: The tiger does not like the cat.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is red. The bald eagle visits the dog. The dog likes the bald eagle. The dog visits the squirrel. The rabbit likes the bald eagle. The rabbit sees the bald eagle. The rabbit sees the dog. The rabbit visits the dog. The squirrel is cold. The squirrel likes the rabbit. If something visits the dog then it likes the dog. If something visits the dog and the dog is red then the dog likes the bald eagle.\nConclusion: The dog visits the rabbit.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is quiet. Bob is young. Harry is kind. All kind things are blue.\nConclusion: Bob is round.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is kind. Harry is red. Harry is white. If Harry is smart and Harry is not white then Harry is red. Red things are not kind.\nConclusion: Harry is not kind.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is cold. Anne is furry. Fiona is kind. If Fiona is kind then Fiona is rough. Rough people are cold. All cold, white people are round. If someone is furry then they are rough. If Fiona is white and Fiona is round then Fiona is big. Kind people are white.\nConclusion: Fiona is white.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is big. Bob is blue. Bob is green. Bob is nice. Bob is round. Dave is big. Dave is blue. Erin is blue. Erin is green. Gary is green. Gary is round. Gary is young. If Erin is blue then Erin is big.\nConclusion: Erin is big.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is red. The bald eagle visits the dog. The dog likes the bald eagle. The dog visits the squirrel. The rabbit likes the bald eagle. The rabbit sees the bald eagle. The rabbit sees the dog. The rabbit visits the dog. The squirrel is cold. The squirrel likes the rabbit. If something visits the dog then it likes the dog. If something visits the dog and the dog is red then the dog likes the bald eagle.\nConclusion: The squirrel does not like the dog.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is cold. The bald eagle is not young. The bald eagle does not need the bear. The bald eagle needs the mouse. The bald eagle sees the bear. The bear sees the bald eagle. The mouse is big. The mouse is cold. The mouse needs the squirrel. The mouse sees the bear. The mouse sees the squirrel. The squirrel is big. The squirrel is not rough. The squirrel needs the mouse. The squirrel does not visit the bald eagle. The squirrel visits the bear. If something is cold then it visits the mouse.\nConclusion: The squirrel does not visit the mouse.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear visits the dog. The cow is blue. The dog likes the cow. If something chases the dog then the dog is nice. If something likes the cow then the cow likes the bear. If the bear is big then the bear is round.\nConclusion: The cow likes the bear.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat is cold. The cat is rough. The cat is young. All blue people are green. If the cat is green and the cat is young then the cat is cold. All cold people are green.\nConclusion: The cat does not like the cat.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle chases the mouse. The bald eagle is green. The bald eagle is round. The bald eagle sees the cat. The bald eagle visits the cat. The cat chases the mouse. The cat is red. The cat is round. The cat sees the bald eagle. The cat sees the mouse. The cat visits the bald eagle. The cat visits the mouse. The mouse chases the bald eagle. The mouse chases the cat. The mouse sees the cat. If something chases the cat and the cat sees the mouse then the mouse is nice. If the cat is nice and the cat is young then the cat visits the mouse. If something chases the cat and it is young then it chases the mouse. If something sees the mouse then it is red. If something sees the cat and the cat is round then the cat sees the mouse. If something is green and red then it sees the mouse.\nConclusion: The mouse sees the cat.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is nice. Anne is red. Anne is smart. Dave is nice. Dave is smart. Dave is young. Gary is big. Gary is kind. Gary is nice. Gary is young. If something is smart then it is red. If something is kind then it is young. If something is quiet then it is big.\nConclusion: Dave is red.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat chases the tiger. The cat is big. The cat sees the mouse. The cat sees the tiger. The cat visits the tiger. The mouse is blue. The mouse sees the cat. The tiger chases the cat. The tiger chases the mouse. The tiger visits the mouse. If someone sees the tiger and they chase the tiger then they chase the mouse. If someone sees the mouse and the mouse chases the tiger then they are young.\nConclusion: The tiger is cold.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The squirrel is nice. All nice things are not round. Round things are big. All big things are kind.\nConclusion: The squirrel is not nice.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear chases the mouse. The bear is red. The bear is rough. The bear is round. The bear needs the lion. The bear needs the mouse. The lion chases the bear. The mouse chases the bear. The mouse chases the lion. The mouse visits the bear. If someone chases the mouse then the mouse chases the lion. If someone chases the lion then they need the mouse. If someone needs the mouse then the mouse visits the lion.\nConclusion: The lion is rough.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The mouse likes the squirrel. The squirrel chases the mouse. The squirrel eats the mouse. If the squirrel eats the mouse and the mouse likes the squirrel then the mouse chases the squirrel. If something is green then it chases the squirrel.\nConclusion: The mouse is blue.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is green. Bob is kind. Bob is nice. Bob is quiet. Bob is rough. Bob is young. Fiona is kind. Fiona is nice. Fiona is quiet. Fiona is rough. Fiona is young. Harry is blue. Harry is green. Harry is nice. Harry is rough. Harry is young. If someone is rough and green then they are quiet. If someone is blue and nice then they are green. All blue people are young. If someone is rough then they are green. If Bob is nice and Bob is green then Bob is blue. All green people are blue. All kind, nice people are rough. If someone is young and blue then they are nice.\nConclusion: Fiona is not green.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cow is round. The lion chases the squirrel. The lion is not kind. The lion likes the cow. The squirrel chases the tiger. The squirrel is round. The tiger chases the lion. If someone chases the lion then the lion eats the tiger. If the cow does not chase the lion then the cow chases the tiger. If someone eats the squirrel and the squirrel is nice then the squirrel chases the lion.\nConclusion: The cow chases the tiger.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is big. Charlie is round. Erin is young. Young, round people are blue. All furry, young people are round. Furry people are blue. If someone is round then they are furry. Big, rough people are young. Big, furry people are blue.\nConclusion: Bob is young.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The mouse is nice. The mouse sees the rabbit. The mouse sees the squirrel. The rabbit is cold. The rabbit is round. The rabbit likes the mouse. The rabbit likes the squirrel. The squirrel eats the rabbit. The squirrel is cold. The squirrel sees the rabbit. If something eats the squirrel and it is cold then it sees the rabbit. If something likes the mouse and it is cold then it eats the mouse. If something likes the rabbit then it is round.\nConclusion: The mouse likes the squirrel.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat is big. The cat is blue. The cat is round. All blue people are green.\nConclusion: The cat is not green.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is cold. The bald eagle is green. The bald eagle is rough. The bald eagle is young. The bald eagle does not like the squirrel. The bald eagle sees the squirrel. The bald eagle visits the squirrel. The squirrel is big. The squirrel is cold. The squirrel is green. The squirrel is not rough. The squirrel is young. The squirrel likes the bald eagle. The squirrel sees the bald eagle. The squirrel visits the bald eagle. If something sees the squirrel then it sees the bald eagle.\nConclusion: The bald eagle does not see the bald eagle.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is rough. The bald eagle needs the bear. The bear is kind. The bear likes the bald eagle. The bear likes the rabbit. The bear needs the bald eagle. The mouse is red. The mouse needs the rabbit. The rabbit eats the bear. The rabbit is red. If someone eats the rabbit then they need the rabbit. If someone eats the bear and they need the bald eagle then the bald eagle is red. If someone is big then they like the bear. If someone is kind then they like the rabbit. If the rabbit is big then the rabbit eats the bald eagle. Rough people are round. If the rabbit eats the mouse then the rabbit needs the mouse. If someone needs the rabbit and they need the mouse then they are red.\nConclusion: The bald eagle is round.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The mouse is not blue. The mouse is nice. The mouse is red. Red things are green. Green things are red.\nConclusion: The mouse eats the mouse.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear is rough. The dog sees the bear. The squirrel sees the bear. If someone likes the squirrel and they do not see the squirrel then they need the squirrel. If someone sees the bear then they do not need the squirrel. Rough, nice people are cold. If someone needs the dog and they are not rough then they like the squirrel. If someone needs the bear then the bear likes the dog. If the dog likes the squirrel then the squirrel needs the dog. If someone needs the bear and the bear likes the dog then the dog does not need the squirrel. If someone needs the bear and they do not need the squirrel then the squirrel likes the dog.\nConclusion: The dog is not nice.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear is not round. The bear sees the dog. The dog sees the rabbit. The rabbit chases the dog. The rabbit sees the dog. The squirrel does not chase the rabbit. The squirrel sees the rabbit. If something sees the rabbit then it likes the squirrel.\nConclusion: The bear chases the squirrel.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The lion sees the squirrel. The rabbit chases the squirrel. The squirrel sees the rabbit. If something sees the squirrel then it chases the lion.\nConclusion: The rabbit chases the lion.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The rabbit is big. The rabbit is blue. The rabbit is nice. The rabbit is rough. The rabbit is young. The rabbit likes the tiger. The rabbit needs the tiger. The rabbit visits the tiger. The tiger is big. The tiger is blue. The tiger is nice. The tiger is rough. The tiger is young. The tiger likes the rabbit. The tiger needs the rabbit. The tiger visits the rabbit. If someone likes the tiger and they need the tiger then they need the rabbit. If the rabbit likes the tiger and the rabbit is big then the rabbit visits the tiger. If someone likes the rabbit then the rabbit needs the tiger. If someone is blue and big then they visit the tiger. If the rabbit is nice and the rabbit visits the tiger then the tiger is young. If someone needs the rabbit and the rabbit needs the tiger then the rabbit likes the tiger. If someone likes the tiger then they need the rabbit. If someone is nice then they need the tiger.\nConclusion: The tiger visits the tiger.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat eats the tiger. The cat is cold. The mouse chases the squirrel. The mouse does not chase the tiger. The mouse needs the cat. The squirrel eats the cat. The squirrel does not eat the tiger. The squirrel is green. The squirrel is young. The squirrel needs the cat. The squirrel needs the tiger. The tiger does not chase the mouse. If someone eats the mouse and they are not big then the mouse is not green. If the squirrel needs the tiger and the squirrel is young then the squirrel chases the mouse. If the cat needs the tiger and the cat eats the squirrel then the tiger does not eat the mouse. If the squirrel chases the cat and the cat chases the tiger then the tiger does not eat the squirrel. If the cat chases the tiger then the tiger does not need the squirrel. If the mouse eats the cat then the mouse does not need the tiger.\nConclusion: The squirrel chases the mouse.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear chases the tiger. The bear is young. The bear likes the rabbit. The bear likes the tiger. The bear visits the tiger. The rabbit does not chase the bear. The rabbit chases the tiger. The rabbit is not kind. The rabbit likes the bear. The rabbit likes the tiger. The rabbit visits the bear. The rabbit visits the tiger. The tiger is red. The tiger is young. The tiger does not like the rabbit. If someone visits the tiger then the tiger visits the bear. If the tiger visits the bear then the tiger does not like the bear. If someone likes the rabbit then they are red. If someone visits the rabbit and they are not green then they like the tiger. If someone visits the rabbit then the rabbit does not visit the tiger. If someone visits the bear and they do not visit the rabbit then the rabbit is big.\nConclusion: The rabbit is green.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is green. Dave is not big. Gary is quiet. Harry is big. All nice, big things are quiet. All nice, green things are quiet. If Gary is big and Gary is not young then Gary is nice. White, young things are big. If something is young then it is not big. All white, green things are not nice. If something is quiet then it is not kind. If something is big and not quiet then it is not kind.\nConclusion: Dave is green.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is blue. Bob is furry. Bob is green. Bob is rough. Bob is young. Erin is furry. Erin is rough. Erin is round. Erin is young. Harry is blue. Harry is furry. Harry is green. Harry is rough. Harry is round. Harry is smart. Harry is young. All green things are smart.\nConclusion: Erin is not blue.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is blue. Bob is furry. Bob is nice. Bob is rough. Charlie is big. Charlie is furry. Charlie is kind. Charlie is rough. Fiona is big. Fiona is furry. Fiona is kind. Fiona is smart. Gary is blue. Gary is furry. Gary is rough. If Gary is nice then Gary is blue. All smart, furry people are big. Furry people are smart.\nConclusion: Bob is nice.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is green. Charlie is rough. Dave is furry. Dave is young. Erin is cold. Erin is furry. Erin is red. Erin is rough. Gary is big. Gary is cold. If Erin is cold then Erin is green.\nConclusion: Dave is cold.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear is cold. The bear needs the tiger. The tiger likes the bear. If someone is big and they do not like the tiger then the tiger likes the bear. If someone needs the tiger and the tiger is kind then the tiger does not eat the bear. If someone needs the bear and the bear is big then they are kind. If someone needs the bear then they eat the tiger. If someone likes the bear then they do not eat the bear. If the tiger likes the bear and the bear does not like the tiger then the tiger is blue. If someone likes the tiger and the tiger likes the bear then the tiger is not big. If the bear does not eat the tiger then the tiger is not nice.\nConclusion: The tiger likes the bear.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is cold. The cow likes the bald eagle. The dog visits the bald eagle. The lion likes the bald eagle. If something is cold then it visits the dog.\nConclusion: The cow likes the bald eagle.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is smart. Charlie is rough. Dave is round. Erin is smart. If Bob is big then Bob is green. If someone is round then they are not smart.\nConclusion: Bob is not round.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Dave is big. Dave is green. Dave is rough. Dave is not round. Dave is young. Fiona is big. Fiona is blue. Fiona is green. Fiona is round. Fiona is young. Big, young things are blue. White things are green. If something is young and not big then it is not white.\nConclusion: Fiona is not rough.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cow chases the rabbit. The cow is kind. The cow is nice. The cow is round. The cow needs the lion. The cow needs the rabbit. The cow visits the rabbit. The lion chases the rabbit. The lion is green. The lion is kind. The lion is nice. The lion needs the cow. The lion visits the cow. The lion visits the rabbit. The rabbit is kind. The rabbit visits the cow. If someone chases the rabbit then the rabbit needs the lion.\nConclusion: The lion does not chase the lion.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is blue. Bob is furry. Bob is smart. Bob is white. Bob is young. Dave is not furry. Erin is white. Harry is not blue. Harry is red. Harry is round. All furry, round things are blue. Blue things are white. White things are round. If Dave is round then Dave is young. If Erin is white and Erin is not round then Erin is not smart. If something is furry then it is red. If something is young and not blue then it is red. If Bob is not red then Bob is smart.\nConclusion: Dave is not white.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is not quiet. Anne is not smart. Anne is white. Dave is round. Erin is kind. Erin is quiet. Erin is round. Erin is smart. Erin is white. Erin is young. Round people are quiet. Quiet people are kind. If someone is kind and not round then they are green. If someone is white and not smart then they are green. Round people are green. All round people are white.\nConclusion: Anne is not kind.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is round. Dave is rough. Fiona is quiet. If someone is rough then they are not blue. If Fiona is quiet and Fiona is not rough then Fiona is furry.\nConclusion: Charlie is kind.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat is round. The cat likes the tiger. The cat needs the squirrel. The cat needs the tiger. The squirrel likes the tiger. The squirrel needs the tiger. The squirrel sees the cat. The tiger likes the cat. The tiger likes the squirrel. The tiger needs the cat. The tiger needs the squirrel. The tiger sees the cat. If something sees the cat then it likes the tiger.\nConclusion: The squirrel likes the squirrel.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is cold. Charlie is quiet. Charlie is smart. Dave is cold. Dave is quiet. Dave is round. Dave is smart. If something is round and not rough then it is cold. Smart, round things are red. If Dave is rough and Dave is round then Dave is cold.\nConclusion: Charlie is quiet.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is cold. Bob is furry. Bob is kind. Bob is red. Bob is not rough. Bob is round. Bob is white. Charlie is rough. Charlie is white. Dave is red. Dave is rough. Dave is round. Dave is white. Harry is cold. Harry is kind. Harry is rough. If something is rough and round then it is red. If something is kind and furry then it is red. If something is cold and not rough then it is furry. If something is cold then it is furry. All kind, cold things are furry. All cold things are kind. If something is cold and white then it is round. All cold, furry things are round.\nConclusion: Harry is not furry.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear visits the cat. The cat is big. The cat needs the bear. If someone is big then they like the cat.\nConclusion: The bear does not visit the cat.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear eats the dog. The bear is green. The bear is kind. The bear sees the dog. The dog is rough. The dog is round. The dog sees the bear. If someone is kind and they see the dog then the dog does not eat the bear.\nConclusion: The bear is rough.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is not blue. Dave is blue. Dave is smart. Dave is white. Dave is young. Harry is big. Harry is smart. If something is smart and not white then it is blue. Big things are not blue. If something is green and not cold then it is not blue. If something is green and young then it is not big. If something is smart and not white then it is not big. If Dave is big then Dave is young.\nConclusion: Charlie is not smart.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is blue. Erin is big. Erin is cold. Erin is quiet. Erin is round. Erin is white. Fiona is blue. Fiona is cold. Fiona is quiet. Fiona is white. Cold, quiet things are furry. Big things are quiet. If something is cold and big then it is round. If something is cold then it is round. All blue, cold things are quiet. If something is cold and big then it is round.\nConclusion: Erin is not white.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle eats the lion. The bald eagle is red. The bald eagle likes the lion. The bald eagle needs the lion. The lion eats the bald eagle. The lion is cold. The lion is green. The lion is nice. The lion is red. The lion is rough. The lion likes the bald eagle. The lion needs the bald eagle. If someone eats the lion and the lion is nice then they are cold. If someone eats the bald eagle and they like the lion then the lion is nice. If someone eats the bald eagle then they need the bald eagle. If someone needs the bald eagle then the bald eagle eats the lion. If someone is rough then they eat the bald eagle. If someone is nice then they are rough.\nConclusion: The bald eagle is rough.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat sees the cow. The cow is green. The rabbit is green. The tiger visits the cat. If someone visits the cow then they eat the cow. If someone visits the cat then they see the rabbit. If someone sees the cat then they visit the rabbit. If someone sees the rabbit then the rabbit eats the cow. If someone visits the tiger and the tiger eats the cow then the cow eats the rabbit. If someone is round and nice then they visit the rabbit.\nConclusion: The cat does not see the cow.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is big. Anne is furry. Anne is green. Anne is kind. Anne is quiet. Anne is red. Anne is white. Charlie is big. Charlie is furry. Charlie is green. Charlie is kind. Charlie is red. Charlie is white. Dave is green. Dave is kind. Dave is quiet. Quiet, kind things are white.\nConclusion: Dave is red.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Erin is kind. Erin is rough. Fiona is not green. Fiona is kind. Fiona is quiet. Fiona is red. Fiona is rough. Fiona is not white. Fiona is young. Gary is green. Gary is kind. Gary is rough. Young, quiet things are red. If something is rough then it is red.\nConclusion: Erin is young.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is not kind. Bob is rough. Erin is big. Erin is blue. Erin is kind. Erin is rough. Erin is smart. Fiona is big. Fiona is not kind. Fiona is rough. Fiona is smart. Fiona is not white. Fiona is young. Harry is not blue. Harry is kind. Harry is rough. All young, kind people are big. Kind, young people are big. If someone is kind and not white then they are big. All smart people are young. If Fiona is young and Fiona is blue then Fiona is kind. All blue people are kind. If Erin is blue then Erin is smart. If Bob is rough and Bob is not young then Bob is big.\nConclusion: Erin is not young.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is quiet. Bob is red. Bob is rough. Bob is not white. Bob is young. Charlie is furry. Charlie is kind. Charlie is quiet. Charlie is red. Charlie is white. All rough people are kind. If someone is rough and not furry then they are white.\nConclusion: Bob is kind.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is furry. Anne is not nice. Charlie is nice. Charlie is young. Gary is not nice. Gary is rough. Harry is big. Harry is quiet. Harry is rough. Harry is round. If something is rough and not quiet then it is big. If something is round then it is big. All round, quiet things are nice.\nConclusion: Harry is not nice.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cow eats the rabbit. The cow likes the lion. The lion eats the mouse. The mouse is nice. The mouse does not see the lion. The rabbit is big. The rabbit sees the lion. If something eats the cow and the cow likes the mouse then the mouse eats the cow. If something eats the lion then the lion does not eat the mouse. If something is kind and it sees the cow then it sees the mouse. If the cow is kind then the cow eats the mouse. If the rabbit likes the cow and the rabbit sees the lion then the rabbit is not blue. Young, blue things are big. If something likes the cow and it does not eat the lion then the cow does not see the lion. If something is big then it does not like the lion.\nConclusion: The lion does not see the lion.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is kind. Charlie is green. Fiona is furry. Gary is green. If Anne is big and Anne is kind then Anne is red. All kind people are green.\nConclusion: Charlie is green.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle chases the cat. The bald eagle is blue. The bald eagle needs the cat. The bald eagle sees the squirrel. The cat is young. The cat needs the squirrel. The squirrel chases the cat. The squirrel is big. The squirrel is rough. The squirrel is young. The squirrel needs the bald eagle. The squirrel sees the bald eagle. If someone sees the bald eagle then they see the cat.\nConclusion: The squirrel is big.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is big. Anne is cold. Anne is red. Anne is not young. Erin is cold. Erin is young. Fiona is nice. Fiona is young. Gary is not big. Gary is cold. Gary is nice. Gary is young. All young, green people are cold. If someone is nice and not rough then they are cold. If Fiona is cold then Fiona is nice. All nice people are not green. If someone is nice and not young then they are big. All rough, cold people are not big. All cold, rough people are not red. If someone is big and not rough then they are not red.\nConclusion: Fiona is rough.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat chases the mouse. The cat does not visit the lion. The lion chases the cat. The lion chases the mouse. The lion is cold. The lion does not see the cat. The lion sees the mouse. The mouse chases the lion. The mouse is green. The mouse visits the cat. If something is cold and it chases the mouse then the mouse does not see the cat.\nConclusion: The lion is not nice.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is young. Bob is kind. Gary is rough. All rough things are kind. White things are furry.\nConclusion: Gary is kind.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is blue. Charlie is kind. Erin is big. Erin is blue. Erin is green. Erin is nice. Erin is smart. Gary is big. Gary is green. Gary is smart. If something is young then it is big. All green things are nice.\nConclusion: Gary is nice.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear eats the squirrel. The bear is cold. The bear is nice. The bear is rough. The bear is round. The bear is young. The bear likes the squirrel. The bear sees the squirrel. The squirrel eats the bear. The squirrel is cold. The squirrel is nice. The squirrel is rough. The squirrel is round. The squirrel is young. The squirrel likes the bear. The squirrel sees the bear. If something likes the bear then it eats the squirrel.\nConclusion: The bear likes the bear.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat visits the cow. The cow eats the lion. The dog is young. The lion eats the dog. If someone chases the cow and they are kind then they visit the lion. If someone visits the cat and the cat chases the cow then they chase the cat. Young people are green. If someone is red and green then they visit the dog. If the dog eats the lion then the dog chases the cat. If the cat chases the dog and the dog eats the lion then the dog is red. If someone eats the cow and the cow eats the dog then the dog eats the cat. If someone is kind then they eat the dog.\nConclusion: The dog is not green.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear eats the cat. The cat eats the cow. The cat visits the bear. The cow eats the cat. The cow is blue. The cow needs the bear. The cow needs the tiger. The cow visits the bear. The cow visits the cat. The tiger is blue. The tiger needs the cat. The tiger visits the bear. If something eats the bear then it needs the bear. If something is rough and it needs the cow then the cow is kind. If something is rough then it needs the cow. If something is cold and blue then it needs the tiger. If something is big then it eats the bear. If something needs the bear and it eats the cow then the cow is kind. If something is rough then it needs the tiger. If something visits the cat and it needs the tiger then it is cold.\nConclusion: The tiger eats the bear.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The rabbit visits the squirrel. The squirrel eats the rabbit. The squirrel is big. If something eats the squirrel then the squirrel eats the rabbit. If the rabbit is nice and the rabbit eats the squirrel then the squirrel eats the rabbit. If something likes the rabbit and the rabbit visits the squirrel then it visits the rabbit. If something visits the squirrel then the squirrel likes the rabbit. If something visits the squirrel then it likes the rabbit. If the rabbit likes the squirrel and the rabbit visits the squirrel then the rabbit is red.\nConclusion: The rabbit likes the squirrel.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is cold. Anne is not furry. Anne is nice. Anne is smart. Bob is not quiet. Bob is not smart. Dave is big. Fiona is big. Fiona is quiet. Fiona is rough. All quiet, cold things are nice. Quiet, big things are cold.\nConclusion: Anne is smart.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is big. Charlie is cold. Charlie is kind. Erin is big. Erin is kind. Erin is smart. Gary is cold. Gary is green. Gary is red. Harry is round. If Harry is big then Harry is red. Cold things are kind. All red things are round.\nConclusion: Charlie is not big.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cow needs the squirrel. The mouse chases the tiger. The mouse eats the cow. The squirrel needs the mouse. The tiger does not eat the cow. The tiger needs the cow. The tiger needs the squirrel. If something chases the tiger then it is blue. If something is red and it needs the cow then the cow is not young. If something chases the tiger and it is red then it needs the cow.\nConclusion: The cow needs the mouse.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle needs the dog. The cat needs the bald eagle. The dog sees the bald eagle. If someone likes the bald eagle then they need the dog. If someone needs the cat then the cat is young. If someone sees the bald eagle then the bald eagle needs the dog. If someone needs the cat and they are green then they see the bald eagle. If someone needs the bald eagle and they are cold then they need the cat. If someone is kind then they need the dog. If someone sees the cat then they are kind. If someone needs the bald eagle then the bald eagle sees the dog.\nConclusion: The cat does not need the dog.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The lion is blue. The lion is green. The lion needs the squirrel. The lion visits the squirrel. The mouse eats the lion. The mouse is rough. The mouse needs the lion. The squirrel eats the lion. The squirrel eats the mouse. The squirrel visits the mouse. If someone needs the squirrel and the squirrel is rough then they visit the lion. If someone visits the mouse and they eat the lion then they are green.\nConclusion: The lion does not need the squirrel.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Dave is blue. Dave is cold. Dave is nice. Erin is blue. Erin is cold. Erin is kind. Erin is nice. Erin is quiet. Erin is young. Harry is cold. If someone is blue then they are quiet.\nConclusion: Dave is not quiet.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle is big. The rabbit needs the bald eagle. The squirrel likes the rabbit. If the rabbit is green then the rabbit is big. If something likes the rabbit then it chases the rabbit. If something likes the rabbit and the rabbit is young then it needs the bald eagle. If something chases the squirrel then it needs the bald eagle. If something needs the squirrel and the squirrel likes the bald eagle then the squirrel chases the rabbit. If something chases the rabbit then the rabbit likes the bald eagle.\nConclusion: The squirrel likes the rabbit.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is furry. Anne is green. Anne is red. Anne is round. Bob is not furry. Bob is not green. Bob is round. Gary is not furry. Gary is kind. Gary is red. Gary is round. Gary is smart. Harry is green. Harry is not rough. Harry is round. Round, furry people are smart. All furry, red people are round. If someone is rough then they are round. If Bob is round and Bob is not red then Bob is not smart. If Gary is rough then Gary is red. If someone is rough and not smart then they are green.\nConclusion: Gary is red.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat eats the lion. The lion eats the cat. The lion is nice. If someone is big and they visit the cat then they visit the lion. If someone is nice then they need the cat.\nConclusion: The lion is not nice.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear chases the mouse. The bear is big. The bear is green. The bear likes the lion. The lion chases the bear. The lion chases the mouse. The lion is big. The lion does not like the bear. The lion likes the squirrel. The lion does not need the mouse. The lion needs the squirrel. The mouse is big. The squirrel is big. The squirrel is cold. The squirrel likes the bear. The squirrel needs the mouse. If someone chases the mouse then they are round.\nConclusion: The bear does not need the squirrel.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear is blue. The bear is red. The bear is not young. The cow visits the dog. The dog does not visit the lion. The lion chases the cow. The lion needs the cow. If the dog visits the cow then the cow does not need the dog. If someone chases the cow then the cow is blue. If the lion chases the bear then the lion is big. If someone is young then they do not visit the dog. If the dog needs the cow then the cow chases the bear. If someone needs the cow then the cow is kind.\nConclusion: The cow is not blue.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear does not chase the mouse. The bear does not need the cat. The bear does not need the mouse. The bear does not visit the mouse. The cat does not chase the bear. The cat chases the mouse. The cat is cold. The cat needs the bear. The cat needs the mouse. The cat visits the mouse. The mouse is not cold. The mouse needs the cat. If something is cold then it chases the cat.\nConclusion: The mouse chases the cat.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bald eagle visits the tiger. The rabbit needs the bald eagle. The tiger visits the bald eagle. If the tiger is young then the tiger likes the rabbit. Nice things are round. If something needs the rabbit and it is nice then the rabbit likes the tiger. If the rabbit likes the bald eagle then the bald eagle likes the tiger. If the tiger visits the bald eagle and the bald eagle visits the tiger then the bald eagle is red. If something needs the rabbit and it does not like the tiger then the tiger does not visit the bald eagle.\nConclusion: The bald eagle is red.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The rabbit is big. The rabbit is blue. The rabbit is nice. The rabbit is rough. The rabbit is young. The rabbit likes the tiger. The rabbit needs the tiger. The rabbit visits the tiger. The tiger is big. The tiger is blue. The tiger is nice. The tiger is rough. The tiger is young. The tiger likes the rabbit. The tiger needs the rabbit. The tiger visits the rabbit. If someone likes the tiger and they need the tiger then they need the rabbit. If the rabbit likes the tiger and the rabbit is big then the rabbit visits the tiger. If someone likes the rabbit then the rabbit needs the tiger. If someone is blue and big then they visit the tiger. If the rabbit is nice and the rabbit visits the tiger then the tiger is young. If someone needs the rabbit and the rabbit needs the tiger then the rabbit likes the tiger. If someone likes the tiger then they need the rabbit. If someone is nice then they need the tiger.\nConclusion: The tiger does not need the tiger.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear needs the lion. The cat eats the bear. The cat eats the lion. The cat is big. The cat is blue. The cat is young. The cat needs the lion. The cat visits the lion. The lion eats the bear. The lion eats the cat. The lion is big. The lion is round. The lion needs the cat. The lion visits the bear. The lion visits the cat. If someone eats the bear then they need the lion. If the bear is rough and the lion does not visit the bear then the lion eats the cat. If the bear eats the cat and the cat does not eat the lion then the lion eats the cat. If the lion needs the cat then the lion visits the cat. If someone visits the bear then they are young. If someone eats the lion and they do not need the cat then the cat needs the lion.\nConclusion: The cat visits the cat.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Dave is red. Erin is not cold. Erin is nice. Erin is quiet. Gary is not cold. Gary is red. Harry is quiet. All quiet things are nice. If Harry is cold and Harry is red then Harry is blue. If Harry is green then Harry is not kind. If something is red and not nice then it is not green. Nice things are blue. Red, kind things are blue.\nConclusion: Dave is green.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is rough. Bob is rough. Erin is rough. Gary is rough. Big, green people are smart. All furry, red people are smart. Rough people are cold. All green, smart people are cold. If someone is cold then they are not furry. Green, big people are red.\nConclusion: Anne is not green.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is big. Charlie is blue. Dave is blue. Erin is quiet. All quiet, blue people are kind. Young people are blue. Furry, big people are blue. Blue, kind people are quiet. If someone is quiet then they are kind. All young, big people are blue.\nConclusion: Anne is young.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is red. Anne is smart. Bob is kind. Bob is nice. Bob is quiet. Dave is quiet. Dave is white. All quiet, smart things are rough. If something is nice then it is white. Red things are kind.\nConclusion: Bob is not smart.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is furry. Charlie is furry. Charlie is not green. Erin is nice. Erin is young. Harry is green. Harry is not nice. If something is big and not green then it is not red. All red things are furry. All young things are kind.\nConclusion: Anne is young.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Erin is nice. Gary is rough. If someone is furry and rough then they are young. If Gary is rough and Gary is nice then Gary is young. Blue, quiet people are red. If Gary is nice and Gary is quiet then Gary is blue. If Gary is red then Gary is furry. All nice people are furry.\nConclusion: Erin is not furry.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Charlie is furry. Charlie is not smart. Fiona is big. Fiona is furry. Fiona is round. Fiona is smart. Fiona is young. Young things are not blue. All smart things are young. All furry things are round. If something is round and not young then it is furry. If something is furry and not round then it is white. If something is white and not furry then it is not big.\nConclusion: Fiona is not white.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The bear chases the cow. The bear is big. The bear is blue. The bear is green. The bear is kind. The bear is nice. The bear likes the cow. The bear needs the cow. The cow chases the bear. The cow is big. The cow is blue. The cow is green. The cow is nice. The cow likes the bear. The cow needs the bear. If someone chases the cow and the cow chases the bear then the cow likes the bear. If the bear needs the cow then the cow is big. If someone chases the bear then they like the bear. If someone likes the cow then they chase the bear. If the cow chases the bear then the cow likes the bear. If someone chases the cow then the cow likes the bear. If someone chases the bear and the bear likes the cow then the bear chases the cow. If someone needs the bear then they chase the bear.\nConclusion: The cow does not need the cow.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is rough. Anne is smart. Bob is blue. Bob is nice. Bob is rough. Dave is blue. Dave is furry. Dave is nice. Dave is rough. Gary is red. Rough, red people are young. All smart, rough people are furry.\nConclusion: Anne is not furry.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Bob is blue. Erin is green. Harry is quiet. If Erin is green then Erin is quiet. If Bob is green then Bob is big. All white, quiet things are rough.\nConclusion: Harry is blue.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat eats the dog. The cat is nice. The cat likes the dog. The dog likes the cat. The dog likes the lion. The lion is blue. The lion is green. If someone likes the lion then the lion is green. If the cat is nice and the cat likes the dog then the cat is green. If someone visits the cat and they eat the cat then they visit the lion. If someone visits the dog then the dog eats the cat. If someone is cold then they visit the cat. If the dog visits the cat and the cat eats the lion then the dog likes the lion. If someone is blue and they like the cat then they are kind. If the dog eats the cat then the cat eats the dog.\nConclusion: The dog visits the lion.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: Anne is big. Anne is blue. Anne is cold. Anne is furry. Anne is green. Anne is rough. Charlie is blue. Charlie is green. Charlie is quiet. Charlie is rough. Dave is big. Dave is blue. Dave is green. Dave is quiet. Gary is blue. Gary is quiet. Green people are rough. Furry, blue people are cold. All blue people are rough. All furry people are quiet. If Gary is green then Gary is quiet. All blue people are quiet. If someone is furry and blue then they are green. If someone is blue and green then they are cold.\nConclusion: Gary is not cold.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premise: The cat is rough. The cat likes the dog. The cat likes the lion. The cat sees the lion. The cat sees the mouse. The dog is blue. The dog is cold. The dog visits the lion. The lion is cold. The mouse is rough. The mouse sees the dog. The mouse visits the cat. If someone likes the lion then the lion likes the dog.\nConclusion: The lion does not like the dog.",
+        "output": "B"
+    }
+]

@@ -1,0 +1,1332 @@
+[
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "如果所有参与者总共从俱乐部找到 40 颗彩蛋，从公园找到 25 颗彩蛋，从市政厅找到 15 颗彩蛋，那么当天一共找到了多少个复活节彩蛋？",
+        "output": "80"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Penny 的班级将前往世界上最大的动物园 Animaland 进行科学实地考察。动物园里圈养着各种野生动物。他们的第一个目的地是鸟舍。鸟舍当天展出了 3 种鹰。他们有 20 只白头鹰、15 只角雕和 30 只冠鹰。当天展出了多少只鹰？",
+        "output": "65"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "鸟舍后面是动物园的沼泽区。佩妮一共数了 55 只树蛙、10 只毒蛙和 13 只木蛙。佩妮能数出多少只青蛙？",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "除了青蛙，沼泽地区还栖息着一些危险动物。Penny 的老师指出了 22 只鳄鱼、23 只短吻鳄和 5 只毒蛇。老师一共指出了多少种危险动物？",
+        "output": "50"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "行程的下一站是昆虫馆，馆内有数百种昆虫。喜欢蝴蝶和蚂蚁的佩妮拍摄了不同种类的昆虫。她拍摄了 60 种蝴蝶、15 种蚂蚁和 20 种其他昆虫。佩妮拍摄了多少种昆虫？",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "实地考察的最后一站是水族馆。佩妮识别出了 35 种鲨鱼、15 种鳗鱼和 5 种不同的鲸鱼。佩妮能识别出多少种？",
+        "output": "55"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校学生会主席索菲亚召开会议，讨论学校餐厅的食物。首先要讨论的是学生是否喜欢学校的食物。如果有 383 名学生表示喜欢，而有 431 名学生表示不喜欢，那么有多少名学生参加了讨论？",
+        "output": "814"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在同意学校菜单需要更改后，他们对食物建议进行了投票。如果 337 人投票支持在菜单中添加更多蔬菜，335 人投票支持添加更多肉类，那么有多少名学生投票？",
+        "output": "672"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "由于投票结果接近，最终决定在菜单中加入肉和蔬菜。三年级有 154 名学生和四年级有 237 名学生同意这个决定。有多少名学生同意这个决定？",
+        "output": "391"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "由于这一决定，索菲亚要求学生们建议具体类型的食物。如果 279 名学生建议在菜单中添加土豆泥，而 234 名学生建议添加培根，那么有多少名学生参与了新食物的建议？",
+        "output": "513"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一周后，索菲亚做了一项调查，询问学生是否喜欢新菜单。她发现 235 名学生喜欢新菜单，而 165 名学生不喜欢。有多少名学生参加了索菲亚的调查？",
+        "output": "400"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "泰勒是一名动物权利倡导者，他决定建立自己的动物保护区，以保护各种动物免受偷猎者的侵害。保护区被划分为不同的区域。第一个要建造的区域是鸟类保护区。最初，他在该地区有 29 种濒临灭绝的鸟类。如果每种鸟类有 7 对，那么他总共有多少对？",
+        "output": "203"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "另一个区域是淡水生物保护区，如果该区域有6个水体，每个水体有175种不同的鱼，他一共有多少条鱼？",
+        "output": "1050"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "他还有 8 个海水动物水族箱。每个水族箱里有 64 只动物。泰勒有多少只海水动物？",
+        "output": "512"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "保护区还包括几片沼泽区，大多数爬行动物通常栖息在那里。如果有 4 片沼泽，每片有 356 种不同的爬行动物，那么沼泽区里生活着多少爬行动物？",
+        "output": "1424"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "还有 3 个地块尚未开发。剩余的每个地块的土地面积为 2435 平方英尺。未开发土地的总面积是多少？",
+        "output": "7305"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "今天是 Rachel 的生日。她的父母想让她玩得开心，所以他们去看了那天城里正好有马戏团的演出。到达马戏团后，他们去了售票亭，问每张票多少钱。如果每张票 44.00 美元，他们买了 7 张票，那么他们在票上花了多少钱？",
+        "output": "308"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "进入马戏团帐篷，看到观众座位分为四个区域，如果每个区域可以容纳246人，那么整个帐篷总共可以容纳多少人呢？",
+        "output": "984"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "第一幕中有 5 个小丑摇篮，每个摇篮里塞满了 28 个小丑。所有小丑摇篮里总共有多少个小丑？",
+        "output": "140"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "下一幕涉及几位杂耍演员。如果每个杂耍演员一次玩 6 个球，如果有 378 位杂耍演员同时表演，则需要多少个球？",
+        "output": "2268"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在最后一幕中，马戏团带来了戴着皇冠的跳舞动物。如果每个皇冠由 7 种不同颜色的羽毛制成，那么 934 个皇冠需要多少根羽毛？",
+        "output": "6538"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "阿曼达和她的朋友们决定周末去游乐园玩。离他们所在城市最近的游乐园是 Super Fun-tastic Land。如果他们每小时旅行 27 英里，旅行了 3 个小时，那么 SFL 距离城市有多远？",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "当他们到达那里时，他们发现 SFL 已经挤满了人。每个入口都排着长队，有 283 人在等待入场。如果 SFL 有 5 个入口，总共有多少人在等待入场？",
+        "output": "1415"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "他们决定玩得开心，于是前往下一个游乐园 HappyLand。如果他们每分钟的行程距离为 328 英尺，并且他们行程了 9 分钟，那么 HappyLand 距离 SFL 有多远？",
+        "output": "2952"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "到达欢乐乐园后，他们立即进去买票。如果每张票 17.00 美元，他们买了 8 张票，那么他们在票上花了多少钱？",
+        "output": "136"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "他还有一个部分，里面都是短篇小说小册子。如果每本小册子有 9 页，而短篇小说部分有 49 本小册子，那么如果杰克打算全部读完，他需要看多少页？",
+        "output": "441"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "他最喜欢的一本书是《生命和其他一切的百科全书》。这本书有 7 个大章节，每个章节有 566 页。这本百科全书总共有多少页？",
+        "output": "3962"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "迷你图书馆还设有经典书籍区。如果杰克收藏了 6 位经典作家的作品，每位作家有 33 本书，那么他在经典书籍区有多少本书？",
+        "output": "198"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一棵树上有 179 只鸟。又有 38 只鸟飞上树。树上一共有多少只鸟？",
+        "output": "217"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Cindy 的妈妈烤了 1215 块饼干。Paul 的爸爸烤了 1112 块饼干。他们都把饼干带到学校参加聚会。他们一共有多少块饼干？",
+        "output": "2327"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "课间休息时，操场上有 27 名男孩和 35 名女孩。课间休息时，操场上有多少个孩子？",
+        "output": "62"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "保罗的篮子里有 28 颗草莓。他又摘了 35 颗草莓。那么他一共有多少颗草莓？",
+        "output": "63"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "加里有 73 美元。他花了 55 美元买了一条宠物蛇。加里还剩下多少钱？",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "艾伦有 380 块乐高积木，但她丢失了其中 57 块。她现在有多少块乐高积木？",
+        "output": "323"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Arthur 烤了 35 个松饼。Arthur 还需要烤多少个松饼才能达到 83 个松饼？",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "威利有 1400 支蜡笔。露西有 290 支蜡笔。威利比露西多多少支蜡笔？",
+        "output": "1110"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lizette 有 813 个邮票。她的邮票比 Minerva 多 125 个。Minerva 有多少个邮票？",
+        "output": "688"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Megan 有 217 支记号笔。Robert 又给了她 109 支。Megan 一共有多少支记号笔？",
+        "output": "326"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一本 DVD 书可容纳 126 张 DVD。书中已有 81 张 DVD。书中还可以放入多少张 DVD？",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "凯莉有 121 款任天堂游戏。她需要赠送多少款游戏才能剩下 22 款游戏？",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "康妮有一些弹珠。她给了胡安 183 颗。现在她还剩下 593 颗弹珠。她一开始有多少颗？",
+        "output": "776"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Iesha 有 344 本书。其中 136 本与学校有关，其余与体育有关。Iesha 有多少本与体育有关的书？",
+        "output": "208"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "詹姆斯有 1222 个气球。艾米有 513 个气球。詹姆斯的气球比艾米多多少个？",
+        "output": "709"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "肖恩有 223 个口哨。他比查尔斯多 95 个口哨。查尔斯有多少个口哨？",
+        "output": "128"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "康妮有 323 颗弹珠。胡安的弹珠比康妮多 175 颗。胡安有多少颗弹珠？",
+        "output": "498"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当有 5.00 美元可以购买一架售价为 4.28 美元的飞机。他会得到多少零钱？",
+        "output": "0.72"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "古兹曼先生买了 48 个甜甜圈，平均装在 4 个盒子里。每盒有多少个甜甜圈？",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一张邮票的价格为 0.34 美元。两张邮票的价格为 0.68 美元。三张邮票的价格为 1.02 美元。如果每张邮票的价格保持不变，那么 4 张邮票的价格是多少？",
+        "output": "1.36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "米尔堡镇有 5,256 名成年人和 2,987 名儿童。米尔堡有多少人？",
+        "output": "8243"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lisa 租了 4 张 DVD，租价为 4.80 美元。每张 DVD 的租金是多少？",
+        "output": "1.2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "罐子里有 3,409 颗糖果。如果 145 颗是红色的，其余的是蓝色的，那么有多少颗是蓝色的？",
+        "output": "3264"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "农夫有 127 个苹果。他给了邻居 88 个苹果。他现在有多少个苹果？",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "希尔特女士去听了一场音乐会。总共有 65,899 人参加了这场音乐会。下一周，她又去了第二场音乐会，又有 119 人参加。第二场音乐会有多少人参加？",
+        "output": "66018"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "希尔特夫人需要将 3.75 美元平均分配给三人。每个人能得到多少钱？",
+        "output": "1.25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "希尔特夫人正在烤面包。她需要 5 杯面粉来烤两条面包。做一条面包需要多少面粉？",
+        "output": "2.5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "露西的鱼缸里有 212 条鱼。她想再买 68 条鱼。那么露西有多少条鱼？",
+        "output": "280"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "露西有 212 条鱼。她还需要买多少条鱼才能有 280 条鱼？",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "猎犬哈利昨天耳朵痛得厉害。昨天我仔细检查他的耳朵时，发现他的右耳里有 36 只跳蚤在嬉闹，左耳里有 85 只小跳蚤在安静地睡觉。我清理了猎犬哈利的耳朵。有多少跳蚤死了？",
+        "output": "121"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家宠物用品店有 600 袋狗粮和 327 袋猫粮。狗粮的袋数比猫粮多多少袋？",
+        "output": "273"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "532 人正在电影院看电影。该电影院共有 750 个座位。电影院中有多少个座位是空的？",
+        "output": "218"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kendra 进行了一次公路旅行。下午，她看到了 4 辆和她的车类似的小型货车。后来，晚上，她又看到了一辆和她的车类似的小型货车。她一共看到了多少辆和她的车类似的小型货车？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家幼儿园里有 4 名男孩和 5 名女孩。该幼儿园有多少名儿童？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "某学校有7个篮球，如果学校再购买3个篮球，学校还有多少个篮球？",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "加勒特去买零食，买了 6 块燕麦葡萄干燕麦棒和 8 块花生燕麦棒。他一共买了多少块燕麦棒？",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "杰克上午收到了 8 封电子邮件，下午收到了 2 封电子邮件。杰克一天收到了多少封电子邮件？",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "某国际象棋俱乐部现有 3 名成员，如果新增 4 名成员，该俱乐部一共有多少名成员？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ryan每天花4个小时学习英语，3个小时学习中文。他一共花了多少个小时学习英语和中文？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "妈妈买了一些土豆。她用其中的 15 个土豆做沙拉，用其中的 24 个土豆做土豆泥。如果还剩下 13 个土豆，妈妈最初买了多少个土豆？",
+        "output": "52"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gary 有一些贴纸。他给了 Lucy 42 张贴纸，给了 Alex 26 张贴纸。如果他剩下 31 张贴纸，那么 Gary 最初有多少张贴纸？",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "如果 Simon 需要制作 519 个礼品袋，并且每天制作 42 个礼品袋，那么他需要多少天才能制作完所有礼品盒？",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jane 一天可以插花 16 瓶花。如果要插花 248 瓶花，她需要多少天才能插完所有花？",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个盒子可以装18支粉笔。如果有3,484支粉笔，有多少个盒子可以装满所有的粉笔？",
+        "output": "194"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一辆大巴可载48名乘客。如果一所拥有1230名学生和老师的学校要进行实地考察，应该租几辆大巴？",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个油箱的容量是32加仑。如果一家公司购买了728加仑的石油，需要多少个油箱来容纳所有的石油？",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "农场里有 22 只狗，它们平均住在 5 个狗舍里，每个狗舍里有多少只狗？",
+        "output": "4"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "将39个气球分成7个相等的组。每组有多少个气球？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校购买了54个篮球，平均分配给7个班，每个班分得多少个篮球？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "班上有32名学生。老师把他们分成5个大小相等的小组。每组有多少名学生？",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个旅游团共有26人，想在酒店租几间大房间，每间可住3个人，几间小房间，每间可住2个人，为了租出最少的房间，并且让每个房间都住满，应该租多少间大房间？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个芭蕾班想把 90 名成员分成几个大组，每组 7 名成员，几个小组，每组 3 名成员。为了使小组数最少，应该分成多少个大组？",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "尼克节省了 68.50 美元。如果尼克比李多节省了 25.43 美元，那么李节省了多少钱？",
+        "output": "43.07"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "我又在机器里输入了一个数字。机器加了 15，然后减了 6。机器输出的数字是 35。我输入了什么数字？",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Cindy 和 Dan 的贴纸数量相同。Cindy 用了 15 张贴纸。Dan 多买了 18 张贴纸。那么 Dan 的贴纸比 Cindy 多多少张？",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "埃德的弹珠比道格多 22 颗。道格在操场上丢了 8 颗弹珠。那么埃德的弹珠比道格多多少颗？",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "今天我的冰淇淋店生意很忙。气温高达 98 华氏度，我们卖出了 67 个冰淇淋甜筒。我们卖出的奶昔比冰淇淋甜筒多 15 个。卖出了多少奶昔？",
+        "output": "82"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "小联盟体育场有 92 个座位。今天有 47 人来观看比赛。38 人举着横幅。有多少个座位是空的？",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maura 每年夏天都会收集贝壳。她的家人在海滨别墅住了 21 天。今年夏天，Maura 找到了 75 个贝壳。她给了妹妹一些。Maura 当时有 57 个贝壳。Maura 给了妹妹多少个贝壳？",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "动物园里最高的长颈鹿有 96 英寸高。动物园里有 14 只成年长颈鹿。最矮的长颈鹿有 68 英寸高。较大的长颈鹿有多高？",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "中央城动物园有 45 只黑猩猩。每天，黑猩猩总共要吃 72 根香蕉。下周，动物园将把 18 只黑猩猩转移到新笼子里。有多少只黑猩猩会留在旧笼子里？",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "动物园管理员有 68 条鱼要喂企鹅。19 只企鹅已经得到一条鱼。动物园里有 36 只企鹅。还需要多少只企鹅才能得到一条鱼？",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "拉尔夫有一本 50 页的相册。他有 26 张野生动物的照片。拉尔夫的朋友德里克有 34 张野生动物的照片。拉尔夫的野生动物照片比德里克少多少张？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lisa 邀请了整个三年级的学生参加她的聚会。一共有 48 名学生。其中 23 名是男生，25 名是女生。9 名学生将不能参加聚会。有多少名学生将参加？",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "比利可以弹奏乐谱上的 24 首歌曲。他知道 18 种不同吉他和弦的名称。比利的乐谱上有 52 首歌曲。比利还需要学习多少首歌曲？",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "妈妈做了 32 块巧克力曲奇饼干。混合原料花了 24 分钟，烘烤花了 16 分钟。晚饭后，朱莉和马特吃了 9 块饼干。还剩下多少块饼干？",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "数学考试共有 45 道题，其中 17 道是应用题，28 道是加减题，Steve 只能答 38 道题，Steve 留下了多少道空白题？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kendra 每周学习 12 个新拼写单词。她的目标是在八岁生日之前学习 60 个新单词。她已经学会了 36 个新单词。Kendra 还需要学习多少个单词？",
+        "output": "24"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "特里普和夏洛特要去徒步 36 英里。特里普的背包重 25 磅。夏洛特的背包轻 7 磅。他们第一天徒步了 9 英里。他们还剩下多少英里？",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "朵拉将于下周六举办她的十岁生日聚会。她邀请了 64 人。她的妈妈订购了 36 个三明治。16 个人不能参加聚会。朵拉的聚会将有多少人参加？",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tommy 有 79 美元。他想买一台 35 美元的相机。他还想买一台 59 美元的 CD 播放器。Tommy 还需要多少钱？",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "奥马尔喜欢下跳棋。他昨天下了 37 盘。今天下了 49 盘。奥马尔输了 18 盘。他赢了多少盘？",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "肖恩正在和他的朋友们玩大富翁。他已经有 27 栋房子了。肖恩用 8 栋房子换钱买了 Park Place。他收取了太多的租金，所以决定再买 12 栋房子。肖恩当时有多少栋房子？",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "黛安想买一包饼干。这些饼干的价格是 65 美分。黛安有 27 美分。她还需要多少钱？",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "安迪有 31 张棒球卡。他爸爸又给了他一些。然后安迪有 50 张棒球卡。安迪从他爸爸那里得到了多少张棒球卡？",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "劳里比库尔特多 12 颗弹珠。库尔特比丹尼斯少 45 颗弹珠。丹尼斯有 70 颗弹珠。劳里有多少颗弹珠？",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "安东尼每天的午餐是 75 美分。他花了 27 美分买了一盒果汁。他还买了一个纸杯蛋糕。安东尼还剩下 8 美分。这个纸杯蛋糕花了多少钱？",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "十二月是玩具店最繁忙的一个月。他们货架上有 95 款游戏。第一周就卖出了 68 款游戏。商店又从工厂拿到了 47 款游戏。那么他们当时有多少款游戏呢？",
+        "output": "74"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "三年级学生正在举办集市。他们有 90 张票要出售。第一周他们卖出了 38 张票，第二周卖出了 17 张票。他们还剩下多少张票要卖？",
+        "output": "35"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "溜冰场有 85 双溜冰鞋可供出租。溜冰场开放时，有 18 人租用了溜冰鞋。第一个小时内又有 25 人租用了溜冰鞋。还剩下多少双溜冰鞋？",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "杰克在前院摆了一个糖果摊。他有 80 块糖果要卖。星期一他卖了 15 块糖果。星期二他卖的糖果比这多得多。到星期三，杰克只剩下 7 块糖果了。杰克星期二卖了多少块糖果？",
+        "output": "58"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "滑雪场报告称，1 月份降雪量为 65 英寸。第一周他们测量到降雪量为 18 英寸。第二周他们测量到降雪量为 25 英寸。1 月份剩余时间他们降雪量是多少？",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Carey 和 Pat 正在将椅子搬到体育馆。他们同意搬 74 把椅子。Carey 搬了 28 把椅子。Pat 搬了 29 把椅子。他们还剩下多少把椅子要搬？",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jean 有一袋糖果。她给了朋友 18 块。Jean 吃了 7 块。现在她还剩下 16 块。Jean 最初有多少块糖果？",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Charlene 做了 60 条珠子项链。她在工艺品集市上卖了 16 条。她把 18 条送给了朋友。那么 Charlene 有多少条项链呢？",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ramon 在超市工作。他在货架上放了 26 盒 Choco Delights。货架上已经有 15 盒了。当天晚些时候，Ramon 数了一下货架上有 22 盒。少了多少盒 Choco Delights？",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "52 名儿童和 29 名成人参加了田径比赛。体育场有 95 个座位。有多少个座位是空的？",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "黛安想买一包饼干。这些饼干的价格是 65 美分。黛安有 27 美分。饼干的价格和黛安的钱相差多少？",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "数学试卷共有 45 道题，其中 17 道是应用题，28 道是加减题，Steve 只能答对 38 道题，数学试卷总题量和 Steve 能答对的题量相差多少？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在游戏机厅，比利赢了 48 张票。买了一个溜溜球后，他还剩下 32 张票。比利赢的票数和他买溜溜球后剩下的票数相差多少？",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "万圣节时弗兰克得到了 15 磅糖果。如果他给了南希 8 磅，那么弗兰克给南希之前和现在给南希的糖果重量相差多少？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "比利和他的朋友打篮球。比利得了 7 分，他的朋友得了 9 分。比利的分数和他朋友的分数相差多少？",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "玛丽亚到达集市时带了 87 美元。离开集市时带了 16 美元。玛丽亚到达集市时和离开集市时带的美元数相差多少？",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家家具店有十五把椅子，卖掉一些后还剩下三把，卖掉前的椅子数量和剩下的椅子数量相差多少？",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "佐伊从她的树上摘了五个苹果。现在树上还有六个苹果。佐伊摘的苹果数量和现在树上的苹果数量相差多少？",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个小丑有十六个气球。他在派对上送出了四个。小丑最初拥有的气球数量和他在派对上送出的气球数量相差多少？",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "艾米有一些糖果。她给了朋友六块，还剩下五块。艾米送出的糖果和剩下的糖果有什么区别？",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家快餐店有九十一个热狗。卖掉一些后，还剩下二十个。卖掉前和卖掉后热狗的数量相差多少？",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "如果一包口香糖售价 2 美元，那么 16 美元可以买多少包口香糖？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "如果一轮高尔夫球的价格为 80 美元，那么用 400 美元可以打几轮高尔夫球？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "如果一个墨盒的价格是15美元，那么180美元可以买多少个墨盒呢？",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "如果一包售价 11 美元，那么 110 美元可以买多少包 DVD？",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "该公司有大墨盒和小墨盒库存，如果一个墨盒售价14美元，那么182美元可以买多少个墨盒？",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "商店有您需要的 CD 和 DVD。如果一包 DVD 售价 12 美元，那么 132 美元可以买多少包 DVD？",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在嘉年华上，6 个朋友一共买了 234 张票。如果他们每人买的票数量相同，那么每个人买了多少张票？",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "莎拉正在制作珠子项链。她有 945 颗珠子，正在制作 7 条项链，每条项链使用相同数量的珠子。每条项链需要多少颗珠子？",
+        "output": "135"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "乔治有 648 块糖果。如果他把糖果分成 8 个袋子，每个袋子里有相同数量的糖果，那么每个袋子里有多少块糖果？",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一托盘箱子重 267 公斤。如果托盘上有 3 个箱子，每个箱子的重量相同，那么每个箱子的重量是多少？",
+        "output": "89"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "爱德华有 7 个活页夹，共 763 张棒球卡。如果每个活页夹中的卡片数量相同，那么每个活页夹中有多少张卡片？",
+        "output": "109"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一场午餐会共有 234 人参加，如果一张桌子可以坐 9 个人，那么需要多少张桌子？",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家鞋店正在举行返校促销活动，2 双鞋只需 23.10 美元。如果一个大家庭决定购买 7 双鞋，他们要花多少钱？",
+        "output": "80.85"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "商店里牛肉干 3 磅售价 34.23 美元。如果你买 7 磅，要花多少钱？",
+        "output": "79.87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在农产品店，你可以花 12.46 美元购买 2 袋香蕉。如果你要购买 6 袋，需要花多少钱？",
+        "output": "37.38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "保罗正在收拾他的旧玩具。他设法将八个玩具塞进一个箱子里。如果保罗装满了四个箱子，他总共装了多少个玩具？",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当房间的每个架子上都可以放九个玩偶。他的房间有三个架子。他的架子总共可以放多少个玩偶？",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "某航空公司允许每位乘客携带八件行李。如果乘机的乘客有四个人，他们可以携带多少件行李？",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "玛丽亚把零钱堆成一摞。每摞有三枚硬币。如果她有五摞，她一共有多少枚硬币？",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "卢克正在帮妈妈洗衣服。他们洗了六轮衣服，每轮有七条毛巾。他们一共洗了多少条毛巾？",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Larry&#39;s Lawn Care 修剪一道树篱收费 9 美元。如果 Henry 有三道树篱，他要花多少钱？",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "保罗正在阅读他最喜欢的系列丛书。每周他都会阅读四本不同的书。五周后他会读多少本书？",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一群 8 个朋友在万圣节扮成海盗。如果每套服装花费 5 美元，他们花了多少钱？",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "凯尔在废纸上画画。每页纸上可以画 5 幅画。如果他有 6 页纸，他可以画多少幅画？",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在 Bianca 的生日那天，她的 5 个朋友给了她 6 美元。她生日那天收到了多少钱？",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "州博览会上的过山车每次票价为 6 张。如果有 8 位朋友要乘坐过山车，他们需要多少张票？",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "南希正在为她的浴室买肥皂。她买了 6 包，每包有 5 块。她买了多少块肥皂？",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "蒂芙尼正在为家里买手巾。她买了 9 包，每包有 3 条毛巾。她买了多少条毛巾？",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige 的衣柜抽屉每个可以容纳 2 件衣服。如果她有 4 个抽屉，可以容纳多少件衣服？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "卡罗尔正在向她的朋友们发送生日邀请函。如果她购买的每包邀请函中有 9 张，而她购买了 5 包，那么她可以邀请多少位朋友？",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "某博物馆有十三幅画。如果他们扔掉其中八幅，还剩下多少幅画？ ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "万圣节时，威尔得到了 15 磅糖果。给了海莉一些后，他还剩下 9 磅。他给了海莉多少磅？ ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor 的手机上有 19 个应用程序。他删除了其中的 8 个。Victor 还剩下多少个应用程序？ ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一条胶带长十三米。Haley 用一些胶带来封纸箱。现在胶带长六米。她用了多少条胶带？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在游戏机厅，戴夫赢了十三张票。如果他用六张票买一些玩具，戴夫还剩下多少张票？ ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "弗兰克买了 15 磅蘑菇用于家庭烧烤。如果他们吃了 8 磅，还剩下多少磅？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kaleb 有 17 件衬衫。如果他扔掉其中 7 件，Kaleb 还剩下多少件衬衫？ ",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个小丑有十六个气球。他在聚会上送出了四个。他还有多少个气球？ ",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Debby 有 13 张 DVD。如果她卖掉其中 6 张，她还剩下多少张？ ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "弗兰克有十三个盒子。如果他把八个盒子装满玩具，他还有多少个盒子？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "小镇里有 98 只猫。如果其中 92 只猫睡着了，还有多少只猫醒着？",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位农民从他的花园里摘了 97 个西红柿。如果他摘掉其中的 83 个，他会剩下多少个？ ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "货架上有 98 颗洋葱。售出了 65 颗。现在货架上有多少颗洋葱？",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "奥利维亚的文件夹中有 81 张纸。她用了 56 张。她现在有多少张？ ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在玩游戏时，Kaleb 有 98 条命。在失去一些生命后，他还剩下 73 条命。Kaleb 失去了多少条命？ ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家商店有 49 件衬衫。卖掉一些后还剩下 28 件。他们卖了多少件？ ",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "比利有七十四颗樱桃。他吃了七十二颗。比利还剩下多少颗樱桃？ ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当有一些 25 美分硬币。他在游戏厅里花了 9 个，还剩下 79 个。他一开始有多少个 25 美分硬币？ ",
+        "output": "88"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位农民从他的花园里摘了 46 个西红柿。摘了一些后还剩下三个。他摘了多少个？ ",
+        "output": "43"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位厨师有 46 个苹果。做了一些馅饼后，他剩下 14 个。他用了多少个苹果？ ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "火车上有 58 个人。下一站有 45 个人下车。现在火车上有多少人？ ",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当需要爬九十六级台阶才能到达屋顶。他已经爬了七十四级。现在亚当还剩下多少级台阶要爬？",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "麦克有 51 本书，但他在一次车库拍卖会上卖出了 45 本。麦克还有多少本书？ ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在游戏机厅，比利赢了 48 张票。买了一个溜溜球后，他还剩下 32 张票。这个溜溜球值多少张票？ ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在一次生日聚会上，一个小丑送出了六个气球。现在他还剩下五十五个气球。小丑一开始有多少个气球？ ",
+        "output": "61"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "奥利维亚的钱包里有九十四美元。她去超市后还剩下七十八美元。她花了多少钱？",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在玩电子游戏时，Ned 失去了十三条生命。现在他有七十条生命。Ned 一开始有多少条命？ ",
+        "output": "83"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gwen 准备了九十八本书在跳蚤市场出售。活动结束后她还剩下九十六本书。她卖了多少本？",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位厨师有七十七颗樱桃。如果他用其中六十颗来做一个馅饼，他还剩下多少颗樱桃？ ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "伊莎贝尔有 90 个 DS 游戏。如果她将其中 87 个送给朋友，她还剩下多少个？ ",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家商店有 35 件衬衫。如果他们卖出 30 件，那么他们有多少件衬衫？ ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "佩奇用了三支铅笔。现在她有九十一支铅笔。佩奇一开始有多少支铅笔？ ",
+        "output": "94"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当摘了 35 颗草莓。吃了一些后，还剩下 33 颗。亚当吃了多少颗草莓？",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "动物园里一个笼子里有 68 条蛇。如果其中 42 条蛇藏起来了，那么有多少条蛇没有藏起来？ ",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家宠物店有 85 只沙鼠。如果他们卖掉其中的 69 只，还会剩下多少只？",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在整理文件时，Bianca 删除了 2 张图片、8 首歌曲和 7 个文本文件。她一共删除了多少个文件？ ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "新年聚会使用了 2 个红气球、12 个绿气球和 6 个白气球。总共使用了多少个气球？ ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亨利已经有 5 美元了，但做家务又赚了 2 美元。他的朋友有 13 美元。如果他们把钱加在一起，他们会有多少钱？ ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亨利买了 2 个新烟花，他的朋友买了 3 个。如果他们去年已经存了 6 个，那么现在有多少个？ ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家宠物店有 13 只暹罗猫和 5 只家猫。在促销期间，他们卖掉了 10 只猫。他们还剩下多少只猫？ ",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "奥利弗在上学前必须洗 39 件短袖衬衫和 47 件长袖衬衫。如果到上学前他只洗了 20 件，那么他有多少件没洗？ ",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "费伊和妈妈正在从菜园里摘胡萝卜。费伊摘了 23 根，妈妈摘了 5 根。如果只有 12 根胡萝卜是好的，那么她们有多少根坏胡萝卜？ ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在学校书展上，山姆买了 13 本冒险类书籍和 17 本侦探类书籍。如果其中 15 本是二手书，那么他买了多少本新书？ ",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amy 的闪存驱动器上有 26 个音乐文件和 36 个视频文件。如果她删除了其中的 48 个文件，闪存驱动器上还剩下多少个文件？ ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige 的家庭作业有 43 道数学题和 12 道科学题。如果她在学校完成了 44 道题，那么她需要做多少道家庭作业题？ ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "购物时，玛丽亚买了 35 条绿色毛巾和 21 条白色毛巾。如果她给了妈妈 34 条，玛丽亚最终会得到多少条毛巾？ ",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校篮球队有 17 名女生和 32 名男生参加选拔。如果只有 10 名女生被召回，那么有多少学生没有入选？ ",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "“The Greasy Spoon” 餐厅的一名服务员要服务 39 位顾客。午餐高峰期间，他又增加了 12 位顾客。如果 49 位顾客没有给他小费，那么有多少位顾客给了小费？ ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校食堂为学生午餐订购了 25 个红苹果和 17 个青苹果。但是，如果只有 10 名学生想要水果，那么食堂最终会多出多少个呢？ ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位厨师只有 3 个苹果，所以他又订购了 2 袋。如果每袋有 9 个苹果，他总共有多少个苹果？",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "爱德华每修剪一片草坪就能赚 8 美元。如果他修剪了 5 片草坪，并且已经存了 7 美元，那么他总共有多少钱？",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在一次漫画展上，珍妮特想买 8 本漫画，但每本要 4 美元，另外入场费还要 2 美元。她应该带多少钱才能进去买她想要的东西？",
+        "output": "34"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家杂货店有 49 瓶普通汽水和 35 瓶低热量汽水。他们一共有多少瓶？",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在知识竞赛的上半场，卡莱布得了 43 分。在下半场，他得了 23 分。他总共得了多少分？",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亨利在一次聚会上花了 45 美元购买食物，33 美元购买饮料。亨利总共花了多少钱？",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "比安卡在学校画画花了二十二分钟，在家画画花了十九分钟。她一共花了多少分钟画画？",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家快餐店卖出了 58 条小热狗和 21 条大热狗。他们一共卖出了多少条热狗？",
+        "output": "79"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一个水族箱里有十条鱼。后来他们又加了三条鱼。现在水族箱里有多少条鱼？",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "玛丽亚的书桌里有 50 张纸，背包里还有 41 张纸。她一共有多少张纸？",
+        "output": "91"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当存了七十九美元。做完一些家务后，他妈妈又给了他十三美元。他总共有多少钱？",
+        "output": "92"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在集市上，艾米一开始买了 33 张票，后来又买了 21 张。艾米一共有多少张票？",
+        "output": "54"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位面包师已经有 78 个蛋糕，但又多做了 9 个。这位面包师总共有多少个蛋糕？",
+        "output": "87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在动物园，佐伊拍了 67 张照片。如果她姐姐再拍 17 张照片，她们一共拍了多少张？",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "凯蒂有 72 个 DS 游戏，她的朋友有 23 个游戏。他们一共有多少个？",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "锻炼时，保罗早上做了 59 个俯卧撑，下午又做了 38 个。保罗总共做了多少个俯卧撑？",
+        "output": "97"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "周六 Haley 看了六个小时的电视，周日看了三个小时的电视。Haley 总共看了几个小时的电视？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor 有 10 美元。他又得到了 8 美元作为零花钱。他总共有多少钱？",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家商店售出了八种冷饮和三种热饮。他们总共售出了多少种饮料？",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "费伊有七本书。如果她在庭院拍卖会上再买十二本书，她总共有多少本？",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "去年罗杰看了十五次电影，今年看了三次。罗杰一共看了多少次电影？",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor 有九本书。在书展期间他又买了三本。Victor 总共有多少本书？",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "黛比有 12 磅面粉。如果她再买 4 磅，总共有多少磅？",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jerry 拥有 7 款电子游戏。生日时他又得到了两款。Jerry 总共有多少款游戏？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位老师有 38 张作业要批改。如果她批改了 4 张，但后来又交了 15 张，那么她需要批改多少张作业呢？",
+        "output": "49"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "比安卡有 45 本彩色书。如果她送出 6 本，然后又购买 20 本，那么她总共有多少本彩色书？",
+        "output": "59"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Robin 的 mp3 播放器中有 30 首歌曲。如果她从中删除了 8 首旧歌曲，然后添加了 10 首新歌曲，那么她的 mp3 播放器中有多少首歌曲？",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "南希从花园里摘了 12 根胡萝卜。如果她扔掉其中 2 根，第二天再摘 21 根，她总共有多少根胡萝卜？",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Zoe 的冰箱里有 42 瓶水。如果她喝了其中的 25 瓶，然后再买 30 瓶，那么她有多少瓶水？",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一位花店老板有 50 朵玫瑰。如果她卖掉其中的 15 朵，然后又摘了 21 朵，她一共有多少朵玫瑰？",
+        "output": "56"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家商店的垃圾箱里有 40 个橙子。如果他们扔掉 25 个旧的，并把 21 个新的放进垃圾箱，那么垃圾箱里会有多少个橙子？",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一家商店库存有 87 本彩色图书。他们最终将它们出售，并处理掉其中的 33 本。他们将剩余的彩色图书放到货架上，每架放六本。他们使用了多少个货架？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "汤姆有 36 件衣服要洗。他把其中 18 件放在一桶里，但决定将其余的分成两桶均等地洗。每桶可以装多少件衣服？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "麦克整个夏天靠修剪草坪赚了 90 美元。如果他花 45 美元购买新的割草机刀片，他剩下的钱能买多少个 5 美元的游戏？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye 为朋友的婚礼摘了八十八朵花。她正在制作一束五朵花的花束。如果其中四十八朵花在婚礼前枯萎了，她还能制作多少束花束？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "罗杰有 63 美元。如果他花 48 美元买一款新游戏，他剩下的钱能买多少个 3 美元的玩具？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "费伊的球队赢得了棒球比赛，总共得了 68 分。如果费伊得了 28 分，其他人各得 8 分，那么她的球队有多少名球员？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "万圣节那天，比安卡收到了 17 块糖果。她吃了两块，然后把剩下的糖果堆成一堆，每堆三块。她能堆成多少堆？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "杰瑞正在出售他的旧游戏。他一开始有 68 个，但卖掉了其中的 4 个。他把剩下的游戏打包起来，每个盒子里放了 8 个游戏。他需要用多少个盒子？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "一栋新建筑需要 14 扇窗户。建筑工人已经安装了其中 5 扇。如果安装每扇窗户需要 4 个小时，那么安装其余窗户需要多长时间？",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "温迪每回收一袋罐头可获得 5 分。如果她有 11 个袋子，但没有回收其中 2 个，她能获得多少分？",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "亚当每修剪一次草坪可赚 9 美元。如果他要修剪 12 片草坪，但忘记修剪其中 8 片，他实际上能赚多少钱？",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "午餐时，一名服务员接待了 10 位顾客，其中 5 位没有给小费。如果他从每位给小费的顾客那里得到 3 美元，那么他能赚多少钱？",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "戴夫有 10 个视频游戏，但其中 2 个无法运行。如果他想以每个 4 美元的价格出售这些可以运行的游戏，他能赚多少钱？",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "在集市上，Kaleb 买了 6 张票。坐完摩天轮后，他还剩下 3 张票。如果每张票 9 美元，那么 Kaleb 坐摩天轮花了多少钱？",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "山姆邀请了 9 位朋友参加生日聚会，但有 6 位没能来。如果他想买足够的纸杯蛋糕，让每个人都能吃到 2 个，他应该买多少个？",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "安妮有 15 个 Sweettarts。如果安妮给她的 3 个朋友同等数量的 Sweettarts，那么每个人吃了多少个 Sweettarts？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Shirley 销售了 54 箱三叶草。Shirley 需要运送多少箱 6 箱的三叶草？",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "弗朗西斯的铅笔收藏中有 25 支铅笔。如果将铅笔分成 5 组，每组有多大？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "班上有 9 名学生，共有 27 颗彩虹糖。如果将彩虹糖均分给学生，每人可得多少颗？",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "特里的瓶盖收藏品共有 560 个瓶盖。如果将瓶盖分成 80 组，每组有多大？",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "劳伦斯有 5504 颗弹珠。如果他将这些弹珠分给 64 位朋友，每位朋友能得到多少颗弹珠？",
+        "output": "86"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "艾伯特邀请 34 位朋友参加聚会。他有 1802 块饼干。每位朋友能得到多少块饼干？",
+        "output": "53"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "菲利普的香蕉收藏中有 407 根香蕉。如果将香蕉分成 11 组，每组有多大？",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "彼得有 54 张票和 4 支铅笔。如果他将这些票分给 9 个朋友，那么每个人能得到多少张票？",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "丽贝卡想将一堆鸡蛋分成 2 组。丽贝卡有 16 个鸡蛋和 3 个弹珠。会分成多少组？",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "凯瑟琳有 18 个瓶盖和 19 块积木。如果她将这些瓶盖分给 6 个朋友，每个朋友能得到多少个瓶盖？",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "学校正在计划一次实地考察。学校有 11 个教室。学校有 100 名学生，每辆校车有 20 个座位。这次旅行需要多少辆校车？",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Janice 的香蕉收藏中有 3300 根香蕉。Janice 还有 5 支蜡笔。如果将香蕉分成 75 组，每组有多大？",
+        "output": "44"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "克里斯邀请 82 位朋友参加聚会。他有 1804 块饼干和 10 块糖果。每位朋友能得到多少块饼干？",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "有 43 名学生和 1720 个苹果。每个学生有 9 个彩虹糖。如果将苹果平均分配给学生，每个学生能得到多少个？",
+        "output": "40"
+    }
+]

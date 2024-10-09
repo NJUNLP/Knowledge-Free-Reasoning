@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è grande. Anne è fredda. Anne è pelosa. Anne è verde. Anne è gentile. Anne è ruvida. Anne è rotonda. Bob è grande. Bob è gentile. Bob è ruvido. Le cose grandi sono gentili. Se qualcosa è verde allora è gentile. Se qualcosa è grande allora è rotonda. Le cose verdi e grandi sono gentili. Se qualcosa è gentile e ruvida allora è pelosa. Tutte le cose gentili e verdi sono ruvide.\nConclusione: Bob non è rotondo.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Fiona è grande. Fiona è blu. Fiona è verde. Fiona è silenziosa. Fiona è bianca. Fiona è giovane. Harry è blu. Harry è verde. Harry è silenzioso. Harry è bianco. Se qualcuno è giovane e blu allora è bianco. Se qualcuno è giovane allora è blu. Le persone giovani e blu sono grandi. Se qualcuno è verde e blu allora è freddo. Tutte le persone fredde e silenziose sono verdi. Se qualcuno è verde e grande allora è freddo.\nConclusione: Harry non è grande.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva insegue la tigre. L'aquila calva non è rossa. L'aquila calva visita la tigre. La tigre è gentile. La tigre è ruvida. La tigre è rotonda. La tigre vede l'aquila calva. Se qualcosa visita la tigre, allora la tigre insegue l'aquila calva. Se qualcosa è rosso e non vede l'aquila calva, allora l'aquila calva non insegue la tigre. Se qualcosa è rotondo e non vede la tigre, allora insegue l'aquila calva.\nConclusione: L'aquila calva è grande.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob non è blu. Bob è verde. Bob è bianco. Dave è blu. Dave è peloso. Erin non è blu. Erin è bianca. Gary è peloso. Gary è verde. Gary è gentile. Gary non è intelligente. Gary non è bianco. Le cose verdi e intelligenti sono pelose. Tutte le cose intelligenti non sono pelose. Le cose gentili non sono blu. Se qualcosa è carino e non carino, allora non è bianco. Le cose blu e pelose sono bianche. Le cose carine sono intelligenti.\nConclusione: Dave è carino.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva insegue l'orso. L'aquila calva mangia il topo. L'aquila calva ha bisogno dell'orso. L'orso mangia il topo. L'orso è verde. L'orso è gentile. L'orso è rosso. Il topo insegue l'orso. Il topo mangia l'aquila calva. Il topo mangia l'orso. Se qualcosa mangia l'orso e l'orso mangia il topo, allora il topo è gentile. Se qualcosa è gentile, allora ha bisogno dell'aquila calva.\nConclusione: L'orso non insegue l'aquila calva.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto è rude. Al coniglio piace la tigre. Alla tigre piace il gatto. Se qualcosa piace al gatto, allora il gatto è grande.\nConclusione: Alla tigre non piace il gatto.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva è rossa. L'aquila calva visita il cane. Al cane piace l'aquila calva. Il cane visita lo scoiattolo. Al coniglio piace l'aquila calva. Il coniglio vede l'aquila calva. Il coniglio vede il cane. Il coniglio visita il cane. Lo scoiattolo ha freddo. Allo scoiattolo piace il coniglio. Se qualcosa visita il cane, allora gli piace il cane. Se qualcosa visita il cane e il cane è rosso, allora al cane piace l'aquila calva.\nConclusione: Il cane visita il coniglio.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è silenzioso. Bob è giovane. Harry è gentile. Tutte le cose gentili sono blu.\nConclusione: Bob è rotondo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è gentile. Harry è rosso. Harry è bianco. Se Harry è intelligente e Harry non è bianco, allora Harry è rosso. Le cose rosse non sono gentili.\nConclusione: Harry non è gentile.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è fredda. Anne è pelosa. Fiona è gentile. Se Fiona è gentile, allora Fiona è ruvida. Le persone ruvide sono fredde. Tutte le persone fredde e bianche sono rotonde. Se qualcuno è peloso, allora è ruvido. Se Fiona è bianca e Fiona è rotonda, allora Fiona è grande. Le persone gentili sono bianche.\nConclusione: Fiona è bianca.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è grande. Bob è blu. Bob è verde. Bob è carino. Bob è rotondo. Dave è grande. Dave è blu. Erin è blu. Erin è verde. Gary è verde. Gary è rotondo. Gary è giovane. Se Erin è blu allora Erin è grande.\nConclusione: Erin è grande.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva è rossa. L'aquila calva visita il cane. Al cane piace l'aquila calva. Il cane visita lo scoiattolo. Al coniglio piace l'aquila calva. Il coniglio vede l'aquila calva. Il coniglio vede il cane. Il coniglio visita il cane. Lo scoiattolo ha freddo. Allo scoiattolo piace il coniglio. Se qualcosa visita il cane, allora gli piace il cane. Se qualcosa visita il cane e il cane è rosso, allora al cane piace l'aquila calva.\nConclusione: Allo scoiattolo non piace il cane.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva ha freddo. L'aquila calva non è giovane. L'aquila calva non ha bisogno dell'orso. L'aquila calva ha bisogno del topo. L'aquila calva vede l'orso. L'orso vede l'aquila calva. Il topo è grande. Il topo ha freddo. Il topo ha bisogno dello scoiattolo. Il topo vede l'orso. Il topo vede lo scoiattolo. Lo scoiattolo è grande. Lo scoiattolo non è rude. Lo scoiattolo ha bisogno del topo. Lo scoiattolo non visita l'aquila calva. Lo scoiattolo visita l'orso. Se qualcosa è freddo, visita il topo.\nConclusione: Lo scoiattolo non visita il topo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso visita il cane. La mucca è blu. Al cane piace la mucca. Se qualcosa insegue il cane, allora il cane è gentile. Se qualcosa piace alla mucca, allora alla mucca piace l'orso. Se l'orso è grande, allora l'orso è rotondo.\nConclusione: Alla mucca piace l'orso.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto è freddo. Il gatto è ruvido. Il gatto è giovane. Tutte le persone blu sono verdi. Se il gatto è verde e il gatto è giovane, allora il gatto è freddo. Tutte le persone fredde sono verdi.\nConclusione: Al gatto non piace il gatto.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva insegue il topo. L'aquila calva è verde. L'aquila calva è rotonda. L'aquila calva vede il gatto. L'aquila calva visita il gatto. Il gatto insegue il topo. Il gatto è rosso. Il gatto è rotondo. Il gatto vede l'aquila calva. Il gatto vede il topo. Il gatto visita l'aquila calva. Il gatto visita il topo. Il topo insegue l'aquila calva. Il topo insegue il gatto. Il topo vede il gatto. Se qualcosa insegue il gatto e il gatto vede il topo, allora il topo è gentile. Se il gatto è gentile e il gatto è giovane, allora il gatto visita il topo. Se qualcosa insegue il gatto ed è giovane, allora insegue il topo. Se qualcosa vede il topo, allora è rosso. Se qualcosa vede il gatto e il gatto è rotondo, allora il gatto vede il topo. Se qualcosa è verde e rosso, allora vede il topo.\nConclusione: Il topo vede il gatto.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è gentile. Anne è rossa. Anne è intelligente. Dave è gentile. Dave è intelligente. Dave è giovane. Gary è grande. Gary è gentile. Gary è gentile. Gary è giovane. Se qualcosa è intelligente allora è rosso. Se qualcosa è gentile allora è giovane. Se qualcosa è tranquillo allora è grande.\nConclusione: Dave è rosso.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto insegue la tigre. Il gatto è grande. Il gatto vede il topo. Il gatto vede la tigre. Il gatto visita la tigre. Il topo è blu. Il topo vede il gatto. La tigre insegue il gatto. La tigre insegue il topo. La tigre visita il topo. Se qualcuno vede la tigre e insegue la tigre, allora insegue il topo. Se qualcuno vede il topo e il topo insegue la tigre, allora è giovane.\nConclusione: La tigre è fredda.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: lo scoiattolo è gentile. Non tutte le cose belle sono rotonde. Le cose rotonde sono grandi. Tutte le cose grandi sono gentili.\nConclusione: lo scoiattolo non è gentile.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso insegue il topo. L'orso è rosso. L'orso è ruvido. L'orso è rotondo. L'orso ha bisogno del leone. L'orso ha bisogno del topo. Il leone insegue l'orso. Il topo insegue l'orso. Il topo insegue il leone. Il topo visita l'orso. Se qualcuno insegue il topo, allora il topo insegue il leone. Se qualcuno insegue il leone, allora ha bisogno del topo. Se qualcuno ha bisogno del topo, allora il topo visita il leone.\nConclusione: Il leone è ruvido.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Al topo piace lo scoiattolo. Lo scoiattolo insegue il topo. Lo scoiattolo mangia il topo. Se lo scoiattolo mangia il topo e al topo piace lo scoiattolo, allora il topo insegue lo scoiattolo. Se qualcosa è verde, allora insegue lo scoiattolo.\nConclusione: Il topo è blu.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è verde. Bob è gentile. Bob è carino. Bob è silenzioso. Bob è rude. Bob è giovane. Fiona è gentile. Fiona è carina. Fiona è silenziosa. Fiona è rude. Fiona è giovane. Harry è blu. Harry è verde. Harry è carino. Harry è rude. Harry è giovane. Se qualcuno è rude e verde allora è silenzioso. Se qualcuno è blu e carino allora è verde. Tutte le persone blu sono giovani. Se qualcuno è rude allora è verde. Se Bob è carino e Bob è verde allora Bob è blu. Tutte le persone verdi sono blu. Tutte le persone gentili e carine sono ruvide. Se qualcuno è giovane e blu allora è carino.\nConclusione: Fiona non è verde.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: La mucca è rotonda. Il leone insegue lo scoiattolo. Il leone non è gentile. Al leone piace la mucca. Lo scoiattolo insegue la tigre. Lo scoiattolo è rotondo. La tigre insegue il leone. Se qualcuno insegue il leone, allora il leone mangia la tigre. Se la mucca non insegue il leone, allora la mucca insegue la tigre. Se qualcuno mangia lo scoiattolo e lo scoiattolo è gentile, allora lo scoiattolo insegue il leone.\nConclusione: La mucca insegue la tigre.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è grosso. Charlie è tondo. Erin è giovane. Le persone giovani e tonde sono blu. Tutte le persone pelose e giovani sono tonde. Le persone pelose sono blu. Se qualcuno è tondo, allora è peloso. Le persone grosse e ruvide sono giovani. Le persone grosse e pelose sono blu.\nConclusione: Bob è giovane.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il topo è gentile. Il topo vede il coniglio. Il topo vede lo scoiattolo. Il coniglio ha freddo. Il coniglio è rotondo. Al coniglio piace il topo. Al coniglio piace lo scoiattolo. Lo scoiattolo mangia il coniglio. Lo scoiattolo ha freddo. Lo scoiattolo vede il coniglio. Se qualcosa mangia lo scoiattolo e ha freddo, allora vede il coniglio. Se qualcosa ama il topo e ha freddo, allora mangia il topo. Se qualcosa ama il coniglio, allora è rotondo.\nConclusione: Al topo piace lo scoiattolo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto è grande. Il gatto è blu. Il gatto è rotondo. Tutte le persone blu sono verdi.\nConclusione: Il gatto non è verde.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva è fredda. L'aquila calva è verde. L'aquila calva è ruvida. L'aquila calva è giovane. L'aquila calva non ama lo scoiattolo. L'aquila calva vede lo scoiattolo. L'aquila calva visita lo scoiattolo. Lo scoiattolo è grande. Lo scoiattolo è freddo. Lo scoiattolo è verde. Lo scoiattolo non è ruvido. Lo scoiattolo è giovane. Allo scoiattolo piace l'aquila calva. Lo scoiattolo vede l'aquila calva. Lo scoiattolo visita l'aquila calva. Se qualcosa vede lo scoiattolo allora vede l'aquila calva.\nConclusione: L'aquila calva non vede l'aquila calva.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva è ruvida. L'aquila calva ha bisogno dell'orso. L'orso è gentile. All'orso piace l'aquila calva. All'orso piace il coniglio. L'orso ha bisogno dell'aquila calva. Il topo è rosso. Il topo ha bisogno del coniglio. Il coniglio mangia l'orso. Il coniglio è rosso. Se qualcuno mangia il coniglio allora ha bisogno del coniglio. Se qualcuno mangia l'orso e ha bisogno dell'aquila calva allora l'aquila calva è rossa. Se qualcuno è grande allora gli piace l'orso. Se qualcuno è gentile allora gli piace il coniglio. Se il coniglio è grande allora il coniglio mangia l'aquila calva. Le persone ruvide sono rotonde. Se il coniglio mangia il topo allora il coniglio ha bisogno del topo. Se qualcuno ha bisogno del coniglio e ha bisogno del topo allora è rosso.\nConclusione: L'aquila calva è rotonda.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il topo non è blu. Il topo è carino. Il topo è rosso. Le cose rosse sono verdi. Le cose verdi sono rosse.\nConclusione: Il topo mangia il topo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso è rude. Il cane vede l'orso. Lo scoiattolo vede l'orso. Se a qualcuno piace lo scoiattolo e non vede lo scoiattolo, allora ha bisogno dello scoiattolo. Se qualcuno vede l'orso, allora non ha bisogno dello scoiattolo. Le persone ruvide e gentili sono fredde. Se qualcuno ha bisogno del cane e non è ruvido, allora gli piace lo scoiattolo. Se qualcuno ha bisogno dell'orso, allora all'orso piace il cane. Se al cane piace lo scoiattolo, allora lo scoiattolo ha bisogno del cane. Se qualcuno ha bisogno dell'orso e all'orso piace il cane, allora il cane non ha bisogno dello scoiattolo. Se qualcuno ha bisogno dell'orso e non ha bisogno dello scoiattolo, allora allo scoiattolo piace il cane.\nConclusione: Il cane non è gentile.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso non è rotondo. L'orso vede il cane. Il cane vede il coniglio. Il coniglio insegue il cane. Il coniglio vede il cane. Lo scoiattolo non insegue il coniglio. Lo scoiattolo vede il coniglio. Se qualcosa vede il coniglio, allora gli piace lo scoiattolo.\nConclusione: L'orso insegue lo scoiattolo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il leone vede lo scoiattolo. Il coniglio insegue lo scoiattolo. Lo scoiattolo vede il coniglio. Se qualcosa vede lo scoiattolo allora insegue il leone.\nConclusione: Il coniglio insegue il leone.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il coniglio è grande. Il coniglio è blu. Il coniglio è gentile. Il coniglio è ruvido. Il coniglio è giovane. Al coniglio piace la tigre. Il coniglio ha bisogno della tigre. Il coniglio visita la tigre. La tigre è grande. La tigre è blu. La tigre è gentile. La tigre è ruvida. La tigre è giovane. Alla tigre piace il coniglio. La tigre ha bisogno del coniglio. La tigre visita il coniglio. Se a qualcuno piace la tigre e ha bisogno della tigre, allora ha bisogno del coniglio. Se al coniglio piace la tigre e il coniglio è grande, allora il coniglio visita la tigre. Se a qualcuno piace il coniglio, allora il coniglio ha bisogno della tigre. Se qualcuno è blu e grande, allora visita la tigre. Se il coniglio è gentile e il coniglio visita la tigre, allora la tigre è giovane. Se qualcuno ha bisogno del coniglio e il coniglio ha bisogno della tigre, allora al coniglio piace la tigre. Se a qualcuno piace la tigre, allora ha bisogno del coniglio. Se qualcuno è gentile, allora ha bisogno della tigre. Conclusione: La tigre visita la tigre.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto mangia la tigre. Il gatto ha freddo. Il topo insegue lo scoiattolo. Il topo non insegue la tigre. Il topo ha bisogno del gatto. Lo scoiattolo mangia il gatto. Lo scoiattolo non mangia la tigre. Lo scoiattolo è verde. Lo scoiattolo è giovane. Lo scoiattolo ha bisogno del gatto. Lo scoiattolo ha bisogno della tigre. La tigre non insegue il topo. Se qualcuno mangia il topo e non è grande, allora il topo non è verde. Se lo scoiattolo ha bisogno della tigre e lo scoiattolo è giovane, allora lo scoiattolo insegue il topo. Se il gatto ha bisogno della tigre e il gatto mangia lo scoiattolo, allora la tigre non mangia il topo. Se lo scoiattolo insegue il gatto e il gatto insegue la tigre, allora la tigre non mangia lo scoiattolo. Se il gatto insegue la tigre, allora la tigre non ha bisogno dello scoiattolo. Se il topo mangia il gatto, allora il topo non ha bisogno della tigre.\nConclusione: Lo scoiattolo insegue il topo.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso insegue la tigre. L'orso è giovane. All'orso piace il coniglio. All'orso piace la tigre. L'orso visita la tigre. Il coniglio non insegue l'orso. Il coniglio insegue la tigre. Il coniglio non è gentile. Al coniglio piace l'orso. Al coniglio piace la tigre. Il coniglio visita l'orso. Il coniglio visita la tigre. La tigre è rossa. La tigre è giovane. Alla tigre non piace il coniglio. Se qualcuno visita la tigre, allora la tigre visita l'orso. Se la tigre visita l'orso, allora alla tigre non piace l'orso. Se a qualcuno piace il coniglio, allora è rosso. Se qualcuno visita il coniglio e non è verde, allora gli piace la tigre. Se qualcuno visita il coniglio, allora il coniglio non visita la tigre. Se qualcuno visita l'orso e non visita il coniglio, allora il coniglio è grande. Conclusione: Il coniglio è verde.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è verde. Dave non è grande. Gary è silenzioso. Harry è grande. Tutte le cose belle e grandi sono silenziose. Tutte le cose belle e verdi sono silenziose. Se Gary è grande e Gary non è giovane, allora Gary è gentile. Le cose bianche e giovani sono grandi. Se qualcosa è giovane, allora non è grande. Tutte le cose bianche e verdi non sono gentili. Se qualcosa è silenzioso, allora non è gentile. Se qualcosa è grande e non silenzioso, allora non è gentile.\nConclusione: Dave è verde.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è blu. Bob è peloso. Bob è verde. Bob è ruvido. Bob è giovane. Erin è pelosa. Erin è ruvida. Erin è rotonda. Erin è giovane. Harry è blu. Harry è peloso. Harry è verde. Harry è ruvido. Harry è rotondo. Harry è intelligente. Harry è giovane. Tutte le cose verdi sono intelligenti.\nConclusione: Erin non è blu.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è blu. Bob è peloso. Bob è gentile. Bob è ruvido. Charlie è grosso. Charlie è peloso. Charlie è gentile. Charlie è ruvido. Fiona è grossa. Fiona è pelosa. Fiona è gentile. Fiona è intelligente. Gary è blu. Gary è peloso. Gary è ruvido. Se Gary è gentile allora Gary è blu. Tutte le persone intelligenti e pelose sono grosse. Le persone pelose sono intelligenti.\nConclusione: Bob è gentile.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è verde. Charlie è ruvido. Dave è peloso. Dave è giovane. Erin è fredda. Erin è pelosa. Erin è rossa. Erin è ruvida. Gary è grande. Gary è freddo. Se Erin è fredda allora Erin è verde.\nConclusione: Dave è freddo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: l'orso è freddo. L'orso ha bisogno della tigre. La tigre ama l'orso. Se qualcuno è grande e non gli piace la tigre, allora alla tigre piace l'orso. Se qualcuno ha bisogno della tigre e la tigre è gentile, allora la tigre non mangia l'orso. Se qualcuno ha bisogno dell'orso e l'orso è grande, allora è gentile. Se qualcuno ha bisogno dell'orso, allora mangia la tigre. Se qualcuno ama l'orso, allora non mangia l'orso. Se alla tigre piace l'orso e all'orso non piace la tigre, allora la tigre è blu. Se qualcuno ama la tigre e alla tigre piace l'orso, allora la tigre non è grande. Se l'orso non mangia la tigre, allora la tigre non è gentile.\nConclusione: la tigre ama l'orso.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva è fredda. La mucca ama l'aquila calva. Il cane visita l'aquila calva. Il leone ama l'aquila calva. Se qualcosa è fredda, allora visita il cane.\nConclusione: La mucca ama l'aquila calva.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è intelligente. Charlie è rude. Dave è rotondo. Erin è intelligente. Se Bob è grosso, allora Bob è verde. Se qualcuno è rotondo, allora non è intelligente.\nConclusione: Bob non è rotondo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Dave è grosso. Dave è verde. Dave è ruvido. Dave non è rotondo. Dave è giovane. Fiona è grossa. Fiona è blu. Fiona è verde. Fiona è rotonda. Fiona è giovane. Le cose grandi e giovani sono blu. Le cose bianche sono verdi. Se qualcosa è giovane e non grande, allora non è bianco.\nConclusione: Fiona non è ruvida.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: La mucca insegue il coniglio. La mucca è gentile. La mucca è carina. La mucca è rotonda. La mucca ha bisogno del leone. La mucca ha bisogno del coniglio. La mucca visita il coniglio. Il leone insegue il coniglio. Il leone è verde. Il leone è gentile. Il leone è carino. Il leone ha bisogno della mucca. Il leone visita la mucca. Il leone visita il coniglio. Il coniglio è gentile. Il coniglio visita la mucca. Se qualcuno insegue il coniglio, allora il coniglio ha bisogno del leone.\nConclusione: Il leone non insegue il leone.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è blu. Bob è peloso. Bob è intelligente. Bob è bianco. Bob è giovane. Dave non è peloso. Erin è bianca. Harry non è blu. Harry è rosso. Harry è rotondo. Tutte le cose pelose e rotonde sono blu. Le cose blu sono bianche. Le cose bianche sono rotonde. Se Dave è rotondo allora Dave è giovane. Se Erin è bianca e Erin non è rotonda allora Erin non è intelligente. Se qualcosa è peloso allora è rosso. Se qualcosa è giovane e non blu allora è rosso. Se Bob non è rosso allora Bob è intelligente.\nConclusione: Dave non è bianco.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne non è silenziosa. Anne non è intelligente. Anne è bianca. Dave è rotondo. Erin è gentile. Erin è silenziosa. Erin è rotonda. Erin è intelligente. Erin è bianca. Erin è giovane. Le persone rotonde sono silenziose. Le persone tranquille sono gentili. Se qualcuno è gentile e non rotondo, allora è verde. Se qualcuno è bianco e non intelligente, allora è verde. Le persone rotonde sono verdi. Le persone rotonde sono bianche. Conclusione: Anne non è gentile.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è tondo. Dave è ruvido. Fiona è silenziosa. Se qualcuno è ruvido, allora non è blu. Se Fiona è silenziosa e Fiona non è ruvida, allora Fiona è pelosa.\nConclusione: Charlie è gentile.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto è rotondo. Al gatto piace la tigre. Il gatto ha bisogno dello scoiattolo. Il gatto ha bisogno della tigre. Allo scoiattolo piace la tigre. Lo scoiattolo ha bisogno della tigre. Lo scoiattolo vede il gatto. La tigre ama il gatto. La tigre ama lo scoiattolo. La tigre ha bisogno del gatto. La tigre ha bisogno dello scoiattolo. La tigre vede il gatto. Se qualcosa vede il gatto allora le piace la tigre.\nConclusione: Allo scoiattolo piace lo scoiattolo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è freddo. Charlie è silenzioso. Charlie è intelligente. Dave è freddo. Dave è silenzioso. Dave è rotondo. Dave è intelligente. Se qualcosa è rotondo e non ruvido, allora è freddo. Le cose intelligenti e rotonde sono rosse. Se Dave è ruvido e Dave è rotondo, allora Dave è freddo.\nConclusione: Charlie è silenzioso.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è freddo. Bob è peloso. Bob è gentile. Bob è rosso. Bob non è ruvido. Bob è rotondo. Bob è bianco. Charlie è ruvido. Charlie è bianco. Dave è rosso. Dave è ruvido. Dave è rotondo. Dave è bianco. Harry è freddo. Harry è gentile. Harry è ruvido. Se qualcosa è ruvido e rotondo allora è rosso. Se qualcosa è gentile e peloso allora è rosso. Se qualcosa è freddo e non ruvido allora è peloso. Se qualcosa è freddo allora è peloso. Tutte le cose gentili e fredde sono pelose. Tutte le cose fredde sono gentili. Se qualcosa è freddo e bianco allora è rotondo. Tutte le cose fredde e pelose sono rotonde.\nConclusione: Harry non è peloso.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: l'orso visita il gatto. Il gatto è grande. Il gatto ha bisogno dell'orso. Se qualcuno è grande, allora gli piace il gatto.\nConclusione: l'orso non visita il gatto.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso mangia il cane. L'orso è verde. L'orso è gentile. L'orso vede il cane. Il cane è ruvido. Il cane è rotondo. Il cane vede l'orso. Se qualcuno è gentile e vede il cane, allora il cane non mangia l'orso.\nConclusione: L'orso è ruvido.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie non è blu. Dave è blu. Dave è intelligente. Dave è bianco. Dave è giovane. Harry è grande. Harry è intelligente. Se qualcosa è intelligente e non è bianco, allora è blu. Le cose grandi non sono blu. Se qualcosa è verde e non è freddo, allora non è blu. Se qualcosa è verde e giovane, allora non è grande. Se qualcosa è intelligente e non è bianco, allora non è grande. Se Dave è grande, allora Dave è giovane.\nConclusione: Charlie non è intelligente.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è blu. Erin è grande. Erin è fredda. Erin è silenziosa. Erin è rotonda. Erin è bianca. Fiona è blu. Fiona è fredda. Fiona è silenziosa. Fiona è bianca. Le cose fredde e silenziose sono pelose. Le cose grandi sono silenziose. Se qualcosa è freddo e grande allora è rotondo. Se qualcosa è freddo allora è rotondo. Tutte le cose blu e fredde sono silenziose. Se qualcosa è freddo e grande allora è rotondo.\nConclusione: Erin non è bianca.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva mangia il leone. L'aquila calva è rossa. All'aquila calva piace il leone. L'aquila calva ha bisogno del leone. Il leone mangia l'aquila calva. Il leone è freddo. Il leone è verde. Il leone è gentile. Il leone è rosso. Il leone è ruvido. Al leone piace l'aquila calva. Il leone ha bisogno dell'aquila calva. Se qualcuno mangia il leone e il leone è gentile, allora è freddo. Se qualcuno mangia l'aquila calva e gli piace il leone, allora il leone è gentile. Se qualcuno mangia l'aquila calva, allora ha bisogno dell'aquila calva. Se qualcuno ha bisogno dell'aquila calva, allora l'aquila calva mangia il leone. Se qualcuno è ruvido, allora mangia l'aquila calva. Se qualcuno è gentile, allora è ruvido.\nConclusione: L'aquila calva è ruvida.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto vede la mucca. La mucca è verde. Il coniglio è verde. La tigre visita il gatto. Se qualcuno visita la mucca, allora mangia la mucca. Se qualcuno visita il gatto, allora vede il coniglio. Se qualcuno vede il gatto, allora visita il coniglio. Se qualcuno vede il coniglio, allora il coniglio mangia la mucca. Se qualcuno visita la tigre e la tigre mangia la mucca, allora la mucca mangia il coniglio. Se qualcuno è rotondo e carino, allora visita il coniglio.\nConclusione: Il gatto non vede la mucca.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è grande. Anne è pelosa. Anne è verde. Anne è gentile. Anne è silenziosa. Anne è rossa. Anne è bianca. Charlie è grande. Charlie è peloso. Charlie è verde. Charlie è gentile. Charlie è rosso. Charlie è bianco. Dave è verde. Dave è gentile. Dave è silenzioso. Le cose silenziose e gentili sono bianche.\nConclusione: Dave è rosso.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Erin è gentile. Erin è ruvida. Fiona non è verde. Fiona è gentile. Fiona è silenziosa. Fiona è rossa. Fiona è ruvida. Fiona non è bianca. Fiona è giovane. Gary è verde. Gary è gentile. Gary è ruvido. Le cose giovani e silenziose sono rosse. Se qualcosa è ruvido allora è rosso.\nConclusione: Erin è giovane.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob non è gentile. Bob è rude. Erin è grande. Erin è blu. Erin è gentile. Erin è rude. Erin è intelligente. Fiona è grande. Fiona non è gentile. Fiona è rude. Fiona è intelligente. Fiona non è bianca. Fiona è giovane. Harry non è blu. Harry è gentile. Harry è rude. Tutte le persone giovani e gentili sono grandi. Le persone gentili e giovani sono grandi. Se qualcuno è gentile e non è bianco, allora è grande. Tutte le persone intelligenti sono giovani. Se Fiona è giovane e Fiona è blu, allora Fiona è gentile. Tutte le persone blu sono gentili. Se Erin è blu, allora Erin è intelligente. Se Bob è rude e Bob non è giovane, allora Bob è grande.\nConclusione: Erin non è giovane.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è silenzioso. Bob è rosso. Bob è ruvido. Bob non è bianco. Bob è giovane. Charlie è peloso. Charlie è gentile. Charlie è silenzioso. Charlie è rosso. Charlie è bianco. Tutte le persone ruvide sono gentili. Se qualcuno è ruvido e non peloso allora è bianco.\nConclusione: Bob è gentile.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è pelosa. Anne non è gentile. Charlie è gentile. Charlie è giovane. Gary non è gentile. Gary è rude. Harry è grosso. Harry è silenzioso. Harry è rude. Harry è rotondo. Se qualcosa è ruvido e non silenzioso allora è grande. Se qualcosa è rotondo allora è grande. Tutto ciò che è rotondo e silenzioso è piacevole.\nConclusione: Harry non è gentile.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: La mucca mangia il coniglio. Alla mucca piace il leone. Il leone mangia il topo. Il topo è gentile. Il topo non vede il leone. Il coniglio è grande. Il coniglio vede il leone. Se qualcosa mangia la mucca e alla mucca piace il topo, allora il topo mangia la mucca. Se qualcosa mangia il leone, allora il leone non mangia il topo. Se qualcosa è gentile e vede la mucca, allora vede il topo. Se la mucca è gentile, allora la mucca mangia il topo. Se al coniglio piace la mucca e il coniglio vede il leone, allora il coniglio non è blu. Le cose giovani e blu sono grandi. Se qualcosa piace la mucca e non mangia il leone, allora la mucca non vede il leone. Se qualcosa è grande, allora non le piace il leone.\nConclusione: Il leone non vede il leone.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è gentile. Charlie è verde. Fiona è pelosa. Gary è verde. Se Anne è grande e Anne è gentile, allora Anne è rossa. Tutte le persone gentili sono verdi.\nConclusione: Charlie è verde.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva insegue il gatto. L'aquila calva è blu. L'aquila calva ha bisogno del gatto. L'aquila calva vede lo scoiattolo. Il gatto è giovane. Il gatto ha bisogno dello scoiattolo. Lo scoiattolo insegue il gatto. Lo scoiattolo è grande. Lo scoiattolo è ruvido. Lo scoiattolo è giovane. Lo scoiattolo ha bisogno dell'aquila calva. Lo scoiattolo vede l'aquila calva. Se qualcuno vede l'aquila calva allora vede il gatto.\nConclusione: Lo scoiattolo è grande.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è grande. Anne è fredda. Anne è rossa. Anne non è giovane. Erin è fredda. Erin è giovane. Fiona è gentile. Fiona è giovane. Gary non è grande. Gary è freddo. Gary è gentile. Gary è giovane. Tutte le persone giovani e verdi sono fredde. Se qualcuno è gentile e non rude, allora è freddo. Se Fiona è fredda, allora Fiona è gentile. Tutte le persone gentili non sono verdi. Se qualcuno è gentile e non giovane, allora è grande. Tutte le persone ruvide e fredde non sono grandi. Tutte le persone fredde e ruvide non sono rosse. Se qualcuno è grande e non ruvido, allora non è rosso.\nConclusione: Fiona è ruvida.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto insegue il topo. Il gatto non visita il leone. Il leone insegue il gatto. Il leone insegue il topo. Il leone ha freddo. Il leone non vede il gatto. Il leone vede il topo. Il topo insegue il leone. Il topo è verde. Il topo visita il gatto. Se qualcosa è freddo e insegue il topo, allora il topo non vede il gatto.\nConclusione: Il leone non è gentile.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è giovane. Bob è gentile. Gary è rude. Tutte le cose ruvide sono gentili. Le cose bianche sono pelose.\nConclusione: Gary è gentile.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è blu. Charlie è gentile. Erin è grande. Erin è blu. Erin è verde. Erin è gentile. Erin è intelligente. Gary è grande. Gary è verde. Gary è intelligente. Se qualcosa è giovane, allora è grande. Tutte le cose verdi sono belle.\nConclusione: Gary è gentile.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso mangia lo scoiattolo. L'orso è freddo. L'orso è gentile. L'orso è ruvido. L'orso è rotondo. L'orso è giovane. All'orso piace lo scoiattolo. L'orso vede lo scoiattolo. Lo scoiattolo mangia l'orso. Lo scoiattolo è freddo. Lo scoiattolo è gentile. Lo scoiattolo è ruvido. Lo scoiattolo è rotondo. Lo scoiattolo è giovane. Allo scoiattolo piace l'orso. Lo scoiattolo vede l'orso. Se qualcosa piace all'orso, allora mangia lo scoiattolo.\nConclusione: All'orso piace l'orso.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto visita la mucca. La mucca mangia il leone. Il cane è giovane. Il leone mangia il cane. Se qualcuno insegue la mucca ed è gentile, allora visita il leone. Se qualcuno visita il gatto e il gatto insegue la mucca, allora insegue il gatto. I giovani sono verdi. Se qualcuno è rosso e verde, allora visita il cane. Se il cane mangia il leone, allora il cane insegue il gatto. Se il gatto insegue il cane e il cane mangia il leone, allora il cane è rosso. Se qualcuno mangia la mucca e la mucca mangia il cane, allora il cane mangia il gatto. Se qualcuno è gentile, allora mangia il cane.\nConclusione: Il cane non è verde.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso mangia il gatto. Il gatto mangia la mucca. Il gatto visita l'orso. La mucca mangia il gatto. La mucca è blu. La mucca ha bisogno dell'orso. La mucca ha bisogno della tigre. La mucca visita l'orso. La mucca visita il gatto. La tigre è blu. La tigre ha bisogno del gatto. La tigre visita l'orso. Se qualcosa mangia l'orso allora ha bisogno dell'orso. Se qualcosa è ruvido e ha bisogno della mucca allora la mucca è gentile. Se qualcosa è ruvido allora ha bisogno della mucca. Se qualcosa è freddo e blu allora ha bisogno della tigre. Se qualcosa è grande allora mangia l'orso. Se qualcosa ha bisogno dell'orso e mangia la mucca allora la mucca è gentile. Se qualcosa è ruvido allora ha bisogno della tigre. Se qualcosa visita il gatto e ha bisogno della tigre allora ha freddo. Conclusione: La tigre mangia l'orso.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il coniglio visita lo scoiattolo. Lo scoiattolo mangia il coniglio. Lo scoiattolo è grande. Se qualcosa mangia lo scoiattolo, allora lo scoiattolo mangia il coniglio. Se il coniglio è gentile e il coniglio mangia lo scoiattolo, allora lo scoiattolo mangia il coniglio. Se a qualcosa piace il coniglio e il coniglio visita lo scoiattolo, allora visita il coniglio. Se qualcosa visita lo scoiattolo, allora allo scoiattolo piace il coniglio. Se qualcosa visita lo scoiattolo, allora gli piace il coniglio. Se al coniglio piace lo scoiattolo e il coniglio visita lo scoiattolo, allora il coniglio è rosso.\nConclusione: Al coniglio piace lo scoiattolo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è fredda. Anne non è pelosa. Anne è gentile. Anne è intelligente. Bob non è silenzioso. Bob non è intelligente. Dave è grande. Fiona è grande. Fiona è silenziosa. Fiona è ruvida. Tutte le cose silenziose e fredde sono belle. Le cose silenziose e grandi sono fredde.\nConclusione: Anne è intelligente.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è grande. Charlie è freddo. Charlie è gentile. Erin è grande. Erin è gentile. Erin è intelligente. Gary è freddo. Gary è verde. Gary è rosso. Harry è rotondo. Se Harry è grande allora Harry è rosso. Le cose fredde sono gentili. Tutte le cose rosse sono rotonde.\nConclusione: Charlie non è grande.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: La mucca ha bisogno dello scoiattolo. Il topo insegue la tigre. Il topo mangia la mucca. Lo scoiattolo ha bisogno del topo. La tigre non mangia la mucca. La tigre ha bisogno della mucca. La tigre ha bisogno dello scoiattolo. Se qualcosa insegue la tigre allora è blu. Se qualcosa è rosso e ha bisogno della mucca allora la mucca non è giovane. Se qualcosa insegue la tigre ed è rosso allora ha bisogno della mucca.\nConclusione: La mucca ha bisogno del topo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: l'aquila calva ha bisogno del cane. Il gatto ha bisogno dell'aquila calva. Il cane vede l'aquila calva. Se a qualcuno piace l'aquila calva, allora ha bisogno del cane. Se a qualcuno serve il gatto, allora il gatto è giovane. Se qualcuno vede l'aquila calva, allora l'aquila calva ha bisogno del cane. Se qualcuno ha bisogno del gatto ed è verde, allora vede l'aquila calva. Se qualcuno ha bisogno dell'aquila calva e ha freddo, allora ha bisogno del gatto. Se qualcuno è gentile, allora ha bisogno del cane. Se qualcuno vede il gatto, allora è gentile. Se qualcuno ha bisogno dell'aquila calva, allora l'aquila calva vede il cane.\nConclusione: il gatto non ha bisogno del cane.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il leone è blu. Il leone è verde. Il leone ha bisogno dello scoiattolo. Il leone visita lo scoiattolo. Il topo mangia il leone. Il topo è ruvido. Il topo ha bisogno del leone. Lo scoiattolo mangia il leone. Lo scoiattolo mangia il topo. Lo scoiattolo visita il topo. Se qualcuno ha bisogno dello scoiattolo e lo scoiattolo è ruvido, allora visita il leone. Se qualcuno visita il topo e mangia il leone, allora è verde.\nConclusione: Il leone non ha bisogno dello scoiattolo.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Dave è blu. Dave è freddo. Dave è gentile. Erin è blu. Erin è fredda. Erin è gentile. Erin è gentile. Erin è silenziosa. Erin è giovane. Harry è freddo. Se qualcuno è blu, allora è silenzioso.\nConclusione: Dave non è silenzioso.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: l'aquila calva è grande. Il coniglio ha bisogno dell'aquila calva. Allo scoiattolo piace il coniglio. Se il coniglio è verde, allora il coniglio è grande. Se a qualcosa piace il coniglio, allora insegue il coniglio. Se a qualcosa piace il coniglio e il coniglio è giovane, allora ha bisogno dell'aquila calva. Se qualcosa insegue lo scoiattolo, allora ha bisogno dell'aquila calva. Se qualcosa ha bisogno dello scoiattolo e allo scoiattolo piace l'aquila calva, allora lo scoiattolo insegue il coniglio. Se qualcosa insegue il coniglio, allora al coniglio piace l'aquila calva.\nConclusione: allo scoiattolo piace il coniglio.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è pelosa. Anne è verde. Anne è rossa. Anne è rotonda. Bob non è peloso. Bob non è verde. Bob è rotondo. Gary non è peloso. Gary è gentile. Gary è rosso. Gary è rotondo. Gary è intelligente. Harry è verde. Harry non è ruvido. Harry è rotondo. Le persone rotonde e pelose sono intelligenti. Tutte le persone pelose e rosse sono rotonde. Se qualcuno è ruvido allora è rotondo. Se Bob è rotondo e Bob non è rosso allora Bob non è intelligente. Se Gary è ruvido allora Gary è rosso. Se qualcuno è ruvido e non intelligente allora è verde.\nConclusione: Gary è rosso.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto mangia il leone. Il leone mangia il gatto. Il leone è gentile. Se qualcuno è grande e visita il gatto, allora visita il leone. Se qualcuno è gentile, allora ha bisogno del gatto.\nConclusione: Il leone non è gentile.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso insegue il topo. L'orso è grande. L'orso è verde. All'orso piace il leone. Il leone insegue l'orso. Il leone insegue il topo. Il leone è grande. Al leone non piace l'orso. Al leone piace lo scoiattolo. Il leone non ha bisogno del topo. Il leone ha bisogno dello scoiattolo. Il topo è grande. Lo scoiattolo è grande. Lo scoiattolo è freddo. Allo scoiattolo piace l'orso. Lo scoiattolo ha bisogno del topo. Se qualcuno insegue il topo allora è rotondo.\nConclusione: L'orso non ha bisogno dello scoiattolo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso è blu. L'orso è rosso. L'orso non è giovane. La mucca visita il cane. Il cane non visita il leone. Il leone insegue la mucca. Il leone ha bisogno della mucca. Se il cane visita la mucca, allora la mucca non ha bisogno del cane. Se qualcuno insegue la mucca, allora la mucca è blu. Se il leone insegue l'orso, allora il leone è grande. Se qualcuno è giovane, allora non visita il cane. Se il cane ha bisogno della mucca, allora la mucca insegue l'orso. Se qualcuno ha bisogno della mucca, allora la mucca è gentile.\nConclusione: La mucca non è blu.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso non insegue il topo. L'orso non ha bisogno del gatto. L'orso non ha bisogno del topo. L'orso non visita il topo. Il gatto non insegue l'orso. Il gatto insegue il topo. Il gatto ha freddo. Il gatto ha bisogno dell'orso. Il gatto ha bisogno del topo. Il gatto visita il topo. Il topo non ha freddo. Il topo ha bisogno del gatto. Se qualcosa è freddo allora insegue il gatto.\nConclusione: Il topo insegue il gatto.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'aquila calva visita la tigre. Il coniglio ha bisogno dell'aquila calva. La tigre visita l'aquila calva. Se la tigre è giovane, allora alla tigre piace il coniglio. Le cose belle sono rotonde. Se qualcosa ha bisogno del coniglio ed è bella, allora al coniglio piace la tigre. Se al coniglio piace l'aquila calva, allora all'aquila calva piace la tigre. Se la tigre visita l'aquila calva e l'aquila calva visita la tigre, allora l'aquila calva è rossa. Se qualcosa ha bisogno del coniglio e non le piace la tigre, allora la tigre non visita l'aquila calva.\nConclusione: L'aquila calva è rossa.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il coniglio è grande. Il coniglio è blu. Il coniglio è gentile. Il coniglio è ruvido. Il coniglio è giovane. Al coniglio piace la tigre. Il coniglio ha bisogno della tigre. Il coniglio visita la tigre. La tigre è grande. La tigre è blu. La tigre è gentile. La tigre è ruvida. La tigre è giovane. Alla tigre piace il coniglio. La tigre ha bisogno del coniglio. La tigre visita il coniglio. Se a qualcuno piace la tigre e ha bisogno della tigre, allora ha bisogno del coniglio. Se al coniglio piace la tigre e il coniglio è grande, allora il coniglio visita la tigre. Se a qualcuno piace il coniglio, allora il coniglio ha bisogno della tigre. Se qualcuno è blu e grande, allora visita la tigre. Se il coniglio è gentile e il coniglio visita la tigre, allora la tigre è giovane. Se qualcuno ha bisogno del coniglio e il coniglio ha bisogno della tigre, allora al coniglio piace la tigre. Se a qualcuno piace la tigre, allora ha bisogno del coniglio. Se qualcuno è gentile, allora ha bisogno della tigre. Conclusione: La tigre non ha bisogno della tigre.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso ha bisogno del leone. Il gatto mangia l'orso. Il gatto mangia il leone. Il gatto è grande. Il gatto è blu. Il gatto è giovane. Il gatto ha bisogno del leone. Il gatto visita il leone. Il leone mangia l'orso. Il leone mangia il gatto. Il leone è grande. Il leone è rotondo. Il leone ha bisogno del gatto. Il leone visita l'orso. Il leone visita il gatto. Se qualcuno mangia l'orso allora ha bisogno del leone. Se l'orso è rude e il leone non visita l'orso allora il leone mangia il gatto. Se l'orso mangia il gatto e il gatto non mangia il leone allora il leone mangia il gatto. Se il leone ha bisogno del gatto allora il leone visita il gatto. Se qualcuno visita l'orso allora è giovane. Se qualcuno mangia il leone e non ha bisogno del gatto allora il gatto ha bisogno del leone.\nConclusione: Il gatto visita il gatto.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Dave è rosso. Erin non è fredda. Erin è gentile. Erin è silenziosa. Gary non è freddo. Gary è rosso. Harry è silenzioso. Tutte le cose silenziose sono piacevoli. Se Harry è freddo e Harry è rosso, allora Harry è blu. Se Harry è verde, allora Harry non è gentile. Se qualcosa è rossa e non è gentile, allora non è verde. Le cose gentili sono blu. Le cose rosse e gentili sono blu.\nConclusione: Dave è verde.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è rude. Bob è rude. Erin è rude. Gary è rude. Le persone grandi e verdi sono intelligenti. Tutte le persone pelose e rosse sono intelligenti. Le persone ruvide sono fredde. Tutte le persone verdi e intelligenti sono fredde. Se qualcuno è freddo, allora non è peloso. Le persone verdi e grandi sono rosse.\nConclusione: Anne non è verde.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è grande. Charlie è blu. Dave è blu. Erin è silenziosa. Tutte le persone silenziose e blu sono gentili. I giovani sono blu. Le persone pelose e grandi sono blu. Le persone blu e gentili sono silenziose. Se qualcuno è silenzioso, allora è gentile. Tutte le persone giovani e grandi sono blu.\nConclusione: Anne è giovane.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è rossa. Anne è intelligente. Bob è gentile. Bob è carino. Bob è silenzioso. Dave è silenzioso. Dave è bianco. Tutte le cose silenziose e intelligenti sono ruvide. Se qualcosa è bello, allora è bianco. Le cose rosse sono gentili.\nConclusione: Bob non è intelligente.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è pelosa. Charlie è peloso. Charlie non è verde. Erin è gentile. Erin è giovane. Harry è verde. Harry non è gentile. Se qualcosa è grande e non verde, allora non è rosso. Tutte le cose rosse sono pelose. Tutte le cose giovani sono gentili.\nConclusione: Anne è giovane.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Erin è gentile. Gary è rude. Se qualcuno è peloso e rude, allora è giovane. Se Gary è rude e Gary è gentile, allora Gary è giovane. Le persone blu e tranquille sono rosse. Se Gary è gentile e Gary è tranquillo, allora Gary è blu. Se Gary è rosso, allora Gary è peloso. Tutte le persone gentili sono pelose.\nConclusione: Erin non è pelosa.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Charlie è peloso. Charlie non è intelligente. Fiona è grande. Fiona è pelosa. Fiona è rotonda. Fiona è intelligente. Fiona è giovane. Le cose giovani non sono blu. Tutte le cose intelligenti sono giovani. Tutte le cose pelose sono rotonde. Se qualcosa è rotondo e non giovane allora è peloso. Se qualcosa è peloso e non rotondo allora è bianco. Se qualcosa è bianco e non peloso allora non è grande.\nConclusione: Fiona non è bianca.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: L'orso insegue la mucca. L'orso è grande. L'orso è blu. L'orso è verde. L'orso è gentile. L'orso è gentile. L'orso ama la mucca. L'orso ha bisogno della mucca. La mucca insegue l'orso. La mucca è grande. La mucca è blu. La mucca è verde. La mucca è gentile. Alla mucca piace l'orso. La mucca ha bisogno dell'orso. Se qualcuno insegue la mucca e la mucca insegue l'orso, allora alla mucca piace l'orso. Se l'orso ha bisogno della mucca, allora la mucca è grande. Se qualcuno insegue l'orso, allora gli piace l'orso. Se a qualcuno piace la mucca, allora insegue l'orso. Se la mucca insegue l'orso, allora alla mucca piace l'orso. Se qualcuno insegue la mucca, allora alla mucca piace l'orso. Se qualcuno insegue l'orso e all'orso piace la mucca, allora l'orso insegue la mucca. Se qualcuno ha bisogno dell'orso, allora insegue l'orso. Conclusione: La mucca non ha bisogno della mucca.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è rude. Anne è intelligente. Bob è blu. Bob è gentile. Bob è rude. Dave è blu. Dave è peloso. Dave è gentile. Dave è rude. Gary è rosso. Le persone ruvide e rosse sono giovani. Tutte le persone intelligenti e ruvide sono pelose.\nConclusione: Anne non è pelosa.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Bob è blu. Erin è verde. Harry è silenzioso. Se Erin è verde, allora Erin è silenziosa. Se Bob è verde, allora Bob è grande. Tutto ciò che è bianco e silenzioso è ruvido.\nConclusione: Harry è blu.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto mangia il cane. Il gatto è gentile. Al gatto piace il cane. Al cane piace il gatto. Al cane piace il leone. Il leone è blu. Il leone è verde. Se a qualcuno piace il leone, allora il leone è verde. Se il gatto è gentile e al gatto piace il cane, allora il gatto è verde. Se qualcuno visita il gatto e mangia il gatto, allora visita il leone. Se qualcuno visita il cane, allora il cane mangia il gatto. Se qualcuno ha freddo, allora visita il gatto. Se il cane visita il gatto e il gatto mangia il leone, allora al cane piace il leone. Se qualcuno è blu e gli piace il gatto, allora è gentile. Se il cane mangia il gatto, allora il gatto mangia il cane.\nConclusione: Il cane visita il leone.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Anne è grande. Anne è blu. Anne è fredda. Anne è pelosa. Anne è verde. Anne è ruvida. Charlie è blu. Charlie è verde. Charlie è silenzioso. Charlie è ruvido. Dave è grande. Dave è blu. Dave è verde. Dave è silenzioso. Gary è blu. Gary è silenzioso. Le persone verdi sono ruvide. Le persone pelose e blu sono fredde. Tutte le persone blu sono ruvide. Tutte le persone pelose sono silenziose. Se Gary è verde, allora Gary è silenzioso. Tutte le persone blu sono silenziose. Se qualcuno è peloso e blu, allora è verde. Se qualcuno è blu e verde, allora è freddo.\nConclusione: Gary non è freddo.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Premessa: Il gatto è ruvido. Al gatto piace il cane. Al gatto piace il leone. Il gatto vede il leone. Il gatto vede il topo. Il cane è blu. Il cane è freddo. Il cane visita il leone. Il leone è freddo. Il topo è ruvido. Il topo vede il cane. Il topo visita il gatto. Se a qualcuno piace il leone, allora al leone piace il cane.\nConclusione: Al leone non piace il cane.",
+        "output": "B"
+    }
+]

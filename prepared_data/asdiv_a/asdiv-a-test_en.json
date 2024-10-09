@@ -1,0 +1,1332 @@
+[
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "If the all the participants found a total 40 eggs from the club house, 25 eggs from the park and 15 eggs from the town hall, how many Easter eggs were found that day?",
+        "output": "80"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Penny's class is going to Animaland, the largest zoo on earth, for their science field trip. The zoo has a variety of wild animals in captivity. Their first destination was the aviary. The aviary has 3 species of eagles on show that day. They have 20 Bald Eagles, 15 Harpy Eagles, and 30 Crowned Eagles. How many eagles are on display that day?",
+        "output": "65"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "After the aviary was the zoo's swamp area. Penny counted a total of 55 tree frogs, 10 poison frogs and 13 wood frogs. How many frogs was Penny able to count?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Aside from frogs, the swamp area is also home to a few dangerous animals. Penny's teacher pointed out 22 crocodiles, 23 alligators and 5 vipers. How many dangerous animals did the teacher point out in total?",
+        "output": "50"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Next in their itinerary was the insectarium, home to hundreds of insect species. Penny, who likes butterflies and ants, took pictures of the different species. She was able to capture 60 species of butterflies, 15 species of ants and 20 species of other insects. How many species of insects did Penny capture?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Last stop in their field trip was the aquarium. Penny identified 35 species of sharks, 15 species of eels and 5 different species of whales. How many species was Penny able to identify?",
+        "output": "55"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sofia, president of the school student organization, held a meeting to talk about the food being served at the school cafeteria. The first order of business is to discuss whether the students like the food being served at the school. If 383 students said that they like the food and 431 students said they didn't, how many students participated in the discussion?",
+        "output": "814"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "After agreeing that the school menu needs to be changed, they had a vote for food suggestions. If 337 voted to add more veggies to the menu and 335 voted to add more meat, how many students voted?",
+        "output": "672"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Since the result of the vote was close, it was decided that they will balance the menu with both meat and vegetables. This decision was agreed upon by 154 third grade students and 237 fourth grade students. How many students agreed with the decision?",
+        "output": "391"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Because of the decision, Sofia asked the students to suggest specific types of food. If 279 students suggested adding mashed potatoes while 234 suggested adding bacon to the menu, how many students participated in the suggestion of new food items?",
+        "output": "513"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "After a week, Sofia did a survey to ask if the students liked the new menu. She found out that 235 students liked the new menu while 165 didn't. How many students took part in Sofia's survey?",
+        "output": "400"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tyler, an animal rights advocate, decided to build his own animal sanctuary to protect different animals from poachers. The sanctuary was divided into different regions. The first region to be built was a bird sanctuary. Initially, he had 29 endangered bird species on that region. If each species has 7 pairs of birds, how many pairs does he have in total?",
+        "output": "203"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Another region was the aquatic reserve for freshwater organisms. If there are 6 bodies of water in the region, each having 175 different fishes, how many fishes does he have in total?",
+        "output": "1050"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "He also had 8 aquariums for saltwater animals. Each aquarium has 64 animals in it. How many saltwater animals does Tyler have?",
+        "output": "512"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The sanctuary also includes several swamp areas where most of the reptiles usually reside. If there are 4 swamps, each having 356 different reptiles, how many reptiles are living in the swamp areas?",
+        "output": "1424"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 3 more sections that are undeveloped. Each of the remaining sections has a land area of 2435 square feet. What is the total area of the undeveloped land?",
+        "output": "7305"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "It's Rachel's birthday. Her parents wanted her to have fun so they went to the circus that happened to be in town that day. Upon arriving at the circus, they went to the ticket booth and asked how much each ticket cost. If each ticket costs $44.00 and they bought 7 tickets, how much money did they spend on tickets?",
+        "output": "308"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "They entered the circus tent and saw that there are four seating sections for the audience. If each section can accommodate 246 people, how many people can the tent accommodate in total?",
+        "output": "984"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The first act included 5 clown mobiles, each stuffed with 28 clowns. How many clowns are inside all the clown mobiles combined?",
+        "output": "140"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The next act involved several jugglers. If each juggler is juggling 6 balls at a time, how many balls are needed if there are 378 jugglers putting a show at the same time?",
+        "output": "2268"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For the final act, the circus brought out dancing animals wearing crowns. If each crown is made with 7 different colored feathers, how many feathers are needed for 934 crowns?",
+        "output": "6538"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amanda and her friends decided to go to an amusement park for the weekend. The nearest amusement park from their city is Super Fun-tastic Land. If they cover a distance of 27 miles for every hour of travel and they travelled for 3 hours, how far is SFL from the city?",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "When they got there, they saw that SFL is already filled with people. Every entrance has a long line, with 283 people waiting to get in. If SFL has 5 entrances, how many people in total are waiting to get in?",
+        "output": "1415"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Determined to have fun, they travelled to the next amusement park, HappyLand. If they cover a distance of 328 feet for every minute of travel and they travelled for 9 minutes, how far is HappyLand from SFL?",
+        "output": "2952"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "When they arrived at HappyLand, they immediately went in and bought their tickets. If each ticket cost $17.00 and they bought 8 tickets, how much did they spend on tickets?",
+        "output": "136"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "He also has a section filled with short story booklets. If each booklet has 9 pages and there are 49 booklets in the short story section, how many pages will Jack need to go through if he plans to read them all?",
+        "output": "441"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "One of his favorites is a book called Encyclopedia of Life and Everything Else. The book has 7 large chapters, each having 566 pages. How many pages does the encyclopedia have in total?",
+        "output": "3962"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The mini library also has a section for the classics. If Jack has a collection of 6 classic authors, with each author having 33 books, how many books does he have in the classics section?",
+        "output": "198"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "179 birds were sitting in a tree. 38 more birds flew up to the tree. How many birds were there altogether in the tree?",
+        "output": "217"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Cindy's mom baked 1215 cookies. Paul's dad baked 1112 cookies. They both brought them to school for a party. How many cookies did they have altogether?",
+        "output": "2327"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There were 27 boys and 35 girls on the playground at recess. How many children were on the playground at recess?",
+        "output": "62"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paul had 28 strawberries in his basket. He picked 35 more strawberries. How many strawberries did he have then?",
+        "output": "63"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gary had 73 dollars. He spent 55 dollars on a pet snake. How many dollars did Gary have left?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ellen had 380 legos, but she lost 57 of them. How many legos does she have now?",
+        "output": "323"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Arthur baked 35 muffins. How many more muffins does Arthur have to bake to have 83 muffins?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Willy has 1400 crayons. Lucy has 290 crayons. How many more crayons does Willy have then Lucy?",
+        "output": "1110"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lizette has 813 stamps. She has 125 more stamps than Minerva. How many stamps does Minerva have?",
+        "output": "688"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Megan had 217 markers. Robert gave her 109 more markers. How many markers does Megan have altogether?",
+        "output": "326"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A DVD book holds 126 DVDs. There are 81 DVDs already in the book. How many more DVDs can be put in the book?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kelly has 121 Nintendo games. How many does she need to give away so that she will have 22 games left?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Connie had some marbles. She gave 183 to Juan. Now she has 593 marbles left. How many did she have to start with?",
+        "output": "776"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Iesha has 344 books. 136 are about school and the rest are about sports. How many books about sports does Iesha have?",
+        "output": "208"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "James has 1222 balloons. Amy has 513 balloons. How many more balloons does James have than Amy?",
+        "output": "709"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sean has 223 whistles. He has 95 more whistles that Charles. How many whistles does Charles have?",
+        "output": "128"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Connie has 323 marbles. Juan has 175 more marbles than Connie. How many marbles does Juan have?",
+        "output": "498"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam has $5.00 to buy an airplane that costs $4.28. How much change will he get?",
+        "output": "0.72"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mr. Guzman bought 48 doughnuts packed equally into 4 boxes. How many doughnuts were in each box?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "One stamp costs $0.34. Two stamps cost $0.68. Three stamps cost $1.02. If the cost of each stamp remains the same, how much would 4 stamps cost?",
+        "output": "1.36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The town of Milburg has 5,256 grown-ups and 2,987 children. How many people live in Milburg?",
+        "output": "8243"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lisa rented 4 DVDs for $4.80. How much did each DVD cost to rent?",
+        "output": "1.2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There were 3,409 pieces of candy in a jar. If 145 pieces were red and the rest were blue, how many were blue?",
+        "output": "3264"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The farmer had 127 apples. He gave 88 apples to his neighbor. How many apples does he have now?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mrs. Hilt went to a concert. A total of 65,899 people attended the concert. The next week, she went to a second concert, which had 119 more people in attendance. How many people were at the second concert?",
+        "output": "66018"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mrs. Hilt needs to share $3.75 equally among three total people. How much money will each person get?",
+        "output": "1.25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mrs. Hilt is baking bread. She needs 5 cups of flour to bake two loaves of bread. How much flour will she need to make one loaf of bread?",
+        "output": "2.5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lucy has an aquarium with 212 fish. She wants to buy 68 more fish. How many fish would Lucy have then?",
+        "output": "280"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lucy has 212 fish. How many more fish does she need to buy to have 280 fish?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears. How many fleas perished?",
+        "output": "121"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A pet supply store has 600 bags of dog food and 327 bags of cat food. How many more bags of dog food are there than cat food?",
+        "output": "273"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "532 people are watching a movie in a theater. The theater has 750 seats. How many seats are empty in the theater?",
+        "output": "218"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kendra took a road trip. In the afternoon, she saw 4 minivans like hers. Later, in the evening, she saw one more minivan like hers. How many minivans like hers did she see in all?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 4 boys and 5 girls in a preschool daycare. How many children are there in the daycare?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 7 basketballs at a school. If the school buys another 3 basketballs, how many basketballs will the school have?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Garrett went shopping for snack supplies and bought 6 oatmeal raisin granola bars and 8 peanut granola bars. How many granola bars did he buy in all?",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jack received 8 emails in the morning and 2 emails in the afternoon. How many emails did Jack receive in the day?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A chess club has 3 members. If 4 new members are enrolled, how many total members are there in the chess club?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Every day, Ryan spends 4 hours on learning English and 3 hours on learning Chinese. How many hours does he spend on learning English and Chinese in all?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mother bought some potatoes. She used 15 of the potatoes to make salads and 24 of the potatoes for mashed potatoes. If there were 13 potatoes left, how many potatoes did mother buy at first?",
+        "output": "52"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gary had some stickers. He gave 42 stickers to Lucy and 26 stickers to Alex. If he had 31 stickers left, how many stickers did Gary have at first?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "If Simon needs to make 519 gift bags at a rate of 42 bags per day, how many days does he need to finish making all the gift boxes?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jane can arrange 16 vases of flowers in a day. If there are 248 vases of flowers to be arranged, how many days are needed for her to finish all the flower arrangements?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A box can hold 18 pieces of chalk. If there are 3,484 pieces of chalk, how many boxes are full to hold all the chalk?",
+        "output": "194"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A bus can transport 48 passengers. If a school of 1,230 students and teachers are going on a field trip, how many buses should be rented?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The capacity of a tank is 32 gallons. If a company bought 728 gallons of oil, how many tanks are needed to hold all the oil?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 22 dogs in the farm. They live in 5 dog-houses equally. How many dogs are there in each dog-house?",
+        "output": "4"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Divide 39 balloons into 7 equal groups. How many balloons are there in each group?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The school bought 54 basketballs and distribute them into 7 classes equally. How many basketballs did each class get?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 32 students in the class. The teacher divided them into 5 equal groups. How many students are there in each group?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A tourist group has 26 people. At a hotel, they want to rent some large rooms for 3 people each and some small rooms for 2 each. In order to rent the least number of rooms and have every room fully occupied, how many large rooms should be rented?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A ballet class wants to divide its 90 members into some large groups at 7 members each and some small groups at 3 members each. In order to make the least number of groups, how many large groups should be made?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nick saved $68.50. If Nick saved $25.43 more than Lee, how much did Lee save?",
+        "output": "43.07"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "I put another number into my machine. The machine added 15 and then subtracted 6. The number 35 came out of the machine. What number did I put in?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Cindy and Dan have the same number of stickers. Cindy used 15 of her stickers. Dan bought 18 more stickers. How many more stickers did Dan have than Cindy then?",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ed had 22 more marbles than Doug. Doug lost 8 of his marbles at the playground. How many more marble did Ed have than Doug then?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "My ice cream shop was really busy today. It was 98 degrees and we sold 67 ice cream cones. We sold 15 more milkshakes than ice cream cones. How many milkshakes were sold?",
+        "output": "82"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The little league stadium has 92 seats. 47 people came to the game today. 38 people were holding banners. How many seats were empty?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maura collects seashells every summer. Her family stays at the beach house for 21 days. This summer, Maura found 75 seashells. She gave some to her little sister. Maura then had 57 seashells. How many seashells did Maura give to her sister?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The tallest giraffe at the zoo is 96 inches tall. There are 14 adult giraffes at the zoo. The shortest giraffe is 68 inches. How much taller is the bigger giraffe?",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The Central City Zoo has 45 chimpanzees. Every day the chimps eat a total of 72 bananas. Next week, the zoo is moving 18 chimps to a new cage. How many chimps will stay in the old cage?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The zookeeper has 68 fish to feed to the penguins. 19 penguins have already gotten a fish. The zoo has 36 penguins. How many more penguins need to get a fish?",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ralph has a photo album with 50 pages. He has 26 pictures of wild animals. Ralph's friend, Derrick, has 34 pictures of wild animals. How many fewer pictures of wild animals does Ralph have?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lisa invited the entire third grade to her party. There are 48 students altogether. 23 of the students are boys and 25 are girls. 9 students will not be able to go to the party. How many students will be there?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Billy can play 24 songs in his music book. He knows the names of 18 different guitar chords. Billy's music book has 52 songs in it. How many songs does Billy still need to learn?",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mom made 32 chocolate chip cookies. It took 24 minutes to mix the ingredients and 16 minutes to bake. Julie and Matt ate 9 cookies after dinner. How many cookies were left?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 45 questions on the math test. 17 questions are word problems. 28 questions are addition and subtraction problems. Steve can only answer 38 questions. How many questions did Steve leave blank?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kendra learns 12 new spelling words each week. Her goal is to learn 60 new words before her eighth birthday. She has already learned 36 new words. How many more words does Kendra need to learn?",
+        "output": "24"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tripp and Charlotte are going on a 36 mile hike. Tripp's backpack weighs 25 pounds. Charlotte's back pack weighs 7 pounds less. They hiked 9 miles the first day. How many miles do they have left?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dora is having her tenth birthday party next Saurday. She invited 64 people. Her mom ordered 36 sandwiches. 16 people can not come to the party. How many people will be at Dora's party?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tommy has $79. He wants to buy a $35 camera. He also wants to buy a $59 CD player. How much more money does Tommy need?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Omar loves to play checkers. He played 37 games yesterday. He played 49 games today. Omar lost 18 games. How many games did he win?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sean is playing Monopoly with his friends. He already has 27 houses. Sean traded in 8 houses for money to buy Park Place. He collected so much rent that he decided to buy 12 more houses. How many houses did Sean have then?",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Diane wants to buy a package of cookies. The cookies cost 65 cents. Diane has 27 cents. How much more money does she need?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Andy had 31 baseball cards. His dad gave him some more. Then Andy had 50 baseball cards. How many baseball cards did Andy get from his dad?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Laurie has 12 more marbles than Kurt. Kurt has 45 marbles less than Dennis. Dennis has 70 marbles. How many marbles does Laurie have?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Anthony gets 75 cents every day for lunch. He bought a juice box for 27 cents. He also bought a cupcake. Anthony had 8 cents left. How much did the cupcake cost?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "December is a busy month for the toy store. They had 95 games on the shelf. 68 games were sold the first week. The store got 47 more games from the factory. How many games did they have then?",
+        "output": "74"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The third graders are having a fair. They have 90 tickets to sell. They sold 38 tickets the first week and 17 tickets the second week. How many tickets do they have left to sell?",
+        "output": "35"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The ice rink has 85 pairs of skates to rent. 18 people rented skates when the ice rink opened. 25 more people rented skates during the first hour. How many pairs of skates are left?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jake set up a candy stand in his front yard. He has 80 pieces of candy to sell. He sold 15 pieces of candy on Monday. He sold much more than that on Tuesday. By Wednesday, Jakes only had 7 pieces left. How many pieces of candy did Jake sell on Tuesday?",
+        "output": "58"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The ski resort reported 65 inches of snow in January. They measured 18 inches of snow during the first week. They measured 25 inches of snow the second week. How much snow did they get the rest of the month?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Carey and Pat are moving chairs to the gym. They agreed to move 74 chairs. Carey moved 28 chairs. Pat has moved 29 chairs. How many more chairs do they have left to move?",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jean had a bag of candy. She gave 18 pieces to her friend. Jean ate 7 pieces. Now she has 16 pieces left. How many pieces of candy did Jean have at first?",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Charlene made 60 bead necklaces. She sold 16 at a craft fair. She gave 18 to her friends. How many necklaces did Charlene have then?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Ramon works at the supermarket. He put 26 boxes of Choco Delights on the shelf. There were already 15 boxes there. Later that day, Ramon counted 22 boxes on the shelf. How many boxes of Choco Delights were missing?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "52 children and 29 adults went to the track meet. The stadium has 95 seats. How many seats were empty?",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Diane wants to buy a package of cookies. The cookies cost 65 cents. Diane has 27 cents. What's the difference between the cost of the cookies and the money of Diane?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 45 questions on the math test. 17 questions are word problems. 28 questions are addition and subtraction problems. Steve can only answer 38 questions. What's the difference between the number of all questions on the math test and the number of questions that Steve can answer?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the arcade Billy had won forty-eight tickets. After buying a yoyo he had thirty-two tickets left. What's the difference between the number of Billy's tickets he won and he had the left after buying yoyo?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For Halloween Frank got fifteen pounds of candy. If he gave eight pounds to Nancy, what's the difference between the pounds of Frank's candy before he gave Nancy and he gave to?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Billy was playing basketball with his friend. Billy scored 7 points and his friend scored 9 points. What's the difference between Billy's points and his friend's points?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "When Maria got to the fair she had $87. When she left she had $16. What's the difference between the number of dollars when Maria got and left the fair?",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A furniture store had fifteen chairs. After selling some, there was three left. What's the difference between the number of chairs before selling and the left?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Zoe picked five apples from her tree. Now the tree has six apples still on it. What's the difference between the number of apples Zoe picked and now the tree has?",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A clown had sixteen balloons. He gave four away at a party. What's the difference between the number of balloons the clown had in the beginning and he gave away at a party?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amy had some candy. She gave her friend six pieces and had five left. What's the difference between of the pieces of candy Amy gave away and the left?",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A fast food restaurant had ninety-one hotdogs. After selling some they had twenty left. What's the difference between the number of hotdogs before selling and after selling?",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "If one pack of gum costs $2, how many packs of gum can you buy with $16?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "If one round costs $80, how many rounds of golf can you play with $400?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "If one cartridge costs 15 dollars, how many ink cartridges can you buy with 180 dollars?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "If one pack costs 11 dollars, how many packs of DVD's can you buy with 110 dollars?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The company has large and small ink cartridges in stock. How many ink cartridges can you buy with 182 dollars if one cartridge costs 14 dollars ?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The store has CD's and DVD's that you need. How many packs of DVD's can you buy with 132 dollars if one pack costs 12 dollars ?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the carnival, 6 friends bought 234 tickets total. If they each bought the same amount, how many tickets did each person buy?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sarah is making bead necklaces. She has 945 beads and is making 7 necklaces with each necklace using the same number of beads. How many beads will each necklace use?",
+        "output": "135"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "George had 648 pieces of candy. If he split the candy into 8 bags with the same amount of candy in each bag, how many pieces would each bag have in it?",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A pallet of boxes weighed 267 kilograms. If there were 3 boxes on the pallet and each box weighed the same amount, how much did each weigh?",
+        "output": "89"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Edward had 763 baseball cards in 7 binders. If each binder has the same number of cards, how many cards are in each binder?",
+        "output": "109"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 234 people attending a luncheon. If a table can hold 9 people, how many tables do they need?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A shoe store was having a back to school sale where you could buy 2 pairs of shoes for $23.10. If a large family decided to buy 7 pairs of shoes, how much would it cost them?",
+        "output": "80.85"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the store beef jerky was $34.23 for 3 pounds. If you bought 7 pounds, how much would it cost?",
+        "output": "79.87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the produce store you can buy 2 bags of bananas for $12.46. How much would it cost if you were to buy 6 bags?",
+        "output": "37.38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paul was packing up his old toys. He managed to squeeze eight toys into a box. If Paul filled up four boxes, how many toys did he pack total?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam could fit nine action figures on each shelf in his room. His room has three shelves. How many action figures total could his shelves hold?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "An airline lets each passenger take eight pieces of luggage. If there were four people flying, how many bags could they take?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maria was placing her spare change into stacks. Each stack had three coins. If she had five stacks, how many coins did she have?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Luke was helping his mom wash clothes. They washed six loads with seven towels in each load. How many towels did they wash total?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Larry's Lawn Care charges nine bucks to trim a hedge. If Henry has three hedges, how much money would he spend?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paul was reading through his favorite book series. Each week he read four different books. How many books would he have read through after five weeks?",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A group of 8 friends were dressing as pirates for Halloween. If each costume cost 5 dollars, how much did they spend?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kale was drawing on scrap paper. He could fit 5 drawings on each page. If he has 6 pages, how many drawings can he make?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For Bianca's birthday 5 of her friends gave her 6 dollars. How much money did she get for her birthday?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The roller coaster at the state fair costs 6 tickets per ride. If 8 friends were going to ride the roller coaster, how many tickets would they need?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nancy was buying soap for her bathroom. She bought 6 packs with each pack having 5 bars. How many bars of soap did she buy?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tiffany was buying hand towels for her house. She bought 9 packs with each pack having 3 towels in it. How many towels did she buy?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige's dresser drawers could hold 2 pieces of clothing each. If she had 4 drawers, how many pieces of clothing could it hold?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Carol was sending out birthday invitations to her friends. If each package of invitations she bought had 9 invitations in it and she bought 5 packs, how many friends can she invite?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A museum had thirteen paintings. If they got rid of eight of them, how many pictures would they have left? ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For Halloween Will got fifteen pounds of candy. After giving some to Haley, he had nine pounds left. How many pounds did he give to Haley? ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor had nineteen apps on his phone. He deleted eight of them. How many apps does Victor have left? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A tape was thirteen meters long. Haley used some to seal cartons. Now the tape is six meters long. How much tape did she use?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the arcade Dave had won thirteen tickets. If he used six to buy some toys, how many tickets did Dave have left? ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Frank got fifteen pounds of mushroom for family barbecue. If they ate eight pounds, how many pounds were left?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Kaleb has seventeen shirts. If he got rid of seven of them, how many shirts would Kaleb have? ",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A clown had sixteen balloons. He gave four away at a party. How many balloons does he still have? ",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Debby owned thirteen DVDs. If she sold six of them, how many would she have left? ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Frank had thirteen boxes. If he filled eight with toys, how many boxes does he still have?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are ninety-eight cats in the little town. If ninety-two of them are a asleep,  how many cats are still awake?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A farmer had ninety-seven tomatoes from his garden. If he picked eighty-three of them, how many would he have left? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There were ninety-eight onions on the shelf. Sixty-five were sold. How many onions is there on the shelf now?",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Olivia had eighty-one pieces of paper in her folder. She used fifty-six pieces. How many pieces does she have now? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "While playing a game Kaleb had ninety-eight lives. After losing some lives he had seventy-three left. How many lives did Kaleb lose? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A store has forty-nine shirts. After selling some there were twenty-eight left. How many did they sell? ",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Billy had seventy-four cherries. He ate seventy-two of them. How many cherries does Billy have left? ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam had some quarters. He spent nine of them at the arcade and had seventy-nine left over. How many quarters did he have to start with? ",
+        "output": "88"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A farmer had forty-six tomatoes from his garden. After picking some he had three left. How many did he pick? ",
+        "output": "43"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A chef had forty-six apples. After making some pies he had fourteen left. How many apples did he use? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There were fifty-eight people on the train. At the next stop forty-five people got off. How many people are there on the train now? ",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam needed to climb ninety-six stair steps to reach the rooftop. He already climbed seventy-four. How many stair steps do left for Adam to climb now?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mike had fifty-one books, but he sold forty-five at a garage sale. How many books does Mike still have? ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the arcade Billy had won forty-eight tickets. After buying a yoyo he had thirty-two tickets left. How many tickets did the yoyo cost? ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For a birthday party a clown gave away six balloons. Now he has fifty-five balloons left. How many balloons did the clown have to start with? ",
+        "output": "61"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There were ninety-four dollars in Olivia's wallet. After she visited a supermarket, there were seventy-eight dollars left. How much did she spend?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "While playing a video game Ned lost thirteen lives. Now he has seventy lives. How many lives did Ned have at the start? ",
+        "output": "83"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Gwen prepared ninety-eight books to sell in the flea market. After the activity ended she had ninety-six books left. How many did she sell?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A chef had seventy-seven cherries. If he used sixty of them to make a pie, how many cherries would he still have? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Isabel had ninety DS games. If she gave eighty-seven to her friend, how many would she have left? ",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A store has thirty-five shirts. If they sold thirty of them, how many shirts would they have? ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige used three of her pencils. Now she has ninety-one pencils. How many pencils did Paige have to begin with? ",
+        "output": "94"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam picked thirty-five strawberries. After eating some, he had thirty-three left. How many strawberries did Adam eat?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the zoo a cage had sixty-eight snakes. If forty-two were hiding, how many snakes were not hiding? ",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A pet store had eighty-five gerbils. If they sold sixty-nine of them, how many would they have left?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "While organizing her files, Bianca deleted 2 pictures, 8 songs and 7 text files. What is the total number of files she deleted? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For a new year's party 2 red balloons, 12 green balloons and 6 white balloons were used. What is the total number of balloons used? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Henry already had 5 dollars, but earned another 2 dollars doing chores. His friend had 13 dollars. If they put their money together, how much would they have? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Henry bought 2 new fireworks and his friend bought 3. If they already had 6 saved from last year, how many do they have now? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A pet store had 13 siamese cats and 5 house cats. During a sale they sold 10 cats. How many cats do they have left? ",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Oliver had to wash 39 short sleeve shirts and 47 long sleeve shirts before school. If he had only washed 20 of them by the time school started, how many did he not wash? ",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye and her mom were picking carrots from their garden. Faye picked 23 and her mother picked 5. If only 12 of the carrots were good, how many bad carrots did they have? ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the schools book fair Sam bought 13 adventure books and 17 mystery books. If 15 of the books were used, how many new books did he buy? ",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Amy had 26 music files and 36 video files on her flash drive. If she deleted 48 of the files, how many files were still on her flash drive? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "While shopping, Maria bought 35 green towels and 21 white towels. If she gave her mother 34 of them, how many towels did Maria end up with? ",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There were 17 girls and 32 boys trying out for the schools basketball team. If only 10 of them got called back, how many students didn't make the cut? ",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A waiter at 'The Greasy Spoon' restaurant had 39 customers to wait on. During the lunch rush he added another 12 customers. If 49 of the customers didn't leave him a tip, how many customers did leave a tip? ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The school cafeteria ordered 25 red apples and 17 green apples for students lunches. But, if only 10 students wanted fruit, how many extra did the cafeteria end up with? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A chef only had 3 apples so he ordered 2 more bags. If each bag has 9 apples, how many apples does he have total?",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Edward earned 8 dollars for every lawn he mowed. If he mowed 5 lawns and he already had 7 dollars saved up, how much money does he have total?",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At a comic convention Janet wanted to buy 8 comics, but each one costs 4 dollars, plus it costs 2 to even get in. How much money should she take with her so she can get in and buy what she wants?",
+        "output": "34"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A grocery store had forty-nine bottles of regular soda and thirty-five bottles of diet soda. How many bottles did they have total?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "In the first half of a trivia game Kaleb scored forty-three points. In the second half he scored twenty-three points. How many points did he score total?",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For a party Henry spent forty-five dollars on food and thirty-three dollars on drinks. How much did Henry spend total?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Bianca spent twenty-two minutes drawing at school and nineteen minutes drawing at home. How many minutes total did she spend drawing?",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A fast food restaurant sold fifty-eight small hotdogs and twenty-one large hotdogs. How many hotdogs did they sell total?",
+        "output": "79"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "An aquarium had ten fish in it. Later they added three fish. How many fish are in the aquarium now?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Maria had fifty sheets of paper in her desk and forty-one more in her backpack. How many did she have total?",
+        "output": "91"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam had seventy-nine dollars saved up. After doing some chores his mother gave him another thirteen dollars. How much money does he have total?",
+        "output": "92"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the fair Amy started with thirty-three tickets and then bought twenty-one more. How many tickets did Amy have total?",
+        "output": "54"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A baker already had seventy-eight cakes but made nine extra. How many cakes did the baker have total?",
+        "output": "87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the zoo Zoe took sixty-seven pictures. If her sister took another seventeen pictures, how many did they take total?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Katie had seventy-two DS games and her friend had twenty-three games. How many do they have total?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "While exercising Paul did fifty-nine push-ups in the morning and thirty-eight more in the afternoon. How many push-ups did Paul do total?",
+        "output": "97"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Haley watched TV for six hours on Saturday and three hours on Sunday. How many hours did Haley watch TV total?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor had $10. For his allowance he got another $8. How much money does he have total?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A store sold eight cold drinks and three hot drinks. How many drinks did they sell total?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye had seven books. If she bought twelve more at a yard sale, how many would she have total?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Roger went to the movies fifteen times last year and three times this year. How many times did Roger go to the movies all together?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Victor had nine books. During the book fair he bought three more. How many books did Victor have total?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Debby had twelve pounds of flour. If she bought another four pounds, how many pounds would she have total?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jerry owned seven video games. For his birthday he got two more. How many games did Jerry have total?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A teacher had 38 worksheets to grade. If she graded 4, but then another 15 were turned in, how many worksheets would she have to grade?",
+        "output": "49"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?",
+        "output": "59"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Robin had 30 songs on her mp3 player. If she deleted 8 old songs from it and then added 10 new songs, how many songs does she have on her mp3 player?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Nancy picked 12 carrots from her garden. If she threw out 2 of them and then picked 21 more the next day, how many carrots would she have total?",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Zoe had 42 bottles of water in her fridge. If she drank 25 of them and then bought 30 more, how many bottles would she have?",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A florist had 50 roses. If she sold 15 of them and then later picked 21 more, how many roses would she have?",
+        "output": "56"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A store had 40 oranges in a bin. If they threw away 25 of the old ones and put 21 new ones in the bin, how many would be in the bin?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A store had eighty-seven coloring books in stock. They ended up putting them on sale and getting rid of thirty-three of them. The put the ones they still had onto shelves with six on each shelf. How many shelves did they use?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Tom had thirty-six pieces of clothing to wash. He put eighteen of them in one load, but decided to split the rest into two equal loads. How many pieces of clothing could go in each of the small loads?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Mike made ninety dollars mowing lawns over the summer. If he spent forty-five dollars buying new mower blades, how many five dollar games could he buy with the money he had left?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye picked eighty-eight flowers for her friend's wedding. She was making bouquets with five flowers in each one. If forty-eight of the flowers wilted before the wedding, how many bouquets could she still make?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Roger had sixty-three dollars. If he spent forty-eight bucks on a new game, how many three dollar toys could he buy with the money he had left?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Faye's team won their baseball game and scored sixty-eight points total. If Faye scored twenty-eight of the points and everyone else scored eight points each, how many players were on her team?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "For Halloween Bianca received seventeen pieces of candy. She ate two pieces then placed the rest into piles with three in each pile. How many piles could she make?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Jerry was selling his old games. He started out with sixty-eight but sold four of them. He packed the rest up putting eight games into each box. How many boxes did he have to use?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Wendy earned 5 points for each bag of cans she recycled. If she had 11 bags, but didn't recycle 2 of them, how many points would she have earned?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Adam earned 9 dollars for each lawn he mowed. If he had 12 lawns to mow, but forgot to mow 8 of them, how much money did he actually earn?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At lunch a waiter had 10 customers and 5 of them didn't leave a tip. If he got $3 each from the ones who did tip, how much money did he earn?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Dave had 10 video games but 2 of them weren't working. If he wanted to sell the working games for $4 each, how much money could he earn?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Sam invited 9 friends to a birthday party, but 6 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 2, how many should he buy?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Anne had 15 Sweettarts. If Anne gave equal numbers of Sweettarts to her 3 friends, how many Sweettarts did each person eat?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Shirley sold 54 boxes of Trefoils. How many cases of 6 boxes does Shirley need to deliver?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 25 pencils in Frances's pencil collection. If the pencils are organized into 5 groups, how big is each group?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 9 students in the class and 27 Skittles. If the Skittles are divided equally among the students, how many does each student get?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 560 bottle caps in Terry's bottle cap collection. If the bottle caps are organized into 80 groups, how big is each group?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Lawrence has 5504 marbles. If he shares them among 64 friends, how many marbles does each friend get?",
+        "output": "86"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Albert is inviting 34 friends to a party. He has 1802 cookies. How many cookies will each friend get?",
+        "output": "53"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 407 bananas in Philip's banana collection. If the bananas are organized into 11 groups, how big is each group?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Peter has 54 tickets and 4 pencils. If he shares the tickets among 9 friends, how many tickets does each friend get?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Rebecca wants to split a collection of eggs into groups of 2. Rebecca has 16 eggs and 3 marbles. How many groups will be created?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Catherine has 18 bottle caps and 19 blocks. If she shares the bottle caps among 6 friends, how many bottle caps does each friend get?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "The school is planning a field trip. The school has 11 classrooms. There are 100 students in the school and 20 seats on each school bus. How many buses are needed to take the trip?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 3300 bananas in Janice's banana collection. Janice also has 5 crayons. If the bananas are organized into 75 groups, how big is each group?",
+        "output": "44"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "Chris is inviting 82 friends to a party. He has 1804 cookies and 10 peices of candy. How many cookies will each friend get?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students, how many does each student get?",
+        "output": "40"
+    }
+]

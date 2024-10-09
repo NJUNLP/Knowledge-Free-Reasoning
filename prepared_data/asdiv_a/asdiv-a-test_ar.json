@@ -1,0 +1,1332 @@
+[
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إذا عثر جميع المشاركين على إجمالي 40 بيضة من منزل النادي، و25 بيضة من الحديقة، و15 بيضة من قاعة المدينة، فكم عدد بيضات عيد الفصح التي تم العثور عليها في ذلك اليوم؟",
+        "output": "80"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "سيذهب فصل بيني إلى أنيمال لاند، أكبر حديقة حيوان على وجه الأرض، في رحلة علمية ميدانية. حديقة الحيوان لديها مجموعة متنوعة من الحيوانات البرية في الأسر. وكانت وجهتهم الأولى القفص. يحتوي القفص على 3 أنواع من النسور معروضة في ذلك اليوم. لديهم 20 نسرًا أصلعًا، و15 نسرًا هاربي، و30 نسرًا متوجًا. كم عدد النسور المعروضة في ذلك اليوم؟",
+        "output": "65"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "بعد القفص كانت منطقة مستنقع حديقة الحيوان. أحصى بيني إجمالي 55 ضفدع شجرة، و10 ضفادع سامة، و13 ضفدع خشب. كم عدد الضفادع التي استطاعت بيني عدها؟",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وبصرف النظر عن الضفادع، تعد منطقة المستنقع أيضًا موطنًا لعدد قليل من الحيوانات الخطرة. أشار معلم بيني إلى 22 تمساحًا و23 تمساحًا و5 أفاعي. كم عدد الحيوانات الخطرة التي أشار إليها المعلم إجمالاً؟",
+        "output": "50"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "التالي في خط سير الرحلة كان الحشرات، موطنًا لمئات من أنواع الحشرات. التقطت بيني، التي تحب الفراشات والنمل، صوراً للأنواع المختلفة. وتمكنت من اصطياد 60 نوعا من الفراشات و15 نوعا من النمل و20 نوعا من الحشرات الأخرى. كم عدد أنواع الحشرات التي التقطها بيني؟",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "المحطة الأخيرة في رحلتهم الميدانية كانت حوض السمك. حدد بيني 35 نوعًا من أسماك القرش، و15 نوعًا من الثعابين، و5 أنواع مختلفة من الحيتان. كم عدد الأنواع التي استطاع بيني التعرف عليها؟",
+        "output": "55"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "عقدت صوفيا، رئيسة اتحاد طلاب المدرسة، اجتماعًا للحديث عن الطعام الذي يتم تقديمه في كافتيريا المدرسة. الأمر الأول في العمل هو مناقشة ما إذا كان الطلاب يحبون الطعام الذي يتم تقديمه في المدرسة. إذا قال 383 طالبًا إنهم يحبون الطعام وقال 431 طالبًا إنهم لا يحبونه، فكم عدد الطلاب الذين شاركوا في المناقشة؟",
+        "output": "814"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "بعد الاتفاق على ضرورة تغيير قائمة المدرسة، قاموا بالتصويت على اقتراحات الطعام. إذا صوت 337 شخصًا لإضافة المزيد من الخضار إلى القائمة، وصوت 335 شخصًا لإضافة المزيد من اللحوم، فكم عدد الطلاب الذين صوتوا؟",
+        "output": "672"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وبما أن نتيجة التصويت كانت متقاربة، فقد تقرر أن يقوموا بموازنة القائمة مع اللحوم والخضروات. وقد وافق على هذا القرار 154 طالبًا من طلاب الصف الثالث و237 طالبًا من طلاب الصف الرابع. كم عدد الطلاب الذين وافقوا على القرار؟",
+        "output": "391"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وبسبب القرار، طلبت صوفيا من الطلاب أن يقترحوا أنواعًا معينة من الطعام. إذا اقترح 279 طالبًا إضافة البطاطس المهروسة بينما اقترح 234 إضافة لحم الخنزير المقدد إلى القائمة، فكم عدد الطلاب الذين شاركوا في اقتراح أصناف غذائية جديدة؟",
+        "output": "513"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وبعد أسبوع، أجرت صوفيا استطلاعًا لسؤال الطلاب عما إذا كانت القائمة الجديدة أعجبتهم. واكتشفت أن 235 طالبًا أعجبوا بالقائمة الجديدة بينما لم يعجبها 165 طالبًا. كم عدد الطلاب الذين شاركوا في استطلاع صوفيا؟",
+        "output": "400"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قرر تايلر، أحد المدافعين عن حقوق الحيوان، بناء ملجأ خاص به للحيوانات لحماية الحيوانات المختلفة من الصيادين. تم تقسيم الحرم إلى مناطق مختلفة. أول منطقة تم بناؤها كانت محمية للطيور. في البداية، كان لديه 29 نوعًا من الطيور المهددة بالانقراض في تلك المنطقة. إذا كان لكل نوع 7 أزواج من الطيور، فكم عدد الأزواج الموجودة لديه إجمالاً؟",
+        "output": "203"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وكانت المنطقة الأخرى هي المحمية المائية لكائنات المياه العذبة. إذا كان هناك 6 مسطحات مائية في المنطقة، يحتوي كل منها على 175 سمكة مختلفة، فما إجمالي عدد الأسماك الموجودة لديه؟",
+        "output": "1050"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كما كان لديه 8 أحواض سمك لحيوانات المياه المالحة. يحتوي كل حوض أسماك على 64 حيوانًا. كم عدد حيوانات المياه المالحة التي يمتلكها تايلر؟",
+        "output": "512"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يشتمل الحرم أيضًا على العديد من مناطق المستنقعات التي تتواجد فيها عادةً معظم الزواحف. إذا كان هناك 4 مستنقعات، يحتوي كل منها على 356 من الزواحف المختلفة، فما عدد الزواحف التي تعيش في مناطق المستنقع؟",
+        "output": "1424"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 3 أقسام أخرى غير مطورة. تبلغ مساحة كل قسم من الأقسام المتبقية 2435 قدمًا مربعًا. ما هي المساحة الإجمالية للأراضي غير المستغلة؟",
+        "output": "7305"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إنه عيد ميلاد راشيل. أراد والداها أن تستمتع، لذا ذهبا إلى السيرك الذي صادف وجوده في المدينة في ذلك اليوم. عند وصولهم إلى السيرك، ذهبوا إلى كشك التذاكر وسألوا عن تكلفة كل تذكرة. إذا كانت تكلفة كل تذكرة 44.00 دولارًا واشتروا 7 تذاكر، فما مقدار المال الذي أنفقوه على التذاكر؟",
+        "output": "308"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "دخلوا خيمة السيرك ورأوا أن هناك أربعة أقسام للجلوس للجمهور. إذا كان كل قسم يتسع لـ 246 شخصًا، فكم عدد الأشخاص الذين يمكن أن تستوعبهم الخيمة إجمالاً؟",
+        "output": "984"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تضمن العرض الأول 5 هواتف مهرجين، كل منها محشوة بـ 28 مهرجا. كم عدد المهرجين الموجودين داخل جميع هواتف المهرج مجتمعة؟",
+        "output": "140"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "الفعل التالي شارك فيه العديد من المشعوذين. إذا كان كل مشعوذ يتلاعب بـ 6 كرات في المرة الواحدة، فكم عدد الكرات المطلوبة إذا كان هناك 378 مشعوذًا يقدمون عرضًا في نفس الوقت؟",
+        "output": "2268"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وفي الفصل الأخير، أخرج السيرك حيوانات راقصة ترتدي التيجان. إذا كان كل تاج مصنوعًا من 7 ريشات مختلفة الألوان، فما عدد الريشات اللازمة للحصول على 934 تاجًا؟",
+        "output": "6538"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قررت أماندا وأصدقاؤها الذهاب إلى مدينة الملاهي لقضاء عطلة نهاية الأسبوع. أقرب متنزه من مدينتهم هو Super Fun-tastic Land. إذا قطعوا مسافة 27 ميلًا لكل ساعة سفر وسافروا لمدة 3 ساعات، فما المسافة التي تبعدها SFL عن المدينة؟",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "عندما وصلوا إلى هناك، رأوا أن SFL ممتلئة بالفعل بالناس. يحتوي كل مدخل على طابور طويل، حيث ينتظر 283 شخصًا للدخول. إذا كان لدى SFL 5 مداخل، فكم عدد الأشخاص الإجمالي الذين ينتظرون الدخول؟",
+        "output": "1415"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "عاقدين العزم على قضاء وقت ممتع، سافروا إلى مدينة الملاهي التالية، HappyLand. إذا قطعوا مسافة 328 قدمًا في كل دقيقة سفر وسافروا لمدة 9 دقائق، فما المسافة التي تبعدها HappyLand عن SFL؟",
+        "output": "2952"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "عندما وصلوا إلى HappyLand، دخلوا على الفور واشتروا التذاكر الخاصة بهم. إذا كانت تكلفة كل تذكرة 17.00 دولارًا واشتروا 8 تذاكر، فما المبلغ الذي أنفقوه على التذاكر؟",
+        "output": "136"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لديه أيضًا قسم مليء بكتيبات القصص القصيرة. إذا كان كل كتيب يحتوي على 9 صفحات، وكان هناك 49 كتيبًا في قسم القصة القصيرة، فكم عدد الصفحات التي سيحتاج جاك إلى قراءتها إذا كان ينوي قراءتها جميعًا؟",
+        "output": "441"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ومن مفضلاته كتاب اسمه موسوعة الحياة وكل شيء آخر. يتكون الكتاب من 7 فصول كبيرة، يقع كل منها في 566 صفحة. كم عدد صفحات الموسوعة إجمالاً؟",
+        "output": "3962"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تحتوي المكتبة الصغيرة أيضًا على قسم للكلاسيكيات. إذا كان لدى جاك مجموعة من 6 مؤلفين كلاسيكيين، كل مؤلف لديه 33 كتابًا، فما عدد الكتب الموجودة لديه في قسم الكلاسيكيات؟",
+        "output": "198"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك 179 طائرًا جالسًا على الشجرة. طار 38 طائرًا آخر إلى الشجرة. كم عدد الطيور الموجودة في الشجرة إجمالاً؟",
+        "output": "217"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قامت والدة سيندي بخبز 1215 كعكة. خبز والد بول 1112 كعكة. كلاهما أحضرهما إلى المدرسة لحضور حفلة. كم عدد ملفات تعريف الارتباط التي كانت لديهم إجمالاً؟",
+        "output": "2327"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك 27 فتى و35 فتاة في الملعب أثناء فترة الاستراحة. كم عدد الأطفال الذين كانوا في الملعب أثناء الاستراحة؟",
+        "output": "62"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى بول ٢٨ ثمرة فراولة في سلته. قطف 35 ثمرة فراولة أخرى. كم عدد الفراولة التي كان لديه بعد ذلك؟",
+        "output": "63"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى غاري 73 دولارًا. أنفق 55 دولارًا على ثعبان أليف. كم عدد الدولارات التي تركها غاري؟",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى إيلين 380 قطعة ليغو، لكنها خسرت 57 منها. كم عدد الليغو لديها الآن؟",
+        "output": "323"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "خبز آرثر 35 كعكة مافن. كم عدد الكعك الذي يجب على آرثر أن يخبزه ليحصل على 83 فطيرة؟",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ويلي لديه 1400 قلم تلوين. لوسي لديها 290 قلم تلوين. كم عدد أقلام التلوين التي يملكها ويلي أكثر من لوسي؟",
+        "output": "1110"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ليزيت لديها 813 طابعًا. لديها 125 طابعًا أكثر من مينيرفا. كم عدد الطوابع التي تملكها مينيرفا؟",
+        "output": "688"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى ميغان 217 علامة. أعطاها روبرت 109 علامات إضافية. كم عدد العلامات التي تمتلكها ميغان إجمالاً؟",
+        "output": "326"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يحتوي كتاب DVD على 126 قرص DVD. يوجد 81 قرص DVD موجود بالفعل في الكتاب. كم عدد أقراص DVD الإضافية التي يمكن وضعها في الكتاب؟",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كيلي لديه 121 لعبة نينتندو. كم عدد الألعاب التي يجب عليها التبرع بها حتى يتبقى لها 22 مباراة؟",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى كوني بعض الكرات الرخامية. أعطت 183 لخوان. الآن أصبح لديها 593 كرة متبقية. كم كان عليها أن تبدأ؟",
+        "output": "776"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى عائشة 344 كتاباً. 136 منها تتعلق بالمدرسة والباقي يتعلق بالرياضة. كم عدد الكتب التي تتحدث عن الرياضة لدى عائشة؟",
+        "output": "208"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "جيمس لديه 1222 بالونة. إيمي لديها 513 بالونة. كم عدد البالونات التي يمتلكها جيمس أكثر من إيمي؟",
+        "output": "709"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "شون لديه 223 صفارة. لديه 95 صفارة أكثر من تشارلز. كم عدد الصافرات التي يمتلكها تشارلز؟",
+        "output": "128"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى كوني 323 كرة. لدى خوان 175 كرة أكثر من كوني. كم عدد الكرات الرخامية التي يمتلكها خوان؟",
+        "output": "498"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى آدم 5.00 دولارات لشراء طائرة ثمنها 4.28 دولارات. ما مقدار التغيير الذي سيحصل عليه؟",
+        "output": "0.72"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "اشترى السيد جوزمان 48 كعكة دونات معبأة بالتساوي في 4 صناديق. كم عدد الكعك الموجود في كل صندوق؟",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "طابع واحد يكلف 0.34 دولار. تكلفة طابعين 0.68 دولار. تكلفة ثلاثة طوابع 1.02 دولار. إذا ظلت تكلفة كل طابع كما هي، فكم ستكون تكلفة 4 طوابع؟",
+        "output": "1.36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يبلغ عدد سكان مدينة ميلبورغ 5256 شخصًا بالغًا و2987 طفلًا. كم عدد الأشخاص الذين يعيشون في ميلبورغ؟",
+        "output": "8243"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "استأجرت ليزا 4 أقراص DVD مقابل 4.80 دولارًا. ما هي تكلفة استئجار كل قرص DVD؟",
+        "output": "1.2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك 3409 قطعة من الحلوى في الجرة. إذا كانت 145 قطعة حمراء والباقي زرقاء، فما عدد القطع الزرقاء؟",
+        "output": "3264"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى المزارع 127 تفاحة. أعطى 88 تفاحة لجاره. كم عدد التفاحات لديه الآن؟",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ذهبت السيدة هيلت إلى حفلة موسيقية. حضر الحفل ما مجموعه 65899 شخصًا. في الأسبوع التالي، ذهبت إلى حفل موسيقي ثانٍ حضره 119 شخصًا آخر. كم عدد الأشخاص الذين حضروا الحفل الثاني؟",
+        "output": "66018"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تحتاج السيدة هيلت إلى مشاركة مبلغ 3.75 دولار بالتساوي بين ثلاثة أشخاص. كم من المال سيحصل عليه كل شخص؟",
+        "output": "1.25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "السيدة هيلت تخبز الخبز. إنها تحتاج إلى 5 أكواب من الدقيق لخبز رغيفين من الخبز. ما هي كمية الدقيق التي ستحتاجها لصنع رغيف خبز واحد؟",
+        "output": "2.5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لوسي لديها حوض أسماك يحتوي على 212 سمكة. إنها تريد شراء 68 سمكة أخرى. كم عدد الأسماك التي سيكون لدى لوسي إذن؟",
+        "output": "280"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى لوسي 212 سمكة. ما عدد الأسماك الإضافية التي يتعين عليها شراؤها للحصول على 280 سمكة؟",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى هاري هاوند ألم شديد في الأذن أمس. عندما نظرت إلى أذنيه بالأمس، وجدت 36 برغوثًا مرحًا يقيم حفلة في أذنه اليمنى و85 برغوثًا صغيرًا ينام بسلام في أذنه اليسرى. لقد قمت بتنظيف آذان هاري هاوند. كم عدد البراغيث التي هلكت؟",
+        "output": "121"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يحتوي متجر مستلزمات الحيوانات الأليفة على 600 كيس من طعام الكلاب و327 كيسًا من طعام القطط. كم عدد أكياس طعام الكلاب الموجودة أكثر من طعام القطط؟",
+        "output": "273"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "532 شخصًا يشاهدون فيلمًا في المسرح. المسرح لديه 750 مقعدا. كم عدد المقاعد الفارغة في المسرح؟",
+        "output": "218"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قامت كندرا برحلة برية. في فترة ما بعد الظهر، رأت 4 حافلات صغيرة مثل سيارتها. وفي وقت لاحق، في المساء، رأت شاحنة صغيرة أخرى مثل سيارتها. كم عدد الحافلات الصغيرة مثل سيارتها التي رأتها إجمالاً؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 4 أولاد و 5 فتيات في الحضانة النهارية لمرحلة ما قبل المدرسة. كم عدد الأطفال في الحضانة؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 7 كرات سلة في المدرسة. إذا اشترت المدرسة ثلاث كرات سلة أخرى، فكم عدد كرات السلة سيكون لدى المدرسة؟",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ذهب غاريت للتسوق لشراء لوازم الوجبات الخفيفة واشترى 6 ألواح جرانولا من دقيق الشوفان والزبيب و8 ألواح جرانولا من الفول السوداني. ما هو عدد ألواح الجرانولا التي اشتراها إجمالاً؟",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تلقى جاك 8 رسائل بريد إلكتروني في الصباح ورسالتين بريد إلكتروني في فترة ما بعد الظهر. كم عدد رسائل البريد الإلكتروني التي تلقاها جاك في اليوم؟",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "نادي الشطرنج لديه 3 أعضاء. إذا تم تسجيل 4 أعضاء جدد، كم عدد الأعضاء الإجمالي في نادي الشطرنج؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يقضي ريان كل يوم 4 ساعات في تعلم اللغة الإنجليزية و3 ساعات في تعلم اللغة الصينية. كم ساعة يقضيها في تعلم اللغة الإنجليزية والصينية إجمالاً؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "اشترت الأم بعض البطاطس. استخدمت 15 حبة بطاطس لصنع السلطات و24 حبة بطاطس لصنع البطاطس المهروسة. إذا كان هناك 13 حبة بطاطس متبقية، فكم عدد البطاطس التي اشترتها الأم في البداية؟",
+        "output": "52"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى غاري بعض الملصقات. أعطى 42 ملصقًا للوسي و26 ملصقًا لأليكس. إذا كان لديه 31 ملصقًا متبقيًا، فما عدد الملصقات التي كان لدى غاري في البداية؟",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إذا كان سيمون يحتاج إلى صنع 519 كيس هدايا بمعدل 42 كيسًا يوميًا، فكم يومًا يحتاج إلى الانتهاء من صنع جميع علب الهدايا؟",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تستطيع جين ترتيب 16 مزهرية من الزهور في اليوم الواحد. إذا كان هناك 248 مزهرية من الزهور يجب ترتيبها، فكم عدد الأيام اللازمة لإنهاء جميع تنسيقات الزهور؟",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يمكن للصندوق أن يحمل 18 قطعة من الطباشير. إذا كان هناك 3484 قطعة من الطباشير، فما عدد الصناديق المملوءة لاستيعاب كل الطباشير؟",
+        "output": "194"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يمكن للحافلة أن تنقل 48 راكبًا. إذا كانت مدرسة تضم 1230 طالبًا ومعلمًا ستذهب في رحلة ميدانية، فما عدد الحافلات التي يجب استئجارها؟",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "سعة الخزان 32 جالون. إذا اشترت إحدى الشركات 728 جالونًا من الزيت، فما عدد الخزانات اللازمة لاستيعاب كل الزيت؟",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يوجد 22 كلبًا في المزرعة. إنهم يعيشون في 5 بيوت للكلاب على قدم المساواة. كم عدد الكلاب الموجودة في كل بيت كلب؟",
+        "output": "4"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قسم 39 بالونة إلى 7 مجموعات متساوية. ما عدد البالونات الموجودة في كل مجموعة؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "اشترت المدرسة 54 كرة سلة ووزعتها على 7 فصول بالتساوي. كم عدد كرات السلة التي حصل عليها كل فصل؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 32 طالبا في الفصل. قام المعلم بتقسيمهم إلى 5 مجموعات متساوية. كم عدد الطلاب في كل مجموعة؟",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "مجموعة سياحية مكونة من 26 شخصا. في أحد الفنادق، يرغبون في استئجار بعض الغرف الكبيرة التي تتسع كل منها لثلاثة أشخاص وبعض الغرف الصغيرة التي تتسع كل منها لشخصين. من أجل استئجار أقل عدد من الغرف وإشغال كل غرفة بالكامل، ما هو عدد الغرف الكبيرة التي يجب استئجارها؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يريد فصل الباليه تقسيم أعضائه البالغ عددهم 90 عضوًا إلى بعض المجموعات الكبيرة التي تضم كل منها 7 أعضاء وبعض المجموعات الصغيرة التي تضم كل منها 3 أعضاء. لتكوين أقل عدد من المجموعات، ما هو عدد المجموعات الكبيرة التي ينبغي تكوينها؟",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وفر نيك 68.50 دولارًا. إذا كان نيك قد ادخر 25.43 دولارًا أكثر من لي، فكم ادخر لي؟",
+        "output": "43.07"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لقد وضعت رقمًا آخر في جهازي. قامت الآلة بإضافة 15 ثم طرح 6. وخرج الرقم 35 من الآلة. ما هو الرقم الذي قمت بإدخاله؟",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى سيندي ودان نفس عدد الملصقات. استخدمت سيندي 15 من ملصقاتها. اشترى دان 18 ملصقًا إضافيًا. كم عدد الملصقات التي كان لدى دان أكثر من سيندي في ذلك الوقت؟",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى إد 22 كرة أكثر من دوج. فقد دوج 8 من كراته الرخامية في الملعب. كم عدد الرخام الذي كان يمتلكه إد أكثر من دوج في ذلك الوقت؟",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان متجر الآيس كريم الخاص بي مشغولاً للغاية اليوم. كانت درجة الحرارة 98 درجة وقمنا ببيع 67 مخروطًا من الآيس كريم. لقد بعنا 15 ميلك شيك أكثر من مخاريط الآيس كريم. كم عدد اللبن المخفوق الذي تم بيعه؟",
+        "output": "82"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ملعب الدوري الصغير به 92 مقعدا. حضر 47 شخصًا إلى المباراة اليوم. وكان 38 شخصا يحملون لافتات. كم عدد المقاعد التي كانت فارغة؟",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تقوم مورا بجمع الأصداف البحرية كل صيف. تقيم عائلتها في منزل الشاطئ لمدة 21 يومًا. هذا الصيف، عثرت مورا على 75 صدفة بحرية. أعطت بعض لأختها الصغيرة. ثم كان لدى مورا 57 صدفة بحرية. كم عدد الأصداف البحرية التي أعطتها مورا لأختها؟",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أطول زرافة في حديقة الحيوان يبلغ طولها 96 بوصة. هناك 14 زرافة بالغة في حديقة الحيوان. أقصر زرافة يبلغ طولها 68 بوصة. كم يبلغ طول الزرافة الأكبر؟",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تضم حديقة حيوان سنترال سيتي 45 قرد شمبانزي. كل يوم يأكل الشمبانزي ما مجموعه 72 موزة. وفي الأسبوع المقبل، ستقوم حديقة الحيوان بنقل 18 قرد شمبانزي إلى قفص جديد. كم عدد الشمبانزي الذي سيبقى في القفص القديم؟",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى حارس الحديقة 68 سمكة لإطعام طيور البطريق. 19 من طيور البطريق حصلت بالفعل على سمكة. حديقة الحيوان لديها 36 طيور البطريق. كم عدد طيور البطريق الأخرى التي تحتاجها للحصول على سمكة؟",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى رالف ألبوم صور مكون من 50 صفحة. لديه 26 صورة للحيوانات البرية. لدى ديريك، صديق رالف، 34 صورة لحيوانات برية. كم عدد الصور الأقل للحيوانات البرية التي يمتلكها رالف؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "دعت ليزا الصف الثالث بأكمله إلى حفلتها. هناك 48 طالبا في المجموع. 23 من الطلاب بنين و 25 فتيات. 9 طلاب لن يتمكنوا من الذهاب إلى الحفلة. كم عدد الطلاب سيكون هناك؟",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يستطيع بيلي تشغيل 24 أغنية في كتابه الموسيقي. إنه يعرف أسماء 18 وترًا مختلفًا للجيتار. يحتوي كتاب موسيقى بيلي على 52 أغنية. كم عدد الأغاني التي لا يزال بيلي بحاجة إلى تعلمها؟",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أعدت أمي 32 كعكة من رقائق الشوكولاتة. استغرق خلط المكونات 24 دقيقة و16 دقيقة للخبز. تناولت جولي ومات 9 قطع من الكعك بعد العشاء. كم عدد ملفات تعريف الارتباط المتبقية؟",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 45 سؤالا في اختبار الرياضيات. 17 سؤالا هي مشاكل كلامية. 28 سؤالا هي مسائل الجمع والطرح. يستطيع ستيف الإجابة على 38 سؤالًا فقط. كم عدد الأسئلة التي تركها ستيف فارغة؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تتعلم كندرا 12 كلمة إملائية جديدة كل أسبوع. هدفها هو تعلم 60 كلمة جديدة قبل عيد ميلادها الثامن. لقد تعلمت بالفعل 36 كلمة جديدة. كم عدد الكلمات الإضافية التي تحتاج كيندرا إلى تعلمها؟",
+        "output": "24"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تريب وشارلوت سيذهبان في رحلة لمسافة 36 ميلاً. تزن حقيبة Tripp 25 رطلاً. تزن حقيبة شارلوت الخلفية 7 أرطال أقل. لقد قطعوا مسافة 9 أميال في اليوم الأول. كم عدد الأميال المتبقية لهم؟",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ستحتفل دورا بعيد ميلادها العاشر يوم السبت المقبل. ودعت 64 شخصا. طلبت والدتها 36 شطيرة. 16 شخصا لا يستطيعون الحضور إلى الحفلة. كم عدد الأشخاص الذين سيحضرون حفلة دورا؟",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تومي لديه 79 دولارا. يريد شراء كاميرا بقيمة 35 دولارًا. يريد أيضًا شراء مشغل أقراص مضغوطة بقيمة 59 دولارًا. كم من المال يحتاج تومي؟",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "عمر يحب لعب لعبة الداما. لعب 37 مباراة أمس. لعب 49 مباراة اليوم. عمر خسر 18 مباراة. كم عدد المباريات التي فاز بها؟",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يلعب &quot;شون&quot; لعبة &quot;المونوبولي&quot; مع أصدقائه. لديه بالفعل 27 منزلا. قام شون باستبدال 8 منازل مقابل المال لشراء بارك بليس. لقد جمع الكثير من الإيجار لدرجة أنه قرر شراء 12 منزلاً آخر. كم عدد المنازل التي كان لدى شون حينها؟",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تريد ديان شراء علبة من ملفات تعريف الارتباط. تبلغ تكلفة ملفات تعريف الارتباط 65 سنتًا. ديان لديها 27 سنتا. كم من المال تحتاج؟",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى آندي 31 بطاقة بيسبول. أعطاه والده المزيد. ثم كان لدى آندي 50 بطاقة بيسبول. كم عدد بطاقات البيسبول التي حصل عليها آندي من والده؟",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى لوري 12 كرة أكثر من كيرت. لدى كيرت 45 كرة أقل من دينيس. لدى دينيس 70 كرة. كم عدد الكرات الرخامية التي يمتلكها لوري؟",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يحصل أنتوني على 75 سنتًا يوميًا لتناول طعام الغداء. اشترى علبة عصير مقابل 27 سنتا. كما اشترى كب كيك. كان لدى أنتوني 8 سنتات متبقية. كم تكلفة كب كيك؟",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ديسمبر هو شهر مزدحم لمتجر الألعاب. كان لديهم 95 مباراة على الرف. تم بيع 68 لعبة في الأسبوع الأول. حصل المتجر على 47 لعبة أخرى من المصنع. كم عدد الألعاب التي كانت لديهم بعد ذلك؟",
+        "output": "74"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "طلاب الصف الثالث لديهم معرض. لديهم 90 تذكرة للبيع. باعوا 38 تذكرة في الأسبوع الأول و 17 تذكرة في الأسبوع الثاني. كم عدد التذاكر المتبقية للبيع؟",
+        "output": "35"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تحتوي حلبة التزلج على الجليد على 85 زوجًا من الزلاجات للإيجار. استأجر 18 شخصًا الزلاجات عند افتتاح حلبة التزلج على الجليد. استأجر 25 شخصًا آخر الزلاجات خلال الساعة الأولى. كم عدد أزواج الزلاجات المتبقية؟",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أقام جيك كشكًا للحلوى في الفناء الأمامي لمنزله. لديه 80 قطعة حلوى للبيع. باع 15 قطعة من الحلوى يوم الاثنين. لقد باع أكثر من ذلك بكثير يوم الثلاثاء. بحلول يوم الأربعاء، لم يتبق لدى جاكس سوى 7 قطع. كم عدد قطع الحلوى التي باعها جيك يوم الثلاثاء؟",
+        "output": "58"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أبلغ منتجع التزلج عن 65 بوصة من الثلوج في يناير. قاموا بقياس 18 بوصة من الثلج خلال الأسبوع الأول. قاموا بقياس 25 بوصة من الثلج في الأسبوع الثاني. ما مقدار الثلج الذي حصلوا عليه في بقية الشهر؟",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يقوم كاري وبات بنقل الكراسي إلى صالة الألعاب الرياضية. واتفقوا على نقل 74 كرسيا. قام كاري بنقل 28 كرسيًا. قام بات بنقل 29 كرسيًا. كم عدد الكراسي المتبقية لهم للتحرك؟",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى جين كيس من الحلوى. أعطت 18 قطعة لصديقتها. أكل جان 7 قطع. الآن لديها 16 قطعة متبقية. كم عدد قطع الحلوى التي كان لدى جين في البداية؟",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "صنعت شارلين 60 عقدًا من الخرز. باعت 16 قطعة في معرض للحرف اليدوية. أعطت 18 لأصدقائها. كم عدد القلائد التي كانت تمتلكها شارلين في ذلك الوقت؟",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يعمل رامون في السوبر ماركت. لقد وضع 26 علبة من شوكو ديلايتس على الرف. كان هناك بالفعل 15 صندوقًا هناك. وفي وقت لاحق من ذلك اليوم، أحصى رامون 22 صندوقًا على الرف. كم عدد صناديق شوكو ديلايتس المفقودة؟",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ذهب 52 طفلاً و29 شخصًا بالغًا إلى المسار. الملعب به 95 مقعدا. كم عدد المقاعد التي كانت فارغة؟",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تريد ديان شراء علبة من ملفات تعريف الارتباط. تبلغ تكلفة ملفات تعريف الارتباط 65 سنتًا. ديان لديها 27 سنتا. ما الفرق بين تكلفة البسكويت وأموال ديان؟",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 45 سؤالا في اختبار الرياضيات. 17 سؤالا هي مشاكل كلامية. 28 سؤالا هي مسائل الجمع والطرح. يستطيع ستيف الإجابة على 38 سؤالًا فقط. ما الفرق بين عدد جميع الأسئلة في اختبار الرياضيات وعدد الأسئلة التي يستطيع ستيف الإجابة عليها؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في صالة الألعاب، فاز بيلي بثمانية وأربعين تذكرة. بعد شراء يويو، كان لديه اثنان وثلاثون تذكرة متبقية. ما الفرق بين عدد تذاكر بيلي التي فاز بها وعدد التذاكر المتبقية له بعد شراء اليويو؟",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في عيد الهالوين، حصل فرانك على خمسة عشر رطلاً من الحلوى. إذا أعطى ثمانية جنيهات لنانسي، فما الفرق بين جنيهات حلوى فرانك قبل أن يعطيها لنانسي ويعطيها؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان بيلي يلعب كرة السلة مع صديقه. سجل بيلي 7 نقاط وسجل صديقه 9 نقاط. ما الفرق بين نقاط بيلي ونقاط صديقه؟",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "عندما وصلت ماريا إلى المعرض كان لديها 87 دولارًا. عندما غادرت كان لديها 16 دولارًا. ما الفرق بين عدد الدولارات التي حصلت عليها ماريا وغادرت المعرض؟",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى متجر أثاث خمسة عشر كرسيًا. وبعد بيع بعضها، بقي ثلاثة. ما الفرق بين عدد الكراسي قبل البيع واليسار؟",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قطفت زوي خمس تفاحات من شجرتها. والآن لا تزال الشجرة بها ستة تفاحات. ما الفرق بين عدد التفاحات التي قطفتها زوي وعدد التفاحات التي قطفتها الآن الشجرة؟",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان للمهرج ستة عشر بالونة. أعطى أربعة بعيدا في حفلة. ما الفرق بين عدد البالونات التي كان يملكها المهرج في البداية والتي أهداها في إحدى الحفلات؟",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى أيمي بعض الحلوى. أعطت صديقتها ست قطع وبقيت خمسا. ما الفرق بين قطع الحلوى التي أهدتها إيمي واليسار؟",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان في مطعم للوجبات السريعة واحد وتسعون قطعة نقانق. وبعد بيع بعضها بقي لديهم عشرين. ما الفرق بين عدد النقانق قبل البيع وبعد البيع؟",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إذا كانت علبة العلكة الواحدة تكلف 2 دولارًا، فكم علبة علكة يمكنك شراؤها بـ 16 دولارًا؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إذا كانت تكلفة الجولة الواحدة 80 دولارًا، فكم عدد جولات الجولف التي يمكنك لعبها بمبلغ 400 دولار؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إذا كانت تكلفة خرطوشة واحدة 15 دولارًا، فكم عدد خراطيش الحبر التي يمكنك شراؤها بـ 180 دولارًا؟",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "إذا كانت تكلفة حزمة واحدة 11 دولارًا، فما عدد حزم أقراص DVD التي يمكنك شراؤها بمبلغ 110 دولارات؟",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تمتلك الشركة خراطيش حبر كبيرة وصغيرة في المخزون. كم عدد خراطيش الحبر التي يمكنك شراؤها بـ 182 دولارًا إذا كانت خرطوشة الحبر الواحدة تكلف 14 دولارًا؟",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يحتوي المتجر على أقراص مضغوطة وأقراص DVD التي تحتاجها. كم عدد حزم أقراص DVD التي يمكنك شراؤها بمبلغ 132 دولارًا إذا كانت تكلفة الحزمة الواحدة 12 دولارًا؟",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في الكرنفال، اشترى 6 أصدقاء إجمالي 234 تذكرة. إذا اشترى كل منهم نفس المبلغ، فما عدد التذاكر التي اشتراها كل شخص؟",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "سارة تصنع قلادات من الخرز. لديها 945 خرزة، وهي تصنع 7 قلائد بكل قلادة باستخدام نفس العدد من الخرزات. كم عدد الخرزات التي ستستخدمها كل قلادة؟",
+        "output": "135"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى جورج 648 قطعة حلوى. إذا قام بتقسيم الحلوى إلى 8 أكياس بنفس الكمية من الحلوى في كل كيس، فكم قطعة سيحتوي كل كيس؟",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تزن منصة الصناديق 267 كجم. إذا كان هناك 3 صناديق على البليتة وكان وزن كل صندوق نفس الكمية، فكم كان وزن كل منها؟",
+        "output": "89"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى إدوارد 763 بطاقة بيسبول في 7 مجلدات. إذا كان كل مجلد يحتوي على نفس عدد البطاقات، فما عدد البطاقات الموجودة في كل مجلد؟",
+        "output": "109"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 234 شخصًا يحضرون مأدبة الغداء. إذا كانت الطاولة تتسع لـ 9 أشخاص، فكم عدد الطاولات التي يحتاجونها؟",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان متجر أحذية يقدم تخفيضات العودة إلى المدرسة حيث يمكنك شراء زوجين من الأحذية مقابل 23.10 دولارًا. إذا قررت عائلة كبيرة شراء 7 أزواج من الأحذية، فكم سيكلفها ذلك؟",
+        "output": "80.85"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في المتجر، كان سعر لحم البقر المقدد 34.23 دولارًا مقابل 3 جنيهات. لو اشتريت 7 جنيهات كم سعرها؟",
+        "output": "79.87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يمكنك شراء كيسين من الموز من متجر المنتجات مقابل 12.46 دولارًا. كم سيكلفك شراء 6 أكياس؟",
+        "output": "37.38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان بول يحزم ألعابه القديمة. تمكن من ضغط ثماني ألعاب في صندوق. إذا ملأ محمد أربعة صناديق، فما عدد الألعاب التي حزمها إجمالاً؟",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يمكن لآدم أن يضع تسعة مجسمات حركة على كل رف في غرفته. غرفته بها ثلاثة أرفف. كم عدد شخصيات الحركة التي يمكن أن تستوعبها رفوفه؟",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تسمح شركة الطيران لكل مسافر بأخذ ثماني قطع من الأمتعة. إذا كان هناك أربعة أشخاص يطيرون، كم عدد الحقائب التي يمكنهم أخذها؟",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كانت ماريا تضع النقود الاحتياطية في أكوام. كان لكل كومة ثلاث عملات معدنية. إذا كان لديها خمس أكوام، فكم عدد العملات المعدنية التي كانت تمتلكها؟",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لوك يساعد والدته في غسل الملابس. لقد غسلوا ستة أحمال بسبع مناشف في كل حمولة. كم عدد المناشف التي غسلوها إجمالاً؟",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تتقاضى شركة Larry&#39;s Lawn Care تسعة دولارات لتقليم التحوط. إذا كان لدى هنري ثلاثة سياجات، فما مقدار المال الذي سينفقه؟",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان بول يقرأ سلسلة كتبه المفضلة. كان يقرأ كل أسبوع أربعة كتب مختلفة. كم عدد الكتب التي كان سيقرأها بعد خمسة أسابيع؟",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "مجموعة من 8 أصدقاء كانوا يرتدون زي القراصنة في عيد الهالوين. إذا كان سعر كل زي 5 دولارات، فكم أنفقوا؟",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان كالي يرسم على ورق الخردة. يمكنه وضع 5 رسومات في كل صفحة. إذا كان لديه 6 صفحات، فكم عدد الرسومات التي يمكنه رسمها؟",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في عيد ميلاد بيانكا، أعطاها 5 من أصدقائها 6 دولارات. كم من المال حصلت عليه في عيد ميلادها؟",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تبلغ تكلفة السفينة الدوارة في معرض الولاية 6 تذاكر لكل رحلة. إذا كان 8 أصدقاء سيركبون السفينة الدوارة، كم عدد التذاكر التي سيحتاجون إليها؟",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كانت نانسي تشتري الصابون لحمامها. اشترت 6 عبوات، كل علبة تحتوي على 5 أشرطة. كم قطعة من الصابون اشترت؟",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كانت تيفاني تشتري مناشف اليد لمنزلها. اشترت 9 عبوات تحتوي كل عبوة على 3 مناشف. كم عدد المناشف التي اشتريتها؟",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يمكن لأدراج خزانة ملابس Paige استيعاب قطعتين من الملابس لكل منها. إذا كان لديها 4 أدراج، فما عدد قطع الملابس التي يمكنها استيعابها؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كانت كارول ترسل دعوات عيد ميلاد لأصدقائها. إذا كانت كل حزمة من الدعوات التي اشترتها تحتوي على 9 دعوات، واشترت 5 حزم، فكم عدد الأصدقاء الذين يمكنها دعوتهم؟",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان المتحف يحتوي على ثلاث عشرة لوحة. إذا تخلصوا من ثمانية منهم، كم عدد الصور التي سيتبقى لهم؟ ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في عيد الهالوين، سوف يحصل على خمسة عشر رطلاً من الحلوى. وبعد أن أعطى البعض لهايلي، بقي لديه تسعة جنيهات. كم جنيه أعطاه لهايلي؟ ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى فيكتور تسعة عشر تطبيقًا على هاتفه. وحذف ثمانية منهم. كم عدد التطبيقات التي تركها فيكتور؟ ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان طول الشريط ثلاثة عشر مترا. استخدمت هالي بعضها لختم الصناديق الكرتونية. الآن يبلغ طول الشريط ستة أمتار. ما مقدار الشريط الذي استخدمته؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في صالة الألعاب، فاز ديف بثلاثة عشر تذكرة. إذا استخدم ستًا لشراء بعض الألعاب، فكم عدد التذاكر المتبقية لدى ديف؟ ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "حصل فرانك على خمسة عشر رطلاً من الفطر للشواء العائلي. إذا أكلوا ثمانية أرطال، فكم رطلًا بقي؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى كالب سبعة عشر قميصًا. إذا تخلص من سبعة منهم، كم عدد القمصان التي سيمتلكها كالب؟ ",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان للمهرج ستة عشر بالونة. أعطى أربعة بعيدا في حفلة. كم عدد البالونات التي لا يزال لديه؟ ",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "امتلك ديبي ثلاثة عشر قرص DVD. إذا باعت ستة منها، فكم يتبقى لها؟ ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى فرانك ثلاثة عشر صندوقًا. إذا ملأ ثمانية بالألعاب، فكم عدد الصناديق التي لا يزال لديه؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك ثمانية وتسعون قطة في البلدة الصغيرة. إذا كان اثنان وتسعون منهم نائمين، فكم عدد القطط التي لا تزال مستيقظة؟",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى مزارع سبعة وتسعون حبة طماطم من حديقته. فإذا اختار ثلاثة وثمانين منهم، كم بقي منه؟ ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك ثمانية وتسعون بصلة على الرف. تم بيع خمسة وستين. كم عدد البصل الموجود على الرف الآن؟",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى أوليفيا إحدى وثمانون قطعة من الورق في مجلدها. استخدمت ستة وخمسين قطعة. كم قطعة لديها الآن؟ ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أثناء لعب لعبة، عاش كالب ثمانية وتسعين حياة. وبعد أن فقد بعض الأرواح، بقي لديه ثلاثة وسبعون شخصًا. كم عدد الأرواح التي فقدها كالب؟ ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يحتوي المتجر على تسعة وأربعين قميصًا. وبعد بيع بعضها بقي ثمانية وعشرون. كم باعوا؟ ",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى بيلي أربعة وسبعون حبة كرز. فأكل منها اثنين وسبعين. كم عدد حبات الكرز المتبقية لدى بيلي؟ ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "وكان لآدم بعض الأرباع. أمضى تسعة منهم في الرواق وبقي تسعة وسبعون. كم عدد الأرباع التي كان عليه أن يبدأ بها؟ ",
+        "output": "88"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى أحد المزارعين ستة وأربعون حبة طماطم من حديقته. بعد اختيار بعض، بقي لديه ثلاثة. كم اختار؟ ",
+        "output": "43"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى الطاهي ستة وأربعون تفاحة. بعد أن صنع بعض الفطائر، بقي لديه أربعة عشر فطيرة. كم عدد التفاحات التي استخدمها؟ ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك ثمانية وخمسون شخصًا على متن القطار. وفي المحطة التالية نزل منها خمسة وأربعون شخصًا. كم عدد الأشخاص الموجودين في القطار الآن؟ ",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "احتاج آدم إلى تسلق ستة وتسعين درجة للوصول إلى السطح. لقد صعد بالفعل إلى أربعة وسبعين. كم عدد درجات السلم المتبقية ليصعد آدم الآن؟",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى مايك واحد وخمسون كتابًا، لكنه باع خمسة وأربعين كتابًا في مرآب لبيع الكتب. كم عدد الكتب التي لا يزال لدى مايك؟ ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في صالة الألعاب، فاز بيلي بثمانية وأربعين تذكرة. بعد شراء يويو، كان لديه اثنان وثلاثون تذكرة متبقية. كم عدد التذاكر التي تكلفة يويو؟ ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في حفلة عيد ميلاد، قام مهرج بإهداء ستة بالونات. والآن أصبح لديه خمسة وخمسون بالونًا. كم عدد البالونات التي كان على المهرج أن يبدأ بها؟ ",
+        "output": "61"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك أربعة وتسعون دولارًا في محفظة أوليفيا. وبعد أن زارت السوبر ماركت، بقي منها ثمانية وسبعون دولارًا. كم أنفقت؟",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أثناء لعب لعبة فيديو، فقد نيد ثلاثة عشر شخصًا. الآن لديه سبعون حياة. كم عدد الأرواح التي عاشها نيد في البداية؟ ",
+        "output": "83"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أعد جوين ثمانية وتسعين كتابًا لبيعها في سوق السلع المستعملة. بعد انتهاء النشاط، بقي لديها ستة وتسعون كتابًا. كم باعت؟",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى أحد الطهاة سبعة وسبعون ثمرة كرز. إذا استخدم ستين حبة منها لصنع فطيرة، فكم عدد حبات الكرز التي سيظل لديه؟ ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى إيزابيل تسعون لعبة DS. إذا أعطت سبعة وثمانين لصديقتها، فكم سيتبقى لها؟ ",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "متجر به خمسة وثلاثون قميصًا. إذا باعوا ثلاثين منهم، كم عدد القمصان التي سيكون لديهم؟ ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "استخدمت بيج ثلاثة من أقلام الرصاص الخاصة بها. الآن لديها واحد وتسعون قلم رصاص. كم عدد أقلام الرصاص التي كان على بيج أن تبدأ بها؟ ",
+        "output": "94"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قطف آدم خمسة وثلاثين ثمرة فراولة. وبعد أن أكل بعضًا، بقي لديه ثلاثة وثلاثون. كم عدد الفراولة التي أكلها آدم؟",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في حديقة الحيوان كان هناك قفص يحتوي على ثمانية وستين ثعبانًا. إذا كان اثنان وأربعون يختبئون، فكم عدد الثعابين التي لم تكن مختبئة؟ ",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان متجر الحيوانات الأليفة يحتوي على خمسة وثمانين جربوعًا. إذا باعوا تسعة وستين منها، فكم يبقى منهم؟",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أثناء تنظيم ملفاتها، حذفت بيانكا صورتين و8 أغاني و7 ملفات نصية. ما هو إجمالي عدد الملفات التي حذفتها؟ ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لحفلة رأس السنة الجديدة، تم استخدام 2 بالونات حمراء و12 بالونة خضراء و6 بالونات بيضاء. ما هو العدد الإجمالي للبالونات المستخدمة؟ ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى هنري بالفعل 5 دولارات، لكنه حصل على دولارين آخرين من خلال القيام بالأعمال المنزلية. كان لدى صديقه 13 دولارًا. لو جمعوا أموالهم، كم سيكون لديهم؟ ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "اشترى هنري لعبتين ناريتين جديدتين واشترى صديقه 3 ألعاب نارية. إذا كان لديهم بالفعل 6 ألعاب نارية احتفظوا بها من العام الماضي، فكم عدد الألعاب النارية الموجودة لديهم الآن؟ ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى متجر للحيوانات الأليفة 13 قطة سيامية و5 قطط منزلية. خلال عملية بيع باعوا 10 قطط. كم عدد القطط التي تركوها؟ ",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان على أوليفر أن يغسل 39 قميصًا قصير الأكمام و47 قميصًا طويل الأكمام قبل المدرسة. إذا كان قد غسل 20 منها فقط بحلول الوقت الذي بدأت فيه المدرسة، فكم عدد الأشياء التي لم يغسلها؟ ",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كانت فاي ووالدتها يقطفان الجزر من حديقتهما. اختارت فاي 23 جزرة، واختارت والدتها 5. إذا كانت 12 جزرة فقط جيدة، فما عدد الجزر الفاسدة الموجودة بها؟ ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في معرض الكتب بالمدرسة، اشترى سام 13 كتاب مغامرات و17 كتابًا غامضًا. إذا استخدم 15 كتابًا، فما عدد الكتب الجديدة التي اشتراها؟ ",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى إيمي 26 ملف موسيقى و36 ملف فيديو على محرك الأقراص المحمول الخاص بها. إذا حذفت 48 ملفًا، فكم عدد الملفات التي لا تزال موجودة على محرك الأقراص المحمول الخاص بها؟ ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى بيج 43 مسألة رياضية و12 مسألة علمية في الواجب المنزلي. إذا أنهت 44 مسألة من المسائل في المدرسة، فما عدد المسائل التي كان عليها حلها في الواجب المنزلي؟ ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أثناء التسوق، اشترت ماريا 35 منشفة خضراء و21 منشفة بيضاء. إذا أعطت والدتها 34 منشفة، فما عدد المناشف التي حصلت عليها ماريا في النهاية؟ ",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان هناك 17 فتاة و32 فتى يجربون الانضمام إلى فريق كرة السلة بالمدرسة. إذا تم استدعاء 10 منهم فقط، كم عدد الطلاب الذين لم يتأهلوا؟ ",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى النادل في مطعم &quot;The Greasy Spoon&quot; 39 عميلاً في انتظارهم. أثناء اندفاع الغداء أضاف 12 عميلاً آخر. إذا لم يترك له 49 من العملاء إكرامية، فكم عدد العملاء الذين تركوا إكرامية؟ ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "طلبت كافتيريا المدرسة 25 تفاحة حمراء و17 تفاحة خضراء لوجبات الغداء للطلاب. ولكن، إذا كان 10 طلاب فقط يريدون الفاكهة، فكم عدد الطلاب الإضافيين الذين ستحصل عليهم الكافتيريا في نهاية المطاف؟ ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى الطاهي 3 تفاحات فقط، لذا طلب حقيبتين إضافيتين. إذا كان في كل كيس 9 تفاحات، فكم عدد التفاحات التي لديه إجمالاً؟",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "حصل إدوارد على 8 دولارات مقابل كل عشب يقصه. إذا قام بقص 5 مروج وكان لديه بالفعل 7 دولارات، فما إجمالي المال الذي لديه؟",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في مؤتمر للقصص المصورة، أرادت جانيت شراء 8 قصص مصورة، لكن تكلفة كل واحدة منها 4 دولارات، بالإضافة إلى تكلفة الاشتراك فيها دولارين. ما مقدار المال الذي يجب أن تأخذه معها حتى تتمكن من الدخول وشراء ما تريد؟",
+        "output": "34"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان محل بقالة يحتوي على تسعة وأربعين زجاجة من الصودا العادية وخمسة وثلاثين زجاجة من الصودا الدايت. كم عدد الزجاجات التي كان لديهم إجمالاً؟",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في الشوط الأول من مباراة تافهة سجل كالب ثلاثة وأربعين نقطة. وفي الشوط الثاني سجل ثلاثاً وعشرين نقطة. كم عدد النقاط التي سجلها إجمالاً؟",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في إحدى الحفلات، أنفق هنري خمسة وأربعين دولارًا على الطعام وثلاثة وثلاثين دولارًا على المشروبات. كم أنفق هنري الإجمالي؟",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أمضت بيانكا اثنين وعشرين دقيقة في الرسم في المدرسة وتسعة عشر دقيقة في الرسم في المنزل. ما إجمالي عدد الدقائق التي قضتها في الرسم؟",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "باع أحد مطاعم الوجبات السريعة ثمانية وخمسين هوت دوجًا صغيرًا وواحدًا وعشرين هوت دوجًا كبيرًا. كم عدد النقانق التي باعوا إجماليها؟",
+        "output": "79"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان حوض السمك يحتوي على عشرة أسماك. في وقت لاحق أضافوا ثلاث أسماك. كم عدد الأسماك الموجودة في الحوض الآن؟",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى ماريا خمسون ورقة في مكتبها وواحدة وأربعين ورقة أخرى في حقيبة ظهرها. كم كان لديها المجموع؟",
+        "output": "91"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى آدم تسعة وسبعون دولارًا مدخرًا. وبعد قيامه ببعض الأعمال، أعطته والدته ثلاثة عشر دولارًا أخرى. كم لديه من المال الإجمالي؟",
+        "output": "92"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في المعرض، بدأت إيمي بثلاثة وثلاثين تذكرة، ثم اشترت واحدًا وعشرين تذكرة أخرى. كم عدد التذاكر التي حصلت عليها إيمي؟",
+        "output": "54"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى الخباز ثمانية وسبعون كعكة ولكنه صنع تسعة إضافية. ما إجمالي عدد الكعك الذي كان لدى الخباز؟",
+        "output": "87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في حديقة الحيوان التقطت زوي سبعة وستين صورة. إذا التقطت أختها سبعة عشر صورة أخرى، فكم عدد الصور التي التقطتها إجمالاً؟",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى كاتي اثنتين وسبعين لعبة من ألعاب DS وكان لدى صديقتها ثلاث وعشرون لعبة. كم عددهم الإجمالي؟",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "أثناء ممارسة التمارين الرياضية، قام بول بتسعة وخمسين تمرين ضغط في الصباح وثمانية وثلاثين تمرينًا إضافيًا في فترة ما بعد الظهر. كم عدد تمارين الضغط التي قام بها بول إجمالاً؟",
+        "output": "97"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "شاهدت هيلي التلفاز لمدة ست ساعات يوم السبت وثلاث ساعات يوم الأحد. كم عدد الساعات التي شاهدتها هيلي في التلفاز؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى فيكتور 10 دولارات. مقابل بدله حصل على 8 دولارات أخرى. كم لديه من المال الإجمالي؟",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "باع أحد المتاجر ثمانية مشروبات باردة وثلاثة مشروبات ساخنة. كم عدد المشروبات التي باعوا إجماليها؟",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى فاي سبعة كتب. إذا اشترت اثني عشر آخرين في ساحة بيع، فكم سيكون إجمالي عددها؟",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ذهب روجر إلى السينما خمسة عشر مرة العام الماضي وثلاث مرات هذا العام. كم مرة ذهب روجر إلى السينما معًا؟",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى فيكتور تسعة كتب. خلال معرض الكتاب اشترى ثلاثة آخرين. كم عدد الكتب التي يمتلكها فيكتور؟",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى ديبي اثني عشر رطلاً من الدقيق. إذا اشترت أربعة جنيهات أخرى، فكم جنيهًا إجماليًا سيكون لديها؟",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان جيري يمتلك سبع ألعاب فيديو. في عيد ميلاده حصل على اثنين آخرين. كم عدد الألعاب التي لعبها جيري؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى المعلم 38 ورقة عمل لتصحيحها. إذا حصلت على درجة 4، ثم تم تسليم 15 درجة أخرى، فما عدد أوراق العمل التي يجب عليها تقديرها؟",
+        "output": "49"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى بيانكا 45 كتاب تلوين. إذا تبرعت بـ 6 منها، ثم اشترت 20 أخرى، فكم سيكون إجمالي عددها؟",
+        "output": "59"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى روبن 30 أغنية على مشغل mp3 الخاص بها. إذا حذفت 8 أغانٍ قديمة منه ثم أضافت 10 أغانٍ جديدة، فكم عدد الأغاني الموجودة في مشغل mp3 الخاص بها؟",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قطفت نانسي 12 جزرة من حديقتها. إذا تخلصت من اثنتين منها ثم التقطت 21 جزرة أخرى في اليوم التالي، فكم سيكون إجمالي عدد الجزر التي ستحصل عليها؟",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى زوي 42 زجاجة ماء في ثلاجتها. إذا شربت 25 منها ثم اشترت 30 أخرى، فكم عدد الزجاجات التي ستحصل عليها؟",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى بائع الزهور 50 وردة. إذا باعت 15 وردة ثم قطفت 21 أخرى، فما عدد الورود التي ستحصل عليها؟",
+        "output": "56"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى متجر 40 برتقالة في سلة المهملات. إذا تخلصوا من 25 قطعة قديمة ووضعوا 21 قطعة جديدة في سلة المهملات، فكم سيكون عددها في سلة المهملات؟",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى أحد المتاجر سبعة وثمانون كتاب تلوين في المخزون. وانتهى بهم الأمر بعرضها للبيع والتخلص من ثلاثة وثلاثين منهم. وضعوا ما لا يزال لديهم على الرفوف مع ستة على كل رف. كم عدد الرفوف التي استخدموها؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى توم ستة وثلاثون قطعة من الملابس ليغسلها. لقد وضع ثمانية عشر منها في حمل واحد، لكنه قرر تقسيم الباقي إلى حمولتين متساويتين. ما عدد قطع الملابس التي يمكن وضعها في كل حمولة صغيرة؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "حصل مايك على تسعين دولارًا من قص العشب خلال فصل الصيف. إذا أنفق خمسة وأربعين دولارًا في شراء شفرات جزازة جديدة، فكم لعبة بخمسة دولارات يمكنه شراؤها بالمال المتبقي لديه؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "قطفت فاي ثمانية وثمانين زهرة لحضور حفل زفاف صديقتها. كانت تصنع باقات من الزهور في كل واحدة منها خمس زهور. إذا ذبلت ثمانية وأربعون زهرة قبل الزفاف، فكم عدد الباقات التي لا يزال بإمكانها صنعها؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى روجر ثلاثة وستون دولارًا. إذا أنفق ثمانية وأربعين دولارًا على لعبة جديدة، فما عدد الألعاب التي تبلغ قيمتها ثلاثة دولارات التي يمكنه شراؤها بالمال المتبقي لديه؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "فاز فريق فاي بمباراة البيسبول وسجل إجمالي ثمانية وستين نقطة. إذا سجلت فاي ثمانية وعشرين نقطة وسجل كل شخص آخر ثماني نقاط، فما عدد اللاعبين في فريقها؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في عيد الهالوين، تلقت بيانكا سبعة عشر قطعة من الحلوى. أكلت قطعتين ثم وضعت الباقي في أكوام، كل منها ثلاثة. كم عدد الأكوام التي يمكنها صنعها؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان جيري يبيع ألعابه القديمة. بدأ بثمانية وستين لكنه باع أربعة منها. قام بتعبئة الباقي ووضع ثماني مباريات في كل صندوق. كم عدد الصناديق التي كان عليه أن يستخدمها؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "المبنى الجديد يحتاج إلى 14 نافذة. قام المنشئ بالفعل بتثبيت 5 منهم. إذا استغرق تركيب كل نافذة 4 ساعات، فكم من الوقت سيستغرق تركيب الباقي؟",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "حصلت ويندي على 5 نقاط مقابل كل كيس من العلب قامت بإعادة تدويره. إذا كان لديها 11 كيسًا، لكنها لم تقم بإعادة تدوير 2 منهم، فكم عدد النقاط التي ستحصل عليها؟",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "حصل آدم على 9 دولارات مقابل كل عشب يقصه. إذا كان لديه 12 عشبًا ليجزها، لكنه نسي أن يجز 8 منها، فما مقدار المال الذي كسبه بالفعل؟",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في الغداء، كان هناك نادل لديه 10 عملاء، و5 منهم لم يتركوا إكرامية. إذا حصل كل واحد منهم على 3 دولارات من الأشخاص الذين قدموا البقشيش، فكم كسب من المال؟",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى ديف 10 ألعاب فيديو ولكن اثنتين منها لم تكن تعمل. إذا أراد بيع ألعاب العمل مقابل 4 دولارات لكل منها، فما مقدار المال الذي يمكن أن يكسبه؟",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "في المعرض اشترى كالب 6 تذاكر. بعد ركوب عجلة فيريس كان لديه 3 تذاكر متبقية. إذا كانت تكلفة كل تذكرة 9 دولارات، فما مقدار المال الذي أنفقه كالب في ركوب العجلة الدوارة؟",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "دعا سام 9 من أصدقائه إلى حفلة عيد ميلاد، لكن 6 منهم لم يتمكنوا من الحضور. إذا أراد شراء ما يكفي من الكعك حتى يتمكن كل شخص من الحصول على قطعتين بالضبط، فكم يجب أن يشتري؟",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "كان لدى آن 15 قطعة من الحلويات. إذا أعطت آن عددًا متساويًا من قطع الحلوى لأصدقائها الثلاثة، فكم عدد قطع الحلوى التي أكلها كل شخص؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "باعت شيرلي 54 صندوقًا من Trefoils. كم عدد الصناديق المكونة من 6 صناديق التي تحتاج شيرلي إلى تسليمها؟",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يوجد 25 قلم رصاص في مجموعة أقلام الرصاص الخاصة بفرانسيس. إذا تم تقسيم الأقلام إلى خمس مجموعات، فما حجم كل مجموعة؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 9 طلاب في الفصل و27 لعبة البولنج. إذا تم تقسيم لعبة البولنج بالتساوي بين الطلاب، فما العدد الذي سيحصل عليه كل طالب؟",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يوجد 560 غطاء زجاجة في مجموعة أغطية زجاجات تيري. إذا تم تنظيم أغطية الزجاجات في 80 مجموعة، فما حجم كل مجموعة؟",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لورانس لديه 5504 كرة من الرخام. إذا تقاسمها بين 64 صديقًا، فكم عدد الكرات التي سيحصل عليها كل صديق؟",
+        "output": "86"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يقوم ألبرت بدعوة 34 صديقًا إلى حفلة. لديه 1802 قطعة كوكيز. كم عدد ملفات تعريف الارتباط التي سيحصل عليها كل صديق؟",
+        "output": "53"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يوجد 407 موزة في مجموعة الموز الخاصة بفيليب. إذا تم تقسيم الموز إلى 11 مجموعة، فما حجم كل مجموعة؟",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى بيتر 54 تذكرة و4 أقلام رصاص. إذا تقاسم التذاكر بين 9 أصدقاء، فكم عدد التذاكر التي سيحصل عليها كل صديق؟",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تريد ريبيكا تقسيم مجموعة البيض إلى مجموعات مكونة من اثنتين. لدى ريبيكا 16 بيضة و3 بليات. كم عدد المجموعات التي سيتم إنشاؤها؟",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "لدى كاثرين 18 غطاء زجاجة و19 قطعة. إذا تقاسمت أغطية الزجاجات بين 6 أصدقاء، فكم عدد أغطية الزجاجات التي سيحصل عليها كل صديق؟",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "تخطط المدرسة للقيام برحلة ميدانية. تحتوي المدرسة على 11 فصلاً دراسيًا. يوجد في المدرسة 100 طالب و20 مقعدًا في كل حافلة مدرسية. كم عدد الحافلات اللازمة للقيام بالرحلة؟",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 3300 موزة في مجموعة الموز الخاصة بجانيس. لدى جانيس أيضًا 5 أقلام تلوين. إذا تم تقسيم الموز إلى 75 مجموعة، فما حجم كل مجموعة؟",
+        "output": "44"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "يدعو كريس 82 صديقًا إلى حفلة. لديه 1804 قطعة من الكعك و10 قطع من الحلوى. كم عدد ملفات تعريف الارتباط التي سيحصل عليها كل صديق؟",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "هناك 43 طالبًا و1720 تفاحة. كل طالب لديه 9 لعبة البولنج. إذا تم تقسيم التفاحات بالتساوي بين الطلاب، فكم عدد التفاحات التي سيحصل عليها كل طالب؟",
+        "output": "40"
+    }
+]

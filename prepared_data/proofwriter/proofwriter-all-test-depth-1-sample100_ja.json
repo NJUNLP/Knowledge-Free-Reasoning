@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは大きい。アンは冷たい。アンは毛深い。アンは緑色。アンは優しい。アンは荒々しい。アンは丸い。ボブは大きい。ボブは優しい。ボブは荒々しい。大きいものは優しい。緑色のものなら優しい。大きいものなら丸い。緑色の大きなものは優しい。優しくて荒々しいものは毛深い。優しくて緑色のものはすべて荒々しい。\n結論: ボブは丸くない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: フィオナは大きい。フィオナは青い。フィオナは緑。フィオナはおとなしい。フィオナは白い。フィオナは若い。ハリーは青い。ハリーは緑。ハリーはおとなしい。ハリーは白い。若くて青い人は白人。若ければ青い。若くて青い人は大きい。緑で青い人は冷たい。冷たくておとなしい人はみんな緑色。緑で大きい人は冷たい。\n結論: ハリーは大きくない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシはトラを追いかけます。ハクトウワシは赤くありません。ハクトウワシはトラを訪ねます。トラは優しいです。トラは荒々しいです。トラは丸いです。トラはハクトウワシを見ます。何かがトラを訪ねると、トラはハクトウワシを追いかけます。何かが赤くてハクトウワシが見えない場合、ハクトウワシはトラを追いかけません。何かが丸くてトラが見えない場合、ハクトウワシを追いかけます。\n結論: ハクトウワシは大きいです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは青ではありません。ボブは緑です。ボブは白です。デイブは青です。デイブは毛深いです。エリンは青ではありません。エリンは白です。ゲイリーは毛深いです。ゲイリーは緑です。ゲイリーは優しいです。ゲイリーは賢くありません。ゲイリーは白ではありません。緑で賢いものは毛深いです。賢いものはすべて毛深いわけではありません。優しいものは青ではありません。優しくて親切でないものがあれば、それは白ではありません。青で毛深いものは白です。優しいものは賢いです。\n結論: デイブは優しいです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシはクマを追いかけます。ハクトウワシはネズミを食べます。ハクトウワシはクマを必要とします。クマはネズミを食べます。クマは緑色です。クマは優しいです。クマは赤色です。ネズミはクマを追いかけます。ネズミはハクトウワシを食べます。ネズミはクマを食べます。何かがクマを食べ、クマがネズミを食べるなら、ネズミは優しいです。何かが優しいなら、それはハクトウワシを必要とします。\n結論: クマはハクトウワシを追いかけません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫は乱暴です。ウサギはトラが好きです。トラは猫が好きです。何かが猫を好むなら、猫は大きいです。\n結論: トラは猫が好きではありません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは赤い。ハクトウワシは犬を訪ねる。犬はハクトウワシが好き。犬はリスを訪ねる。ウサギはハクトウワシが好き。ウサギはハクトウワシを見る。ウサギは犬を見る。ウサギは犬を訪ねる。リスは寒い。リスはウサギが好き。何かが犬を訪ねたら、それは犬が好き。何かが犬を訪ねて、犬が赤いなら、犬はハクトウワシが好き。\n結論: 犬はウサギを訪ねる。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは静かです。ボブは若いです。ハリーは親切です。親切なものはすべて青いです。\n結論: ボブは丸いです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは親切です。ハリーは赤いです。ハリーは白いです。ハリーが賢くて、ハリーが白くなければ、ハリーは赤いです。赤いものは親切ではありません。\n結論: ハリーは親切ではありません。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは冷たい。アンは毛深い。フィオナは優しい。フィオナが優しいなら、フィオナは荒々しい。荒々しい人は冷たい。冷たい白人はみんな丸い。毛深い人は荒々しい。フィオナが白人でフィオナが丸いなら、フィオナは大きい。優しい人は白人。\n結論: フィオナは白人。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは大きい。ボブは青い。ボブは緑。ボブは優しい。ボブは丸い。デイブは大きい。デイブは青い。エリンは青い。エリンは緑。ゲイリーは緑。ゲイリーは丸い。ゲイリーは若い。エリンの色が青ければ、エリンは大きい。\n結論: エリンは大きい。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは赤い。ハクトウワシは犬を訪ねる。犬はハクトウワシが好き。犬はリスを訪ねる。ウサギはハクトウワシが好き。ウサギはハクトウワシを見る。ウサギは犬を見る。ウサギは犬を訪ねる。リスは寒い。リスはウサギが好き。何かが犬を訪ねると、それは犬が好きになる。何かが犬を訪ね、犬が赤い場合、犬はハクトウワシが好きになる。\n結論: リスは犬が好きではない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは寒い。ハクトウワシは若くない。ハクトウワシはクマを必要としない。ハクトウワシはネズミを必要とする。ハクトウワシはクマを見る。クマはハクトウワシを見る。ネズミは大きい。ネズミは寒い。ネズミはリスを必要とする。ネズミはクマを見る。ネズミはリスを見る。リスは大きい。リスは乱暴ではない。リスはネズミを必要とする。リスはハクトウワシを訪ねない。リスはクマを訪ねる。何かが寒い場合はネズミを訪ねる。\n結論: リスはネズミを訪ねない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマが犬を訪ねる。牛は青い。犬は牛が好き。何かが犬を追いかけるなら、その犬はいい子。何かが牛が好きなら、牛はクマが好き。クマが大きいなら、クマは丸い。\n結論: 牛はクマが好き。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫は冷たい。猫は荒っぽい。猫は若い。青い人はみんな緑色。猫が緑色で猫が若いなら、猫は冷たい。冷たい人はみんな緑色。\n結論: 猫は猫が好きではない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシがネズミを追いかけます。ハクトウワシは緑色です。ハクトウワシは丸いです。ハクトウワシは猫を見ます。ハクトウワシは猫を訪ねます。猫はネズミを追いかけます。猫は赤いです。猫は丸いです。猫はハクトウワシを見ます。猫はネズミを見ます。猫はハクトウワシを訪ねます。猫はネズミを訪ねます。ネズミはハクトウワシを追いかけます。ネズミは猫を追いかけます。ネズミは猫を見ます。何かが猫を追いかけ、猫がネズミを見た場合、ネズミは優しいです。猫が優しく、猫が若い場合、猫はネズミを訪ねます。何かが猫を追いかけ、猫が若い場合、猫はネズミを追いかけます。何かがネズミを見た場合、それは赤いです。何かが猫を見て、猫が丸い場合、猫はネズミを見ます。何かが緑と赤の場合、それはネズミを見ます。結論: ネズミは猫を見ます。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは優しい。アンは赤い。アンは賢い。デイブは優しい。デイブは賢い。デイブは若い。ゲイリーは大きい。ゲイリーは優しい。ゲイリーは優しい。ゲイリーは若い。何かが賢いなら、それは赤い。何かが優しいなら、それは若い。何かが静かなら、それは大きい。\n結論: デイブは赤い。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫がトラを追いかけます。猫は大きいです。猫はネズミを見ます。猫はトラを見ます。猫はトラを訪ねます。ネズミは青いです。ネズミは猫を見ます。トラは猫を追いかけます。トラはネズミを追いかけます。トラはネズミを訪ねます。誰かがトラを見てトラを追いかけるなら、その人はネズミも追いかけます。誰かがネズミを見てネズミがトラを追いかけるなら、その人は若いです。\n結論: トラは冷たいです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: リスは優しい。優しいものはすべて丸いわけではない。丸いものは大きい。大きいものはすべて優しい。\n結論: リスは優しくない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマはネズミを追いかけます。クマは赤いです。クマは荒々しいです。クマは丸いです。クマにはライオンが必要です。クマにはネズミが必要です。ライオンはクマを追いかけます。ネズミはクマを追いかけます。ネズミはライオンを追いかけます。ネズミはクマを訪ねます。誰かがネズミを追いかけるなら、ネズミはライオンを追いかけます。誰かがライオンを追いかけるなら、その人はネズミを必要とします。誰かがネズミを必要とするなら、ネズミはライオンを訪ねます。\n結論: ライオンは荒々しいです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ネズミはリスが好きです。リスはネズミを追いかけます。リスはネズミを食べます。リスがネズミを食べ、ネズミがリスを好む場合、ネズミはリスを追いかけます。何かが緑色の場合、リスを追いかけます。\n結論: ネズミは青色です。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは緑色です。ボブは親切です。ボブはいい人です。ボブはおとなしいです。ボブは乱暴です。ボブは若いです。フィオナは親切です。フィオナはいい人です。フィオナはおとなしいです。フィオナは乱暴です。フィオナは若いです。ハリーは青色です。ハリーは緑色です。ハリーはいい人です。ハリーは乱暴です。ハリーは若いです。誰かが乱暴で緑色であれば、その人はおとなしいです。誰かが青色でいい人であれば、その人は緑色です。青色の人は皆若いです。誰かが乱暴であれば、その人は緑色です。ボブがいい人でボブが緑色であれば、ボブは青色です。緑色の人は皆青色です。親切でいい人は皆乱暴です。誰かが若くて青色であれば、その人はいい人です。\n結論: フィオナは緑色ではありません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 牛は丸い。ライオンはリスを追いかける。ライオンは優しくない。ライオンは牛が好き。リスはトラを追いかける。リスは丸い。トラはライオンを追いかける。誰かがライオンを追いかけると、ライオンはトラを食べます。牛がライオンを追いかけなければ、牛はトラを追いかけます。誰かがリスを食べ、リスが優しいなら、リスはライオンを追いかけます。\n結論: 牛はトラを追いかける。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは大きい。チャーリーは丸い。エリンは若い。若くて丸い人は青い。毛むくじゃらの若い人はみんな丸い。毛むくじゃらの人は青い。丸い人は毛むくじゃら。大きくてがさつな人は若い。大きくて毛むくじゃらの人は青い。\n結論: ボブは若い。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ネズミは優しい。ネズミはウサギを見る。ネズミはリスを見る。ウサギは寒い。ウサギは丸い。ウサギはネズミが好き。ウサギはリスが好き。リスはウサギを食べる。リスは寒い。リスはウサギを見る。何かがリスを食べ、それが寒いなら、それはウサギを見る。何かがネズミが好きで、それが寒いなら、それはネズミを食べる。何かがウサギが好きなら、それは丸い。\n結論: ネズミはリスが好き。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫は大きい。猫は青い。猫は丸い。青い人はみんな緑色。\n結論: 猫は緑色ではない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは寒い。ハクトウワシは緑色だ。ハクトウワシは荒っぽい。ハクトウワシは若い。ハクトウワシはリスが好きではない。ハクトウワシはリスを見る。ハクトウワシはリスを訪ねる。リスは大きい。リスは寒い。リスは緑色だ。リスは荒っぽくない。リスは若い。リスはハクトウワシが好きである。リスはハクトウワシを見る。リスはハクトウワシを訪ねる。何かがリスを見たら、それはハクトウワシを見る。\n結論: ハクトウワシはハクトウワシを見ない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは荒々しい。ハクトウワシはクマを必要とする。クマは優しい。クマはハクトウワシが好き。クマはウサギが好き。クマはハクトウワシを必要とする。ネズミは赤い。ネズミはウサギを必要とする。ウサギはクマを食べる。ウサギは赤い。ウサギを食べる人はウサギを必要とする。クマを食べる人がハクトウワシを必要とするなら、ハクトウワシは赤い。体が大きい人はクマを好む。優しい人はウサギを好む。ウサギが大きい人はハクトウワシを食べる。荒々しい人は丸い。ウサギがネズミを食べる人はウサギを必要とする。ウサギを必要とし、ネズミを必要とする人は赤い。\n結論: ハクトウワシは丸い。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ネズミは青くない。ネズミはいい子だ。ネズミは赤い。赤いものは緑。緑のものは赤い。\n結論: ネズミはネズミを食べる。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマは乱暴です。犬はクマを見ます。リスはクマを見ます。リスが好きでリスを見ない人はリスが必要です。クマを見た人はリスは必要ありません。乱暴で親切な人は冷たいです。犬が必要で乱暴でない人はリスが必要です。クマが必要な人はクマが犬が好きです。犬がリスが好きな人はリスが犬が必要です。クマが必要な人がいてクマが犬が好きな人は犬が必要です。クマが必要な人がいてクマが犬が好きな人は犬にリスは必要ありません。クマが必要な人がいてリスが必要でない人はリスが犬が好きです。\n結論: 犬は親切ではありません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマは丸くありません。クマは犬を見ます。犬はウサギを見ます。ウサギは犬を追いかけます。ウサギは犬を見ます。リスはウサギを追いかけません。リスはウサギを見ます。何かがウサギを見たら、それはリスを好きになります。\n結論: クマはリスを追いかけます。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ライオンはリスを見ます。ウサギはリスを追いかけます。リスはウサギを見ます。何かがリスを見たら、ライオンを追いかけます。\n結論: ウサギはライオンを追いかけます。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ウサギは大きい。ウサギは青い。ウサギは優しい。ウサギは荒っぽい。ウサギは若い。ウサギはトラが好きです。ウサギにはトラが必要です。ウサギはトラを訪ねます。トラは大きい。トラは青い。トラは優しい。トラは荒っぽい。トラは若い。トラはウサギが好きです。トラはウサギが必要です。トラはウサギを訪ねます。誰かがトラが好きで、トラが必要なら、その人はウサギが必要です。ウサギがトラが好きで、ウサギが大きいなら、ウサギはトラを訪ねます。誰かがウサギが好きなら、ウサギはトラを必要とします。誰かが青くて大きいなら、その人はトラを訪ねます。ウサギが優しく、ウサギがトラを訪ねるなら、トラは若いです。誰かがウサギを必要とし、ウサギがトラを必要とするなら、ウサギはトラが好きです。誰かが虎を好きなら、その人はウサギを必要とします。誰かが親切なら、その人は虎を必要とします。\n結論: 虎は虎を訪ねます。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫がトラを食べる。猫は寒い。ネズミがリスを追いかける。ネズミはトラを追いかけない。ネズミには猫が必要だ。リスは猫を食べる。リスはトラを食べない。リスは緑色だ。リスは若い。リスには猫が必要だ。リスにはトラが必要だ。トラはネズミを追いかけない。誰かがネズミを食べ、そのネズミが大きくなければ、ネズミは緑色ではない。リスがトラを必要とし、リスが若いなら、リスはネズミを追いかける。猫がトラを必要とし、猫がリスを食べるなら、トラはネズミを食べない。リスが猫を追いかけ、猫がトラを追いかけるなら、トラはリスを食べない。猫がトラを追いかけるなら、トラはリスを必要としません。ネズミが猫を食べるなら、ネズミはトラを必要としません。\n結論: リスはネズミを追いかけます。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマはトラを追いかけます。クマは若いです。クマはウサギが好きです。クマはトラが好きです。クマはトラを訪ねます。ウサギはクマを追いかけません。ウサギはトラを追っています。ウサギは優しくありません。ウサギはクマが好きです。ウサギはトラが好きです。ウサギはクマを訪ねます。ウサギはトラを訪ねます。トラは赤いです。トラは若いです。トラはウサギが好きではありません。誰かがトラを訪ねれば、トラはクマを訪ねます。トラがクマを訪ねれば、トラはクマを好きではありません。誰かがウサギを好きであれば、その人は赤いです。誰かがウサギを訪ねて、緑でなければ、その人はトラが好きです。誰かがウサギを訪ねれば、ウサギはトラを訪ねません。誰かがクマを訪ねて、ウサギを訪ねなければ、ウサギは大きいです。\n結論: ウサギは緑です。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは緑色です。デイブは大きくありません。ゲイリーは静かです。ハリーは大きいです。大きくて素敵なものはすべて静かです。緑色で素敵なものはすべて静かです。ゲイリーが大きくて若くなければ、ゲイリーは素敵です。白くて若いものは大きいです。若いものは大きくありません。白くて緑のものはすべて素敵ではありません。静かなものは優しくありません。大きくて静かでなければ、優しくありません。\n結論: デイブは緑色です。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは青い。ボブは毛深い。ボブは緑色。ボブは荒々しい。ボブは若い。エリンは毛深い。エリンは荒々しい。エリンは丸い。エリンは若い。ハリーは青い。ハリーは毛深い。ハリーは緑色。ハリーは荒々しい。ハリーは丸い。ハリーは賢い。ハリーは若い。緑色のものはすべて賢い。\n結論: エリンは青くない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは青い。ボブは毛深い。ボブは優しい。ボブは乱暴。チャーリーは大きい。チャーリーは毛深い。チャーリーは優しい。チャーリーは乱暴。フィオナは大きい。フィオナは毛深い。フィオナは優しい。フィオナは賢い。ゲイリーは青い。ゲイリーは毛深い。ゲイリーは乱暴。ゲイリーが優しいなら、ゲイリーは青い。賢くて毛深い人はみんな大きい。毛深い人は賢い。\n結論: ボブは優しい。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは緑色です。チャーリーは荒っぽいです。デイブは毛深いです。デイブは若いです。エリンは冷たいです。エリンは毛深いです。エリンは赤いです。エリンは荒っぽいです。ゲイリーは大きいです。ゲイリーは冷たいです。エリンが冷たいなら、エリンは緑色です。\n結論: デイブは冷たいです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマは寒い。クマはトラを必要とする。トラはクマを好む。誰かが体が大きくてトラが嫌いなら、トラはクマを好む。誰かがトラを必要とし、トラが優しいなら、トラはクマを食べない。誰かがクマを必要とし、クマが大きいなら、その人は優しい。誰かがクマを必要としたら、トラを食べる。誰かがクマを好むなら、その人はクマを食べない。トラがクマを好み、クマがトラを好まなければ、トラは青い。誰かがトラを好み、トラがクマを好むなら、トラは大きくない。クマがトラを食べなければ、トラは優しくない。\n結論: トラはクマを好む。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは寒い。牛はハクトウワシが好き。犬はハクトウワシを訪ねる。ライオンはハクトウワシが好き。何かが寒い場合は、犬を訪ねる。\n結論: 牛はハクトウワシが好き。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは賢い。チャーリーは荒っぽい。デイブは丸い。エリンは賢い。ボブが大きいなら、ボブは緑色。誰かが丸いなら、その人は賢くない。\n結論: ボブは丸くない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: デイブは大きい。デイブは緑色。デイブは荒々しい。デイブは丸くない。デイブは若い。フィオナは大きい。フィオナは青色。フィオナは緑色。フィオナは丸い。フィオナは若い。大きくて若いものは青色。白いものは緑色。若くて大きくないものは白色ではない。\n結論: フィオナは荒々しい。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 牛がウサギを追いかけます。牛は優しいです。牛はいい子です。牛は丸いです。牛にはライオンが必要です。牛にはウサギが必要です。牛はウサギを訪ねます。ライオンはウサギを追いかけます。ライオンは緑色です。ライオンは優しいです。ライオンはいい子です。ライオンには牛が必要です。ライオンは牛を訪ねます。ライオンはウサギを訪ねます。ウサギは優しいです。ウサギは牛を訪ねます。誰かがウサギを追いかけるなら、ウサギにはライオンが必要です。\n結論: ライオンはライオンを追いかけません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは青い。ボブは毛深い。ボブは賢い。ボブは白い。ボブは若い。デイブは毛深いわけではない。エリンは白い。ハリーは青くない。ハリーは赤い。ハリーは丸い。毛深い、丸いものはすべて青い。青いものは白い。白いものは丸い。デイブが丸いならデイブは若い。エリンは白くてエリンは丸くなければエリンは賢くない。毛深いものがあればそれは赤い。若くて青くないものがあればそれは赤い。ボブが赤くなければボブは賢い。\n結論: デイブは白人ではない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは静かではない。アンは賢くない。アンは白人だ。デイブは丸い。エリンは優しい。エリンは静かである。エリンは丸い。エリンは賢い。エリンは白人だ。エリンは若い。丸い人は静かである。静かな人は優しい。親切で丸くない人は緑色である。白人で賢くない人は緑色である。丸い人は緑色である。丸い人はみんな白色である。\n結論: アンは優しくない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは丸い。デイブは荒っぽい。フィオナはおとなしい。荒っぽい人はブルーではない。フィオナがおとなしく、荒っぽくないなら、フィオナは毛深い。\n結論: チャーリーは優しい。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫は丸い。猫はトラが好き。猫はリスを必要とする。猫はトラを必要とする。リスはトラを好む。リスはトラを必要とする。リスは猫を見る。トラは猫を好む。トラはリスを好む。トラは猫を必要とする。トラはリスを必要とする。トラは猫を見る。何かが猫を見たら、それはトラを好む。\n結論: リスはリスを好む。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは冷たい。チャーリーは静かです。チャーリーは賢いです。デイブは冷たい。デイブは静かです。デイブは丸い。デイブは賢いです。丸くてざらざらしていないものは冷たいです。賢くて丸いものは赤いです。デイブがざらざらしていてデイブが丸い場合、デイブは冷たいです。\n結論: チャーリーは静かです。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは冷たい。ボブは毛深い。ボブは優しい。ボブは赤い。ボブは荒々しくない。ボブは丸い。ボブは白い。チャーリーは荒々しい。チャーリーは白い。デイブは赤い。デイブは荒々しい。デイブは丸い。デイブは白い。ハリーは冷たい。ハリーは優しい。ハリーは荒々しい。何かが荒々しく丸いなら、それは赤い。何かが優しくて毛深いなら、それは赤い。何かが冷たく荒々しくなければ、それは毛深い。何かが冷たければ、それは毛深い。優しくて冷たいものはすべて毛深い。冷たいものはすべて優しい。何かが冷たくて白いなら、それは丸い。冷たくて毛深いものはすべて丸い。\n結論: ハリーは毛深いではない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマが猫を訪ねる。猫は大きい。猫はクマを必要とする。誰かが大きいなら、その人は猫を好む。\n結論: クマは猫を訪ねない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマが犬を食べる。クマは緑色だ。クマは優しい。クマは犬を見る。犬は乱暴だ。犬は丸い。犬はクマを見る。誰かが優しくて犬を見たら、犬はクマを食べない。\n結論: クマは乱暴だ。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは青くない。デイブは青い。デイブは賢い。デイブは白い。デイブは若い。ハリーは大きい。ハリーは賢い。何かが賢くて白くなければ、それは青い。大きいものは青くない。何かが緑で冷たくなければ、それは青くない。何かが緑で若いなら、それは大きくない。何かが賢くて白くなければ、それは大きくない。デイブが大きいなら、デイブは若い。\n結論: チャーリーは賢くない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは青い。エリンは大きい。エリンは冷たい。エリンは静かです。エリンは丸い。エリンは白い。フィオナは青い。フィオナは冷たい。フィオナは静かです。フィオナは白い。冷たくて静かなものは毛皮で覆われている。大きなものは静かです。冷たくて大きいものは丸い。冷たいものは丸い。青くて冷たいものはすべて静かです。冷たくて大きいものは丸い。\n結論: エリンは白ではありません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシはライオンを食べる。ハクトウワシは赤い。ハクトウワシはライオンが好き。ハクトウワシはライオンを必要とする。ライオンはハクトウワシを食べる。ライオンは冷たい。ライオンは緑色だ。ライオンは優しい。ライオンは赤い。ライオンは荒っぽい。ライオンはハクトウワシが好き。ライオンはハクトウワシを必要とする。誰かがライオンを食べ、ライオンが優しいなら、その人は冷たい。誰かがハクトウワシを食べ、ライオンが好きなら、ライオンは優しい。誰かがハクトウワシを食べれば、その人はハクトウワシを必要とする。誰かがハクトウワシを必要とするなら、ハクトウワシはライオンを食べる。誰かが荒っぽいなら、その人はハクトウワシを食べる。誰かが優しいなら、その人は荒っぽい。結論：ハクトウワシは荒っぽい。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫は牛を見ます。牛は緑色です。ウサギも緑色です。トラが猫を訪ねます。誰かが牛を訪ねると、牛を食べます。誰かが猫を訪ねると、ウサギを見ます。誰かが猫を訪ねると、ウサギを訪ねます。誰かがウサギを見ると、ウサギは牛を食べます。誰かがトラを訪ね、トラが牛を食べると、牛はウサギを食べます。誰かが丸くて親切であれば、ウサギを訪ねます。\n結論: 猫は牛を見ません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは大きい。アンは毛深い。アンは緑。アンは優しい。アンはおとなしい。アンは赤い。アンは白い。チャーリーは大きい。チャーリーは毛深い。チャーリーは緑。チャーリーは優しい。チャーリーは赤い。チャーリーは白い。デイブは緑。デイブは優しい。デイブはおとなしい。静かで優しいものは白い。\n結論: デイブは赤い。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: エリンはとても優しい。エリンは荒っぽい。フィオナは緑色ではない。フィオナはとても優しい。フィオナはおとなしい。フィオナは赤色だ。フィオナはとても荒っぽい。フィオナは白色ではない。フィオナは若い。ゲイリーは緑色だ。ゲイリーはとても優しい。ゲイリーは荒っぽい。若くておとなしいものは赤色だ。荒々しいものは赤色だ。\n結論: エリンはとても若い。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは親切ではない。ボブは乱暴だ。エリンは大きい。エリンは青い。エリンは親切だ。エリンは乱暴だ。エリンは賢い。フィオナは大きい。フィオナは親切ではない。フィオナは乱暴だ。フィオナは賢い。フィオナは白人ではない。フィオナは若い。ハリーは青くない。ハリーは親切だ。ハリーは乱暴だ。若くて親切な人はみんな大きい。親切で若い人は大きい。親切で白人でない人は大きい。賢い人はみんな若い。フィオナが若くてフィオナが青いなら、フィオナは親切だ。青い人はみんな親切だ。エリンが青いなら、エリンは賢い。ボブが乱暴でボブが若くないなら、ボブは大きい。\n結論: エリンは若くない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは静かです。ボブは赤いです。ボブは荒々しいです。ボブは白くありません。ボブは若いです。チャーリーは毛深いです。チャーリーは優しいです。チャーリーは静かです。チャーリーは赤いです。チャーリーは白いです。荒々しい人はみんな優しいです。誰かが荒々しく毛深くなければ、その人は白いです。\n結論: ボブは優しいです。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは毛深い。アンは優しくない。チャーリーは優しい。チャーリーは若い。ゲイリーは優しくない。ゲイリーは荒っぽい。ハリーは大きい。ハリーはおとなしい。ハリーは荒々しい。ハリーは丸い。何かが荒々しくて静かでなければ、それは大きい。何かが丸ければ、それは大きい。全体的に静かなものはいい。\n結論: ハリーは優しくない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 牛はウサギを食べる。牛はライオンが好き。ライオンはネズミを食べる。ネズミは優しい。ネズミはライオンを見ない。ウサギは大きい。ウサギはライオンを見る。何かが牛を食べ、牛がネズミが好きなら、ネズミは牛を食べる。何かがライオンを食べれば、ライオンはネズミを食べない。何かが優しく、牛を見たら、ネズミを見る。牛が優しいなら、牛はネズミを食べる。ウサギが牛が好きで、ウサギがライオンを見たら、ウサギは青くない。若くて青いものは大きい。何かが牛が好きで、ライオンを食べなければ、牛はライオンを見ない。何かが大きいなら、ライオンを好きではない。\n結論: ライオンはライオンを見ない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは優しい。チャーリーは緑色。フィオナは毛深い。ゲイリーは緑色。アンが大きくてアンが優しいなら、アンは赤色。優しい人はみんな緑色。\n結論: チャーリーは緑色。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシが猫を追いかけます。ハクトウワシは青いです。ハクトウワシには猫が必要です。ハクトウワシはリスを見ます。猫は若いです。猫にはリスが必要です。リスは猫を追いかけます。リスは大きいです。リスは荒っぽいです。リスは若いです。リスにはハクトウワシが必要です。リスはハクトウワシを見ます。誰かがハクトウワシを見たら、猫も見ます。\n結論: リスは大きいです。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは大きい。アンは冷たい。アンは赤い。アンは若くない。エリンは冷たい。エリンは若い。フィオナは優しい。フィオナは若い。ゲイリーは大きくない。ゲイリーは冷たい。ゲイリーは優しい。ゲイリーは若い。若くて緑色の人はみんな冷たい。優しくて乱暴でない人は冷たい。フィオナが冷たいならフィオナは優しい。優しい人はみんな緑色ではない。優しくて若くない人は大きい。乱暴で冷たい人はみんな大きくない。冷たく乱暴な人はみんな赤くない。大きくて乱暴でない人は赤くない。\n結論: フィオナは乱暴。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫はネズミを追いかけます。猫はライオンを訪ねません。ライオンは猫を追いかけます。ライオンはネズミを追いかけます。ライオンは寒いです。ライオンは猫を見ません。ライオンはネズミを見ます。ネズミはライオンを追いかけます。ネズミは緑色です。ネズミは猫を訪ねます。何かが寒くてネズミを追いかける場合、ネズミは猫を見ません。\n結論: ライオンは親切ではありません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは若い。ボブは優しい。ゲイリーは荒っぽい。荒々しいものはすべて優しい。白いものは毛深い。\n結論: ゲイリーは優しい。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは青い。チャーリーは優しい。エリンは大きい。エリンは青い。エリンは緑。エリンは優しい。エリンは賢い。ゲイリーは大きい。ゲイリーは緑。ゲイリーは賢い。若いものは大きい。緑のものはすべて優しい。\n結論: ゲイリーは優しい。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマはリスを食べる。クマは寒い。クマは優しい。クマは荒々しい。クマは丸い。クマは若い。クマはリスが好き。クマはリスを見る。リスはクマを食べる。リスは寒い。リスは優しい。リスは荒々しい。リスは丸い。リスは若い。リスはクマが好き。リスはクマを見る。何かがクマを好むなら、それはリスを食べる。\n結論: クマはクマが好き。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫が牛を訪ねる。牛はライオンを食べる。犬は若い。ライオンは犬を食べる。誰かが牛を追いかけ、親切であれば、ライオンを訪ねる。誰かが猫を訪ね、猫が牛を追いかければ、猫を追いかける。若者は緑。誰かが赤と緑であれば、犬を訪ねる。犬がライオンを食べれば、犬は猫を追いかける。猫が犬を追いかけ、犬がライオンを食べれば、犬は赤。誰かが牛を食べ、牛が犬を食べれば、犬は猫を食べる。誰かが親切であれば、犬を食べる。\n結論: 犬は緑ではない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマが猫を食べる。猫が牛を食べる。猫がクマを訪ねる。牛が猫を食べる。牛は青い。牛にはクマが必要だ。牛にはトラが必要だ。牛はクマを訪ねる。牛は猫を訪ねる。トラは青い。トラには猫が必要だ。トラはクマを訪ねる。何かがクマを食べるなら、クマが必要だ。何かが荒々しく、牛を必要とするなら、牛は優しい。何かが荒々しいなら、牛が必要だ。何かが冷たくて青いなら、トラが必要だ。何かが大きいなら、クマを食べる。何かがクマを必要とし、牛を食べるなら、牛は優しい。何かが荒々しいなら、トラが必要だ。何かが猫を訪ね、トラを必要とするなら、それは冷たい。\n結論: トラはクマを食べる。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ウサギがリスを訪ねます。リスはウサギを食べます。リスは大きいです。何かがリスを食べれば、リスはウサギを食べます。ウサギが優しくて、ウサギがリスを食べれば、リスはウサギを食べます。何かがウサギを好きで、ウサギがリスを訪ねれば、リスはウサギを訪ねます。何かがリスを訪ねれば、リスはウサギを好きです。何かがリスを訪ねれば、リスはウサギを好きです。ウサギがリスを好きで、ウサギがリスを訪ねれば、ウサギは赤いです。\n結論: ウサギはリスが好きです。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは冷たい。アンは毛皮がない。アンは優しい。アンは賢い。ボブは静かではない。ボブは賢くない。デイブは大きい。フィオナは大きい。フィオナは静かである。フィオナは乱暴である。静かで冷たいものはすべて優しい。静かで大きいものは冷たい。\n結論: アンは賢い。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは大きい。チャーリーは冷たい。チャーリーは優しい。エリンは大きい。エリンは優しい。エリンは賢い。ゲイリーは冷たい。ゲイリーは緑色。ゲイリーは赤色。ハリーは丸い。ハリーが大きいなら、ハリーは赤色。冷たいものは優しい。赤いものはすべて丸い。\n結論: チャーリーは大きくない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 牛はリスを必要とします。ネズミはトラを追いかけます。ネズミは牛を食べます。リスはネズミを必要とします。トラは牛を食べません。トラは牛を必要とします。トラはリスを必要とします。何かがトラを追いかけるなら、それは青いです。何かが赤くて牛を必要とするなら、牛は若くありません。何かがトラを追いかけ、それが赤ければ、それは牛を必要とします。\n結論: 牛はネズミを必要とします。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシには犬が必要です。猫にはハクトウワシが必要です。犬はハクトウワシを見ます。ハクトウワシが好きな人は犬が必要です。猫が必要な人は猫が若いです。ハクトウワシを見るとハクトウワシは犬が必要です。猫が必要な人は緑色の人ですが、ハクトウワシが見えます。ハクトウワシが必要な人は寒がりで猫が必要です。親切な人は犬が必要です。猫を見た人は親切です。ハクトウワシが必要な人はハクトウワシは犬を見ます。\n結論: 猫には犬は必要ありません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ライオンは青い。ライオンは緑。ライオンはリスを必要とする。ライオンはリスを訪ねる。ネズミはライオンを食べる。ネズミは乱暴だ。ネズミはライオンを必要とする。リスはライオンを食べる。リスはネズミを食べる。リスはネズミを訪ねる。誰かがリスを必要とし、リスが乱暴であれば、その人はライオンを訪ねる。誰かがネズミを訪ね、その人がライオンを食べるなら、その人は緑である。\n結論: ライオンはリスを必要としない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: デイブは憂鬱です。デイブは冷たいです。デイブは優しいです。エリンは憂鬱です。エリンは冷たいです。エリンは優しいです。エリンは優しいです。エリンは静かです。エリンは若いです。ハリーは冷たいです。誰かが憂鬱なら、その人は静かです。\n結論: デイブは静かではありません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシは大きい。ウサギはハクトウワシを必要とする。リスはウサギが好き。ウサギが緑色ならウサギは大きい。何かがウサギを好むなら、それはウサギを追いかける。何かがウサギを好み、ウサギが若いなら、それはハクトウワシを必要とする。何かがリスを追いかけるなら、それはハクトウワシを必要とする。何かがリスを必要とし、リスがハクトウワシを好むなら、リスはウサギを追いかける。何かがウサギを追いかけるなら、ウサギはハクトウワシを好む。\n結論: リスはウサギを好む。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは毛深い。アンは緑色。アンは赤色。アンは丸い。ボブは毛深いわけではない。ボブは緑色ではない。ボブは丸い。ゲイリーは毛深いわけではない。ゲイリーは優しい。ゲイリーは赤色。ゲイリーは丸い。ゲイリーは賢い。ハリーは緑色。ハリーは乱暴ではない。ハリーは丸い。丸くて毛深い人は賢い。毛深い赤い人はみんな丸い。誰かが乱暴なら、その人は丸い。ボブが丸くてボブが赤色でなければ、ボブは賢くない。ゲイリーが乱暴なら、ゲイリーは赤色。誰かが乱暴で賢くなければ、その人は緑色。\n結論: ゲイリーは赤色。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫はライオンを食べる。ライオンは猫を食べる。ライオンは優しい。誰かが偉くて猫を訪ねたら、ライオンも訪ねる。誰かが優しいなら、猫が必要だ。\n結論: ライオンは優しくない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマはネズミを追いかけます。クマは大きいです。クマは緑色です。クマはライオンが好きです。ライオンはクマを追いかけます。ライオンはネズミを追いかけます。ライオンは大きいです。ライオンはクマが好きではありません。ライオンはリスが好きです。ライオンにはネズミは必要ありません。ライオンにはリスが必要です。ネズミは大きいです。リスは大きいです。リスは寒いです。リスはクマが好きです。リスにはネズミが必要です。誰かがネズミを追いかけたら、その人は丸いです。\n結論: クマにはリスは必要ありません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマは青い。クマは赤い。クマは若くない。牛は犬を訪ねる。犬はライオンを訪ねない。ライオンは牛を追いかける。ライオンは牛を必要とする。犬が牛を訪ねるなら、牛は犬を必要としない。誰かが牛を追いかけるなら、牛は青い。ライオンがクマを追いかけるなら、ライオンは大きい。誰かが若いなら、犬を訪ねない。犬が牛を必要とするなら、牛はクマを追いかける。誰かが牛を必要とするなら、牛は優しい。\n結論: 牛は青くない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマはネズミを追いかけません。クマは猫を必要としません。クマはネズミを必要としません。クマはネズミを訪ねません。猫はクマを追いかけません。猫はネズミを追いかけます。猫は寒いです。猫はクマを必要とします。猫はネズミを必要とします。猫はネズミを訪ねます。ネズミは寒くありません。ネズミは猫を必要とします。何かが寒い場合は、それが猫を追いかけます。\n結論: ネズミは猫を追いかけます。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ハクトウワシがトラを訪ねる。ウサギはハクトウワシを必要とする。トラはハクトウワシを訪ねる。トラが若ければ、トラはウサギを好む。素敵なものは丸い。何かがウサギを必要とし、それが素敵なものであれば、ウサギはトラを好む。ウサギがハクトウワシを好むなら、ハクトウワシはトラを好む。トラがハクトウワシを訪ね、ハクトウワシがトラを訪ねるなら、ハクトウワシは赤い。何かがウサギを必要とし、それがトラを好まなければ、トラはハクトウワシを訪ねない。\n結論: ハクトウワシは赤い。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ウサギは大きい。ウサギは青い。ウサギは優しい。ウサギは荒っぽい。ウサギは若い。ウサギはトラが好きです。ウサギにはトラが必要です。ウサギはトラを訪ねます。トラは大きい。トラは青い。トラは優しい。トラは荒っぽい。トラは若い。トラはウサギが好きです。トラはウサギが必要です。トラはウサギを訪ねます。誰かがトラが好きで、トラが必要なら、その人はウサギが必要です。ウサギがトラが好きで、ウサギが大きいなら、ウサギはトラを訪ねます。誰かがウサギが好きなら、ウサギはトラを必要とします。誰かが青くて大きいなら、その人はトラを訪ねます。ウサギが優しく、ウサギがトラを訪ねるなら、トラは若いです。誰かがウサギを必要とし、ウサギがトラを必要とするなら、ウサギはトラが好きです。誰かが虎を好きなら、その人はウサギを必要とします。誰かが親切なら、その人は虎を必要とします。\n結論: 虎は虎を必要としません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマにはライオンが必要です。猫はクマを食べます。猫はライオンを食べます。猫は大きいです。猫は青いです。猫は若いです。猫にはライオンが必要です。猫はライオンを訪ねます。ライオンはクマを食べます。ライオンは猫を食べます。ライオンは大きいです。ライオンは丸いです。ライオンには猫が必要です。ライオンはクマを訪ねます。ライオンは猫を訪ねます。誰かがクマを食べるなら、その人はライオンを必要とします。クマが乱暴でライオンがクマを訪ねなければ、ライオンは猫を食べます。クマが猫を食べ、猫がライオンを食べなければ、ライオンは猫を食べます。ライオンが猫を必要とするなら、ライオンは猫を訪ねます。誰かがクマを訪ねるなら、その人は若いです。誰かがライオンを食べ、猫を必要としないなら、猫はライオンを必要とします。\n結論: 猫が猫を訪ねます。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: デイブは赤い。エリンは冷たくない。エリンは優しい。エリンはおとなしい。ゲイリーは冷たくない。ゲイリーは赤い。ハリーはおとなしい。静かなものはすべて優しい。ハリーが冷たく、ハリーが赤いなら、ハリーは青い。ハリーが緑なら、ハリーは優しくない。何かが赤くて優しくないものは、緑ではない。優しいものは青い。赤くて優しいものは青い。\n結論: デイブは緑。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは乱暴です。ボブは乱暴です。エリンは乱暴です。ゲイリーは乱暴です。大きくて緑の人は賢いです。毛むくじゃらで赤い人はみんな賢いです。乱暴な人は冷たいです。緑色で賢い人はみんな冷たいです。冷たい人は毛むくじゃらではありません。緑色で大きくて赤い人は赤いです。\n結論: アンは緑色ではありません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは大きい。チャーリーは青い。デイブは青い。エリンはおとなしい。おとなしい青い人はみんな優しい。若い人は青い。毛むくじゃらで大きな人は青い。青い、優しい人はおとなしい。おとなしい人は優しい。若い、大きな人はみんな青い。\n結論: アンは若い。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは赤い。アンは賢い。ボブは優しい。ボブはいい人だ。ボブは静かです。デイブは静かです。デイブは白い。静かで賢いものはすべて荒々しい。いいものは白い。赤いものは優しい。\n結論: ボブは賢くない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは毛深い。チャーリーは毛深い。チャーリーは緑色ではない。エリンは優しい。エリンは若い。ハリーは緑色。ハリーは優しくない。何かが大きくて緑色でなければ、それは赤ではない。赤いものはすべて毛深い。若いものはすべて優しい。\n結論: アンは若い。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: エリンは優しい。ゲイリーは荒っぽい。毛むくじゃらで荒っぽい人は若い。ゲイリーが荒っぽくて優しい人なら、ゲイリーは若い。青くて静かな人は赤い。ゲイリーが優しくて静かな人なら、ゲイリーは青い。ゲイリーが赤いなら、ゲイリーは毛むくじゃら。優しい人はみんな毛むくじゃら。\n結論: エリンは毛むくじゃらではない。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: チャーリーは毛深い。チャーリーは賢くない。フィオナは大きい。フィオナは毛深い。フィオナは丸い。フィオナは賢い。フィオナは若い。若いものは青くない。賢いものはすべて若い。毛深いものはすべて丸い。丸くて若くないものは毛深い。毛深いが丸くないものは白い。白くて毛深いものでないものは大きくない。\n結論: フィオナは白くない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: クマは牛を追いかけます。クマは大きいです。クマは青いです。クマは緑です。クマは優しいです。クマは牛が好きです。クマには牛が必要です。牛はクマを追いかけます。牛は大きいです。牛は青いです。牛は緑です。牛は優しいです。牛はクマが好きです。牛にはクマが必要です。誰かが牛を追いかけ、牛がクマを追いかける場合、牛はクマが好きです。クマが牛を必要とする場合、牛は大きいです。誰かが熊を追いかける場合、その人は熊が好きです。誰かが牛が好きな場合、その人は熊を追いかけます。牛が熊を追いかける場合、牛は熊が好きです。誰かが牛を追いかける場合、牛は熊が好きです。誰かが熊を追いかけ、熊が牛を好む場合、熊は牛を追いかけます。誰かが熊を必要とする場合、その人は熊を追いかけます。\n結論: 牛は牛を必要としません。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは乱暴です。アンは賢いです。ボブは青いです。ボブは優しいです。ボブは乱暴です。デイブは青いです。デイブは毛深いです。デイブは優しいです。デイブは乱暴です。ゲイリーは赤いです。乱暴で赤い人は若いです。賢くて乱暴な人はみんな毛深いです。\n結論: アンは毛深いわけではありません。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: ボブは青。エリンは緑。ハリーは静かです。エリンが緑ならエリンは静かです。ボブが緑ならボブは大きいです。すべて白くて静かなものは荒々しいです。\n結論: ハリーは青です。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫が犬を食べる。猫は優しい。猫は犬が好き。犬は猫が好き。犬はライオンが好き。ライオンは青い。ライオンは緑。誰かがライオンが好きなら、ライオンは緑。猫が優しくて猫が犬が好きなら、猫は緑。誰かが猫を訪ねて猫を食べるなら、その人はライオンを訪ねる。誰かが犬を訪ねれば、犬は猫を食べる。誰かが寒いなら、その人は猫を訪ねる。犬が猫を訪ねて猫がライオンを食べるなら、犬はライオンが好き。誰かが青くて猫が好きなら、その人は優しい。犬が猫を食べるなら、猫は犬を食べる。\n結論: 犬はライオンを訪ねる。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: アンは大きい。アンは青い。アンは冷たい。アンは毛深い。アンは緑色。アンは荒々しい。チャーリーは青い。チャーリーは緑色。チャーリーはおとなしい。チャーリーは荒々しい。デイブは大きい。デイブは青い。デイブは緑色。デイブはおとなしい。ゲイリーは青い。ゲイリーはおとなしい。緑の人は荒々しい。毛深い、青い人は冷たい。青い人はみんな荒々しい。毛深い人はみんなおとなしい。ゲイリーが緑色なら、ゲイリーもおとなしい。青い人はみんなおとなしい。毛深くて青い人は緑。青と緑の人は冷たい。\n結論: ゲイリーは冷たくない。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提: 猫は乱暴です。猫は犬が好きです。猫はライオンが好きです。猫はライオンを見ます。猫はネズミを見ます。犬は青いです。犬は寒いです。犬はライオンを訪ねます。ライオンは寒いです。ネズミは乱暴です。ネズミは犬を見ます。ネズミは猫を訪ねます。誰かがライオンを好きなら、ライオンは犬が好きです。\n結論: ライオンは犬が好きではありません。",
+        "output": "B"
+    }
+]

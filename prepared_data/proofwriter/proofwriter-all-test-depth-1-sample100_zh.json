@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很大。安妮很冷。安妮有毛。安妮是绿色的。安妮很善良。安妮很粗糙。安妮是圆的。鲍勃很大。鲍勃很善良。鲍勃很粗糙。大的东西是善良的。如果某物是绿色的，那么它就是善良的。如果某物很大，那么它就是圆的。绿色、大的东西是善良的。如果某物善良而粗糙，那么它就是毛茸茸的。所有善良、绿色的东西都是粗糙的。\n结论：鲍勃不是圆的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：菲奥娜很大。菲奥娜是蓝色的。菲奥娜是绿色的。菲奥娜很安静。菲奥娜是白色的。菲奥娜很年轻。哈利是蓝色的。哈利是绿色的。哈利很安静。哈利是白色的。如果某人年轻且呈蓝色，那么他们就是白色的。如果某人年轻，那么他们就是蓝色的。年轻、蓝色的人很大。如果某人是绿色和蓝色的，那么他们就是冷漠的。所有冷漠、安静的人都是绿色的。如果某人是绿色且很大，那么他们就是冷漠的。\n结论：哈利不大。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰追逐老虎。白头鹰不是红色的。白头鹰拜访老虎。老虎很善良。老虎很粗野。老虎是圆的。老虎看见了白头鹰。如果有什么东西拜访了老虎，那么老虎就会追逐白头鹰。如果什么东西是红色的，而它没有看见白头鹰，那么白头鹰就不会追逐老虎。如果什么东西是圆的，而它没有看见老虎，那么它就会追逐白头鹰。\n结论：白头鹰很大。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃不是蓝色的。鲍勃是绿色的。鲍勃是白色的。戴夫是蓝色的。戴夫有毛茸茸的。艾琳不是蓝色的。艾琳是白色的。加里有毛茸茸的。加里是绿色的。加里很善良。加里不聪明。加里不是白色的。绿色的、聪明的东西都是有毛茸茸的。所有聪明的东西都不是毛茸茸的。善良的东西不是蓝色的。如果某样东西很好但不善良，那么它就不是白色的。蓝色的、毛茸茸的东西是白色的。好东西是聪明的。\n结论：戴夫很好。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰追逐熊。白头鹰吃掉老鼠。白头鹰需要熊。熊吃掉老鼠。熊是绿色的。熊是善良的。熊是红色的。老鼠追逐熊。老鼠吃掉白头鹰。老鼠吃掉熊。如果某物吃了熊，而熊吃了老鼠，那么老鼠就是善良的。如果某物是善良的，那么它需要白头鹰。\n结论：熊不会追逐白头鹰。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫很粗鲁。兔子喜欢老虎。老虎喜欢猫。如果某物喜欢猫，那么猫就很大。\n结论：老虎不喜欢猫。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰是红色的。白头鹰拜访了狗。狗喜欢白头鹰。狗拜访了松鼠。兔子喜欢白头鹰。兔子看到了白头鹰。兔子看到了狗。兔子拜访了狗。松鼠很冷。松鼠喜欢兔子。如果有什么东西拜访了狗，那么它就喜欢狗。如果有什么东西拜访了狗，而且狗是红色的，那么狗就喜欢白头鹰。\n结论：狗拜访了兔子。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃很安静。鲍勃很年轻。哈利很善良。所有善良的东西都是蓝色的。\n结论：鲍勃是圆的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃是善良的。哈利是红色的。哈利是白色的。如果哈利很聪明，哈利不是白色的，那么哈利就是红色的。红色的东西不善良。\n结论：哈利不善良。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很冷漠。安妮身上有毛。菲奥娜很善良。如果菲奥娜善良，那么菲奥娜就很粗鲁。粗鲁的人很冷漠。所有冷漠的白人都是圆的。如果有人身上有毛，那么他们就很粗鲁。如果菲奥娜是白人，菲奥娜是圆的，那么菲奥娜就很大。善良的人是白人。\n结论：菲奥娜是白人。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃很大。鲍勃是蓝色的。鲍勃是绿色的。鲍勃很好。鲍勃是圆的。戴夫很大。戴夫是蓝色的。艾琳是蓝色的。艾琳是绿色的。加里是绿色的。加里是圆的。加里很年轻。如果艾琳是蓝色的，那么艾琳就很大。\n结论：艾琳很大。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰是红色的。白头鹰拜访了狗。狗喜欢白头鹰。狗拜访了松鼠。兔子喜欢白头鹰。兔子看到了白头鹰。兔子看到了狗。兔子拜访了狗。松鼠很冷。松鼠喜欢兔子。如果有什么东西拜访了狗，那么它就喜欢狗。如果有什么东西拜访了狗，而且狗是红色的，那么狗就喜欢白头鹰。\n结论：松鼠不喜欢狗。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰很冷。白头鹰不年轻。白头鹰不需要熊。白头鹰需要老鼠。白头鹰看到了熊。熊看到了白头鹰。老鼠很大。老鼠很冷。老鼠需要松鼠。老鼠看到了熊。老鼠看到了松鼠。松鼠很大。松鼠不粗鲁。松鼠需要老鼠。松鼠不拜访白头鹰。松鼠拜访了熊。如果某物很冷，那么它就会拜访老鼠。\n结论：松鼠不拜访老鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊拜访狗。牛是蓝色的。狗喜欢牛。如果有什么东西追狗，那么狗就很好。如果有什么东西喜欢牛，那么牛就喜欢熊。如果熊很大，那么熊是圆的。\n结论：牛喜欢熊。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫很冷漠。猫很粗鲁。猫很年轻。所有蓝色的人都是绿色的。如果猫是绿色的并且猫很年轻，那么猫就是冷漠的。所有冷漠的人都是绿色的。\n结论：猫不喜欢猫。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰追老鼠。白头鹰是绿色的。白头鹰是圆的。白头鹰看到了猫。白头鹰拜访了猫。猫追老鼠。猫是红色的。猫是圆的。猫看到了白头鹰。猫看到了老鼠。猫拜访了白头鹰。猫拜访了老鼠。老鼠追白头鹰。老鼠追猫。老鼠看到了猫。如果有什么东西追猫，而猫看到了老鼠，那么这只老鼠就是可爱的。如果猫很可爱而且猫还很年轻，那么猫就会拜访老鼠。如果有什么东西追猫，而且它还很年轻，那么它就会追老鼠。如果什么东西看到了老鼠，那么它是红色的。如果什么东西看到了猫，而且猫是圆的，那么猫就会看到了老鼠。如果什么东西是绿色和红色的，那么它就会看到老鼠。\n结论：老鼠看到了猫。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很好。安妮是红色的。安妮很聪明。戴夫很好。戴夫很聪明。戴夫很年轻。加里很大。加里很善良。加里很好。加里很年轻。如果某样东西很聪明，那么它就是红色的。如果某样东西很善良，那么它就是年轻的。如果某样东西很安静，那么它就是很大的。\n结论：戴夫是红色的。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫追老虎。猫很大。猫看到老鼠。猫看到老虎。猫拜访老虎。老鼠是蓝色的。老鼠看到猫。老虎追猫。老虎追老鼠。老虎拜访老鼠。如果有人看到老虎，他们就会追老虎，然后他们就会追老鼠。如果有人看到老鼠，老鼠追老虎，那么他们就年轻。\n结论：老虎很冷漠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：松鼠很善良。所有善良的东西都不圆。圆的东西很大。所有大的东西都很善良。\n结论：松鼠并不善良。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊追老鼠。熊是红色的。熊很粗野。熊是圆的。熊需要狮子。熊需要老鼠。狮子追熊。老鼠追熊。老鼠追狮子。老鼠拜访熊。如果有人追老鼠，那么老鼠就会追狮子。如果有人追狮子，那么他们需要老鼠。如果有人需要老鼠，那么老鼠就会拜访狮子。\n结论：狮子很粗野。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：老鼠喜欢松鼠。松鼠追老鼠。松鼠吃老鼠。如果松鼠吃老鼠，而老鼠喜欢松鼠，那么老鼠就会追松鼠。如果某物是绿色的，那么它就会追松鼠。\n结论：老鼠是蓝色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃是绿色的。鲍勃很善良。鲍勃很友好。鲍勃很安静。鲍勃很粗鲁。鲍勃很年轻。菲奥娜很善良。菲奥娜很友好。菲奥娜很安静。菲奥娜很粗鲁。菲奥娜很年轻。哈利是蓝色的。哈利是绿色的。哈利很友好。哈利很粗鲁。哈利很年轻。如果某人粗鲁且绿色，那么他们就很安静。如果某人蓝色且友好，那么他们就是绿色的。所有蓝色的人都是年轻的。如果有人粗鲁，那么他们就是绿色的。如果鲍勃很友好且鲍勃是绿色，那么鲍勃就是蓝色的。所有绿色的人都是蓝色的。所有善良、友好的人都是粗鲁的。如果某人年轻且蓝色，那么他们就是友好的。\n结论：菲奥娜不是绿色的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：母牛是圆的。狮子追赶松鼠。狮子不善良。狮子喜欢母牛。松鼠追赶老虎。松鼠是圆的。老虎追赶狮子。如果有人追赶狮子，那么狮子就会吃掉老虎。如果母牛不追赶狮子，那么母牛就会追赶老虎。如果有人吃掉松鼠，而且松鼠很善良，那么松鼠就会追赶狮子。\n结论：母牛追赶老虎。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃很大。查理很圆。艾琳很年轻。年轻圆润的人是蓝色的。所有毛茸茸的年轻人都是圆的。毛茸茸的人是蓝色的。如果有人是圆的，那么他们就是毛茸茸的。大而粗糙的人很年轻。大而毛茸茸的人是蓝色的。\n结论：鲍勃很年轻。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：老鼠很好。老鼠看到兔子。老鼠看到松鼠。兔子很冷。兔子是圆的。兔子喜欢老鼠。兔子喜欢松鼠。松鼠吃兔子。松鼠很冷。松鼠看到兔子。如果什么东西吃了松鼠而且天气很冷，那么它就会看到兔子。如果什么东西喜欢老鼠而且天气很冷，那么它就会吃老鼠。如果什么东西喜欢兔子，那么它就是圆的。\n结论：老鼠喜欢松鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫很大。猫是蓝色的。猫是圆的。所有蓝色的人都是绿色的。\n结论：猫不是绿色的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰很冷。白头鹰是绿色的。白头鹰很粗糙。白头鹰很年轻。白头鹰不喜欢松鼠。白头鹰看到了松鼠。白头鹰拜访了松鼠。松鼠很大。松鼠很冷。松鼠是绿色的。松鼠不粗糙。松鼠很年轻。松鼠喜欢白头鹰。松鼠看到了白头鹰。松鼠拜访了白头鹰。如果某物看到了松鼠，那么它就看到了白头鹰。\n结论：白头鹰没有看到白头鹰。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰很粗鲁。白头鹰需要熊。熊很善良。熊喜欢白头鹰。熊喜欢兔子。熊需要白头鹰。老鼠是红色的。老鼠需要兔子。兔子吃熊。兔子是红色的。如果有人吃兔子，那么他们需要兔子。如果有人吃熊并且他们需要白头鹰，那么白头鹰就是红色的。如果有人很大，那么他们喜欢熊。如果有人很善良，那么他们喜欢兔子。如果兔子很大，那么兔子会吃白头鹰。粗鲁的人是圆的。如果兔子吃老鼠，那么兔子需要老鼠。如果有人需要兔子并且他们需要老鼠，那么他们就是红色的。\n结论：白头鹰是圆的。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：老鼠不是蓝色的。老鼠很好。老鼠是红色的。红色的东西是绿色的。绿色的东西是红色的。\n结论：老鼠吃老鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊很粗鲁。狗看见熊。松鼠看见熊。如果有人喜欢松鼠，而他们没有看见松鼠，那么他们需要松鼠。如果有人看见熊，那么他们就不需要松鼠。粗鲁、善良的人是冷漠的。如果有人需要狗，而他们又不粗鲁，那么他们就喜欢松鼠。如果有人需要熊，那么熊就喜欢狗。如果狗喜欢松鼠，那么松鼠就需要狗。如果有人需要熊，而熊又喜欢狗，那么狗就不需要松鼠。如果有人需要熊，而他们不需要松鼠，那么松鼠就喜欢狗。\n结论：狗并不善良。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊不是圆的。熊看见了狗。狗看见了兔子。兔子追狗。兔子看见了狗。松鼠不追兔子。松鼠看见了兔子。如果什么东西看见了兔子，那么它就喜欢松鼠。\n结论：熊追松鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：狮子看到松鼠。兔子追赶松鼠。松鼠看到兔子。如果某物看到松鼠，它就会追赶狮子。\n结论：兔子追赶狮子。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：兔子很大。兔子是蓝色的。兔子很好。兔子很粗鲁。兔子很年轻。兔子喜欢老虎。兔子需要老虎。兔子拜访老虎。老虎很大。老虎是蓝色的。老虎很好。老虎很粗鲁。老虎很年轻。老虎喜欢兔子。老虎需要兔子。老虎拜访兔子。如果有人喜欢老虎并且他们需要老虎那么他们就需要兔子。如果兔子喜欢老虎并且兔子很大那么兔子就会拜访老虎。如果有人喜欢兔子那么兔子需要老虎。如果有人是蓝色的并且很大那么他们就会拜访老虎。如果兔子很好并且兔子拜访老虎那么老虎就很年轻。如果有人需要兔子并且兔子需要老虎那么兔子喜欢老虎。如果有人喜欢老虎那么他们需要兔子。如果有人很好那么他们需要老虎。\n结论：老虎拜访老虎。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫吃老虎。猫很冷。老鼠追松鼠。老鼠不追老虎。老鼠需要猫。松鼠吃猫。松鼠不吃老虎。松鼠是绿色的。松鼠很年轻。松鼠需要猫。松鼠需要老虎。老虎不追老鼠。如果有人吃了老鼠，而且它们不大，那么老鼠就不是绿色的。如果松鼠需要老虎，而且松鼠很年轻，那么松鼠就会追老鼠。如果猫需要老虎，而猫吃了松鼠，那么老虎就不会吃老鼠。如果松鼠追猫，而猫追老虎，那么老虎就不会吃松鼠。如果猫追老虎，那么老虎就不需要松鼠。如果老鼠吃了猫，那么老鼠就不需要老虎。\n结论：松鼠追老鼠。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊追老虎。熊很年轻。熊喜欢兔子。熊喜欢老虎。熊拜访老虎。兔子不追熊。兔子追老虎。兔子不善良。兔子喜欢熊。兔子喜欢老虎。兔子拜访熊。兔子拜访老虎。老虎是红色的。老虎很年轻。老虎不喜欢兔子。如果有人拜访老虎，那么老虎就会拜访熊。如果老虎拜访熊，那么老虎不喜欢熊。如果有人喜欢兔子，那么他们是红色的。如果有人拜访兔子，而他们不是绿色，那么他们喜欢老虎。如果有人拜访兔子，那么兔子就不会拜访老虎。如果有人拜访熊，而他们没有拜访兔子，那么兔子很大。\n结论：兔子是绿色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：Charlie 是绿色的。Dave 不大。Gary 很安静。Harry 很大。所有漂亮、大的东西都很安静。所有漂亮、绿色的东西都很安静。如果 Gary 很大并且 Gary 不年轻，那么 Gary 就是漂亮的。白色、年轻的东西很大。如果某样东西很年轻，那么它就不大。所有白色、绿色的东西都不漂亮。如果某样东西很安静，那么它就不友善。如果某样东西很大并且不安静，那么它就不友善。\n结论：Dave 是绿色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃是蓝色的。鲍勃是毛茸茸的。鲍勃是绿色的。鲍勃很粗糙。鲍勃很年轻。艾琳是毛茸茸的。艾琳很粗糙。艾琳是圆的。艾琳很年轻。哈利是蓝色的。哈利是毛茸茸的。哈利是绿色的。哈利很粗糙。哈利是圆的。哈利很聪明。哈利很年轻。所有绿色的东西都是聪明的。\n结论：艾琳不是蓝色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃是蓝色的。鲍勃有毛。鲍勃很好。鲍勃很粗鲁。查理很大。查理有毛。查理很善良。查理很粗鲁。菲奥娜很大。菲奥娜有毛。菲奥娜很善良。菲奥娜很聪明。加里是蓝色的。加里有毛。加里很粗鲁。如果加里很好，那么加里就是蓝色的。所有聪明、有毛的人都很大。有毛的人很聪明。\n结论：鲍勃很好。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理是绿色的。查理很粗糙。戴夫毛茸茸的。戴夫很年轻。艾琳很冷。艾琳毛茸茸的。艾琳是红色的。艾琳很粗糙。加里很大。加里很冷。如果艾琳很冷，那么艾琳就是绿色的。\n结论：戴夫很冷。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊很冷酷。熊需要老虎。老虎喜欢熊。如果有人体型巨大，并且不喜欢老虎，那么老虎就会喜欢熊。如果有人需要老虎，而老虎又很善良，那么老虎就不会吃掉熊。如果有人需要熊，而熊体型巨大，那么他们就是善良的。如果有人需要熊，那么他们就会吃掉老虎。如果有人喜欢熊，那么他们就不会吃掉熊。如果老虎喜欢熊，而熊不喜欢老虎，那么老虎就是蓝色的。如果有人喜欢老虎，而老虎喜欢熊，那么老虎就不大。如果熊不吃老虎，那么老虎就不善良。\n结论：老虎喜欢熊。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰很冷。母牛喜欢白头鹰。狗拜访白头鹰。狮子喜欢白头鹰。如果某样东西很冷，它就会拜访狗。\n结论：母牛喜欢白头鹰。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃很聪明。查理很粗鲁。戴夫很圆润。艾琳很聪明。如果鲍勃很大，那么鲍勃就是绿色的。如果某人很圆润，那么他们就不聪明。\n结论：鲍勃不圆润。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：戴夫很大。戴夫是绿色的。戴夫很粗糙。戴夫不圆。戴夫很年轻。菲奥娜很大。菲奥娜是蓝色的。菲奥娜是绿色的。菲奥娜很圆。菲奥娜很年轻。大而年轻的东西是蓝色的。白色的东西是绿色的。如果某样东西很年轻而且不大，那么它就不是白色的。\n结论：菲奥娜不粗糙。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：奶牛追兔子。奶牛很善良。奶牛很好。奶牛是圆的。奶牛需要狮子。奶牛需要兔子。奶牛拜访兔子。狮子追兔子。狮子是绿色的。狮子很善良。狮子很好。狮子需要奶牛。狮子拜访奶牛。狮子拜访兔子。兔子很善良。兔子拜访奶牛。如果有人追兔子，那么兔子需要狮子。\n结论：狮子不会追狮子。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃是蓝色的。鲍勃有毛。鲍勃很聪明。鲍勃是白色的。鲍勃很年轻。戴夫没有毛。艾琳是白色的。哈利不是蓝色的。哈利是红色的。哈利是圆的。所有毛茸茸的、圆形的东西都是蓝色的。蓝色的东西是白色的。白色的东西是圆的。如果戴夫是圆的，那么戴夫就年轻。如果艾琳是白色的，而艾琳不是圆的，那么艾琳就不聪明。如果某物有毛，那么它就是红色的。如果某物很年轻而且不是蓝色，那么它就是红色的。如果鲍勃不是红色的，那么鲍勃就很聪明。\n结论：戴夫不是白人。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮不安静。安妮不聪明。安妮是白人。戴夫是圆的。艾琳很善良。艾琳很安静。艾琳是圆的。艾琳很聪明。艾琳是白人。艾琳很年轻。圆的人很安静。安静的人很善良。如果某人善良而不圆，那么他们就是绿色的。如果某人是白人但不聪明，那么他们就是绿色的。圆的人是绿色的。所有圆的人都是白人。\n结论：安妮不善良。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理是圆的。戴夫是粗鲁的。菲奥娜是安静的。如果一个人粗鲁，那么他就不会是蓝色的。如果菲奥娜是安静的，而菲奥娜不粗鲁，那么菲奥娜就是毛茸茸的。\n结论：查理是善良的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫是圆的。猫喜欢老虎。猫需要松鼠。猫需要老虎。松鼠喜欢老虎。松鼠需要老虎。松鼠看到了猫。老虎喜欢猫。老虎喜欢松鼠。老虎需要猫。老虎需要松鼠。老虎看到了猫。如果某物看到了猫，那么它就喜欢老虎。\n结论：松鼠喜欢松鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理很冷漠。查理很安静。查理很聪明。戴夫很冷漠。戴夫很安静。戴夫很圆润。戴夫很聪明。如果某物是圆的，不粗糙，那么它就是冷漠的。聪明、圆润的东西是红色的。如果戴夫很粗糙，戴夫很圆润，那么戴夫就是冷漠的。\n结论：查理很安静。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃很冷酷。鲍勃有毛。鲍勃很善良。鲍勃是红色的。鲍勃不粗糙。鲍勃是圆的。鲍勃是白色的。查理很粗糙。查理是白色的。戴夫是红色的。戴夫很粗糙。戴夫是圆的。戴夫是白色的。哈利很冷酷。哈利很善良。哈利很粗糙。如果某物粗糙而圆润，那么它就是红色的。如果某物善良且有毛茸茸，那么它就是红色的。如果某物冷酷而不粗糙，那么它就是毛茸茸的。如果某物冷酷，那么它就是毛茸茸的。所有善良、冷酷的东西都是毛茸茸的。所有冷酷的东西都是善良的。如果某物冷酷且白色，那么它就是圆的。所有冷酷、毛茸茸的东西都是圆的。\n结论：哈利没有毛茸茸的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊拜访猫。猫很大。猫需要熊。如果一个人很大，那么他们就会喜欢猫。\n结论：熊不拜访猫。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊吃狗。熊是绿色的。熊很善良。熊看见了狗。狗很粗鲁。狗是圆的。狗看见了熊。如果有人很善良，并且看见了狗，那么狗就不会吃熊。\n结论：熊很粗鲁。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理不是蓝色的。戴夫是蓝色的。戴夫很聪明。戴夫是白色的。戴夫很年轻。哈利很大。哈利很聪明。如果某物是聪明的而不是白色的，那么它就是蓝色的。大的东西不是蓝色的。如果某物是绿色的而不是冷的，那么它就不是蓝色的。如果某物是绿色的而且很年轻，那么它就不大。如果某物是聪明的而不是白色的，那么它就不大。如果戴夫很大，那么戴夫就年轻。\n结论：查理不聪明。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮是蓝色的。艾琳很大。艾琳很冷。艾琳很安静。艾琳是圆的。艾琳是白色的。菲奥娜是蓝色的。菲奥娜很冷。菲奥娜很安静。菲奥娜是白色的。冷而安静的事物都是毛茸茸的。大事物是安静的。如果某物又冷又大，那么它就是圆的。如果某物很冷，那么它就是圆的。所有蓝色、冷的东西都是安静的。如果某物又冷又大，那么它就是圆的。\n结论：艾琳不是白色的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰吃掉狮子。白头鹰是红色的。白头鹰喜欢狮子。白头鹰需要狮子。狮子吃掉白头鹰。狮子很冷漠。狮子是绿色的。狮子很友善。狮子是红色的。狮子很粗鲁。狮子喜欢白头鹰。狮子需要白头鹰。如果有人吃了狮子，而狮子很友善，那么他们就很冷漠。如果有人吃了白头鹰，而他们喜欢狮子，那么狮子就很友善。如果有人吃了白头鹰，那么他们需要白头鹰。如果有人需要白头鹰，那么白头鹰就会吃掉狮子。如果有人很粗鲁，那么他们就会吃掉白头鹰。如果有人很友善，那么他们就很粗鲁。\n结论：白头鹰很粗鲁。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫看到了牛。牛是绿色的。兔子是绿色的。老虎拜访了猫。如果有人拜访了牛，他们就会吃掉牛。如果有人拜访了猫，他们就会看到兔子。如果有人看到了猫，他们就会拜访兔子。如果有人看到了兔子，那么兔子就会吃掉牛。如果有人拜访了老虎，而老虎吃了牛，那么牛就会吃掉兔子。如果有人又圆又漂亮，那么他们就会拜访兔子。\n结论：猫没有看到牛。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很大。安妮有毛。安妮是绿色的。安妮很善良。安妮很安静。安妮是红色的。安妮是白色的。查理很大。查理有毛。查理是绿色的。查理很善良。查理是红色的。查理是白色的。戴夫是绿色的。戴夫很善良。戴夫很安静。安静、善良的东西都是白色的。\n结论：戴夫是红色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：艾琳是善良的。艾琳很粗鲁。菲奥娜不是绿色的。菲奥娜很善良。菲奥娜很安静。菲奥娜是红色的。菲奥娜很粗鲁。菲奥娜不是白色的。菲奥娜很年轻。加里是绿色的。加里很善良。加里很粗鲁。年轻、安静的东西是红色的。如果某样东西很粗鲁，那么它就是红色的。\n结论：艾琳很年轻。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃不善良。鲍勃很粗鲁。艾琳很大。艾琳是蓝色的。艾琳很善良。艾琳很粗鲁。艾琳很聪明。菲奥娜很大。菲奥娜不善良。菲奥娜很粗鲁。菲奥娜很聪明。菲奥娜不是白人。菲奥娜很年轻。哈利不是蓝色的。哈利很善良。哈利很粗鲁。所有年轻、善良的人都很大。善良、年轻人都很大。如果有人善良而且不是白人那么他们就很大。所有聪明的人都年轻。如果菲奥娜很年轻而菲奥娜是蓝色的那么菲奥娜就很善良。所有蓝色的人都是善良的。如果艾琳是蓝色的那么艾琳很聪明。如果鲍勃很粗鲁而鲍勃不年轻那么鲍勃很大。\n结论：艾琳不年轻。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃很安静。鲍勃是红色的。鲍勃很粗糙。鲍勃不是白色的。鲍勃很年轻。查理有毛。查理很善良。查理很安静。查理是红色的。查理是白色的。所有粗糙的人都是善良的。如果某人很粗糙而且没有毛，那么他们就是白色的。\n结论：鲍勃很善良。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮是毛茸茸的。安妮不友善。查理很友善。查理很年轻。加里不友善。加里很粗鲁。哈利很大。哈利很安静。哈利很粗鲁。哈利很圆。如果某物粗糙且不安静，那么它就很大。如果某物是圆的，那么它就很大。所有圆的、安静的东西都是友善的。\n结论：哈利不友善。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：奶牛吃兔子。奶牛喜欢狮子。狮子吃老鼠。老鼠很可爱。老鼠看不到狮子。兔子很大。兔子看到狮子。如果什么东西吃了奶牛，而奶牛喜欢老鼠，那么老鼠就会吃奶牛。如果什么东西吃了狮子，那么狮子就不会吃老鼠。如果什么东西很善良，它看到了奶牛，那么它就会看到老鼠。如果奶牛很善良，那么奶牛就会吃老鼠。如果兔子喜欢奶牛，而兔子看到了狮子，那么兔子就不是蓝色的。年轻的蓝色东西很大。如果什么东西喜欢奶牛，而它不吃狮子，那么奶牛就不会看到狮子。如果什么东西很大，那么它就不喜欢狮子。\n结论：狮子看不到狮子。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮是善良的。查理是绿色的。菲奥娜是毛茸茸的。加里是绿色的。如果安妮很大而且安妮是善良的，那么安妮就是红色的。所有善良的人都是绿色的。\n结论：查理是绿色的。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰追猫。白头鹰是蓝色的。白头鹰需要猫。白头鹰看到了松鼠。猫很年轻。猫需要松鼠。松鼠追猫。松鼠很大。松鼠很粗野。松鼠很年轻。松鼠需要白头鹰。松鼠看到了白头鹰。如果有人看到了白头鹰，那么他们就看到了猫。\n结论：松鼠很大。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很大。安妮很冷漠。安妮是红色的。安妮不年轻。艾琳很冷漠。艾琳很年轻。菲奥娜很好。菲奥娜很年轻。加里不大。加里很冷漠。加里很好。加里很年轻。所有年轻的绿色人都是冷漠的。如果有人很好而且不粗鲁，那么他们就很冷漠。如果菲奥娜很冷漠，那么菲奥娜就很好。所有好人都不是绿色的。如果有人很好而且不年轻，那么他们很大。所有粗鲁、冷漠的人都不大。所有冷漠、粗鲁的人都不是红色的。如果有人很大而且不粗鲁，那么他们就不是红色的。\n结论：菲奥娜很粗鲁。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫追老鼠。猫不去看狮子。狮子追猫。狮子追老鼠。狮子很冷。狮子看不到猫。狮子看到老鼠。老鼠追狮子。老鼠是绿色的。老鼠去看猫。如果某物很冷并且追赶老鼠，那么老鼠就看不到猫。\n结论：狮子并不好。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很年轻。鲍勃很善良。加里很粗鲁。所有粗糙的东西都是善良的。白色的东西都是毛茸茸的。\n结论：加里很善良。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理是蓝色的。查理很善良。艾琳很大。艾琳是蓝色的。艾琳是绿色的。艾琳很好。艾琳很聪明。加里很大。加里是绿色的。加里很聪明。如果某样东西很年轻，那么它就很大。所有绿色的东西都是很好的。\n结论：加里很好。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊吃掉松鼠。熊很冷。熊很好。熊很粗鲁。熊很圆。熊很年轻。熊喜欢松鼠。熊看到了松鼠。松鼠吃掉熊。松鼠很冷。松鼠很好。松鼠很粗鲁。松鼠很圆。松鼠很年轻。松鼠喜欢熊。松鼠看到了熊。如果某物喜欢熊，那么它就会吃掉松鼠。\n结论：熊喜欢熊。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫拜访奶牛。奶牛吃掉狮子。狗很年轻。狮子吃掉狗。如果有人追赶奶牛并且他们是善良的，那么他们就会拜访狮子。如果有人拜访猫并且猫追赶奶牛那么他们就会追赶猫。年轻人是绿色的。如果有人是红色和绿色那么他们就会拜访狗。如果狗吃掉狮子那么狗就会追赶猫。如果猫追赶狗并且狗吃掉狮子那么狗就是红色的。如果有人吃掉奶牛并且奶牛吃掉狗那么狗就会吃掉猫。如果有人是善良的那么他们就会吃掉狗。\n结论：狗不是绿色的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊吃猫。猫吃牛。猫拜访熊。牛吃猫。牛是蓝色的。牛需要熊。牛需要老虎。牛拜访熊。牛拜访猫。老虎是蓝色的。老虎需要猫。老虎拜访熊。如果某物吃了熊，那么它需要熊。如果某物很粗糙并且需要牛，那么牛是善良的。如果某物很粗糙，那么它需要牛。如果某物是冷的和蓝色的，那么它需要老虎。如果某物很大，那么它会吃掉熊。如果某物需要熊并且它吃了牛，那么牛是善良的。如果某物很粗糙，那么它需要老虎。如果某物拜访猫并且它需要老虎，那么它就是冷的。\n结论：老虎吃掉熊。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：兔子拜访松鼠。松鼠吃兔子。松鼠很大。如果有东西吃松鼠，那么松鼠就会吃兔子。如果兔子很乖，兔子吃松鼠，那么松鼠就会吃兔子。如果某物喜欢兔子，兔子拜访松鼠，那么它就会拜访兔子。如果有东西拜访松鼠，那么松鼠就会喜欢兔子。如果有东西拜访松鼠，那么它就会喜欢兔子。如果兔子喜欢松鼠，兔子拜访松鼠，那么兔子就是红色的。\n结论：兔子喜欢松鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很冷漠。安妮没有毛。安妮很好。安妮很聪明。鲍勃不安静。鲍勃不聪明。戴夫很大。菲奥娜很大。菲奥娜很安静。菲奥娜很粗鲁。所有安静、冷漠的东西都是很好的。安静、大的东西都是冷漠的。\n结论：安妮很聪明。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理很大。查理很冷漠。查理很善良。艾琳很大。艾琳很善良。艾琳很聪明。加里很冷漠。加里是绿色的。加里是红色的。哈利是圆的。如果哈利很大，那么哈利就是红色的。冷的东西很善良。所有红色的东西都是圆的。\n结论：查理不大。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：奶牛需要松鼠。老鼠追赶老虎。老鼠吃掉奶牛。松鼠需要老鼠。老虎不吃奶牛。老虎需要奶牛。老虎需要松鼠。如果某物追赶老虎，那么它是蓝色的。如果某物是红色的并且需要奶牛，那么奶牛就不年轻了。如果某物追赶老虎并且它是红色的，那么它需要奶牛。\n结论：奶牛需要老鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰需要狗。猫需要白头鹰。狗看到了白头鹰。如果有人喜欢白头鹰，那么他们就需要狗。如果有人需要猫，那么猫就很年轻。如果有人看到了白头鹰，那么白头鹰就需要狗。如果有人需要猫并且他们是绿色的，那么他们就会看到白头鹰。如果有人需要白头鹰并且他们很冷，那么他们需要猫。如果有人很善良，那么他们需要狗。如果有人看到了猫，那么他们就很善良。如果有人需要白头鹰，那么白头鹰就会看到狗。\n结论：猫不需要狗。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：狮子是蓝色的。狮子是绿色的。狮子需要松鼠。狮子拜访松鼠。老鼠吃了狮子。老鼠很粗鲁。老鼠需要狮子。松鼠吃狮子。松鼠吃老鼠。松鼠拜访老鼠。如果有人需要松鼠，而松鼠很粗鲁，那么他们就会拜访狮子。如果有人拜访老鼠，而他们吃了狮子，那么他们就是绿色的。\n结论：狮子不需要松鼠。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：戴夫很忧郁。戴夫很冷漠。戴夫很好。艾琳很忧郁。艾琳很冷漠。艾琳很善良。艾琳很好。艾琳很安静。艾琳很年轻。哈利很冷漠。如果一个人忧郁，那么他就是安静的。\n结论：戴夫并不安静。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰很大。兔子需要白头鹰。松鼠喜欢兔子。如果兔子是绿色的，那么兔子就很大。如果某物喜欢兔子，那么它就会追逐兔子。如果某物喜欢兔子，而兔子还小，那么它就需要白头鹰。如果某物追逐松鼠，那么它就需要白头鹰。如果某物需要松鼠，而松鼠喜欢白头鹰，那么松鼠就会追逐兔子。如果某物追逐兔子，那么兔子就喜欢白头鹰。\n结论：松鼠喜欢兔子。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮有毛。安妮是绿色的。安妮是红色的。安妮是圆的。鲍勃没有毛。鲍勃不是绿色的。鲍勃是圆的。加里没有毛。加里很善良。加里是红色的。加里是圆的。加里很聪明。哈利是绿色的。哈利不粗糙。哈利是圆的。圆润、有毛的人很聪明。所有有毛的、红色的人都是圆的。如果有人粗糙那么他们就是圆的。如果鲍勃是圆的而鲍勃不是红色那么鲍勃就不聪明。如果加里粗糙那么加里是红色的。如果有人粗糙而不聪明那么他们就是绿色的。\n结论：加里是红色的。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫吃狮子。狮子吃猫。狮子很善良。如果有人很大，他们会去看猫，然后他们也会去看狮子。如果有人很善良，那么他们需要猫。\n结论：狮子并不善良。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊追老鼠。熊很大。熊是绿色的。熊喜欢狮子。狮子追熊。狮子追老鼠。狮子很大。狮子不喜欢熊。狮子喜欢松鼠。狮子不需要老鼠。狮子需要松鼠。老鼠很大。松鼠很大。松鼠很冷。松鼠喜欢熊。松鼠需要老鼠。如果有人追老鼠，那么他们就是圆的。\n结论：熊不需要松鼠。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊是蓝色的。熊是红色的。熊不年轻。奶牛拜访狗。狗不拜访狮子。狮子追赶奶牛。狮子需要奶牛。如果狗拜访奶牛，那么奶牛就不需要狗。如果有人追赶奶牛，那么奶牛是蓝色的。如果狮子追赶熊，那么狮子很大。如果有人年轻，那么他们就不会拜访狗。如果狗需要奶牛，那么奶牛就会追赶熊。如果有人需要奶牛，那么奶牛很善良。\n结论：奶牛不是蓝色的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊不追老鼠。熊不需要猫。熊不需要老鼠。熊不拜访老鼠。猫不追熊。猫追老鼠。猫很冷。猫需要熊。猫需要老鼠。猫拜访老鼠。老鼠不冷。老鼠需要猫。如果某物很冷，它就会追猫。\n结论：老鼠追猫。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：白头鹰拜访老虎。兔子需要白头鹰。老虎拜访白头鹰。如果老虎年轻，那么老虎喜欢兔子。好东西都是圆的。如果某样东西需要兔子，而且它很好，那么兔子喜欢老虎。如果兔子喜欢白头鹰，那么白头鹰喜欢老虎。如果老虎拜访白头鹰，而白头鹰拜访老虎，那么白头鹰就是红色的。如果某样东西需要兔子，而且它不喜欢老虎，那么老虎就不会拜访白头鹰。\n结论：白头鹰是红色的。",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：兔子很大。兔子是蓝色的。兔子很好。兔子很粗野。兔子很年轻。兔子喜欢老虎。兔子需要老虎。兔子拜访老虎。老虎很大。老虎是蓝色的。老虎很好。老虎很粗野。老虎很年轻。老虎喜欢兔子。老虎需要兔子。老虎拜访兔子。如果有人喜欢老虎并且他们需要老虎那么他们就需要兔子。如果兔子喜欢老虎并且兔子很大那么兔子就会拜访老虎。如果有人喜欢兔子那么兔子需要老虎。如果有人是蓝色的并且很大那么他们就会拜访老虎。如果兔子很好并且兔子拜访老虎那么老虎就很年轻。如果有人需要兔子并且兔子需要老虎那么兔子喜欢老虎。如果有人喜欢老虎那么他们需要兔子。如果有人很好那么他们需要老虎。\n结论：老虎不需要老虎。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊需要狮子。猫吃掉熊。猫吃掉狮子。猫很大。猫是蓝色的。猫很年轻。猫需要狮子。猫拜访狮子。狮子吃掉熊。狮子吃掉猫。狮子很大。狮子很圆。狮子需要猫。狮子拜访熊。狮子拜访猫。如果有人吃了熊，那么他们需要狮子。如果熊很粗鲁，而狮子不拜访熊，那么狮子就会吃掉猫。如果熊吃了猫，而猫不吃狮子，那么狮子就会吃掉猫。如果狮子需要猫，那么狮子就会拜访猫。如果有人拜访熊，那么他们还很年轻。如果有人吃了狮子，而他们不需要猫，那么猫需要狮子。\n结论：猫拜访猫。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：戴夫是红色的。艾琳不冷漠。艾琳很好。艾琳很安静。加里不冷漠。加里是红色的。哈利很安静。所有安静的东西都是好的。如果哈利冷漠，哈利是红色的，那么哈利就是蓝色的。如果哈利是绿色的，那么哈利就不善良。如果某样东西是红色的，但不善良，那么它就不是绿色的。善良的东西是蓝色的。红色、善良的东西是蓝色的。\n结论：戴夫是绿色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很粗鲁。鲍勃很粗鲁。艾琳很粗鲁。加里很粗鲁。个子大、绿色的人很聪明。所有毛茸茸的、红色的人都很聪明。粗鲁的人很冷漠。所有绿色、聪明的人都很冷漠。如果有人很冷漠，那么他们就不是毛茸茸的。绿色、大的人是红色的。\n结论：安妮不是绿色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很大。查理是蓝色的。戴夫是蓝色的。艾琳很安静。所有安静、蓝色的人都是善良的。年轻人是蓝色的。毛茸茸的大人是蓝色的。蓝色、善良的人很安静。如果有人安静，那么他们就是善良的。所有年轻、大的人都是蓝色的。\n结论：安妮很年轻。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮是红色的。安妮很聪明。鲍勃很善良。鲍勃很友善。鲍勃很善良。鲍勃很安静。戴夫很安静。戴夫是白色的。所有安静、聪明的东西都是粗糙的。如果某样东西很好，那么它就是白色的。红色的东西是善良的。\n结论：鲍勃不聪明。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮有毛。查理有毛。查理不是绿色的。艾琳很好。艾琳很年轻。哈利是绿色的。哈利不友好。如果某物很大而且不是绿色的，那么它就不是红色的。所有红色的东西都是毛茸茸的。所有年轻的东西都是善良的。\n结论：安妮很年轻。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：Erin 很好。Gary 很粗鲁。如果某人毛茸茸的且很粗鲁，那么他们就很年轻。如果 Gary 很粗鲁且 Gary 很好，那么 Gary 就很年轻。蓝色，安静的人是红色。如果 Gary 很好且 Gary 很安静，那么 Gary 就是蓝色。如果 Gary 是红色，那么 Gary 毛茸茸的。所有好人都是毛茸茸的。\n结论：Erin 不毛茸茸的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：查理有毛。查理不聪明。菲奥娜很大。菲奥娜有毛。菲奥娜是圆的。菲奥娜很聪明。菲奥娜很年轻。年轻的事物不是蓝色的。所有聪明的事物都很年轻。所有毛茸茸的事物都是圆的。如果某物是圆的而不是年轻的，那么它就是有毛的。如果某物有毛但不圆，那么它就是白色的。如果某物是白色的而不是有毛的，那么它就不大。\n结论：菲奥娜不是白色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：熊追牛。熊很大。熊是蓝色的。熊是绿色的。熊很善良。熊很友好。熊喜欢牛。熊需要牛。牛追熊。牛很大。牛是蓝色的。牛是绿色的。牛很友好。牛喜欢熊。牛需要熊。如果有人追牛，而牛追熊，那么牛就喜欢熊。如果熊需要牛，那么牛很大。如果有人追熊，那么他们就喜欢熊。如果有人喜欢牛，那么他们就追熊。如果牛追熊，那么牛就喜欢熊。如果有人追牛，那么牛就喜欢熊。如果有人追熊，而熊喜欢牛，那么熊就追牛。如果有人需要熊，那么他们就追熊。\n结论：牛不需要牛。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很粗鲁。安妮很聪明。鲍勃是蓝色的。鲍勃很好。鲍勃很粗鲁。戴夫是蓝色的。戴夫有毛茸茸的。戴夫很好。戴夫很粗鲁。加里是红色的。粗鲁、红色的人很年轻。所有聪明、粗鲁的人都有毛茸茸的。\n结论：安妮没有毛茸茸的。",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：鲍勃是蓝色的。艾琳是绿色的。哈利很安静。如果艾琳是绿色的，那么艾琳也很安静。如果鲍勃是绿色的，那么鲍勃很大。所有白色、安静的东西都是粗糙的。\n结论：哈利是蓝色的。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫吃狗。猫很乖。猫喜欢狗。狗喜欢猫。狗喜欢狮子。狮子是蓝色的。狮子是绿色的。如果有人喜欢狮子，那么狮子就是绿色的。如果猫很乖，猫喜欢狗，那么猫就是绿色的。如果有人拜访猫，他们吃了猫，然后他们拜访了狮子。如果有人拜访狗，那么狗就会吃猫。如果有人很冷淡，那么他们就会拜访猫。如果狗拜访猫，猫吃了狮子，那么狗就会喜欢狮子。如果有人是蓝色的，并且他们喜欢猫，那么他们就是善良的。如果狗吃了猫，那么猫就会吃狗。\n结论：狗拜访狮子。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：安妮很大。安妮是蓝色的。安妮很冷。安妮有毛。安妮是绿色的。安妮很粗糙。查理是蓝色的。查理是绿色的。查理很安静。查理很粗糙。戴夫很大。戴夫是蓝色的。戴夫是绿色的。戴夫很安静。加里是蓝色的。加里很安静。绿色的人很粗糙。有毛的、蓝色的人很冷。所有蓝色的人都很粗糙。所有有毛的人都很安静。如果加里是绿色的，那么加里就很安静。所有蓝色的人都很安静。如果有人有毛而且是蓝色的，那么他们就是绿色的。如果有人是蓝色和绿色的，那么他们很冷。\n结论：加里不冷。",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "前提：猫很粗鲁。猫喜欢狗。猫喜欢狮子。猫看到狮子。猫看到老鼠。狗是蓝色的。狗很冷。狗拜访狮子。狮子很冷。老鼠很粗鲁。老鼠看到狗。老鼠拜访猫。如果有人喜欢狮子，那么狮子就喜欢狗。\n结论：狮子不喜欢狗。",
+        "output": "B"
+    }
+]

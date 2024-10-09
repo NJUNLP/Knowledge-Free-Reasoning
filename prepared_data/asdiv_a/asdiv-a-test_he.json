@@ -1,0 +1,1332 @@
+[
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אם כל המשתתפים מצאו בסך הכל 40 ביצים מבית המועדון, 25 ביצים מהפארק ו-15 ביצים מבניין העירייה, כמה ביצי פסחא נמצאו באותו יום?",
+        "output": "80"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הכיתה של פני נוסעת ל- Animaland, גן החיות הגדול ביותר עלי אדמות, לטיול המדעי שלהם. בגן החיות יש מגוון חיות בר בשבי. היעד הראשון שלהם היה הציפורייה. בציפורה יש 3 מינים של נשרים המוצגים באותו יום. יש להם 20 נשרים קירחים, 15 נשרים הארפי ו-30 נשרים מוכתרים. כמה נשרים מוצגים באותו יום?",
+        "output": "65"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אחרי הציפורייה היה אזור הביצות של גן החיות. פני ספרה בסך הכל 55 צפרדעי עצים, 10 צפרדעים רעילות ו-13 צפרדעי עצים. כמה צפרדעים פני הצליחה לספור?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מלבד צפרדעים, אזור הביצות הוא ביתם של כמה בעלי חיים מסוכנים. המורה של פני הצביע על 22 תנינים, 23 תנינים ו-5 צפעים. כמה חיות מסוכנות הצביע המורה בסך הכל?",
+        "output": "50"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הבא במסלול שלהם היה האינסקטריום, ביתם של מאות מיני חרקים. פני, שאוהבת פרפרים ונמלים, צילמה את המינים השונים. היא הצליחה ללכוד 60 מינים של פרפרים, 15 מיני נמלים ו-20 מינים של חרקים אחרים. כמה מינים של חרקים לכדה פני?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "התחנה האחרונה בטיול שלהם הייתה האקווריום. פני זיהה 35 מיני כרישים, 15 מיני צלופחים ו-5 מינים שונים של לווייתנים. כמה מינים הצליחה פני לזהות?",
+        "output": "55"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "סופיה, נשיאת ארגון תלמידי בית הספר, קיימה פגישה כדי לדבר על האוכל המוגש בקפיטריה של בית הספר. הסדר הראשון הוא לדון אם התלמידים אוהבים את האוכל המוגש בבית הספר. אם 383 תלמידים אמרו שהם אוהבים את האוכל ו-431 תלמידים אמרו שלא, כמה תלמידים השתתפו בדיון?",
+        "output": "814"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאחר שהסכימו שצריך לשנות את תפריט בית הספר, הייתה להם הצבעה להצעות אוכל. אם 337 הצביעו בעד הוספת ירקות נוספים לתפריט ו-335 הצביעו בעד הוספת בשר, כמה תלמידים הצביעו?",
+        "output": "672"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מאחר שתוצאת ההצבעה הייתה צמודה, הוחלט שיאזנו את התפריט גם עם בשר וירקות. על החלטה זו הסכימו 154 תלמידי כיתות ג&#39; ו-237 תלמידי כיתות ד&#39;. כמה תלמידים הסכימו עם ההחלטה?",
+        "output": "391"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בגלל ההחלטה, סופיה ביקשה מהתלמידים להציע סוגי מזון ספציפיים. אם 279 תלמידים הציעו להוסיף פירה בעוד 234 הציעו להוסיף בייקון לתפריט, כמה תלמידים השתתפו בהצעת פריטי מזון חדשים?",
+        "output": "513"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאחר שבוע ערכה סופיה סקר כדי לשאול אם התלמידים אוהבים את התפריט החדש. היא גילתה ש-235 תלמידים אהבו את התפריט החדש בעוד 165 לא. כמה תלמידים השתתפו בסקר של סופיה?",
+        "output": "400"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "טיילר, תומך זכויות בעלי חיים, החליט לבנות מקלט חיות משלו כדי להגן על בעלי חיים שונים מפני ציידים. המקדש היה מחולק לאזורים שונים. האזור הראשון שנבנה היה מקלט ציפורים. בתחילה, היו לו 29 מיני ציפורים בסכנת הכחדה באזור זה. אם לכל מין יש 7 זוגות ציפורים, כמה זוגות יש לו בסך הכל?",
+        "output": "203"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אזור נוסף היה השמורה המימית עבור אורגניזמים של מים מתוקים. אם יש 6 גופי מים באזור, שלכל אחד מהם 175 דגים שונים, כמה דגים יש לו בסך הכל?",
+        "output": "1050"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היו לו גם 8 אקווריומים לחיות מים מלוחים. בכל אקווריום יש 64 בעלי חיים. כמה חיות מים מלוחים יש לטיילר?",
+        "output": "512"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "המקדש כולל גם כמה אזורי ביצות שבהם מתגוררים בדרך כלל רוב הזוחלים. אם יש 4 ביצות, שלכל אחת יש 356 זוחלים שונים, כמה זוחלים חיים באזורי הביצות?",
+        "output": "1424"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש עוד 3 קטעים שאינם מפותחים. לכל אחד מהחלקים הנותרים יש שטח קרקע של 2435 רגל מרובע. מהו השטח הכולל של הקרקע הבלתי מפותחת?",
+        "output": "7305"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "זה יום ההולדת של רייצ&#39;ל. ההורים שלה רצו שתהנה אז הם הלכו לקרקס שבמקרה היה בעיר באותו יום. בהגיעם לקרקס הם ניגשו לדוכן הכרטיסים ושאלו כמה עולה כל כרטיס. אם כל כרטיס עולה $44.00 והם קנו 7 כרטיסים, כמה כסף הם הוציאו על כרטיסים?",
+        "output": "308"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הם נכנסו לאוהל הקרקס וראו שיש ארבעה מקומות ישיבה לקהל. אם כל חלק יכול להכיל 246 אנשים, כמה אנשים יכול להכיל האוהל בסך הכל?",
+        "output": "984"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "המערכה הראשונה כללה 5 מוביילים של ליצנים, כל אחד ממולאים ב-28 ליצנים. כמה ליצנים יש בתוך כל המוביילים של הליצנים ביחד?",
+        "output": "140"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "המערכה הבאה כללה כמה להטוטנים. אם כל להטוטן מלהטט 6 כדורים בו זמנית, כמה כדורים צריך אם יש 378 להטוטנים שמציגים הופעה בו זמנית?",
+        "output": "2268"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למערכה האחרונה, הקרקס הוציא חיות רוקדות עונדות כתרים. אם כל כתר עשוי עם 7 נוצות בצבעים שונים, כמה נוצות צריך ל-934 כתרים?",
+        "output": "6538"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אמנדה וחברותיה החליטו ללכת ללונה פארק לסוף השבוע. פארק השעשועים הקרוב ביותר מהעיר שלהם הוא Super Fun-tastic Land. אם הם מכסים מרחק של 27 מייל עבור כל שעת נסיעה והם נסעו במשך 3 שעות, כמה רחוק SFL מהעיר?",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "כשהם הגיעו לשם, הם ראו ש-SFL כבר מלא באנשים. לכל כניסה יש תור ארוך, עם 283 אנשים ממתינים להיכנס. אם ל-SFL יש 5 כניסות, כמה אנשים בסך הכל מחכים להיכנס?",
+        "output": "1415"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "נחושים בדעתם ליהנות, הם נסעו לפארק השעשועים הבא, HappyLand. אם הם מכסים מרחק של 328 רגל עבור כל דקת נסיעה והם נסעו במשך 9 דקות, מה המרחק של HappyLand מ-SFL?",
+        "output": "2952"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "כשהם הגיעו להפילנד, הם מיד נכנסו וקנו את הכרטיסים שלהם. אם כל כרטיס עלה $17.00 והם קנו 8 כרטיסים, כמה הם הוציאו על כרטיסים?",
+        "output": "136"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש לו גם מדור מלא בחוברות סיפורים קצרים. אם בכל חוברת יש 9 עמודים ויש 49 חוברות בקטע הסיפור הקצר, כמה עמודים יצטרך ג&#39;ק לעבור אם הוא מתכנן לקרוא את כולם?",
+        "output": "441"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אחד האהובים עליו הוא ספר בשם Encyclopedia of Life and Everything Else. הספר כולל 7 פרקים גדולים, כל אחד בן 566 עמודים. כמה עמודים יש לאנציקלופדיה בסך הכל?",
+        "output": "3962"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בספרייה המיני יש גם אגף לקלאסיקות. אם לג&#39;ק יש אוסף של 6 סופרים קלאסיים, שלכל מחבר יש 33 ספרים, כמה ספרים יש לו במדור הקלאסיקה?",
+        "output": "198"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "179 ציפורים ישבו בעץ. 38 ציפורים נוספות עפו אל העץ. כמה ציפורים היו בסך הכל בעץ?",
+        "output": "217"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אמא של סינדי אפתה 1215 עוגיות. אבא של פול אפה 1112 עוגיות. שניהם הביאו אותם לבית הספר למסיבה. כמה עוגיות היו להם בסך הכל?",
+        "output": "2327"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היו 27 בנים ו-35 בנות במגרש המשחקים בהפסקה. כמה ילדים היו במגרש המשחקים בהפסקה?",
+        "output": "62"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לפול היו 28 תותים בסל שלו. הוא קטף עוד 35 תותים. כמה תותים היו לו אז?",
+        "output": "63"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לגארי היו 73 דולר. הוא הוציא 55 דולר על נחש מחמד. כמה דולרים נשארו לגארי?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאלן היו 380 לגו, אבל היא איבדה 57 מהם. כמה לגו יש לה עכשיו?",
+        "output": "323"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ארתור אפה 35 מאפינס. כמה עוד מאפינס ארתור צריך לאפות כדי שיהיו 83 מאפינס?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לווילי יש 1400 עפרונות. ללוסי יש 290 עפרונות. כמה עפרונות יש עוד לווילי מאשר ללוסי?",
+        "output": "1110"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לליזט יש 813 בולים. יש לה 125 בולים יותר ממינרווה. כמה בולים יש למינרווה?",
+        "output": "688"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למייגן היו 217 סמנים. רוברט נתן לה עוד 109 סמנים. כמה טושים יש למייגן בסך הכל?",
+        "output": "326"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ספר DVD מכיל 126 תקליטורי DVD. יש כבר 81 תקליטורי DVD בספר. כמה עוד תקליטורי DVD אפשר לשים בספר?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לקלי יש 121 משחקי נינטנדו. כמה היא צריכה לתת כדי שיישארו לה 22 משחקים?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לקוני היו כמה גולות. היא נתנה 183 לחואן. כעת נותרו לה 593 גולות. עם כמה היא הייתה צריכה להתחיל?",
+        "output": "776"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאישה יש 344 ספרים. 136 עוסקים בבית ספר והשאר עוסקים בספורט. כמה ספרים על ספורט יש לאישה?",
+        "output": "208"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לג&#39;יימס יש 1222 בלונים. לאיימי יש 513 בלונים. כמה בלונים יותר יש לג&#39;יימס מאשר לאיימי?",
+        "output": "709"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לשון יש 223 שריקות. יש לו עוד 95 שריקות שצ&#39;ארלס. כמה שריקות יש לצ&#39;ארלס?",
+        "output": "128"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לקוני יש 323 גולות. לחואן יש 175 גולות יותר מקוני. כמה גולות יש לחואן?",
+        "output": "498"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאדם יש $5.00 לקנות מטוס שעולה $4.28. כמה שינוי הוא יקבל?",
+        "output": "0.72"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מר גוזמן קנה 48 סופגניות ארוזות באופן שווה ב-4 קופסאות. כמה סופגניות היו בכל קופסה?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "חותמת אחת עולה $0.34. שני בולים עולים $0.68. שלושה בולים עולים $1.02. אם העלות של כל בול נשארת זהה, כמה יעלו 4 חותמות?",
+        "output": "1.36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בעיירה מילבורג יש 5,256 מבוגרים ו-2,987 ילדים. כמה אנשים חיים במילבורג?",
+        "output": "8243"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ליסה שכרה 4 תקליטורי DVD ב-$4.80. כמה עלה כל DVD להשכרה?",
+        "output": "1.2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היו 3,409 חתיכות ממתקים בצנצנת. אם 145 חלקים היו אדומים והשאר כחולים, כמה היו כחולים?",
+        "output": "3264"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאיכר היו 127 תפוחים. הוא נתן 88 תפוחים לשכנו. כמה תפוחים יש לו עכשיו?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "גברת הילט הלכה להופעה. סך של 65,899 אנשים השתתפו בקונצרט. בשבוע שלאחר מכן היא הלכה לקונצרט שני, שבו השתתפו עוד 119 אנשים. כמה אנשים היו בקונצרט השני?",
+        "output": "66018"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "גברת הילט צריכה לחלוק 3.75 דולר שווה בשווה בין שלושה אנשים בסך הכל. כמה כסף יקבל כל אחד?",
+        "output": "1.25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "גברת הילט אופה לחם. היא צריכה 5 כוסות קמח כדי לאפות שתי כיכרות לחם. כמה קמח היא תצטרך להכנת כיכר לחם אחת?",
+        "output": "2.5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ללוסי יש אקווריום עם 212 דגים. היא רוצה לקנות עוד 68 דגים. כמה דגים תהיה ללוסי אז?",
+        "output": "280"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ללוסי יש 212 דגים. כמה דגים עוד היא צריכה לקנות כדי לקבל 280 דגים?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "להארי האונד היה אתמול כאב אוזניים נורא. כשהצצתי אתמול באוזניו, מצאתי 36 פרעושים משעשעים עורכים מסיבה באוזן ימין ו-85 פרעושים ישנים בשלווה באוזן השמאלית. ניקיתי את האוזניים של הארי הונד. כמה פרעושים נספו?",
+        "output": "121"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות לציוד לחיות מחמד יש 600 שקיות של מזון לכלבים ו-327 שקיות של מזון לחתולים. כמה שקיות אוכל לכלבים יש יותר מאוכל לחתולים?",
+        "output": "273"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "532 אנשים צופים בסרט בקולנוע. התיאטרון מכיל 750 מושבים. כמה מושבים ריקים בתיאטרון?",
+        "output": "218"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קנדרה יצאה לטיול. אחר הצהריים היא ראתה 4 מיניוואנים כמו שלה. מאוחר יותר, בערב, היא ראתה עוד מיניוואן אחד כמו שלה. כמה מיניוואנים כמו שלה היא ראתה בסך הכל?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 4 בנים ו-5 בנות במעון לגיל הרך. כמה ילדים יש במעון?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בבית ספר יש 7 כדורי כדורסל. אם בית הספר יקנה עוד 3 כדורי כדורסל, כמה כדורים יהיו לבית הספר?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "גארט הלך לקניות של חטיפים וקנה 6 חטיפי גרנולה צימוקים משיבולת שועל ו-8 חטיפי גרנולה בוטנים. כמה חטיפי גרנולה הוא קנה בסך הכל?",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ג&#39;ק קיבל 8 מיילים בבוקר ו-2 מיילים אחר הצהריים. כמה מיילים קיבל ג&#39;ק ביום?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "במועדון שחמט יש 3 חברים. אם נרשמו 4 חברים חדשים, כמה חברים בסך הכל יש במועדון השחמט?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "כל יום, ריאן מקדיש 4 שעות בלימוד אנגלית ו-3 שעות בלימוד סינית. כמה שעות הוא מקדיש ללימוד אנגלית וסינית בסך הכל?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אמא קנתה כמה תפוחי אדמה. היא השתמשה ב-15 מתפוחי האדמה להכנת סלטים וב-24 מתפוחי האדמה לפירה. אם נשארו 13 תפוחי אדמה, כמה תפוחי אדמה קנתה אמא בהתחלה?",
+        "output": "52"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לגארי היו כמה מדבקות. הוא נתן 42 מדבקות ללוסי ו-26 מדבקות לאלכס. אם נשארו לו 31 מדבקות, כמה מדבקות היו לגארי בהתחלה?",
+        "output": "99"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אם סיימון צריך להכין 519 שקיות מתנה בקצב של 42 שקיות ליום, כמה ימים הוא צריך לסיים את הכנת כל מארזי המתנה?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ג&#39;יין יכולה לסדר 16 אגרטלים של פרחים ביום. אם יש לסדר 248 אגרטלים של פרחים, כמה ימים צריך כדי שהיא תסיים את כל סידורי הפרחים?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קופסה יכולה להכיל 18 חתיכות גיר. אם יש 3,484 חתיכות גיר, כמה קופסאות מלאות כדי להכיל את כל הגיר?",
+        "output": "194"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אוטובוס יכול להסיע 48 נוסעים. אם בית ספר של 1,230 תלמידים ומורים יוצאים לטיול, כמה אוטובוסים כדאי לשכור?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הקיבולת של מיכל היא 32 ליטר. אם חברה קנתה 728 ליטרים של נפט, כמה מכלים נדרשים כדי להכיל את כל הנפט?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחווה יש 22 כלבים. הם גרים ב-5 בתי כלבים באופן שווה. כמה כלבים יש בכל בית כלבים?",
+        "output": "4"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מחלקים 39 בלונים ל-7 קבוצות שוות. כמה בלונים יש בכל קבוצה?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בית הספר קנה 54 כדורי כדורסל וחילק אותם ל-7 כיתות באופן שווה. כמה כדורי כדורסל קיבלה כל כיתה?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בכיתה 32 תלמידים. המורה חילק אותם ל-5 קבוצות שוות. כמה תלמידים יש בכל קבוצה?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בקבוצת תיירים יש 26 אנשים. בבית מלון רוצים לשכור כמה חדרים גדולים ל-3 אנשים כל אחד וכמה חדרים קטנים ל-2 כל אחד. כדי לשכור את המספר המינימלי ביותר של חדרים ולכל חדר בתפוסה מלאה, כמה חדרים גדולים צריך לשכור?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "חוג בלט רוצה לחלק את 90 חבריו לכמה קבוצות גדולות של 7 חברים כל אחת וכמה קבוצות קטנות של 3 חברים כל אחת. כדי ליצור את המספר המינימלי של קבוצות, כמה קבוצות גדולות צריך לעשות?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ניק חסך 68.50 דולר. אם ניק חסך 25.43$ יותר מלי, כמה לי חסך?",
+        "output": "43.07"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הכנסתי מספר נוסף למכשיר שלי. המכונה הוסיפה 15 ואז הפחיתה 6. המספר 35 יצא מהמכונה. איזה מספר שמתי?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לסינדי ולדן יש אותו מספר מדבקות. סינדי השתמשה ב-15 מהמדבקות שלה. דן קנה עוד 18 מדבקות. כמה מדבקות יותר היו לדן מאשר לסינדי אז?",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאד היו 22 יותר גולות מדאג. דאג איבד 8 מהגולות שלו במגרש המשחקים. כמה שיש יותר היו לאד מאשר לדאג אז?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "חנות הגלידות שלי הייתה ממש עסוקה היום. זה היה 98 מעלות ומכרנו 67 גביעי גלידה. מכרנו 15 מילקשייקים יותר מאשר גביעי גלידה. כמה מילקשייקים נמכרו?",
+        "output": "82"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "באצטדיון הליגה הקטנה יש 92 מושבים. 47 אנשים הגיעו למשחק היום. 38 אנשים החזיקו כרזות. כמה מושבים היו ריקים?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מאורה אוספת צדפים מדי קיץ. משפחתה שוהה בבית החוף במשך 21 ימים. הקיץ, מאורה מצאה 75 צדפים. היא נתנה כמה לאחותה הקטנה. למאורה היו אז 57 צדפים. כמה צדפים נתנה מאורה לאחותה?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "גובה הג&#39;ירפה הגבוהה ביותר בגן החיות הוא 96 אינץ&#39;. יש 14 ג&#39;ירפות בוגרות בגן החיות. הג&#39;ירפה הקצרה ביותר היא 68 אינץ&#39;. כמה גבוה יותר הג&#39;ירפה הגדולה יותר?",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בגן החיות של סנטרל סיטי יש 45 שימפנזים. כל יום השימפנזים אוכלים בסך הכל 72 בננות. בשבוע הבא, גן החיות מעביר 18 שימפנזים לכלוב חדש. כמה שימפנזים יישארו בכלוב הישן?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לשומר גן החיות יש 68 דגים להאכיל את הפינגווינים. 19 פינגווינים כבר קיבלו דג. בגן החיות יש 36 פינגווינים. כמה פינגווינים צריכים עוד כדי להשיג דג?",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לראלף יש אלבום תמונות עם 50 עמודים. יש לו 26 תמונות של חיות בר. לחברו של ראלף, דריק, יש 34 תמונות של חיות בר. כמה פחות תמונות של חיות בר יש לראלף?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ליסה הזמינה את כל כיתה ג&#39; למסיבה שלה. בסך הכל יש 48 תלמידים. 23 מהתלמידים הם בנים ו-25 בנות. 9 תלמידים לא יוכלו ללכת למסיבה. כמה תלמידים יהיו שם?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בילי יכול לנגן 24 שירים בספר המוזיקה שלו. הוא מכיר את השמות של 18 אקורדים שונים לגיטרה. בספר המוזיקה של בילי יש 52 שירים. כמה שירים בילי עוד צריך ללמוד?",
+        "output": "28"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אמא הכינה 32 עוגיות שוקולד צ&#39;יפס. לקח 24 דקות לערבב את החומרים ו-16 דקות לאפייה. ג&#39;ולי ומאט אכלו 9 עוגיות אחרי ארוחת הערב. כמה עוגיות נשארו?",
+        "output": "23"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 45 שאלות במבחן במתמטיקה. 17 שאלות הן בעיות מילוליות. 28 שאלות הן בעיות חיבור וחיסור. סטיב יכול לענות רק על 38 שאלות. כמה שאלות סטיב השאיר ריקות?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קנדרה לומדת 12 מילות איות חדשות בכל שבוע. המטרה שלה היא ללמוד 60 מילים חדשות לפני יום הולדתה השמיני. היא כבר למדה 36 מילים חדשות. כמה מילים נוספות קנדרה צריכה ללמוד?",
+        "output": "24"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "טריפ ושרלוט יוצאים לטיול של 36 מייל. תיק הגב של טריפ שוקל 25 פאונד. תיק הגב של שרלוט שוקל 7 קילו פחות. הם טיילו 9 קילומטרים ביום הראשון. כמה קילומטרים נשארו להם?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "דורה עורכת את מסיבת יום ההולדת העשירית שלה בשבת הבאה. היא הזמינה 64 אנשים. אמא שלה הזמינה 36 כריכים. 16 אנשים לא יכולים להגיע למסיבה. כמה אנשים יהיו במסיבה של דורה?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לטומי יש 79 דולר. הוא רוצה לקנות מצלמה של 35 דולר. הוא גם רוצה לקנות נגן תקליטורים ב-$59. כמה עוד כסף טומי צריך?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "עומר אוהב לשחק דמקה. הוא שיחק אתמול 37 משחקים. הוא שיחק היום 49 משחקים. עומר הפסיד 18 משחקים. בכמה משחקים הוא ניצח?",
+        "output": "68"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "שון משחק מונופול עם חבריו. יש לו כבר 27 בתים. שון החליף 8 בתים תמורת כסף לרכישת פארק פלייס. הוא אסף כל כך הרבה שכר דירה שהחליט לקנות עוד 12 בתים. כמה בתים היו לשון אז?",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "דיאן רוצה לקנות חבילת עוגיות. העוגיות עולות 65 אגורות. לדיאן יש 27 סנט. כמה עוד כסף היא צריכה?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאנדי היו 31 כרטיסי בייסבול. אבא שלו נתן לו עוד קצת. ואז לאנדי היו 50 קלפי בייסבול. כמה כרטיסי בייסבול קיבל אנדי מאביו?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ללורי יש 12 גולות יותר מקורט. לקורט יש 45 גולות פחות מדניס. לדניס יש 70 גולות. כמה גולות יש ללורי?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אנתוני מקבל 75 סנט כל יום לארוחת צהריים. הוא קנה קופסת מיץ ב-27 סנט. הוא גם קנה קאפקייק. לאנתוני נותרו 8 סנט. כמה עלה הקאפקייק?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "דצמבר הוא חודש עמוס בחנות הצעצועים. היו להם 95 משחקים על המדף. 68 משחקים נמכרו בשבוע הראשון. החנות קיבלה 47 משחקים נוספים מהמפעל. כמה משחקים היו להם אז?",
+        "output": "74"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "תלמידי כיתות ג&#39; עורכים יריד. יש להם 90 כרטיסים למכור. הם מכרו 38 כרטיסים בשבוע הראשון ו-17 כרטיסים בשבוע השני. כמה כרטיסים נשארו להם למכור?",
+        "output": "35"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "במשטח ההחלקה על הקרח יש 85 זוגות מחליקים להשכרה. 18 אנשים שכרו גלגיליות כשמשטח ההחלקה על הקרח נפתח. 25 אנשים נוספים שכרו גלגיליות במהלך השעה הראשונה. כמה זוגות גלגיליות נשארו?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ג&#39;ייק הקים דוכן ממתקים בחצר הקדמית שלו. יש לו 80 חתיכות ממתקים למכור. הוא מכר 15 חתיכות ממתקים ביום שני. הוא מכר הרבה יותר מזה ביום שלישי. עד יום רביעי, לג&#39;ייקס נותרו רק 7 חלקים. כמה חתיכות ממתקים מכר ג&#39;ייק ביום שלישי?",
+        "output": "58"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אתר הסקי דיווח על 65 סנטימטרים של שלג בינואר. הם מדדו 18 אינץ&#39; של שלג במהלך השבוע הראשון. הם מדדו 25 אינץ&#39; של שלג בשבוע השני. כמה שלג ירדו להם בשאר החודש?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קארי ופט מעבירים כיסאות לחדר הכושר. הם הסכימו להעביר 74 כיסאות. קארי הזיז 28 כיסאות. פאט הזיז 29 כיסאות. כמה כסאות עוד נשאר להם להעביר?",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לז&#39;אן הייתה שקית ממתקים. היא נתנה 18 חלקים לחברה שלה. ז&#39;אן אכלה 7 חתיכות. עכשיו נשארו לה 16 חלקים. כמה חתיכות ממתקים היו לז&#39;אן בהתחלה?",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "שרלין הכינה 60 שרשראות חרוזים. היא מכרה 16 ביריד אמנות. היא נתנה 18 לחברים שלה. כמה שרשראות היו לשרלין אז?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "רמון עובד בסופר. הוא הניח על המדף 26 קופסאות של תענוגות שוקו. כבר היו שם 15 קופסאות. מאוחר יותר באותו יום ספר רמון 22 קופסאות על המדף. כמה קופסאות של Choco Delights היו חסרות?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למפגש המסלול יצאו 52 ילדים ו-29 מבוגרים. האצטדיון מכיל 95 מושבים. כמה מושבים היו ריקים?",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "דיאן רוצה לקנות חבילת עוגיות. העוגיות עולות 65 אגורות. לדיאן יש 27 סנט. מה ההבדל בין עלות העוגיות לכסף של דיאן?",
+        "output": "38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 45 שאלות במבחן במתמטיקה. 17 שאלות הן בעיות מילוליות. 28 שאלות הן בעיות חיבור וחיסור. סטיב יכול לענות רק על 38 שאלות. מה ההבדל בין מספר כל השאלות במבחן במתמטיקה למספר השאלות שסטיב יכול לענות עליהן?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בארקייד זכה בילי בארבעים ושמונה כרטיסים. אחרי שקנה יויו נשארו לו שלושים ושניים כרטיסים. מה ההבדל בין מספר הכרטיסים של בילי בהם זכה לבין שנותרו לו לאחר קניית יויו?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לליל כל הקדושים פרנק קיבל חמישה עשר קילו סוכריות. אם הוא נתן שמונה פאונד לננסי, מה ההבדל בין הקילוגרמים של הממתק של פרנק לפני שהוא נתן לננסי והוא נתן?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בילי שיחק כדורסל עם חברו. בילי קלע 7 נקודות וחברו קלע 9 נקודות. מה ההבדל בין הנקודות של בילי לנקודות של חברו?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "כשמריה הגיעה ליריד היו לה 87 דולר. כשהיא עזבה היו לה 16 דולר. מה ההבדל בין מספר הדולרים כאשר מריה קיבלה ועזבה את היריד?",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות רהיטים היו חמישה עשר כיסאות. אחרי שמכרתי כמה, נשארו שלושה. מה ההבדל בין מספר הכיסאות לפני המכירה לשמאליים?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "זואי קטפה חמישה תפוחים מהעץ שלה. עכשיו על העץ יש עדיין שישה תפוחים. מה ההבדל בין מספר התפוחים שזואי קטפה ועכשיו יש לעץ?",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לליצן היו שישה עשר בלונים. הוא נתן ארבעה במסיבה. מה ההבדל בין מספר הבלונים שהיו לליצן בהתחלה והוא נתן במסיבה?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאיימי היו ממתקים. היא נתנה לחברה שלה שש חתיכות ונשארו חמישה. מה ההבדל בין חתיכות הממתקים שאיימי נתנה לשמאליים?",
+        "output": "1"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "במסעדת מזון מהיר היו תשעים ואחת נקניקיות. אחרי שמכרו כמה נשארו להם עשרים. מה ההבדל בין מספר הנקניקיות לפני המכירה לאחר המכירה?",
+        "output": "71"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אם חפיסת מסטיק אחת עולה 2$, כמה חבילות מסטיק אפשר לקנות עם 16$?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אם סיבוב אחד עולה $80, כמה סיבובי גולף אתה יכול לשחק עם $400?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אם מחסנית אחת עולה 15 דולר, כמה מחסניות דיו אפשר לקנות ב-180 דולר?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אם חבילה אחת עולה 11 דולר, כמה חבילות של DVD אפשר לקנות ב-110 דולר?",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לחברה יש ראשי דיו גדולים וקטנים במלאי. כמה מחסניות דיו אתה יכול לקנות עם 182 דולר אם מחסנית אחת עולה 14 דולר?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות יש תקליטורים ו-DVD שאתה צריך. כמה חבילות של DVD אפשר לקנות ב-132 דולר אם חבילה אחת עולה 12 דולר?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בקרנבל, 6 חברים קנו 234 כרטיסים בסך הכל. אם כל אחד קנה את אותו הסכום, כמה כרטיסים קנה כל אחד?",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "שרה מכינה שרשראות חרוזים. יש לה 945 חרוזים והיא מייצרת 7 שרשראות עם כל שרשרת באמצעות אותו מספר של חרוזים. כמה חרוזים תשתמש בכל שרשרת?",
+        "output": "135"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לג&#39;ורג&#39; היו 648 חתיכות ממתקים. אם הוא היה מפצל את הממתק ל-8 שקיות עם אותה כמות סוכריות בכל שקית, כמה חתיכות יש בה בכל שקית?",
+        "output": "81"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מזרן של ארגזים שקל 267 קילוגרם. אם היו 3 קופסאות על המזרן וכל קופסה שקלה אותה כמות, כמה שקלה כל אחת מהן?",
+        "output": "89"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאדוארד היו 763 קלפי בייסבול ב-7 קלסרים. אם בכל קלסר יש אותו מספר קלפים, כמה קלפים יש בכל קלסר?",
+        "output": "109"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 234 אנשים שמשתתפים בארוחת צהריים. אם שולחן יכול להכיל 9 אנשים, כמה שולחנות הם צריכים?",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "חנות נעליים ערכה מבצע חזרה לבית הספר שבה ניתן היה לקנות 2 זוגות נעליים ב-$23.10. אם משפחה גדולה תחליט לקנות 7 זוגות נעליים, כמה זה יעלה לה?",
+        "output": "80.85"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות בשר בקר היה 34.23 דולר עבור 3 פאונד. אם היית קונה 7 פאונד, כמה זה היה עולה?",
+        "output": "79.87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות התוצרת תוכלו לקנות 2 שקיות בננות ב-$12.46. כמה זה יעלה אם היית קונה 6 שקיות?",
+        "output": "37.38"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "פול ארז את הצעצועים הישנים שלו. הוא הצליח לסחוט שמונה צעצועים לקופסה. אם פול מילא ארבע קופסאות, כמה צעצועים הוא ארז בסך הכל?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אדם יכול להתאים תשע דמויות פעולה על כל מדף בחדרו. בחדר שלו שלושה מדפים. כמה דמויות פעולה בסך הכל יכולים להכיל המדפים שלו?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "חברת תעופה מאפשרת לכל נוסע לקחת שמונה מזוודות. אם היו ארבעה אנשים טסים, כמה תיקים הם היו יכולים לקחת?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מריה הניחה את החילוף שלה בערימות. בכל ערימה היו שלושה מטבעות. אם היו לה חמש ערימות, כמה מטבעות היו לה?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לוק עזר לאמא שלו לכבס בגדים. הם שטפו שש משאות עם שבע מגבות בכל מטען. כמה מגבות הם שטפו בסך הכל?",
+        "output": "42"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לארי&#39;ס Lawn Care גובים תשעה דולר כדי לקצץ גדר חיה. אם להנרי יש שלוש גידורים, כמה כסף הוא היה מוציא?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "פול קרא בסדרת הספרים האהובה עליו. בכל שבוע הוא קרא ארבעה ספרים שונים. כמה ספרים הוא היה קורא אחרי חמישה שבועות?",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קבוצה של 8 חברים התלבשו לפיראטים לקראת ליל כל הקדושים. אם כל תחפושת עלתה 5 דולר, כמה הם הוציאו?",
+        "output": "40"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קייל צייר על פיסת נייר. הוא יכול להתאים 5 ציורים בכל עמוד. אם יש לו 6 עמודים, כמה ציורים הוא יכול לצייר?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ליום ההולדת של ביאנקה 5 מחבריה נתנו לה 6 דולר. כמה כסף היא קיבלה ליום הולדתה?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "רכבת ההרים ביריד המדינה עולה 6 כרטיסים לנסיעה. אם 8 חברים היו נוסעים ברכבת הרים, כמה כרטיסים הם היו צריכים?",
+        "output": "48"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ננסי קנתה סבון לשירותים שלה. היא קנתה 6 חבילות כאשר בכל חבילה יש 5 ברים. כמה חפיסות סבון היא קנתה?",
+        "output": "30"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "טיפאני קנתה מגבות לבית שלה. היא קנתה 9 חבילות כאשר בכל חבילה יש 3 מגבות. כמה מגבות היא קנתה?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מגירות השידה של פייג&#39; יכולות להכיל 2 פריטי לבוש כל אחת. אם היו לה 4 מגירות, כמה פריטי לבוש זה היה יכול להכיל?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "קרול שלחה הזמנות ליום הולדת לחברים שלה. אם בכל חבילת הזמנות שקנתה היו 9 הזמנות והיא קנתה 5 חבילות, כמה חברים היא יכולה להזמין?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "במוזיאון היו שלושה עשר ציורים. אם היו נפטרים משמונה מהם, כמה תמונות היו נשארות להם? ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לליל כל הקדושים, וויל קיבל חמישה עשר קילו של ממתקים. אחרי שנתן כמה להילי, נשארו לו תשעה פאונד. כמה פאונד הוא נתן להיילי? ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לוויקטור היו תשע-עשרה אפליקציות בטלפון שלו. הוא מחק שמונה מהם. כמה אפליקציות נשארו לוויקטור? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אורכו של קלטת היה שלושה עשר מטרים. היילי השתמשה בכמה כדי לאטום קרטונים. כעת אורך הקלטת שישה מטרים. כמה קלטת היא השתמשה?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בארקייד דייב זכה בשלושה עשר כרטיסים. אם הוא השתמש בשישה כדי לקנות כמה צעצועים, כמה כרטיסים נשארו לדייב? ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "פרנק קיבל חמישה עשר קילו של פטריות למנגל משפחתי. אם הם אכלו שמונה פאונד, כמה קילו נשארו?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לכלב יש שבע עשרה חולצות. אם הוא ייפטר משבע מהן, כמה חולצות יהיו לכלב? ",
+        "output": "10"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לליצן היו שישה עשר בלונים. הוא נתן ארבעה במסיבה. כמה בלונים יש לו עדיין? ",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "דבי החזיקה שלושה עשר תקליטורי DVD. אם היא תמכור שישה מהם, כמה היו נשארים לה? ",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לפרנק היו שלוש עשרה קופסאות. אם הוא מילא שמונה בצעצועים, כמה קופסאות עדיין יש לו?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש תשעים ושמונה חתולים בעיירה הקטנה. אם תשעים ושניים מהם ישנים, כמה חתולים עדיין ערים?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאיכר היו תשעים ושבע עגבניות מהגינה שלו. אם הוא היה בוחר שמונים ושלושה מהם, כמה הוא היה נשאר? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היו תשעים ושמונה בצלים על המדף. נמכרו שישים וחמישה. כמה בצלים יש עכשיו על המדף?",
+        "output": "33"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאוליביה היו שמונים ואחת פיסות נייר בתיקייה. היא השתמשה בחמישים ושש חתיכות. כמה חתיכות יש לה עכשיו? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בזמן ששיחק משחק לקיילב היו תשעים ושמונה חיים. לאחר שאיבד כמה חיים נותרו לו שבעים ושלושה. כמה חיים איבד קאלב? ",
+        "output": "25"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות יש ארבעים ותשע חולצות. לאחר מכירת חלקם נותרו עשרים ושמונה. כמה הם מכרו? ",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לבילי היו שבעים וארבעה דובדבנים. הוא אכל שבעים ושתיים מהם. כמה דובדבנים נשארו לבילי? ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאדם היו כמה מגורים. הוא בילה תשעה מהם בארקייד ונשארו לו שבעים ותשעה. עם כמה רבעים הוא היה צריך להתחיל? ",
+        "output": "88"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאיכר היו ארבעים ושש עגבניות מהגינה שלו. אחרי שבחר כמה נשארו לו שלושה. כמה הוא בחר? ",
+        "output": "43"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לשף היו ארבעים ושישה תפוחים. אחרי שהכין כמה פשטידות נשארו לו ארבע עשרה. בכמה תפוחים הוא השתמש? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היו חמישים ושמונה אנשים ברכבת. בתחנה הבאה ירדו ארבעים וחמישה אנשים. כמה אנשים יש עכשיו ברכבת? ",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אדם היה צריך לטפס תשעים ושש מדרגות כדי להגיע לגג. הוא כבר טיפס שבעים וארבע. כמה מדרגות נותרו לאדם לעלות עכשיו?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למייק היו חמישים ואחד ספרים, אבל הוא מכר ארבעים וחמישה במכירה במוסך. כמה ספרים יש למייק עדיין? ",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בארקייד זכה בילי בארבעים ושמונה כרטיסים. אחרי שקנה יויו נשארו לו שלושים ושניים כרטיסים. כמה כרטיסים עלה היויו? ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למסיבת יום הולדת ליצן חילק שישה בלונים. עכשיו נשארו לו חמישים וחמישה בלונים. עם כמה בלונים היה לליצן להתחיל? ",
+        "output": "61"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בארנקה של אוליביה היו תשעים וארבעה דולר. לאחר שביקרה בסופרמרקט, נותרו שבעים ושמונה דולרים. כמה היא הוציאה?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בזמן ששיחק במשחק וידאו נד איבד שלושה עשר חיים. עכשיו יש לו שבעים חיים. כמה חיים היו לנד בהתחלה? ",
+        "output": "83"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "גוון הכינה תשעים ושמונה ספרים למכירה בשוק הפשפשים. לאחר סיום הפעילות נותרו לה תשעים ושישה ספרים. כמה היא מכרה?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לשף היו שבעים ושבעה דובדבנים. אם הוא השתמש בשישים מהם להכנת פשטידה, כמה דובדבנים עוד היו לו? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאיזבל היו תשעים משחקי DS. אילו נתנה שמונים ושבעה לחברתה, כמה היא נשארה? ",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות יש שלושים וחמש חולצות. אילו ימכרו שלושים מהן, כמה חולצות היו להן? ",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "פייג&#39; השתמשה בשלושה מהעפרונות שלה. עכשיו יש לה תשעים ואחד עפרונות. עם כמה עפרונות הייתה לפייג&#39; מלכתחילה? ",
+        "output": "94"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אדם קטף שלושים וחמישה תותים. אחרי שאכל קצת, נשארו לו שלושים ושלושה. כמה תותים אדם אכל?",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בגן החיות היו בכלוב שישים ושמונה נחשים. אם ארבעים ושניים הסתתרו, כמה נחשים לא הסתתרו? ",
+        "output": "26"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות חיות היו שמונים וחמישה גרבילים. אם היו מוכרים שישים ותשע מהם, כמה היו נשארים להם?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בזמן ארגון הקבצים שלה, ביאנקה מחקה 2 תמונות, 8 שירים ו-7 קבצי טקסט. מה המספר הכולל של הקבצים שהיא מחקה? ",
+        "output": "17"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למסיבת שנה חדשה נעשה שימוש ב-2 בלונים אדומים, 12 בלונים ירוקים ו-6 בלונים לבנים. מהו המספר הכולל של הבלונים בשימוש? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "להנרי כבר היו 5 דולר, אבל הרוויח עוד 2 דולר בביצוע מטלות. לחבר שלו היו 13 דולר. אם הם יחברו את הכסף שלהם, כמה יהיה להם? ",
+        "output": "20"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הנרי קנה 2 זיקוקים חדשים וחברו קנה 3. אם כבר היו להם 6 זיקוקים מהשנה שעברה, כמה יש להם עכשיו? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות חיות היו 13 חתולים סיאמיים ו-5 חתולי בית. במהלך מכירה הם מכרו 10 חתולים. כמה חתולים נשארו להם? ",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אוליבר נאלץ לכבס 39 חולצות שרוולים קצרים ו-47 חולצות שרוולים ארוכים לפני הלימודים. אם הוא היה שטף רק 20 מהם עד תחילת הלימודים, כמה הוא לא רחץ? ",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "פיי ואמה קטפו גזרים מהגינה שלהם. פיי בחרה 23 ואמה בחרה 5. אם רק 12 מהגזרים היו טובים, כמה גזרים רעים היו להם? ",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ביריד הספרים של בתי הספר סם קנה 13 ספרי הרפתקאות ו-17 ספרי מסתורין. אם נעשה שימוש ב-15 מהספרים, כמה ספרים חדשים הוא קנה? ",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאיימי היו 26 קובצי מוזיקה ו-36 קובצי וידאו בכונן ההבזק שלה. אם היא מחקה 48 מהקבצים, כמה קבצים עדיין היו בכונן ההבזק שלה? ",
+        "output": "14"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לפייג&#39; היו 43 בעיות במתמטיקה ו-12 בעיות מדעיות עבור שיעורי בית. אם היא סיימה 44 מהבעיות בבית הספר, כמה בעיות היא הייתה צריכה לעשות בשביל שיעורי בית? ",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בזמן הקניות קנתה מריה 35 מגבות ירוקות ו-21 מגבות לבנות. אם היא נתנה לאמה 34 מהן, כמה מגבות קיבלה מריה? ",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היו 17 בנות ו-32 בנים שהתנסו בקבוצת הכדורסל של בתי הספר. אם רק 10 מהם יתקשרו בחזרה, כמה תלמידים לא הצליחו? ",
+        "output": "39"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למלצר במסעדת &#39;הכף השמנונית&#39; היו 39 לקוחות להמתין. במהלך עומס הצהריים הוא הוסיף עוד 12 לקוחות. אם 49 מהלקוחות לא השאירו לו טיפ, כמה לקוחות כן השאירו טיפ? ",
+        "output": "2"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הקפיטריה של בית הספר הזמינה 25 תפוחים אדומים ו-17 תפוחים ירוקים לארוחות צהריים של התלמידים. אבל, אם רק 10 תלמידים רצו פירות, כמה מיותרות קיבלה הקפיטריה? ",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לשף היו רק 3 תפוחים אז הוא הזמין עוד 2 שקיות. אם בכל שקית יש 9 תפוחים, כמה תפוחים יש לו בסך הכל?",
+        "output": "21"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אדוארד הרוויח 8 דולר על כל דשא שהוא כיסח. אם הוא כיסח 5 מדשאות וכבר חסכו לו 7 דולר, כמה כסף יש לו בסך הכל?",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בכנס קומיקס ג&#39;נט רצתה לקנות 8 קומיקס, אבל כל אחד עולה 4 דולר, ובנוסף זה עולה 2 אפילו להיכנס. כמה כסף היא צריכה לקחת איתה כדי שתוכל להיכנס ולקנות מה שהיא רוצה?",
+        "output": "34"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות מכולת היו ארבעים ותשעה בקבוקי סודה רגילה ושלושים וחמישה בקבוקי סודה דיאטטית. כמה בקבוקים היו להם בסך הכל?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "במחצית הראשונה של משחק טריוויה קלע כלב ארבעים ושלוש נקודות. במחצית השנייה הוא קלע עשרים ושלוש נקודות. כמה נקודות הוא קלע בסך הכל?",
+        "output": "66"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "עבור מסיבה הוציא הנרי ארבעים וחמישה דולר על אוכל ושלושים ושלושה דולר על משקאות. כמה הוציא הנרי בסך הכל?",
+        "output": "78"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ביאנקה בילתה עשרים ושתיים דקות בציור בבית הספר ותשע עשרה דקות בציור בבית. כמה דקות בסך הכל היא השקיעה בציור?",
+        "output": "41"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מסעדת מזון מהיר מכרה חמישים ושמונה נקניקיות קטנות ועשרים ואחת נקניקיות גדולות. כמה נקניקיות הם מכרו בסך הכל?",
+        "output": "79"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "באקווריום היו עשרה דגים. מאוחר יותר הוסיפו שלושה דגים. כמה דגים יש באקווריום עכשיו?",
+        "output": "13"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למריה היו חמישים גיליונות נייר בשולחן העבודה ועוד ארבעים ואחד בתרמיל. כמה היו לה בסך הכל?",
+        "output": "91"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאדם חסכו שבעים ותשעה דולר. לאחר שעשה כמה מטלות אמו נתנה לו עוד שלושה עשר דולר. כמה כסף יש לו בסך הכל?",
+        "output": "92"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ביריד איימי התחילה עם שלושים ושלושה כרטיסים ואז קנתה עוד עשרים ואחד. כמה כרטיסים היו לאיימי בסך הכל?",
+        "output": "54"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאופה כבר היו שבעים ושמונה עוגות אבל הכין תשע נוספות. כמה עוגות היו לאופה בסך הכל?",
+        "output": "87"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בגן החיות זואי צילמה שישים ושבע תמונות. אם אחותה צילמה עוד שבע עשרה תמונות, כמה הן צילמו בסך הכל?",
+        "output": "84"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לקייטי היו שבעים ושניים משחקי DS ולחברה שלה היו עשרים ושלושה משחקים. כמה יש להם בסך הכל?",
+        "output": "95"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בזמן אימון פול עשה חמישים ותשע שכיבות סמיכה בבוקר ועוד שלושים ושמונה אחר הצהריים. כמה שכיבות סמיכה פול עשה בסך הכל?",
+        "output": "97"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "היילי צפתה בטלוויזיה שש שעות בשבת ושלוש שעות ביום ראשון. כמה שעות צפתה היילי בטלוויזיה בסך הכל?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לוויקטור היו 10 דולר. עבור הקצבה שלו הוא קיבל עוד 8 דולר. כמה כסף יש לו בסך הכל?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "חנות מכרה שמונה משקאות קרים ושלושה משקאות חמים. כמה משקאות הם מכרו בסך הכל?",
+        "output": "11"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לפיי היו שבעה ספרים. אם היא קנתה עוד שתים עשרה במכירת חצר, כמה היו לה בסך הכל?",
+        "output": "19"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "רוג&#39;ר הלך לקולנוע חמש עשרה פעמים בשנה שעברה ושלוש פעמים השנה. כמה פעמים רוג&#39;ר הלך לקולנוע ביחד?",
+        "output": "18"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לוויקטור היו תשעה ספרים. במהלך יריד הספרים הוא קנה עוד שלושה. כמה ספרים היו לוויקטור בסך הכל?",
+        "output": "12"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לדבי היו 12 קילו קמח. אם היא קנתה עוד ארבעה פאונד, כמה פאונד היו לה בסך הכל?",
+        "output": "16"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ג&#39;רי החזיק שבעה משחקי וידאו. ליום הולדתו הוא קיבל שניים נוספים. כמה משחקים היו לג&#39;רי בסך הכל?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למורה היו 38 דפי עבודה לציון. אם היא קיבלה ציון 4, אבל אז הוגשו עוד 15, כמה דפי עבודה היא הייתה צריכה לתת ציון?",
+        "output": "49"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לביאנקה היו 45 חוברות צביעה. אם היא נתנה 6 מהם, אבל אז תקנה עוד 20, כמה יהיו לה בסך הכל?",
+        "output": "59"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לרובין היו 30 שירים בנגן ה-MP3 שלה. אם היא מחקה ממנו 8 שירים ישנים ואז הוסיפה 10 שירים חדשים, כמה שירים יש לה בנגן ה-mp3 שלה?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ננסי קטפה 12 גזרים מהגינה שלה. אם היא זרקה 2 מהם ואז בחרה 21 נוספים למחרת, כמה גזרים היו לה בסך הכל?",
+        "output": "31"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לזואי היו 42 בקבוקי מים במקרר. אם היא שתה 25 מהם ואז תקנה עוד 30, כמה בקבוקים יהיו לה?",
+        "output": "47"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "למוכר פרחים היו 50 ורדים. אם היא תמכור 15 מהם ולאחר מכן קוטף 21 נוספים, כמה ורדים יהיו לה?",
+        "output": "56"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות היו 40 תפוזים בפח. אם היו זורקים 25 מהישנים ומכניסים 21 חדשים לפח, כמה יהיו בפח?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בחנות היו שמונים ושבע חוברות צביעה במלאי. בסופו של דבר הוציאו אותם למכירה ונפטרו משלושים ושלושה מהם. הניחו את אלה שעדיין היו להם על מדפים עם שישה בכל מדף. בכמה מדפים הם השתמשו?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לטום היו שלושים ושש פריטי לבוש לכבס. הוא הכניס שמונה עשרה מהם במטען אחד, אך החליט לפצל את השאר לשני מטענים שווים. כמה פריטי לבוש יכולים להיכנס לכל אחד מהמטענים הקטנים?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "מייק הרוויח תשעים דולר לכסח מדשאות במהלך הקיץ. אם הוא הוציא ארבעים וחמישה דולרים בקניית להבי מכסחת חדשים, כמה משחקים של חמישה דולר הוא יכול היה לקנות בכסף שנותר לו?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "פיי קטפה שמונים ושמונה פרחים לחתונה של חברתה. היא הכינה זרי פרחים עם חמישה פרחים בכל אחד מהם. אם ארבעים ושמונה מהפרחים נבלו לפני החתונה, כמה זרי פרחים היא עוד יכולה לעשות?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לרוג&#39;ר היו שישים ושלושה דולר. אם הוא הוציא ארבעים ושמונה דולר על משחק חדש, כמה צעצועים של שלושה דולר הוא יכול היה לקנות בכסף שנשאר לו?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "הקבוצה של פיי ניצחה את משחק הבייסבול שלה וצברה שישים ושמונה נקודות בסך הכל. אם פיי קלעה עשרים ושמונה מהנקודות וכל השאר קלעו שמונה נקודות כל אחד, כמה שחקנים היו בקבוצה שלה?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לרגל ליל כל הקדושים קיבלה ביאנקה שבע עשרה חתיכות ממתקים. היא אכלה שתי חתיכות ואז הניחה את השאר בערימות עם שלוש בכל ערימה. כמה ערימות היא יכלה להכין?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ג&#39;רי מכר את המשחקים הישנים שלו. הוא התחיל עם שישים ושמונה אבל מכר ארבעה מהם. הוא ארז את השאר והכניס שמונה משחקים לכל קופסה. בכמה קופסאות הוא היה צריך להשתמש?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לבניין חדש נדרשו 14 חלונות. הקבלן כבר התקין 5 מהם. אם ייקח 4 שעות להתקין כל חלון, כמה זמן ייקח לו להתקין את השאר?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "וונדי צברה 5 נקודות עבור כל שקית פחיות שהיא מיחזרה. אם היו לה 11 שקיות, אבל לא מיחזרה 2 מהן, כמה נקודות היא הייתה זוכה?",
+        "output": "45"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אדם הרוויח 9 דולר עבור כל דשא שהוא כיסח. אם היו לו 12 מדשאות לכסח, אבל שכח לכסח 8 מהן, כמה כסף הוא בעצם הרוויח?",
+        "output": "36"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בצהריים למלצר היו 10 לקוחות ו-5 מהם לא השאירו טיפ. אם הוא קיבל 3 דולר כל אחד מאלה שקיבלו טיפ, כמה כסף הוא הרוויח?",
+        "output": "15"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לדייב היו 10 משחקי וידאו אבל 2 מהם לא עבדו. אם הוא היה רוצה למכור את משחקי העבודה ב-4 דולר כל אחד, כמה כסף הוא יכול להרוויח?",
+        "output": "32"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ביריד כלב קנה 6 כרטיסים. לאחר שנסע על הגלגל הענק נותרו לו 3 כרטיסים. אם כל כרטיס עלה 9 דולר, כמה כסף הוציא קאלב ברכיבה על הגלגל הענק?",
+        "output": "27"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "סם הזמין 9 חברים למסיבת יום הולדת, אבל 6 לא יכלו להגיע. אם הוא רצה לקנות מספיק קאפקייקס כדי שלכל אחד יהיו בדיוק 2, כמה הוא צריך לקנות?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לאן היו 15 מתוקים. אם אן נתנה מספר שווה של מתוקים ל-3 חבריה, כמה מתוקים אכל כל אדם?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "שירלי מכרה 54 קופסאות של Trefoils. כמה ארגזים של 6 ארגזים צריכה שירלי לספק?",
+        "output": "9"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ישנם 25 עפרונות בקולקציית העפרונות של פרנסס. אם העפרונות מאורגנים ל-5 קבוצות, כמה גדולה כל קבוצה?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 9 תלמידים בכיתה ו-27 סקיטלס. אם הסקיטלס מחולקים שווה בשווה בין התלמידים, כמה מקבל כל תלמיד?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ישנם 560 פקקי בקבוקים בקולקציית פקקי הבקבוקים של טרי. אם פקקי הבקבוקים מאורגנים ל-80 קבוצות, כמה גדולה כל קבוצה?",
+        "output": "7"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "ללורנס יש 5504 גולות. אם הוא חולק אותם בין 64 חברים, כמה גולות מקבל כל חבר?",
+        "output": "86"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "אלברט מזמין 34 חברים למסיבה. יש לו 1802 עוגיות. כמה עוגיות יקבל כל חבר?",
+        "output": "53"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 407 בננות באוסף הבננות של פיליפ. אם הבננות מאורגנות ל-11 קבוצות, כמה גדולה כל קבוצה?",
+        "output": "37"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לפיטר יש 54 כרטיסים ו-4 עפרונות. אם הוא חולק את הכרטיסים בין 9 חברים, כמה כרטיסים מקבל כל חבר?",
+        "output": "6"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "רבקה רוצה לפצל אוסף של ביצים לקבוצות של 2. לרבקה יש 16 ביצים ו-3 גולות. כמה קבוצות ייווצרו?",
+        "output": "8"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "לקתרין יש 18 פקקי בקבוקים ו-19 בלוקים. אם היא חולקת את פקקי הבקבוקים בין 6 חברים, כמה פקקי בקבוקים מקבל כל חבר?",
+        "output": "3"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "בית הספר מתכנן טיול שטח. בבית הספר 11 כיתות. בבית הספר יש 100 תלמידים ו-20 מושבים בכל אוטובוס בית ספר. כמה אוטובוסים נדרשים לנסיעה?",
+        "output": "5"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 3300 בננות באוסף הבננות של ג&#39;ניס. לג&#39;ניס יש גם 5 עפרונות. אם הבננות מאורגנות ל-75 קבוצות, כמה גדולה כל קבוצה?",
+        "output": "44"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "כריס מזמין 82 חברים למסיבה. יש לו 1804 עוגיות ו-10 חתיכות ממתקים. כמה עוגיות יקבל כל חבר?",
+        "output": "22"
+    },
+    {
+        "instruction": "Please answer the following math question correctly.",
+        "input": "יש 43 תלמידים ו-1720 תפוחים. לכל תלמיד יש 9 סקיטלס. אם התפוחים מחולקים שווה בשווה בין התלמידים, כמה מקבל כל תלמיד?",
+        "output": "40"
+    }
+]

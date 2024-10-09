@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest duża. Anne jest zimna. Anne jest futrzana. Anne jest zielona. Anne jest miła. Anne jest szorstka. Anne jest okrągła. Bob jest duży. Bob jest miły. Bob jest szorstki. Duże rzeczy są miłe. Jeśli coś jest zielone, to jest miłe. Jeśli coś jest duże, to jest okrągłe. Zielone, duże rzeczy są miłe. Jeśli coś jest miłe i szorstkie, to jest futrzane. Wszystkie miłe, zielone rzeczy są szorstkie.\nWniosek: Bob nie jest okrągły.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Fiona jest duża. Fiona jest niebieska. Fiona jest zielona. Fiona jest cicha. Fiona jest biała. Fiona jest młoda. Harry jest niebieski. Harry jest zielony. Harry jest cichy. Harry jest biały. Jeśli ktoś jest młody i niebieski, to jest biały. Jeśli ktoś jest młody, to jest niebieski. Młodzi, niebiescy ludzie są duzi. Jeśli ktoś jest zielony i niebieski, to jest zimny. Wszyscy zimni, cisi ludzie są zieloni. Jeśli ktoś jest zielony i duży, to jest zimny.\nWniosek: Harry nie jest duży.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański goni tygrysa. Bielik amerykański nie jest czerwony. Bielik amerykański odwiedza tygrysa. Tygrys jest miły. Tygrys jest szorstki. Tygrys jest okrągły. Tygrys widzi bielika amerykańskiego. Jeśli coś odwiedza tygrysa, tygrys goni bielika amerykańskiego. Jeśli coś jest czerwone i nie widzi bielika amerykańskiego, bielik amerykański nie goni tygrysa. Jeśli coś jest okrągłe i nie widzi tygrysa, goni bielika amerykańskiego.\nWniosek: Bielik amerykański jest duży.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob nie jest niebieski. Bob jest zielony. Bob jest biały. Dave jest niebieski. Dave jest futrzany. Erin nie jest niebieska. Erin jest biała. Gary jest futrzany. Gary jest zielony. Gary jest miły. Gary nie jest mądry. Gary nie jest biały. Zielone, mądre rzeczy są futrzane. Wszystkie mądre rzeczy nie są futrzane. Miłe rzeczy nie są niebieskie. Jeśli coś jest miłe i niemiłe, to nie jest białe. Niebieskie, futrzane rzeczy są białe. Miłe rzeczy są mądre.\nWniosek: Dave jest miły.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański goni niedźwiedzia. Bielik amerykański zjada mysz. Bielik amerykański potrzebuje niedźwiedzia. Niedźwiedź zjada mysz. Niedźwiedź jest zielony. Niedźwiedź jest miły. Niedźwiedź jest czerwony. Mysz goni niedźwiedzia. Mysz zjada bielika amerykańskiego. Mysz zjada niedźwiedzia. Jeśli coś zjada niedźwiedzia, a niedźwiedź zjada mysz, to mysz jest miła. Jeśli coś jest miłe, to potrzebuje bielika amerykańskiego.\nWniosek: Niedźwiedź nie goni bielika amerykańskiego.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot jest szorstki. Królik lubi tygrysa. Tygrys lubi kota. Jeśli coś lubi kota, to kot jest duży.\nWniosek: Tygrys nie lubi kota.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański jest rudy. Bielik amerykański odwiedza psa. Pies lubi bielika amerykańskiego. Pies odwiedza wiewiórkę. Królik lubi bielika amerykańskiego. Królik widzi bielika amerykańskiego. Królik widzi psa. Królik odwiedza psa. Wiewiórce jest zimno. Wiewiórka lubi królika. Jeśli coś odwiedza psa, to ono lubi psa. Jeśli coś odwiedza psa, a pies jest rudy, to pies lubi bielika amerykańskiego.\nWniosek: Pies odwiedza królika.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest cichy. Bob jest młody. Harry jest miły. Wszystkie miłe rzeczy są niebieskie.\nWniosek: Bob jest okrągły.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest miły. Harry jest rudy. Harry jest biały. Jeśli Harry jest mądry, a Harry nie jest biały, to Harry jest czerwony. Czerwone rzeczy nie są miłe.\nWniosek: Harry nie jest miły.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest zimna. Anne jest futrzasta. Fiona jest miła. Jeśli Fiona jest miła, to Fiona jest szorstka. Szorstcy ludzie są zimni. Wszyscy zimni, biali ludzie są okrągli. Jeśli ktoś jest futrzasty, to jest szorstki. Jeśli Fiona jest biała, a Fiona jest okrągła, to Fiona jest duża. Mili ludzie są biali.\nWniosek: Fiona jest biała.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest duży. Bob jest niebieski. Bob jest zielony. Bob jest miły. Bob jest okrągły. Dave jest duży. Dave jest niebieski. Erin jest niebieska. Erin jest zielona. Gary jest zielony. Gary jest okrągły. Gary jest młody. Jeśli Erin jest niebieska, to Erin jest duża.\nWniosek: Erin jest duża.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański jest rudy. Bielik amerykański odwiedza psa. Pies lubi bielika amerykańskiego. Pies odwiedza wiewiórkę. Królik lubi bielika amerykańskiego. Królik widzi bielika amerykańskiego. Królik widzi psa. Królik odwiedza psa. Wiewiórce jest zimno. Wiewiórka lubi królika. Jeśli coś odwiedza psa, to lubi psa. Jeśli coś odwiedza psa, a pies jest rudy, to pies lubi bielika amerykańskiego.\nWniosek: Wiewiórka nie lubi psa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański jest zimny. Bielik amerykański nie jest młody. Bielik amerykański nie potrzebuje niedźwiedzia. Bielik amerykański potrzebuje myszy. Bielik amerykański widzi niedźwiedzia. Niedźwiedź widzi bielika amerykańskiego. Mysz jest duża. Mysz jest zimna. Mysz potrzebuje wiewiórki. Mysz widzi niedźwiedzia. Mysz widzi wiewiórkę. Wiewiórka jest duża. Wiewiórka nie jest szorstka. Wiewiórka potrzebuje myszy. Wiewiórka nie odwiedza bielika amerykańskiego. Wiewiórka odwiedza niedźwiedzia. Jeśli coś jest zimne, to odwiedza mysz.\nWniosek: Wiewiórka nie odwiedza myszy.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź odwiedza psa. Krowa jest niebieska. Pies lubi krowę. Jeśli coś goni psa, to pies jest miły. Jeśli coś lubi krowę, to krowa lubi niedźwiedzia. Jeśli niedźwiedź jest duży, to niedźwiedź jest okrągły.\nWniosek: Krowa lubi niedźwiedzia.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot jest zimny. Kot jest szorstki. Kot jest młody. Wszyscy niebiescy ludzie są zieloni. Jeśli kot jest zielony, a kot jest młody, to kot jest zimny. Wszyscy zimni ludzie są zieloni.\nWniosek: Kot nie lubi kota.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański goni mysz. Bielik amerykański jest zielony. Bielik amerykański jest okrągły. Bielik amerykański widzi kota. Bielik amerykański odwiedza kota. Kot goni mysz. Kot jest czerwony. Kot jest okrągły. Kot widzi bielika amerykańskiego. Kot widzi mysz. Kot odwiedza bielika amerykańskiego. Kot odwiedza mysz. Mysz goni bielika amerykańskiego. Mysz goni kota. Mysz goni kota. Mysz widzi kota. Jeśli coś goni kota, a kot widzi mysz, to mysz jest miła. Jeśli kot jest miły i kot jest młody, to kot odwiedza mysz. Jeśli coś goni kota i jest młody, to goni mysz. Jeśli coś widzi mysz, to jest czerwone. Jeśli coś widzi kota, a kot jest okrągły, to kot widzi mysz. Jeśli coś jest zielone i czerwone, to widzi mysz.\nWniosek: Mysz widzi kota.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest miła. Anne jest ruda. Anne jest mądra. Dave jest miły. Dave jest mądry. Dave jest młody. Gary jest duży. Gary jest miły. Gary jest miły. Gary jest młody. Jeśli coś jest mądre, to jest czerwone. Jeśli coś jest miłe, to jest młode. Jeśli coś jest ciche, to jest duże.\nWniosek: Dave jest rudy.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot goni tygrysa. Kot jest duży. Kot widzi mysz. Kot widzi tygrysa. Kot odwiedza tygrysa. Mysz jest niebieska. Mysz widzi kota. Tygrys goni kota. Tygrys goni mysz. Tygrys odwiedza mysz. Jeśli ktoś widzi tygrysa i goni tygrysa, to goni mysz. Jeśli ktoś widzi mysz, a mysz goni tygrysa, to jest młody.\nWniosek: Tygrys jest zimny.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Wiewiórka jest miła. Wszystkie miłe rzeczy nie są okrągłe. Okrągłe rzeczy są duże. Wszystkie duże rzeczy są miłe.\nWniosek: Wiewiórka nie jest miła.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź goni mysz. Niedźwiedź jest czerwony. Niedźwiedź jest szorstki. Niedźwiedź jest okrągły. Niedźwiedź potrzebuje lwa. Niedźwiedź potrzebuje myszy. Lew goni niedźwiedzia. Mysz goni niedźwiedzia. Mysz goni lwa. Mysz odwiedza niedźwiedzia. Jeśli ktoś goni mysz, to mysz goni lwa. Jeśli ktoś goni lwa, to potrzebuje myszy. Jeśli ktoś potrzebuje myszy, to mysz odwiedza lwa.\nWniosek: Lew jest szorstki.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Mysz lubi wiewiórkę. Wiewiórka goni mysz. Wiewiórka zjada mysz. Jeśli wiewiórka zje mysz, a mysz lubi wiewiórkę, to mysz goni wiewiórkę. Jeśli coś jest zielone, to goni wiewiórkę.\nWniosek: Mysz jest niebieska.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest zielony. Bob jest miły. Bob jest miły. Bob jest cichy. Bob jest szorstki. Bob jest młody. Fiona jest miła. Fiona jest miła. Fiona jest cicha. Fiona jest szorstka. Fiona jest młoda. Harry jest niebieski. Harry jest zielony. Harry jest miły. Harry jest szorstki. Harry jest młody. Jeśli ktoś jest szorstki i zielony, to jest cichy. Jeśli ktoś jest niebieski i miły, to jest zielony. Wszyscy niebiescy ludzie są młodzi. Jeśli ktoś jest szorstki, to jest zielony. Jeśli Bob jest miły, a Bob jest zielony, to Bob jest niebieski. Wszyscy zieloni ludzie są niebiescy. Wszyscy mili, mili ludzie są szorstcy. Jeśli ktoś jest młody i niebieski, to jest miły.\nWniosek: Fiona nie jest zielona.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Krowa jest okrągła. Lew goni wiewiórkę. Lew nie jest miły. Lew lubi krowę. Wiewiórka goni tygrysa. Wiewiórka jest okrągła. Tygrys goni lwa. Jeśli ktoś goni lwa, to lew zjada tygrysa. Jeśli krowa nie goni lwa, to krowa goni tygrysa. Jeśli ktoś zje wiewiórkę, a wiewiórka jest miła, to wiewiórka goni lwa.\nWniosek: Krowa goni tygrysa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest duży. Charlie jest okrągły. Erin jest młoda. Młodzi, okrągli ludzie są niebiescy. Wszyscy futrzani, młodzi ludzie są okrągli. Futrzani ludzie są niebiescy. Jeśli ktoś jest okrągły, to jest futrzany. Duzi, szorstcy ludzie są młodzi. Duzi, futrzani ludzie są niebiescy.\nWniosek: Bob jest młody.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Mysz jest miła. Mysz widzi królika. Mysz widzi wiewiórkę. Królikowi jest zimno. Królik jest okrągły. Królik lubi mysz. Królik lubi wiewiórkę. Wiewiórka zjada królika. Wiewiórce jest zimno. Wiewiórka widzi królika. Jeśli coś zje wiewiórkę i jest jej zimno, to widzi królika. Jeśli coś lubi mysz i jest jej zimno, to zjada mysz. Jeśli coś lubi królika, to jest okrągłe.\nWniosek: Mysz lubi wiewiórkę.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot jest duży. Kot jest niebieski. Kot jest okrągły. Wszyscy niebiescy ludzie są zieloni.\nWniosek: Kot nie jest zielony.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański jest zimny. Bielik amerykański jest zielony. Bielik amerykański jest szorstki. Bielik amerykański jest młody. Bielik amerykański nie lubi wiewiórki. Bielik amerykański widzi wiewiórkę. Bielik amerykański odwiedza wiewiórkę. Wiewiórka jest duża. Wiewiórka jest zimna. Wiewiórka jest zielona. Wiewiórka nie jest szorstka. Wiewiórka jest młoda. Wiewiórka lubi bielika amerykańskiego. Wiewiórka widzi bielika amerykańskiego. Wiewiórka odwiedza bielika amerykańskiego. Jeśli coś widzi wiewiórkę, to widzi bielika amerykańskiego.\nWniosek: Bielik amerykański nie widzi bielika amerykańskiego.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Orzeł bielik jest szorstki. Orzeł bielik potrzebuje niedźwiedzia. Niedźwiedź jest miły. Niedźwiedź lubi orła bielika. Niedźwiedź lubi królika. Niedźwiedź potrzebuje orła bielika. Mysz jest czerwona. Mysz potrzebuje królika. Królik zjada niedźwiedzia. Królik jest czerwony. Jeśli ktoś zje królika, to potrzebuje królika. Jeśli ktoś zje niedźwiedzia i potrzebuje orła bielika, to orzeł bielik jest czerwony. Jeśli ktoś jest duży, to lubi niedźwiedzia. Jeśli ktoś jest miły, to lubi królika. Jeśli królik jest duży, to królik zjada orła bielika. Szorstcy ludzie są okrągli. Jeśli królik zje mysz, to królik potrzebuje myszy. Jeśli ktoś potrzebuje królika i potrzebuje myszy, to jest czerwony.\nWniosek: Orzeł bielik jest okrągły.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Mysz nie jest niebieska. Mysz jest miła. Mysz jest czerwona. Czerwone rzeczy są zielone. Zielone rzeczy są czerwone.\nWniosek: Mysz zjada mysz.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź jest szorstki. Pies widzi niedźwiedzia. Wiewiórka widzi niedźwiedzia. Jeśli ktoś lubi wiewiórkę, a nie widzi wiewiórki, to potrzebuje wiewiórki. Jeśli ktoś widzi niedźwiedzia, to nie potrzebuje wiewiórki. Szorstcy, mili ludzie są zimni. Jeśli ktoś potrzebuje psa, a nie jest szorstki, to lubi wiewiórkę. Jeśli ktoś potrzebuje niedźwiedzia, to niedźwiedź lubi psa. Jeśli pies lubi wiewiórkę, to wiewiórka potrzebuje psa. Jeśli ktoś potrzebuje niedźwiedzia, a niedźwiedź lubi psa, to pies nie potrzebuje wiewiórki. Jeśli ktoś potrzebuje niedźwiedzia, a nie potrzebuje wiewiórki, to wiewiórka lubi psa.\nWniosek: Pies nie jest miły.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź nie jest okrągły. Niedźwiedź widzi psa. Pies widzi królika. Królik goni psa. Królik widzi psa. Wiewiórka nie goni królika. Wiewiórka widzi królika. Jeśli coś widzi królika, to lubi wiewiórkę.\nWniosek: Niedźwiedź goni wiewiórkę.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Lew widzi wiewiórkę. Królik goni wiewiórkę. Wiewiórka widzi królika. Jeśli coś widzi wiewiórkę, to goni lwa.\nWniosek: Królik goni lwa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Królik jest duży. Królik jest niebieski. Królik jest miły. Królik jest szorstki. Królik jest młody. Królik lubi tygrysa. Królik potrzebuje tygrysa. Królik odwiedza tygrysa. Tygrys jest duży. Tygrys jest niebieski. Tygrys jest miły. Tygrys jest szorstki. Tygrys jest młody. Tygrys lubi królika. Tygrys potrzebuje królika. Tygrys odwiedza królika. Jeśli ktoś lubi tygrysa i potrzebuje tygrysa, to potrzebuje królika. Jeśli królik lubi tygrysa, a królik jest duży, to królik odwiedza tygrysa. Jeśli ktoś lubi królika, to królik potrzebuje tygrysa. Jeśli ktoś jest niebieski i duży, to odwiedza tygrysa. Jeśli królik jest miły, a królik odwiedza tygrysa, to tygrys jest młody. Jeśli ktoś potrzebuje królika, a królik potrzebuje tygrysa, to królik lubi tygrysa. Jeśli ktoś lubi tygrysa, to potrzebuje królika. Jeśli ktoś jest miły, to potrzebuje tygrysa.\nWniosek: Tygrys odwiedza tygrysa.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot zjada tygrysa. Kot jest zimny. Mysz goni wiewiórkę. Mysz nie goni tygrysa. Mysz potrzebuje kota. Wiewiórka zjada kota. Wiewiórka nie zjada tygrysa. Wiewiórka jest zielona. Wiewiórka jest młoda. Wiewiórka potrzebuje kota. Wiewiórka potrzebuje tygrysa. Tygrys nie goni myszy. Jeśli ktoś zje mysz, a nie jest duży, to mysz nie jest zielona. Jeśli wiewiórka potrzebuje tygrysa, a wiewiórka jest młoda, to wiewiórka goni mysz. Jeśli kot potrzebuje tygrysa, a kot zjada wiewiórkę, to tygrys nie zjada myszy. Jeśli wiewiórka goni kota, a kot goni tygrysa, to tygrys nie zjada wiewiórki. Jeśli kot goni tygrysa, to tygrys nie potrzebuje wiewiórki. Jeśli mysz zjada kota, to mysz nie potrzebuje tygrysa. Wniosek: Wiewiórka goni mysz.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź goni tygrysa. Niedźwiedź jest młody. Niedźwiedź lubi królika. Niedźwiedź lubi tygrysa. Niedźwiedź odwiedza tygrysa. Królik nie goni niedźwiedzia. Królik goni tygrysa. Królik nie jest miły. Królik lubi niedźwiedzia. Królik lubi tygrysa. Królik odwiedza niedźwiedzia. Królik odwiedza tygrysa. Tygrys jest czerwony. Tygrys jest młody. Tygrys nie lubi królika. Jeśli ktoś odwiedza tygrysa, to tygrys odwiedza niedźwiedzia. Jeśli tygrys odwiedza niedźwiedzia, to tygrys nie lubi niedźwiedzia. Jeśli ktoś lubi królika, to jest czerwony. Jeśli ktoś odwiedza królika, a nie jest zielony, to lubi tygrysa. Jeśli ktoś odwiedza królika, to królik nie odwiedza tygrysa. Jeśli ktoś odwiedza niedźwiedzia, a nie odwiedza królika, to królik jest duży.\nWniosek: Królik jest zielony.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest zielony. Dave nie jest duży. Gary jest cichy. Harry jest duży. Wszystkie ładne, duże rzeczy są ciche. Wszystkie ładne, zielone rzeczy są ciche. Jeśli Gary jest duży, a Gary nie jest młody, to Gary jest miły. Białe, młode rzeczy są duże. Jeśli coś jest młode, to nie jest duże. Wszystkie białe, zielone rzeczy nie są miłe. Jeśli coś jest ciche, to nie jest miłe. Jeśli coś jest duże i nie jest ciche, to nie jest miłe.\nWniosek: Dave jest zielony.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest niebieski. Bob jest futrzany. Bob jest zielony. Bob jest szorstki. Bob jest młody. Erin jest futrzana. Erin jest szorstka. Erin jest okrągła. Erin jest młoda. Harry jest niebieski. Harry jest futrzany. Harry jest zielony. Harry jest szorstki. Harry jest okrągły. Harry jest mądry. Harry jest młody. Wszystkie zielone rzeczy są mądre.\nWniosek: Erin nie jest niebieska.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest niebieski. Bob jest futrzany. Bob jest miły. Bob jest szorstki. Charlie jest duży. Charlie jest futrzany. Charlie jest miły. Charlie jest szorstki. Fiona jest duża. Fiona jest futrzana. Fiona jest miła. Fiona jest mądra. Gary jest niebieski. Gary jest futrzany. Gary jest szorstki. Jeśli Gary jest miły, to Gary jest niebieski. Wszyscy inteligentni, futrzani ludzie są duzi. Futrzani ludzie są mądrzy.\nWniosek: Bob jest miły.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest zielony. Charlie jest szorstki. Dave jest kudłaty. Dave jest młody. Erin jest zimna. Erin jest kudłata. Erin jest czerwona. Erin jest szorstka. Gary jest duży. Gary jest zimny. Jeśli Erin jest zimna, to Erin jest zielona.\nWniosek: Dave jest zimny.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź jest zimny. Niedźwiedź potrzebuje tygrysa. Tygrys lubi niedźwiedzia. Jeśli ktoś jest duży i nie lubi tygrysa, to tygrys lubi niedźwiedzia. Jeśli ktoś potrzebuje tygrysa, a tygrys jest miły, to tygrys nie zje niedźwiedzia. Jeśli ktoś potrzebuje niedźwiedzia, a niedźwiedź jest duży, to jest miły. Jeśli ktoś potrzebuje niedźwiedzia, to zjada tygrysa. Jeśli ktoś lubi niedźwiedzia, to go nie zje. Jeśli tygrys lubi niedźwiedzia, a niedźwiedź nie lubi tygrysa, to tygrys jest niebieski. Jeśli ktoś lubi tygrysa, a tygrys lubi niedźwiedzia, to tygrys nie jest duży. Jeśli niedźwiedź nie zje tygrysa, to tygrys nie jest miły.\nWniosek: Tygrys lubi niedźwiedzia.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański jest zimny. Krowa lubi bielika amerykańskiego. Pies odwiedza bielika amerykańskiego. Lew lubi bielika amerykańskiego. Jeśli coś jest zimne, to odwiedza psa.\nWniosek: Krowa lubi bielika amerykańskiego.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest mądry. Charlie jest szorstki. Dave jest okrągły. Erin jest mądra. Jeśli Bob jest duży, to Bob jest zielony. Jeśli ktoś jest okrągły, to nie jest mądry.\nWniosek: Bob nie jest okrągły.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Dave jest duży. Dave jest zielony. Dave jest szorstki. Dave nie jest okrągły. Dave jest młody. Fiona jest duża. Fiona jest niebieska. Fiona jest zielona. Fiona jest okrągła. Fiona jest młoda. Duże, młode rzeczy są niebieskie. Białe rzeczy są zielone. Jeśli coś jest młode i nie jest duże, to nie jest białe.\nWniosek: Fiona nie jest szorstka.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Krowa goni królika. Krowa jest miła. Krowa jest miła. Krowa jest okrągła. Krowa potrzebuje lwa. Krowa potrzebuje królika. Krowa odwiedza królika. Lew goni królika. Lew jest zielony. Lew jest miły. Lew jest miły. Lew potrzebuje krowy. Lew odwiedza krowę. Lew odwiedza królika. Królik jest miły. Królik odwiedza krowę. Jeśli ktoś goni królika, to królik potrzebuje lwa.\nWniosek: Lew nie goni lwa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest niebieski. Bob jest futrzany. Bob jest mądry. Bob jest biały. Bob jest młody. Dave nie jest futrzany. Erin jest biała. Harry nie jest niebieski. Harry jest czerwony. Harry jest okrągły. Wszystkie futrzane, okrągłe rzeczy są niebieskie. Niebieskie rzeczy są białe. Białe rzeczy są okrągłe. Jeśli Dave jest okrągły, to Dave jest młody. Jeśli Erin jest biała, a Erin nie jest okrągła, to Erin nie jest mądra. Jeśli coś jest futrzane, to jest czerwone. Jeśli coś jest młode i nie niebieskie, to jest czerwone. Jeśli Bob nie jest czerwony, to Bob jest mądry.\nWniosek: Dave nie jest biały.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne nie jest cicha. Anne nie jest mądra. Anne jest biała. Dave jest okrągły. Erin jest miła. Erin jest cicha. Erin jest okrągła. Erin jest mądra. Erin jest biała. Erin jest młoda. Okrągłe osoby są ciche. Ciche osoby są miłe. Jeśli ktoś jest miły, ale nie okrągły, to jest zielony. Jeśli ktoś jest biały, ale nie mądry, to jest zielony. Okrągłe osoby są zielone. Wszyscy okrągli ludzie są biali.\nWniosek: Anne nie jest miła.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest okrągły. Dave jest szorstki. Fiona jest cicha. Jeśli ktoś jest szorstki, to nie jest niebieski. Jeśli Fiona jest cicha, a Fiona nie jest szorstka, to Fiona jest futrzasta.\nWniosek: Charlie jest miły.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot jest okrągły. Kot lubi tygrysa. Kot potrzebuje wiewiórki. Kot potrzebuje tygrysa. Wiewiórka lubi tygrysa. Wiewiórka potrzebuje tygrysa. Wiewiórka widzi kota. Tygrys lubi kota. Tygrys lubi wiewiórkę. Tygrys potrzebuje kota. Tygrys potrzebuje wiewiórki. Tygrys widzi kota. Jeśli coś widzi kota, to lubi tygrysa.\nWniosek: Wiewiórka lubi wiewiórkę.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest zimny. Charlie jest cichy. Charlie jest mądry. Dave jest zimny. Dave jest cichy. Dave jest okrągły. Dave jest mądry. Jeśli coś jest okrągłe i nie jest szorstkie, to jest zimne. Mądre, okrągłe rzeczy są czerwone. Jeśli Dave jest szorstki, a Dave jest okrągły, to Dave jest zimny.\nWniosek: Charlie jest cichy.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest zimny. Bob jest futrzany. Bob jest miły. Bob jest rudy. Bob nie jest szorstki. Bob jest okrągły. Bob jest biały. Charlie jest szorstki. Charlie jest biały. Dave jest czerwony. Dave jest szorstki. Dave jest okrągły. Dave jest biały. Harry jest zimny. Harry jest miły. Harry jest szorstki. Jeśli coś jest szorstkie i okrągłe, to jest czerwone. Jeśli coś jest miłe i futrzane, to jest czerwone. Jeśli coś jest zimne i nie szorstkie, to jest futrzane. Jeśli coś jest zimne, to jest futrzane. Wszystkie miłe, zimne rzeczy są futrzane. Wszystkie zimne rzeczy są miłe. Jeśli coś jest zimne i białe, to jest okrągłe. Wszystkie zimne, futrzane rzeczy są okrągłe.\nWniosek: Harry nie jest futrzany.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź odwiedza kota. Kot jest duży. Kot potrzebuje niedźwiedzia. Jeśli ktoś jest duży, to lubi kota.\nWniosek: Niedźwiedź nie odwiedza kota.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź zjada psa. Niedźwiedź jest zielony. Niedźwiedź jest miły. Niedźwiedź widzi psa. Pies jest szorstki. Pies jest okrągły. Pies widzi niedźwiedzia. Jeśli ktoś jest miły i widzi psa, to pies nie zjada niedźwiedzia.\nWniosek: Niedźwiedź jest szorstki.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie nie jest niebieski. Dave jest niebieski. Dave jest mądry. Dave jest biały. Dave jest młody. Harry jest duży. Harry jest mądry. Jeśli coś jest mądre i nie białe, to jest niebieskie. Duże rzeczy nie są niebieskie. Jeśli coś jest zielone i nie zimne, to nie jest niebieskie. Jeśli coś jest zielone i młode, to nie jest duże. Jeśli coś jest mądre i nie białe, to nie jest duże. Jeśli Dave jest duży, to Dave jest młody.\nWniosek: Charlie nie jest mądry.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest niebieska. Erin jest duża. Erin jest zimna. Erin jest cicha. Erin jest okrągła. Erin jest biała. Fiona jest niebieska. Fiona jest zimna. Fiona jest cicha. Fiona jest biała. Zimne, ciche rzeczy są futrzane. Duże rzeczy są ciche. Jeśli coś jest zimne i duże, to jest okrągłe. Jeśli coś jest zimne, to jest okrągłe. Wszystkie niebieskie, zimne rzeczy są ciche. Jeśli coś jest zimne i duże, to jest okrągłe.\nWniosek: Erin nie jest biała.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański zjada lwa. Bielik amerykański jest czerwony. Bielik amerykański lubi lwa. Bielik amerykański potrzebuje lwa. Lew zjada bielika amerykańskiego. Lew jest zimny. Lew jest zielony. Lew jest miły. Lew jest czerwony. Lew jest szorstki. Lew lubi bielika amerykańskiego. Lew potrzebuje bielika amerykańskiego. Jeśli ktoś zje lwa, a lew jest miły, to jest mu zimno. Jeśli ktoś zje bielika amerykańskiego i lubi lwa, to lew jest miły. Jeśli ktoś zje bielika amerykańskiego, to potrzebuje bielika amerykańskiego. Jeśli ktoś potrzebuje bielika amerykańskiego, to bielik amerykański zjada lwa. Jeśli ktoś jest szorstki, to zjada bielika amerykańskiego. Jeśli ktoś jest miły, to jest szorstki.\nWniosek: Bielik amerykański jest szorstki.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot widzi krowę. Krowa jest zielona. Królik jest zielony. Tygrys odwiedza kota. Jeśli ktoś odwiedza krowę, to ją zjada. Jeśli ktoś odwiedza kota, to widzi królika. Jeśli ktoś widzi kota, to odwiedza królika. Jeśli ktoś widzi królika, to królik zjada krowę. Jeśli ktoś odwiedza tygrysa, a tygrys zjada krowę, to krowa zjada królika. Jeśli ktoś jest okrągły i miły, to odwiedza królika.\nWniosek: Kot nie widzi krowy.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest duża. Anne jest futrzasta. Anne jest zielona. Anne jest miła. Anne jest cicha. Anne jest ruda. Anne jest biała. Charlie jest duży. Charlie jest futrzasty. Charlie jest zielony. Charlie jest miły. Charlie jest czerwony. Charlie jest biały. Dave jest zielony. Dave jest miły. Dave jest cichy. Ciche, miłe rzeczy są białe.\nWniosek: Dave jest czerwony.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Erin jest miła. Erin jest szorstka. Fiona nie jest zielona. Fiona jest miła. Fiona jest cicha. Fiona jest czerwona. Fiona jest szorstka. Fiona nie jest biała. Fiona jest młoda. Gary jest zielony. Gary jest miły. Gary jest szorstki. Młode, ciche rzeczy są czerwone. Jeśli coś jest szorstkie, to jest czerwone.\nWniosek: Erin jest młoda.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob nie jest miły. Bob jest szorstki. Erin jest duża. Erin jest niebieska. Erin jest miła. Erin jest szorstka. Erin jest mądra. Fiona jest duża. Fiona nie jest miła. Fiona jest szorstka. Fiona jest mądra. Fiona nie jest biała. Fiona jest młoda. Harry nie jest niebieski. Harry jest miły. Harry jest szorstki. Wszyscy młodzi, mili ludzie są duzi. Mili, młodzi ludzie są duzi. Jeśli ktoś jest miły i nie jest biały, to jest duży. Wszyscy inteligentni ludzie są młodzi. Jeśli Fiona jest młoda, a Fiona jest niebieska, to Fiona jest miła. Wszyscy niebiescy ludzie są mili. Jeśli Erin jest niebieska, to Erin jest mądra. Jeśli Bob jest szorstki, a Bob nie jest młody, to Bob jest duży.\nWniosek: Erin nie jest młoda.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest cichy. Bob jest rudy. Bob jest szorstki. Bob nie jest biały. Bob jest młody. Charlie jest futrzany. Charlie jest miły. Charlie jest cichy. Charlie jest rudy. Charlie jest biały. Wszyscy szorstcy ludzie są mili. Jeśli ktoś jest szorstki i nie ma futra, to jest biały.\nWniosek: Bob jest miły.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest kudłata. Anne nie jest miła. Charlie jest miły. Charlie jest młody. Gary nie jest miły. Gary jest szorstki. Harry jest duży. Harry jest cichy. Harry jest szorstki. Harry jest okrągły. Jeśli coś jest szorstkie i nie ciche, to jest duże. Jeśli coś jest okrągłe, to jest duże. Wszystkie okrągłe, ciche rzeczy są miłe.\nWniosek: Harry nie jest miły.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Krowa zjada królika. Krowa lubi lwa. Lew zjada mysz. Mysz jest miła. Mysz nie widzi lwa. Królik jest duży. Królik widzi lwa. Jeśli coś zjada krowę, a krowa lubi mysz, to mysz zjada krowę. Jeśli coś zjada lwa, to lew nie zjada myszy. Jeśli coś jest miłe i widzi krowę, to widzi mysz. Jeśli krowa jest miła, to krowa zjada mysz. Jeśli królik lubi krowę, a królik widzi lwa, to królik nie jest niebieski. Młode, niebieskie rzeczy są duże. Jeśli coś lubi krowę, a nie zjada lwa, to krowa nie widzi lwa. Jeśli coś jest duże, to nie lubi lwa.\nWniosek: Lew nie widzi lwa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest miła. Charlie jest zielony. Fiona jest futrzana. Gary jest zielony. Jeśli Anne jest duża, a Anne jest miła, to Anne jest czerwona. Wszyscy mili ludzie są zieloni.\nWniosek: Charlie jest zielony.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański goni kota. Bielik amerykański jest niebieski. Bielik amerykański potrzebuje kota. Bielik amerykański widzi wiewiórkę. Kot jest młody. Kot potrzebuje wiewiórki. Wiewiórka goni kota. Wiewiórka jest duża. Wiewiórka jest szorstka. Wiewiórka jest młoda. Wiewiórka potrzebuje bielika amerykańskiego. Wiewiórka widzi bielika amerykańskiego. Jeśli ktoś widzi bielika amerykańskiego, to widzi też kota.\nWniosek: Wiewiórka jest duża.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest duża. Anne jest zimna. Anne jest czerwona. Anne nie jest młoda. Erin jest zimna. Erin jest młoda. Fiona jest miła. Fiona jest młoda. Gary nie jest duży. Gary jest zimny. Gary jest miły. Gary jest młody. Wszyscy młodzi, zieloni ludzie są zimni. Jeśli ktoś jest miły i nie jest szorstki, to jest zimny. Jeśli Fiona jest zimna, to Fiona jest miła. Wszyscy mili ludzie nie są zieloni. Jeśli ktoś jest miły i nie jest młody, to jest duży. Wszyscy szorstcy, zimni ludzie nie są duzi. Wszyscy zimni, szorstcy ludzie nie są czerwoni. Jeśli ktoś jest duży i nie jest szorstki, to nie jest czerwony.\nWniosek: Fiona jest szorstka.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot goni mysz. Kot nie odwiedza lwa. Lew goni kota. Lew goni mysz. Lew jest zimny. Lew nie widzi kota. Lew widzi mysz. Mysz goni lwa. Mysz jest zielona. Mysz odwiedza kota. Jeśli coś jest zimne i goni mysz, to mysz nie widzi kota.\nWniosek: Lew nie jest miły.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest młoda. Bob jest miły. Gary jest szorstki. Wszystkie szorstkie rzeczy są miłe. Białe rzeczy są futrzane.\nWniosek: Gary jest miły.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest niebieski. Charlie jest miły. Erin jest duża. Erin jest niebieska. Erin jest zielona. Erin jest miła. Erin jest mądra. Gary jest duży. Gary jest zielony. Gary jest mądry. Jeśli coś jest młode, to jest duże. Wszystkie zielone rzeczy są ładne.\nWniosek: Gary jest miły.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź zjada wiewiórkę. Niedźwiedź jest zimny. Niedźwiedź jest miły. Niedźwiedź jest szorstki. Niedźwiedź jest okrągły. Niedźwiedź jest młody. Niedźwiedź lubi wiewiórkę. Niedźwiedź widzi wiewiórkę. Wiewiórka zjada niedźwiedzia. Wiewiórka jest zimna. Wiewiórka jest miła. Wiewiórka jest szorstka. Wiewiórka jest okrągła. Wiewiórka jest młoda. Wiewiórka lubi niedźwiedzia. Wiewiórka widzi niedźwiedzia. Jeśli coś lubi niedźwiedzia, to zjada wiewiórkę.\nWniosek: Niedźwiedź lubi niedźwiedzia.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot odwiedza krowę. Krowa zjada lwa. Pies jest młody. Lew zjada psa. Jeśli ktoś goni krowę i jest miły, to odwiedza lwa. Jeśli ktoś odwiedza kota, a kot goni krowę, to goni kota. Młodzi ludzie są zieloni. Jeśli ktoś jest czerwony i zielony, to odwiedza psa. Jeśli pies zje lwa, to pies goni kota. Jeśli kot goni psa, a pies zje lwa, to pies jest czerwony. Jeśli ktoś zje krowę, a krowa zje psa, to pies zje kota. Jeśli ktoś jest miły, to zjada psa.\nWniosek: Pies nie jest zielony.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź zjada kota. Kot zjada krowę. Kot odwiedza niedźwiedzia. Krowa zjada kota. Krowa jest niebieska. Krowa potrzebuje niedźwiedzia. Krowa potrzebuje tygrysa. Krowa odwiedza niedźwiedzia. Krowa odwiedza kota. Tygrys jest niebieski. Tygrys potrzebuje kota. Tygrys odwiedza niedźwiedzia. Jeśli coś zjada niedźwiedzia, to potrzebuje niedźwiedzia. Jeśli coś jest szorstkie i potrzebuje krowy, to krowa jest miła. Jeśli coś jest szorstkie, to potrzebuje krowy. Jeśli coś jest zimne i niebieskie, to potrzebuje tygrysa. Jeśli coś jest duże, to zjada niedźwiedzia. Jeśli coś potrzebuje niedźwiedzia i zjada krowę, to krowa jest miła. Jeśli coś jest szorstkie, to potrzebuje tygrysa. Jeśli coś odwiedza kota i potrzebuje tygrysa, to jest zimne.\nWniosek: Tygrys zjada niedźwiedzia.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Królik odwiedza wiewiórkę. Wiewiórka zjada królika. Wiewiórka jest duża. Jeśli coś zje wiewiórkę, to wiewiórka zje królika. Jeśli królik jest miły i królik zje wiewiórkę, to wiewiórka zje królika. Jeśli coś lubi królika, a królik odwiedza wiewiórkę, to ono odwiedza królika. Jeśli coś odwiedza wiewiórkę, to wiewiórka lubi królika. Jeśli coś odwiedza wiewiórkę, to ono lubi królika. Jeśli królik lubi wiewiórkę, a królik odwiedza wiewiórkę, to królik jest czerwony.\nWniosek: Królik lubi wiewiórkę.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest zimna. Anne nie jest futrzasta. Anne jest miła. Anne jest mądra. Bob nie jest cichy. Bob nie jest mądry. Dave jest duży. Fiona jest duża. Fiona jest cicha. Fiona jest szorstka. Wszystkie ciche, zimne rzeczy są miłe. Ciche, duże rzeczy są zimne.\nWniosek: Anne jest mądra.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest duży. Charlie jest zimny. Charlie jest miły. Erin jest duża. Erin jest miła. Erin jest mądra. Gary jest zimny. Gary jest zielony. Gary jest czerwony. Harry jest okrągły. Jeśli Harry jest duży, to Harry jest czerwony. Zimne rzeczy są miłe. Wszystkie czerwone rzeczy są okrągłe.\nWniosek: Charlie nie jest duży.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Krowa potrzebuje wiewiórki. Mysz goni tygrysa. Mysz zjada krowę. Wiewiórka potrzebuje myszy. Tygrys nie zjada krowy. Tygrys potrzebuje krowy. Tygrys potrzebuje wiewiórki. Jeśli coś goni tygrysa, to jest niebieskie. Jeśli coś jest czerwone i potrzebuje krowy, to krowa nie jest młoda. Jeśli coś goni tygrysa i jest czerwone, to potrzebuje krowy.\nWniosek: Krowa potrzebuje myszy.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański potrzebuje psa. Kot potrzebuje bielika amerykańskiego. Pies widzi bielika amerykańskiego. Jeśli ktoś lubi bielika amerykańskiego, to potrzebuje psa. Jeśli ktoś potrzebuje kota, to kot jest młody. Jeśli ktoś widzi bielika amerykańskiego, to bielik amerykański potrzebuje psa. Jeśli ktoś potrzebuje kota, a jest zielony, to widzi bielika amerykańskiego. Jeśli ktoś potrzebuje bielika amerykańskiego, a jest mu zimno, to potrzebuje kota. Jeśli ktoś jest miły, to potrzebuje psa. Jeśli ktoś widzi kota, to jest miły. Jeśli ktoś potrzebuje bielika amerykańskiego, to bielik amerykański widzi psa.\nWniosek: Kot nie potrzebuje psa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Lew jest niebieski. Lew jest zielony. Lew potrzebuje wiewiórki. Lew odwiedza wiewiórkę. Mysz zjada lwa. Mysz jest szorstka. Mysz potrzebuje lwa. Wiewiórka zjada lwa. Wiewiórka zjada mysz. Wiewiórka odwiedza mysz. Jeśli ktoś potrzebuje wiewiórki, a wiewiórka jest szorstka, to odwiedza lwa. Jeśli ktoś odwiedza mysz i zjada lwa, to jest zielony.\nWniosek: Lew nie potrzebuje wiewiórki.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Dave jest smutny. Dave jest zimny. Dave jest miły. Erin jest smutna. Erin jest zimna. Erin jest miła. Erin jest miła. Erin jest cicha. Erin jest młoda. Harry jest zimny. Jeśli ktoś jest smutny, to jest cichy.\nWniosek: Dave nie jest cichy.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański jest duży. Królik potrzebuje bielika amerykańskiego. Wiewiórka lubi królika. Jeśli królik jest zielony, to królik jest duży. Jeśli coś lubi królika, to goni go. Jeśli coś lubi królika, a królik jest młody, to potrzebuje bielika amerykańskiego. Jeśli coś goni wiewiórkę, to potrzebuje bielika amerykańskiego. Jeśli coś potrzebuje wiewiórki, a wiewiórka lubi bielika amerykańskiego, to wiewiórka goni królika. Jeśli coś goni królika, to królik lubi bielika amerykańskiego.\nWniosek: Wiewiórka lubi królika.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest futrzasta. Anne jest zielona. Anne jest czerwona. Anne jest okrągła. Bob nie jest futrzasty. Bob nie jest zielony. Bob jest okrągły. Gary nie jest futrzasty. Gary jest miły. Gary jest czerwony. Gary jest okrągły. Gary jest mądry. Harry jest zielony. Harry nie jest szorstki. Harry jest okrągły. Okrągli, futrzani ludzie są inteligentni. Wszyscy futrzani, rudzi ludzie są okrągli. Jeśli ktoś jest szorstki, to jest okrągły. Jeśli Bob jest okrągły, a Bob nie jest czerwony, to Bob nie jest mądry. Jeśli Gary jest szorstki, to Gary jest czerwony. Jeśli ktoś jest szorstki i nie jest mądry, to jest zielony.\nWniosek: Gary jest czerwony.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot zjada lwa. Lew zjada kota. Lew jest miły. Jeśli ktoś jest duży i odwiedza kota, to odwiedza lwa. Jeśli ktoś jest miły, to potrzebuje kota.\nWniosek: Lew nie jest miły.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź goni mysz. Niedźwiedź jest duży. Niedźwiedź jest zielony. Niedźwiedź lubi lwa. Lew goni niedźwiedzia. Lew goni mysz. Lew jest duży. Lew nie lubi niedźwiedzia. Lew lubi wiewiórkę. Lew nie potrzebuje myszy. Lew potrzebuje wiewiórki. Mysz jest duża. Wiewiórka jest duża. Wiewiórce jest zimno. Wiewiórka lubi niedźwiedzia. Wiewiórka potrzebuje myszy. Jeśli ktoś goni mysz, to jest okrągły.\nWniosek: Niedźwiedź nie potrzebuje wiewiórki.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź jest niebieski. Niedźwiedź jest czerwony. Niedźwiedź nie jest młody. Krowa odwiedza psa. Pies nie odwiedza lwa. Lew goni krowę. Lew potrzebuje krowy. Jeśli pies odwiedza krowę, krowa nie potrzebuje psa. Jeśli ktoś goni krowę, krowa jest niebieska. Jeśli lew goni niedźwiedzia, lew jest duży. Jeśli ktoś jest młody, nie odwiedza psa. Jeśli pies potrzebuje krowy, krowa goni niedźwiedzia. Jeśli ktoś potrzebuje krowy, krowa jest miła.\nWniosek: Krowa nie jest niebieska.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź nie goni myszy. Niedźwiedź nie potrzebuje kota. Niedźwiedź nie potrzebuje myszy. Niedźwiedź nie odwiedza myszy. Kot nie goni niedźwiedzia. Kot goni mysz. Kot jest zimny. Kot potrzebuje niedźwiedzia. Kot potrzebuje myszy. Kot odwiedza mysz. Mysz nie jest zimna. Mysz potrzebuje kota. Jeśli coś jest zimne, to goni kota.\nWniosek: Mysz goni kota.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bielik amerykański odwiedza tygrysa. Królik potrzebuje bielika amerykańskiego. Tygrys odwiedza bielika amerykańskiego. Jeśli tygrys jest młody, to tygrys lubi królika. Ładne rzeczy są okrągłe. Jeśli coś potrzebuje królika i jest ładne, to królik lubi tygrysa. Jeśli królik lubi bielika amerykańskiego, to bielik amerykański lubi tygrysa. Jeśli tygrys odwiedza bielika amerykańskiego, a bielik amerykański odwiedza tygrysa, to bielik amerykański jest czerwony. Jeśli coś potrzebuje królika i nie lubi tygrysa, to tygrys nie odwiedza bielika amerykańskiego.\nWniosek: Bielik amerykański jest czerwony.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Królik jest duży. Królik jest niebieski. Królik jest miły. Królik jest szorstki. Królik jest młody. Królik lubi tygrysa. Królik potrzebuje tygrysa. Królik odwiedza tygrysa. Tygrys jest duży. Tygrys jest niebieski. Tygrys jest miły. Tygrys jest szorstki. Tygrys jest młody. Tygrys lubi królika. Tygrys potrzebuje królika. Tygrys odwiedza królika. Jeśli ktoś lubi tygrysa i potrzebuje tygrysa, to potrzebuje królika. Jeśli królik lubi tygrysa, a królik jest duży, to królik odwiedza tygrysa. Jeśli ktoś lubi królika, to królik potrzebuje tygrysa. Jeśli ktoś jest niebieski i duży, to odwiedza tygrysa. Jeśli królik jest miły, a królik odwiedza tygrysa, to tygrys jest młody. Jeśli ktoś potrzebuje królika, a królik potrzebuje tygrysa, to królik lubi tygrysa. Jeśli ktoś lubi tygrysa, to potrzebuje królika. Jeśli ktoś jest miły, to potrzebuje tygrysa.\nWniosek: Tygrys nie potrzebuje tygrysa.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź potrzebuje lwa. Kot zjada niedźwiedzia. Kot zjada lwa. Kot jest duży. Kot jest niebieski. Kot jest młody. Kot potrzebuje lwa. Kot odwiedza lwa. Lew zjada niedźwiedzia. Lew zjada kota. Lew jest duży. Lew jest okrągły. Lew potrzebuje kota. Lew odwiedza niedźwiedzia. Lew odwiedza kota. Jeśli ktoś zje niedźwiedzia, to potrzebuje lwa. Jeśli niedźwiedź jest szorstki, a lew nie odwiedza niedźwiedzia, to lew zjada kota. Jeśli niedźwiedź zjada kota, a kot nie zjada lwa, to lew zjada kota. Jeśli lew potrzebuje kota, to lew odwiedza kota. Jeśli ktoś odwiedza niedźwiedzia, to jest młody. Jeśli ktoś zje lwa i nie potrzebuje kota, to kot potrzebuje lwa.\nWniosek: Kot odwiedza kota.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Dave jest czerwony. Erin nie jest zimna. Erin jest miła. Erin jest cicha. Gary nie jest zimny. Gary jest czerwony. Harry jest cichy. Wszystkie ciche rzeczy są miłe. Jeśli Harry jest zimny, a Harry jest czerwony, to Harry jest niebieski. Jeśli Harry jest zielony, to Harry nie jest miły. Jeśli coś jest czerwone i nie jest miłe, to nie jest zielone. Miłe rzeczy są niebieskie. Czerwone, miłe rzeczy są niebieskie.\nWniosek: Dave jest zielony.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest szorstka. Bob jest szorstka. Erin jest szorstka. Gary jest szorstka. Duzi, zieloni ludzie są inteligentni. Wszyscy futrzani, rudzi ludzie są inteligentni. Szorstcy ludzie są zimni. Wszyscy zieloni, inteligentni ludzie są zimni. Jeśli ktoś jest zimny, to nie jest futrzasty. Zieleni, duzi ludzie są czerwoni.\nWniosek: Anne nie jest zielona.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest duża. Charlie jest niebieski. Dave jest niebieski. Erin jest cicha. Wszyscy cisi, niebiescy ludzie są mili. Młodzi ludzie są niebiescy. Futrzani, duzi ludzie są niebiescy. Niebiescy, mili ludzie są cisi. Jeśli ktoś jest cichy, to jest miły. Wszyscy młodzi, duzi ludzie są niebiescy.\nWniosek: Anne jest młoda.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest czerwona. Anne jest mądra. Bob jest miły. Bob jest miły. Bob jest cichy. Dave jest cichy. Dave jest biały. Wszystkie ciche, mądre rzeczy są szorstkie. Jeśli coś jest miłe, to jest białe. Czerwone rzeczy są miłe.\nWniosek: Bob nie jest mądry.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest futrzasta. Charlie jest futrzasty. Charlie nie jest zielony. Erin jest miła. Erin jest młoda. Harry jest zielony. Harry nie jest miły. Jeśli coś jest duże i nie jest zielone, to nie jest czerwone. Wszystkie czerwone rzeczy są futrzaste. Wszystkie młode rzeczy są miłe.\nWniosek: Anne jest młoda.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Erin jest miła. Gary jest szorstki. Jeśli ktoś jest futrzasty i szorstki, to jest młody. Jeśli Gary jest szorstki i Gary jest miły, to Gary jest młody. Niebiescy, cisi ludzie są czerwoni. Jeśli Gary jest miły i Gary jest cichy, to Gary jest niebieski. Jeśli Gary jest czerwony, to Gary jest futrzasty. Wszyscy mili ludzie są futrzani.\nWniosek: Erin nie jest futrzasta.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Charlie jest futrzasty. Charlie nie jest mądry. Fiona jest duża. Fiona jest futrzasta. Fiona jest okrągła. Fiona jest mądra. Fiona jest młoda. Młode rzeczy nie są niebieskie. Wszystkie mądre rzeczy są młode. Wszystkie futrzane rzeczy są okrągłe. Jeśli coś jest okrągłe i nie jest młode, to jest futrzane. Jeśli coś jest futrzane i nie jest okrągłe, to jest białe. Jeśli coś jest białe i nie jest futrzane, to nie jest duże.\nWniosek: Fiona nie jest biała.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Niedźwiedź goni krowę. Niedźwiedź jest duży. Niedźwiedź jest niebieski. Niedźwiedź jest zielony. Niedźwiedź jest miły. Niedźwiedź jest miły. Niedźwiedź lubi krowę. Niedźwiedź potrzebuje krowy. Krowa goni niedźwiedzia. Krowa jest duża. Krowa jest niebieska. Krowa jest zielona. Krowa jest miła. Krowa lubi niedźwiedzia. Krowa potrzebuje niedźwiedzia. Jeśli ktoś goni krowę, a krowa goni niedźwiedzia, to krowa lubi niedźwiedzia. Jeśli niedźwiedź potrzebuje krowy, to krowa jest duża. Jeśli ktoś goni niedźwiedzia, to lubi niedźwiedzia. Jeśli ktoś lubi krowę, to goni niedźwiedzia. Jeśli krowa goni niedźwiedzia, to krowa lubi niedźwiedzia. Jeśli ktoś goni krowę, to krowa lubi niedźwiedzia. Jeśli ktoś goni niedźwiedzia, a niedźwiedź lubi krowę, to niedźwiedź goni krowę. Jeśli ktoś potrzebuje niedźwiedzia, to goni niedźwiedzia.\nWniosek: Krowa nie potrzebuje krowy.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest szorstka. Anne jest mądra. Bob jest niebieski. Bob jest miły. Bob jest szorstki. Dave jest niebieski. Dave jest futrzany. Dave jest miły. Dave jest szorstki. Gary jest rudy. Szorstcy, rudzi ludzie są młodzi. Wszyscy inteligentni, szorstcy ludzie są futrzani.\nWniosek: Anne nie jest futrzana.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Bob jest niebieski. Erin jest zielona. Harry jest cichy. Jeśli Erin jest zielona, to Erin jest cicha. Jeśli Bob jest zielony, to Bob jest duży. Wszystkie białe, ciche rzeczy są szorstkie.\nWniosek: Harry jest niebieski.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot zjada psa. Kot jest miły. Kot lubi psa. Pies lubi kota. Pies lubi lwa. Lew jest niebieski. Lew jest zielony. Jeśli ktoś lubi lwa, to lew jest zielony. Jeśli kot jest miły, a kot lubi psa, to kot jest zielony. Jeśli ktoś odwiedza kota i zjada kota, to odwiedza lwa. Jeśli ktoś odwiedza psa, to pies zjada kota. Jeśli ktoś jest zimny, to odwiedza kota. Jeśli pies odwiedza kota, a kot zjada lwa, to pies lubi lwa. Jeśli ktoś jest niebieski i lubi kota, to jest miły. Jeśli pies zjada kota, to kot zjada psa.\nWniosek: Pies odwiedza lwa.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Anne jest duża. Anne jest niebieska. Anne jest zimna. Anne jest futrzasta. Anne jest zielona. Anne jest szorstka. Charlie jest niebieski. Charlie jest zielony. Charlie jest cichy. Charlie jest szorstki. Dave jest duży. Dave jest niebieski. Dave jest zielony. Dave jest cichy. Gary jest niebieski. Gary jest cichy. Zieloni ludzie są szorstcy. Futrzani, niebiescy ludzie są zimni. Wszyscy niebiescy ludzie są szorstcy. Wszyscy futrzani ludzie są spokojni. Jeśli Gary jest zielony, to Gary jest cichy. Wszyscy niebiescy ludzie są spokojni. Jeśli ktoś jest futrzasty i niebieski, to jest zielony. Jeśli ktoś jest niebieski i zielony, to jest zimny.\nWniosek: Gary nie jest zimny.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Założenie: Kot jest szorstki. Kot lubi psa. Kot lubi lwa. Kot widzi lwa. Kot widzi mysz. Pies jest niebieski. Pies jest zimny. Pies odwiedza lwa. Lew jest zimny. Mysz jest szorstki. Mysz widzi psa. Mysz odwiedza kota. Jeśli ktoś lubi lwa, to lew lubi psa.\nWniosek: Lew nie lubi psa.",
+        "output": "B"
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist groß. Anne ist kalt. Anne ist pelzig. Anne ist grün. Anne ist freundlich. Anne ist rau. Anne ist rund. Bob ist groß. Bob ist freundlich. Bob ist rau. Große Dinge sind freundlich. Wenn etwas grün ist, dann ist es freundlich. Wenn etwas groß ist, dann ist es rund. Grüne, große Dinge sind freundlich. Wenn etwas freundlich und rau ist, dann ist es pelzig. Alle freundlichen, grünen Dinge sind rau.\nFazit: Bob ist nicht rund.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Fiona ist groß. Fiona ist blau. Fiona ist grün. Fiona ist ruhig. Fiona ist weiß. Fiona ist jung. Harry ist blau. Harry ist grün. Harry ist ruhig. Harry ist weiß. Wenn jemand jung und blau ist, dann ist er weiß. Wenn jemand jung ist, dann ist er blau. Junge, blaue Menschen sind groß. Wenn jemand grün und blau ist, dann ist ihm kalt. Alle kalten, ruhigen Menschen sind grün. Wenn jemand grün und groß ist, dann ist ihm kalt.\nFazit: Harry ist nicht groß.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler jagt den Tiger. Der Weißkopfseeadler ist nicht rot. Der Weißkopfseeadler besucht den Tiger. Der Tiger ist nett. Der Tiger ist rau. Der Tiger ist rund. Der Tiger sieht den Weißkopfseeadler. Wenn etwas den Tiger besucht, jagt der Tiger den Weißkopfseeadler. Wenn etwas rot ist und es den Weißkopfseeadler nicht sieht, jagt der Weißkopfseeadler den Tiger nicht. Wenn etwas rund ist und es den Tiger nicht sieht, jagt es den Weißkopfseeadler.\nFazit: Der Weißkopfseeadler ist groß.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist nicht blau. Bob ist grün. Bob ist weiß. Dave ist blau. Dave ist pelzig. Erin ist nicht blau. Erin ist weiß. Gary ist pelzig. Gary ist grün. Gary ist nett. Gary ist nicht schlau. Gary ist nicht weiß. Grüne, schlaue Dinge sind pelzig. Alle schlauen Dinge sind nicht pelzig. Nette Dinge sind nicht blau. Wenn etwas nett und nicht nett ist, dann ist es nicht weiß. Blaue, pelzige Dinge sind weiß. Nette Dinge sind schlau.\nFazit: Dave ist nett.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler jagt den Bären. Der Weißkopfseeadler frisst die Maus. Der Weißkopfseeadler braucht den Bären. Der Bär frisst die Maus. Der Bär ist grün. Der Bär ist nett. Der Bär ist rot. Die Maus jagt den Bären. Die Maus frisst den Weißkopfseeadler. Die Maus frisst den Bären. Wenn etwas den Bären frisst und der Bär die Maus frisst, dann ist die Maus nett. Wenn etwas nett ist, dann braucht es den Weißkopfseeadler.\nFazit: Der Bär jagt den Weißkopfseeadler nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze ist rau. Der Hase mag den Tiger. Der Tiger mag die Katze. Wenn etwas die Katze mag, dann ist die Katze groß.\n\nSchlussfolgerung: Der Tiger mag die Katze nicht.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler ist rot. Der Weißkopfseeadler besucht den Hund. Der Hund mag den Weißkopfseeadler. Der Hund besucht das Eichhörnchen. Das Kaninchen mag den Weißkopfseeadler. Das Kaninchen sieht den Weißkopfseeadler. Das Kaninchen sieht den Hund. Das Kaninchen besucht den Hund. Dem Eichhörnchen ist kalt. Das Eichhörnchen mag das Kaninchen. Wenn etwas den Hund besucht, dann mag es den Hund. Wenn etwas den Hund besucht und der Hund rot ist, dann mag der Hund den Weißkopfseeadler.\nSchlussfolgerung: Der Hund besucht das Kaninchen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist ruhig. Bob ist jung. Harry ist nett. Alle netten Dinge sind blau.\n\nSchlussfolgerung: Bob ist rund.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist nett. Harry ist rot. Harry ist weiß. Wenn Harry schlau ist und Harry nicht weiß ist, dann ist Harry rot. Rote Dinge sind nicht nett.\n\nSchlussfolgerung: Harry ist nicht nett.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist kalt. Anne ist pelzig. Fiona ist nett. Wenn Fiona nett ist, dann ist Fiona rau. Raue Menschen sind kalt. Alle kalten, weißen Menschen sind rund. Wenn jemand pelzig ist, dann ist er rau. Wenn Fiona weiß ist und Fiona rund ist, dann ist Fiona groß. Nette Menschen sind weiß.\n\nSchlussfolgerung: Fiona ist weiß.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist groß. Bob ist blau. Bob ist grün. Bob ist nett. Bob ist rund. Dave ist groß. Dave ist blau. Erin ist blau. Erin ist grün. Gary ist grün. Gary ist rund. Gary ist jung. Wenn Erin blau ist, dann ist Erin groß.\nFazit: Erin ist groß.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler ist rot. Der Weißkopfseeadler besucht den Hund. Der Hund mag den Weißkopfseeadler. Der Hund besucht das Eichhörnchen. Das Kaninchen mag den Weißkopfseeadler. Das Kaninchen sieht den Weißkopfseeadler. Das Kaninchen sieht den Hund. Das Kaninchen besucht den Hund. Dem Eichhörnchen ist kalt. Das Eichhörnchen mag das Kaninchen. Wenn etwas den Hund besucht, dann mag es den Hund. Wenn etwas den Hund besucht und der Hund rot ist, dann mag der Hund den Weißkopfseeadler.\nSchlussfolgerung: Das Eichhörnchen mag den Hund nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dem Weißkopfseeadler ist kalt. Der Weißkopfseeadler ist nicht jung. Der Weißkopfseeadler braucht den Bären nicht. Der Weißkopfseeadler braucht die Maus. Der Weißkopfseeadler sieht den Bären. Der Bär sieht den Weißkopfseeadler. Die Maus ist groß. Der Maus ist kalt. Die Maus braucht das Eichhörnchen. Die Maus sieht den Bären. Die Maus sieht das Eichhörnchen. Das Eichhörnchen ist groß. Das Eichhörnchen ist nicht rau. Das Eichhörnchen braucht die Maus. Das Eichhörnchen besucht den Weißkopfseeadler nicht. Das Eichhörnchen besucht den Bären. Wenn etwas kalt ist, dann besucht es die Maus.\nSchlussfolgerung: Das Eichhörnchen besucht die Maus nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär besucht den Hund. Die Kuh ist blau. Der Hund mag die Kuh. Wenn etwas den Hund jagt, ist der Hund nett. Wenn etwas die Kuh mag, mag die Kuh den Bären. Wenn der Bär groß ist, ist der Bär rund.\n\nSchlussfolgerung: Die Kuh mag den Bären.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Katze ist kalt. Die Katze ist rau. Die Katze ist jung. Alle blauen Menschen sind grün. Wenn die Katze grün und jung ist, dann ist der Katze kalt. Alle kalten Menschen sind grün.\n\nSchlussfolgerung: Die Katze mag die Katze nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler jagt die Maus. Der Weißkopfseeadler ist grün. Der Weißkopfseeadler ist rund. Der Weißkopfseeadler sieht die Katze. Der Weißkopfseeadler besucht die Katze. Die Katze jagt die Maus. Die Katze ist rot. Die Katze ist rund. Die Katze sieht den Weißkopfseeadler. Die Katze sieht die Maus. Die Katze besucht den Weißkopfseeadler. Die Katze besucht die Maus. Die Maus jagt den Weißkopfseeadler. Die Maus jagt die Katze. Die Maus sieht die Katze. Wenn etwas die Katze jagt und die Katze die Maus sieht, dann ist die Maus lieb. Wenn die Katze lieb ist und die Katze jung ist, dann besucht die Katze die Maus. Wenn etwas die Katze jagt und sie jung ist, dann jagt es die Maus. Wenn etwas die Maus sieht, dann ist es rot. Wenn etwas die Katze sieht und die Katze rund ist, dann sieht die Katze die Maus. Wenn etwas grün und rot ist, dann sieht es die Maus.\nSchlussfolgerung: Die Maus sieht die Katze.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist nett. Anne ist rot. Anne ist schlau. Dave ist nett. Dave ist schlau. Dave ist jung. Gary ist groß. Gary ist nett. Gary ist jung. Wenn etwas schlau ist, ist es rot. Wenn etwas nett ist, ist es jung. Wenn etwas leise ist, ist es groß.\nFazit: Dave ist rot.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze jagt den Tiger. Die Katze ist groß. Die Katze sieht die Maus. Die Katze sieht den Tiger. Die Katze besucht den Tiger. Die Maus ist blau. Die Maus sieht die Katze. Der Tiger jagt die Katze. Der Tiger jagt die Maus. Der Tiger besucht die Maus. Wenn jemand den Tiger sieht und den Tiger jagt, dann jagt er die Maus. Wenn jemand die Maus sieht und die Maus den Tiger jagt, dann ist er jung.\nSchlussfolgerung: Dem Tiger ist kalt.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Das Eichhörnchen ist nett. Nicht alle netten Dinge sind rund. Runde Dinge sind groß. Alle großen Dinge sind nett.\n\nSchlussfolgerung: Das Eichhörnchen ist nicht nett.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär jagt die Maus. Der Bär ist rot. Der Bär ist rau. Der Bär ist rund. Der Bär braucht den Löwen. Der Bär braucht die Maus. Der Löwe jagt den Bären. Die Maus jagt den Bären. Die Maus jagt den Löwen. Die Maus besucht den Bären. Wenn jemand die Maus jagt, dann jagt die Maus den Löwen. Wenn jemand den Löwen jagt, dann braucht er die Maus. Wenn jemand die Maus braucht, dann besucht die Maus den Löwen.\nSchlussfolgerung: Der Löwe ist rau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Maus mag das Eichhörnchen. Das Eichhörnchen jagt die Maus. Das Eichhörnchen frisst die Maus. Wenn das Eichhörnchen die Maus frisst und die Maus das Eichhörnchen mag, dann jagt die Maus das Eichhörnchen. Wenn etwas grün ist, dann jagt es das Eichhörnchen.\n\nSchlussfolgerung: Die Maus ist blau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist grün. Bob ist freundlich. Bob ist nett. Bob ist ruhig. Bob ist rau. Bob ist jung. Fiona ist freundlich. Fiona ist nett. Fiona ist ruhig. Fiona ist rau. Fiona ist jung. Harry ist blau. Harry ist grün. Harry ist nett. Harry ist rau. Harry ist jung. Wenn jemand rau und grün ist, dann ist er ruhig. Wenn jemand blau und nett ist, dann ist er grün. Alle blauen Menschen sind jung. Wenn jemand rau ist, dann ist er grün. Wenn Bob nett und Bob grün ist, dann ist Bob blau. Alle grünen Menschen sind blau. Alle freundlichen, netten Menschen sind rau. Wenn jemand jung und blau ist, dann ist er nett.\nFazit: Fiona ist nicht grün.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Kuh ist rund. Der Löwe jagt das Eichhörnchen. Der Löwe ist nicht nett. Der Löwe mag die Kuh. Das Eichhörnchen jagt den Tiger. Das Eichhörnchen ist rund. Der Tiger jagt den Löwen. Wenn jemand den Löwen jagt, frisst der Löwe den Tiger. Wenn die Kuh den Löwen nicht jagt, jagt die Kuh den Tiger. Wenn jemand das Eichhörnchen frisst und das Eichhörnchen nett ist, jagt das Eichhörnchen den Löwen.\n\nSchlussfolgerung: Die Kuh jagt den Tiger.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist groß. Charlie ist rund. Erin ist jung. Junge, runde Menschen sind blau. Alle pelzigen, jungen Menschen sind rund. Pelzige Menschen sind blau. Wenn jemand rund ist, dann ist er pelzig. Große, grobe Menschen sind jung. Große, pelzige Menschen sind blau.\n\nFazit: Bob ist jung.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Maus ist nett. Die Maus sieht das Kaninchen. Die Maus sieht das Eichhörnchen. Dem Kaninchen ist kalt. Das Kaninchen ist rund. Das Kaninchen mag die Maus. Das Kaninchen mag das Eichhörnchen. Das Eichhörnchen frisst das Kaninchen. Dem Eichhörnchen ist kalt. Das Eichhörnchen sieht das Kaninchen. Wenn etwas das Eichhörnchen frisst und ihm kalt ist, dann sieht es das Kaninchen. Wenn etwas die Maus mag und ihm kalt ist, dann frisst es die Maus. Wenn etwas das Kaninchen mag, dann ist es rund.\n\nSchlussfolgerung: Die Maus mag das Eichhörnchen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze ist groß. Die Katze ist blau. Die Katze ist rund. Alle blauen Menschen sind grün.\n\nSchlussfolgerung: Die Katze ist nicht grün.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dem Weißkopfseeadler ist kalt. Dem Weißkopfseeadler ist grün. Der Weißkopfseeadler ist rau. Der Weißkopfseeadler ist jung. Der Weißkopfseeadler mag das Eichhörnchen nicht. Der Weißkopfseeadler sieht das Eichhörnchen. Der Weißkopfseeadler besucht das Eichhörnchen. Das Eichhörnchen ist groß. Dem Eichhörnchen ist kalt. Dem Eichhörnchen ist grün. Das Eichhörnchen ist nicht rau. Das Eichhörnchen ist jung. Das Eichhörnchen mag den Weißkopfseeadler. Das Eichhörnchen sieht den Weißkopfseeadler. Das Eichhörnchen besucht den Weißkopfseeadler. Wenn etwas das Eichhörnchen sieht, dann sieht es den Weißkopfseeadler.\nSchlussfolgerung: Der Weißkopfseeadler sieht den Weißkopfseeadler nicht.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler ist rau. Der Weißkopfseeadler braucht den Bären. Der Bär ist nett. Der Bär mag den Weißkopfseeadler. Der Bär mag das Kaninchen. Der Bär braucht den Weißkopfseeadler. Die Maus ist rot. Die Maus braucht das Kaninchen. Das Kaninchen frisst den Bären. Das Kaninchen ist rot. Wenn jemand das Kaninchen frisst, dann braucht er das Kaninchen. Wenn jemand den Bären isst und den Weißkopfseeadler braucht, dann ist der Weißkopfseeadler rot. Wenn jemand groß ist, dann mag er den Bären. Wenn jemand nett ist, dann mag er das Kaninchen. Wenn das Kaninchen groß ist, dann frisst das Kaninchen den Weißkopfseeadler. Raue Menschen sind rund. Wenn das Kaninchen die Maus frisst, dann braucht das Kaninchen die Maus. Wenn jemand das Kaninchen braucht und die Maus braucht, dann ist er rot.\nFazit: Der Weißkopfseeadler ist rund.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Maus ist nicht blau. Die Maus ist nett. Die Maus ist rot. Rote Dinge sind grün. Grüne Dinge sind rot.\n\nSchlussfolgerung: Die Maus frisst die Maus.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär ist rau. Der Hund sieht den Bären. Das Eichhörnchen sieht den Bären. Wenn jemand das Eichhörnchen mag und er das Eichhörnchen nicht sieht, dann braucht er das Eichhörnchen. Wenn jemand den Bären sieht, dann braucht er das Eichhörnchen nicht. Raue, nette Menschen sind kalt. Wenn jemand den Hund braucht und er nicht rau ist, dann mag er das Eichhörnchen. Wenn jemand den Bären braucht, dann mag der Bär den Hund. Wenn der Hund das Eichhörnchen mag, dann braucht das Eichhörnchen den Hund. Wenn jemand den Bären braucht und der Bär den Hund mag, dann braucht der Hund das Eichhörnchen nicht. Wenn jemand den Bären braucht und er das Eichhörnchen nicht braucht, dann mag das Eichhörnchen den Hund.\nSchlussfolgerung: Der Hund ist nicht nett.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär ist nicht rund. Der Bär sieht den Hund. Der Hund sieht das Kaninchen. Das Kaninchen jagt den Hund. Das Kaninchen sieht den Hund. Das Eichhörnchen jagt das Kaninchen nicht. Das Eichhörnchen sieht das Kaninchen. Wenn etwas das Kaninchen sieht, dann mag es das Eichhörnchen.\n\nSchlussfolgerung: Der Bär jagt das Eichhörnchen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Löwe sieht das Eichhörnchen. Der Hase jagt das Eichhörnchen. Das Eichhörnchen sieht den Hasen. Wenn etwas das Eichhörnchen sieht, jagt es den Löwen.\n\nSchlussfolgerung: Der Hase jagt den Löwen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Hase ist groß. Der Hase ist blau. Der Hase ist nett. Der Hase ist rau. Der Hase ist jung. Der Hase mag den Tiger. Der Hase braucht den Tiger. Der Hase besucht den Tiger. Der Tiger ist groß. Der Tiger ist blau. Der Tiger ist nett. Der Tiger ist rau. Der Tiger ist jung. Der Tiger mag den Hasen. Der Tiger braucht den Hasen. Der Tiger besucht den Hasen. Wenn jemand den Tiger mag und den Tiger braucht, dann braucht er den Hasen. Wenn der Hase den Tiger mag und der Hase groß ist, dann besucht der Hase den Tiger. Wenn jemand den Hasen mag, dann braucht der Hase den Tiger. Wenn jemand blau und groß ist, dann besucht er den Tiger. Wenn der Hase nett ist und der Hase den Tiger besucht, dann ist der Tiger jung. Wenn jemand den Hasen braucht und der Hase den Tiger braucht, dann mag der Hase den Tiger. Wenn jemand den Tiger mag, dann braucht er den Hasen. Wenn jemand nett ist, dann braucht er den Tiger.\nFazit: Der Tiger besucht den Tiger.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze frisst den Tiger. Der Katze ist kalt. Die Maus jagt das Eichhörnchen. Die Maus jagt den Tiger nicht. Die Maus braucht die Katze. Das Eichhörnchen frisst die Katze. Das Eichhörnchen frisst den Tiger nicht. Das Eichhörnchen ist grün. Das Eichhörnchen ist jung. Das Eichhörnchen braucht die Katze. Das Eichhörnchen braucht den Tiger. Der Tiger jagt die Maus nicht. Wenn jemand die Maus frisst und er nicht groß ist, dann ist die Maus nicht grün. Wenn das Eichhörnchen den Tiger braucht und das Eichhörnchen jung ist, dann jagt das Eichhörnchen die Maus. Wenn die Katze den Tiger braucht und die Katze das Eichhörnchen frisst, dann frisst der Tiger die Maus nicht. Wenn das Eichhörnchen die Katze jagt und die Katze den Tiger jagt, dann frisst der Tiger das Eichhörnchen nicht. Wenn die Katze den Tiger jagt, dann braucht der Tiger das Eichhörnchen nicht. Wenn die Maus die Katze frisst, dann braucht die Maus den Tiger nicht. Fazit: Das Eichhörnchen jagt die Maus.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär jagt den Tiger. Der Bär ist jung. Der Bär mag den Hasen. Der Bär mag den Tiger. Der Bär besucht den Tiger. Der Hase jagt den Bären nicht. Der Hase jagt den Tiger. Der Hase ist nicht nett. Der Hase mag den Bären. Der Hase mag den Tiger. Der Hase besucht den Bären. Der Hase besucht den Tiger. Der Tiger ist rot. Der Tiger ist jung. Der Tiger mag den Hasen nicht. Wenn jemand den Tiger besucht, besucht der Tiger den Bären. Wenn der Tiger den Bären besucht, mag der Tiger den Bären nicht. Wenn jemand den Hasen mag, ist er rot. Wenn jemand den Hasen besucht und nicht grün ist, mag er den Tiger. Wenn jemand den Hasen besucht, besucht der Hase den Tiger nicht. Wenn jemand den Bären besucht und das Kaninchen nicht besucht, ist der Hase groß.\nSchlussfolgerung: Der Hase ist grün.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist grün. Dave ist nicht groß. Gary ist leise. Harry ist groß. Alle schönen, großen Dinge sind leise. Alle schönen, grünen Dinge sind leise. Wenn Gary groß und Gary nicht jung ist, dann ist Gary nett. Weiße, junge Dinge sind groß. Wenn etwas jung ist, dann ist es nicht groß. Alle weißen, grünen Dinge sind nicht schön. Wenn etwas leise ist, dann ist es nicht nett. Wenn etwas groß und nicht leise ist, dann ist es nicht nett.\nFazit: Dave ist grün.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist blau. Bob ist pelzig. Bob ist grün. Bob ist rau. Bob ist jung. Erin ist pelzig. Erin ist rau. Erin ist rund. Erin ist jung. Harry ist blau. Harry ist pelzig. Harry ist grün. Harry ist rau. Harry ist rund. Harry ist schlau. Harry ist jung. Alle grünen Dinge sind schlau.\nFazit: Erin ist nicht blau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist blau. Bob ist pelzig. Bob ist nett. Bob ist rau. Charlie ist groß. Charlie ist pelzig. Charlie ist nett. Charlie ist rau. Fiona ist groß. Fiona ist pelzig. Fiona ist nett. Fiona ist schlau. Gary ist blau. Gary ist pelzig. Gary ist rau. Wenn Gary nett ist, dann ist Gary blau. Alle schlauen, pelzigen Menschen sind groß. Pelzige Menschen sind schlau.\nFazit: Bob ist nett.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist grün. Charlie ist rau. Dave ist pelzig. Dave ist jung. Erin ist kalt. Erin ist pelzig. Erin ist rot. Erin ist rau. Gary ist groß. Gary ist kalt. Wenn Erin kalt ist, dann ist Erin grün.\n\nSchlussfolgerung: Dave ist kalt.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dem Bären ist kalt. Der Bär braucht den Tiger. Der Tiger mag den Bären. Wenn jemand groß ist und den Tiger nicht mag, dann mag der Tiger den Bären. Wenn jemand den Tiger braucht und der Tiger nett ist, dann frisst der Tiger den Bären nicht. Wenn jemand den Bären braucht und der Bär groß ist, dann ist er nett. Wenn jemand den Bären braucht, dann frisst er den Tiger. Wenn jemand den Bären mag, dann frisst er den Bären nicht. Wenn der Tiger den Bären mag und der Bär den Tiger nicht mag, dann ist der Tiger blau. Wenn jemand den Tiger mag und der Tiger den Bären mag, dann ist der Tiger nicht groß. Wenn der Bär den Tiger nicht frisst, dann ist der Tiger nicht nett.\nFazit: Der Tiger mag den Bären.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dem Weißkopfseeadler ist kalt. Die Kuh mag den Weißkopfseeadler. Der Hund besucht den Weißkopfseeadler. Der Löwe mag den Weißkopfseeadler. Wenn etwas kalt ist, besucht er den Hund.\n\nSchlussfolgerung: Die Kuh mag den Weißkopfseeadler.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist schlau. Charlie ist grob. Dave ist rund. Erin ist schlau. Wenn Bob groß ist, ist Bob grün. Wenn jemand rund ist, ist er nicht schlau.\n\nSchlussfolgerung: Bob ist nicht rund.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dave ist groß. Dave ist grün. Dave ist rau. Dave ist nicht rund. Dave ist jung. Fiona ist groß. Fiona ist blau. Fiona ist grün. Fiona ist rund. Fiona ist jung. Große, junge Dinge sind blau. Weiße Dinge sind grün. Wenn etwas jung und nicht groß ist, dann ist es nicht weiß.\nFazit: Fiona ist nicht rau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Kuh jagt den Hasen. Die Kuh ist freundlich. Die Kuh ist nett. Die Kuh ist rund. Die Kuh braucht den Löwen. Die Kuh braucht den Hasen. Die Kuh besucht den Hasen. Der Löwe jagt den Hasen. Der Löwe ist grün. Der Löwe ist freundlich. Der Löwe ist nett. Der Löwe braucht die Kuh. Der Löwe besucht die Kuh. Der Löwe besucht den Hasen. Der Hase ist freundlich. Der Hase besucht die Kuh. Wenn jemand den Hasen jagt, dann braucht der Hase den Löwen.\nFazit: Der Löwe jagt den Löwen nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist blau. Bob ist pelzig. Bob ist schlau. Bob ist weiß. Bob ist jung. Dave ist nicht pelzig. Erin ist weiß. Harry ist nicht blau. Harry ist rot. Harry ist rund. Alle pelzigen, runden Dinge sind blau. Blaue Dinge sind weiß. Weiße Dinge sind rund. Wenn Dave rund ist, dann ist Dave jung. Wenn Erin weiß ist und Erin nicht rund, dann ist Erin nicht schlau. Wenn etwas pelzig ist, dann ist es rot. Wenn etwas jung und nicht blau ist, dann ist es rot. Wenn Bob nicht rot ist, dann ist Bob schlau.\nFazit: Dave ist nicht weiß.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist nicht ruhig. Anne ist nicht schlau. Anne ist weiß. Dave ist rund. Erin ist nett. Erin ist ruhig. Erin ist rund. Erin ist schlau. Erin ist weiß. Erin ist jung. Runde Menschen sind ruhig. Ruhige Menschen sind nett. Wenn jemand nett und nicht rund ist, ist er grün. Wenn jemand weiß und nicht schlau ist, ist er grün. Runde Menschen sind grün. Alle runden Menschen sind weiß.\nFazit: Anne ist nicht nett.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist rund. Dave ist rau. Fiona ist ruhig. Wenn jemand rau ist, ist er nicht blau. Wenn Fiona ruhig ist und Fiona nicht rau ist, ist Fiona pelzig.\n\nFazit: Charlie ist nett.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze ist rund. Die Katze mag den Tiger. Die Katze braucht das Eichhörnchen. Die Katze braucht den Tiger. Das Eichhörnchen mag den Tiger. Das Eichhörnchen braucht den Tiger. Das Eichhörnchen sieht die Katze. Der Tiger mag die Katze. Der Tiger mag das Eichhörnchen. Der Tiger braucht die Katze. Der Tiger braucht das Eichhörnchen. Der Tiger sieht die Katze. Wenn etwas die Katze sieht, dann mag es den Tiger.\nSchlussfolgerung: Das Eichhörnchen mag das Eichhörnchen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist kalt. Charlie ist leise. Charlie ist schlau. Dave ist kalt. Dave ist leise. Dave ist rund. Dave ist schlau. Wenn etwas rund und nicht rau ist, dann ist es kalt. Schlaue, runde Dinge sind rot. Wenn Dave rau und Dave rund ist, dann ist Dave kalt.\n\nFazit: Charlie ist leise.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist kalt. Bob ist pelzig. Bob ist nett. Bob ist rot. Bob ist nicht rau. Bob ist rund. Bob ist weiß. Charlie ist rau. Charlie ist weiß. Dave ist rot. Dave ist rau. Dave ist rund. Dave ist weiß. Harry ist kalt. Harry ist nett. Harry ist rau. Wenn etwas rau und rund ist, dann ist es rot. Wenn etwas nett und pelzig ist, dann ist es rot. Wenn etwas kalt und nicht rau ist, dann ist es pelzig. Wenn etwas kalt ist, dann ist es pelzig. Alle netten, kalten Dinge sind pelzig. Alle kalten Dinge sind nett. Wenn etwas kalt und weiß ist, dann ist es rund. Alle kalten, pelzigen Dinge sind rund.\nFazit: Harry ist nicht pelzig.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär besucht die Katze. Die Katze ist groß. Die Katze braucht den Bären. Wenn jemand groß ist, dann mag er die Katze.\n\nSchlussfolgerung: Der Bär besucht die Katze nicht.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär frisst den Hund. Der Bär ist grün. Der Bär ist freundlich. Der Bär sieht den Hund. Der Hund ist grob. Der Hund ist rund. Der Hund sieht den Bären. Wenn jemand freundlich ist und den Hund sieht, frisst der Hund den Bären nicht.\n\nSchlussfolgerung: Der Bär ist grob.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist nicht blau. Dave ist blau. Dave ist schlau. Dave ist weiß. Dave ist jung. Harry ist groß. Harry ist schlau. Wenn etwas schlau und nicht weiß ist, dann ist es blau. Große Dinge sind nicht blau. Wenn etwas grün und nicht kalt ist, dann ist es nicht blau. Wenn etwas grün und jung ist, dann ist es nicht groß. Wenn etwas schlau und nicht weiß ist, dann ist es nicht groß. Wenn Dave groß ist, dann ist Dave jung.\nFazit: Charlie ist nicht schlau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist blau. Erin ist groß. Erin ist kalt. Erin ist leise. Erin ist rund. Erin ist weiß. Fiona ist blau. Fiona ist kalt. Fiona ist leise. Fiona ist weiß. Kalte, leise Dinge sind pelzig. Große Dinge sind leise. Wenn etwas kalt und groß ist, dann ist es rund. Wenn etwas kalt ist, dann ist es rund. Alle blauen, kalten Dinge sind leise. Wenn etwas kalt und groß ist, dann ist es rund.\nFazit: Erin ist nicht weiß.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler frisst den Löwen. Der Weißkopfseeadler ist rot. Der Weißkopfseeadler mag den Löwen. Der Weißkopfseeadler braucht den Löwen. Der Löwe frisst den Weißkopfseeadler. Dem Löwen ist kalt. Der Löwe ist grün. Der Löwe ist nett. Der Löwe ist rot. Der Löwe ist rau. Der Löwe mag den Weißkopfseeadler. Der Löwe braucht den Weißkopfseeadler. Wenn jemand den Löwen frisst und der Löwe ist nett, dann ist ihm kalt. Wenn jemand den Weißkopfseeadler isst und er den Löwen mag, dann ist der Löwe nett. Wenn jemand den Weißkopfseeadler isst, dann braucht er den Weißkopfseeadler. Wenn jemand den Weißkopfseeadler braucht, dann frisst der Weißkopfseeadler den Löwen. Wenn jemand rau ist, dann frisst er den Weißkopfseeadler. Wenn jemand nett ist, dann ist er rau.\nFazit: Der Weißkopfseeadler ist rau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze sieht die Kuh. Die Kuh ist grün. Das Kaninchen ist grün. Der Tiger besucht die Katze. Wenn jemand die Kuh besucht, frisst er die Kuh. Wenn jemand die Katze besucht, sieht er das Kaninchen. Wenn jemand die Katze sieht, besucht er das Kaninchen. Wenn jemand das Kaninchen sieht, frisst das Kaninchen die Kuh. Wenn jemand den Tiger besucht und der Tiger die Kuh frisst, frisst die Kuh das Kaninchen. Wenn jemand rund und nett ist, besucht er das Kaninchen.\n\nSchlussfolgerung: Die Katze sieht die Kuh nicht.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist groß. Anne ist pelzig. Anne ist grün. Anne ist nett. Anne ist ruhig. Anne ist rot. Anne ist weiß. Charlie ist groß. Charlie ist pelzig. Charlie ist grün. Charlie ist nett. Charlie ist rot. Charlie ist weiß. Dave ist grün. Dave ist nett. Dave ist ruhig. Ruhige, nette Dinge sind weiß.\nFazit: Dave ist rot.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Erin ist freundlich. Erin ist rau. Fiona ist nicht grün. Fiona ist freundlich. Fiona ist ruhig. Fiona ist rot. Fiona ist rau. Fiona ist nicht weiß. Fiona ist jung. Gary ist grün. Gary ist freundlich. Gary ist rau. Junge, ruhige Dinge sind rot. Wenn etwas rau ist, dann ist es rot.\n\nFazit: Erin ist jung.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist nicht nett. Bob ist grob. Erin ist groß. Erin ist blau. Erin ist nett. Erin ist grob. Erin ist schlau. Fiona ist groß. Fiona ist nicht nett. Fiona ist grob. Fiona ist schlau. Fiona ist nicht weiß. Fiona ist jung. Harry ist nicht blau. Harry ist nett. Harry ist grob. Alle jungen, netten Menschen sind groß. Nette, junge Menschen sind groß. Wenn jemand nett und nicht weiß ist, dann ist er groß. Alle schlauen Menschen sind jung. Wenn Fiona jung und Fiona blau ist, dann ist Fiona nett. Alle blauen Menschen sind nett. Wenn Erin blau ist, dann ist Erin schlau. Wenn Bob grob und Bob nicht jung ist, dann ist Bob groß.\nFazit: Erin ist nicht jung.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist ruhig. Bob ist rot. Bob ist rau. Bob ist nicht weiß. Bob ist jung. Charlie ist pelzig. Charlie ist nett. Charlie ist ruhig. Charlie ist rot. Charlie ist weiß. Alle rauen Menschen sind nett. Wenn jemand rau und nicht pelzig ist, dann ist er weiß.\n\nFazit: Bob ist nett.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist pelzig. Anne ist nicht nett. Charlie ist nett. Charlie ist jung. Gary ist nicht nett. Gary ist rau. Harry ist groß. Harry ist leise. Harry ist rau. Harry ist rund. Wenn etwas rau und nicht leise ist, dann ist es groß. Wenn etwas rund ist, dann ist es groß. Alle runden, leisen Dinge sind nett.\nFazit: Harry ist nicht nett.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Kuh frisst das Kaninchen. Die Kuh mag den Löwen. Der Löwe frisst die Maus. Die Maus ist nett. Die Maus sieht den Löwen nicht. Das Kaninchen ist groß. Das Kaninchen sieht den Löwen. Wenn etwas die Kuh frisst und die Kuh die Maus mag, dann frisst die Maus die Kuh. Wenn etwas den Löwen frisst, dann frisst der Löwe die Maus nicht. Wenn etwas nett ist und die Kuh sieht, dann sieht es die Maus. Wenn die Kuh nett ist, dann frisst die Kuh die Maus. Wenn das Kaninchen die Kuh mag und das Kaninchen den Löwen sieht, dann ist das Kaninchen nicht blau. Junge, blaue Dinge sind groß. Wenn etwas die Kuh mag und den Löwen nicht frisst, dann sieht die Kuh den Löwen nicht. Wenn etwas groß ist, dann mag es den Löwen nicht.\nSchlussfolgerung: Der Löwe sieht den Löwen nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist nett. Charlie ist grün. Fiona ist pelzig. Gary ist grün. Wenn Anne groß und nett ist, dann ist Anne rot. Alle netten Menschen sind grün.\n\nSchlussfolgerung: Charlie ist grün.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler jagt die Katze. Der Weißkopfseeadler ist blau. Der Weißkopfseeadler braucht die Katze. Der Weißkopfseeadler sieht das Eichhörnchen. Die Katze ist jung. Die Katze braucht das Eichhörnchen. Das Eichhörnchen jagt die Katze. Das Eichhörnchen ist groß. Das Eichhörnchen ist rau. Das Eichhörnchen ist jung. Das Eichhörnchen braucht den Weißkopfseeadler. Das Eichhörnchen sieht den Weißkopfseeadler. Wenn jemand den Weißkopfseeadler sieht, sieht er die Katze.\nSchlussfolgerung: Das Eichhörnchen ist groß.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist groß. Anne ist kalt. Anne ist rot. Anne ist nicht jung. Erin ist kalt. Erin ist jung. Fiona ist nett. Fiona ist jung. Gary ist nicht groß. Gary ist kalt. Gary ist nett. Gary ist jung. Alle jungen, grünen Menschen sind kalt. Wenn jemand nett und nicht rau ist, dann ist er kalt. Wenn Fiona kalt ist, dann ist Fiona nett. Alle netten Menschen sind nicht grün. Wenn jemand nett und nicht jung ist, dann ist er groß. Alle rauen, kalten Menschen sind nicht groß. Alle kalten, rauen Menschen sind nicht rot. Wenn jemand groß und nicht rau ist, dann ist er nicht rot.\nFazit: Fiona ist rau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze jagt die Maus. Die Katze besucht den Löwen nicht. Der Löwe jagt die Katze. Der Löwe jagt die Maus. Dem Löwen ist kalt. Der Löwe sieht die Katze nicht. Der Löwe sieht die Maus. Die Maus jagt den Löwen. Die Maus ist grün. Die Maus besucht die Katze. Wenn etwas kalt ist und die Maus jagt, dann sieht die Maus die Katze nicht.\n\nFazit: Der Löwe ist nicht nett.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist jung. Bob ist nett. Gary ist rau. Alle rauen Dinge sind nett. Weiße Dinge sind pelzig.\nFazit: Gary ist nett.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist blau. Charlie ist nett. Erin ist groß. Erin ist blau. Erin ist grün. Erin ist nett. Erin ist schlau. Gary ist groß. Gary ist grün. Gary ist schlau. Wenn etwas jung ist, dann ist es groß. Alle grünen Dinge sind nett.\nFazit: Gary ist nett.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dem Bären wird das Eichhörnchen aufgefressen. Dem Bären ist kalt. Dem Bären ist nett. Der Bär ist rau. Der Bär ist rund. Der Bär ist jung. Der Bär mag das Eichhörnchen. Der Bär sieht das Eichhörnchen. Das Eichhörnchen frisst den Bären. Dem Eichhörnchen ist kalt. Dem Bären ist nett. Das Eichhörnchen ist rau. Das Eichhörnchen ist rund. Das Eichhörnchen ist jung. Das Eichhörnchen mag den Bären. Das Eichhörnchen sieht den Bären. Wenn etwas den Bären mag, dann frisst es das Eichhörnchen.\nSchlussfolgerung: Der Bär mag den Bären.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze besucht die Kuh. Die Kuh frisst den Löwen. Der Hund ist jung. Der Löwe frisst den Hund. Wenn jemand die Kuh jagt und nett ist, besucht er den Löwen. Wenn jemand die Katze besucht und die Katze die Kuh jagt, jagt er die Katze. Junge Leute sind grün. Wenn jemand rot und grün ist, besucht er den Hund. Wenn der Hund den Löwen frisst, jagt der Hund die Katze. Wenn die Katze den Hund jagt und der Hund den Löwen frisst, ist der Hund rot. Wenn jemand die Kuh frisst und die Kuh den Hund frisst, frisst der Hund die Katze. Wenn jemand nett ist, frisst er den Hund.\nFazit: Der Hund ist nicht grün.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär frisst die Katze. Die Katze frisst die Kuh. Die Katze besucht den Bären. Die Kuh frisst die Katze. Die Kuh ist blau. Die Kuh braucht den Bären. Die Kuh braucht den Tiger. Die Kuh besucht den Bären. Die Kuh besucht die Katze. Der Tiger ist blau. Der Tiger braucht die Katze. Der Tiger besucht den Bären. Wenn etwas den Bären frisst, dann braucht es den Bären. Wenn etwas rau ist und die Kuh braucht, dann ist die Kuh freundlich. Wenn etwas rau ist, dann braucht es die Kuh. Wenn etwas kalt und blau ist, dann braucht es den Tiger. Wenn etwas groß ist, dann frisst es den Bären. Wenn etwas den Bären braucht und die Kuh frisst, dann ist die Kuh freundlich. Wenn etwas rau ist, dann braucht es den Tiger. Wenn etwas die Katze besucht und den Tiger braucht, dann ist es kalt.\nSchlussfolgerung: Der Tiger frisst den Bären.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Hase besucht das Eichhörnchen. Das Eichhörnchen frisst den Hasen. Das Eichhörnchen ist groß. Wenn etwas das Eichhörnchen frisst, frisst das Eichhörnchen den Hasen. Wenn der Hase lieb ist und der Hase das Eichhörnchen frisst, frisst das Eichhörnchen den Hasen. Wenn etwas den Hasen mag und der Hase das Eichhörnchen besucht, besucht es den Hasen. Wenn etwas das Eichhörnchen besucht, mag das Eichhörnchen den Hasen. Wenn etwas das Eichhörnchen besucht, mag es den Hasen. Wenn der Hase das Eichhörnchen mag und der Hase das Eichhörnchen besucht, ist der Hase rot.\n\nSchlussfolgerung: Der Hase mag das Eichhörnchen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist kalt. Anne hat kein Fell. Anne ist nett. Anne ist schlau. Bob ist nicht leise. Bob ist nicht schlau. Dave ist groß. Fiona ist groß. Fiona ist leise. Fiona ist rau. Alle leisen, kalten Dinge sind nett. Ruhige, große Dinge sind kalt.\nFazit: Anne ist schlau.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist groß. Charlie ist kalt. Charlie ist nett. Erin ist groß. Erin ist nett. Erin ist schlau. Gary ist kalt. Gary ist grün. Gary ist rot. Harry ist rund. Wenn Harry groß ist, dann ist Harry rot. Kalte Dinge sind nett. Alle roten Dinge sind rund.\nFazit: Charlie ist nicht groß.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Kuh braucht das Eichhörnchen. Die Maus jagt den Tiger. Die Maus frisst die Kuh. Das Eichhörnchen braucht die Maus. Der Tiger frisst die Kuh nicht. Der Tiger braucht die Kuh. Der Tiger braucht das Eichhörnchen. Wenn etwas den Tiger jagt, ist es blau. Wenn etwas rot ist und die Kuh braucht, ist die Kuh nicht jung. Wenn etwas den Tiger jagt und rot ist, braucht es die Kuh.\nSchlussfolgerung: Die Kuh braucht die Maus.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler braucht den Hund. Die Katze braucht den Weißkopfseeadler. Der Hund sieht den Weißkopfseeadler. Wenn jemand den Weißkopfseeadler mag, braucht er den Hund. Wenn jemand die Katze braucht, ist die Katze jung. Wenn jemand den Weißkopfseeadler sieht, braucht der Weißkopfseeadler den Hund. Wenn jemand die Katze braucht und grün ist, sieht er den Weißkopfseeadler. Wenn jemand den Weißkopfseeadler braucht und ihm ist kalt, braucht er die Katze. Wenn jemand nett ist, braucht er den Hund. Wenn jemand die Katze sieht, ist er nett. Wenn jemand den Weißkopfseeadler braucht, sieht der Weißkopfseeadler den Hund.\nFazit: Die Katze braucht den Hund nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Löwe ist blau. Der Löwe ist grün. Der Löwe braucht das Eichhörnchen. Der Löwe besucht das Eichhörnchen. Die Maus frisst den Löwen. Die Maus ist grob. Die Maus braucht den Löwen. Das Eichhörnchen frisst den Löwen. Das Eichhörnchen frisst die Maus. Das Eichhörnchen besucht die Maus. Wenn jemand das Eichhörnchen braucht und das Eichhörnchen grob ist, dann besucht er den Löwen. Wenn jemand die Maus besucht und den Löwen frisst, dann ist er grün.\n\nSchlussfolgerung: Der Löwe braucht das Eichhörnchen nicht.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dave ist blau. Dave ist kalt. Dave ist nett. Erin ist blau. Erin ist kalt. Erin ist nett. Erin ist ruhig. Erin ist jung. Harry ist kalt. Wenn jemand blau ist, dann ist er ruhig.\nFazit: Dave ist nicht ruhig.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler ist groß. Der Hase braucht den Weißkopfseeadler. Das Eichhörnchen mag den Hasen. Wenn der Hase grün ist, ist der Hase groß. Wenn etwas den Hasen mag, jagt es den Hasen. Wenn etwas den Hasen mag und der Hase jung ist, braucht es den Weißkopfseeadler. Wenn etwas den Eichhörnchen jagt, braucht es den Weißkopfseeadler. Wenn etwas das Eichhörnchen braucht und das Eichhörnchen den Weißkopfseeadler mag, jagt das Eichhörnchen den Hasen. Wenn etwas den Hasen jagt, mag der Hase den Weißkopfseeadler.\nSchlussfolgerung: Das Eichhörnchen mag den Hasen.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist pelzig. Anne ist grün. Anne ist rot. Anne ist rund. Bob ist nicht pelzig. Bob ist nicht grün. Bob ist rund. Gary ist nicht pelzig. Gary ist nett. Gary ist rot. Gary ist rund. Gary ist schlau. Harry ist grün. Harry ist nicht rau. Harry ist rund. Runde, pelzige Menschen sind schlau. Alle pelzigen, roten Menschen sind rund. Wenn jemand rau ist, dann ist er rund. Wenn Bob rund ist und Bob nicht rot ist, dann ist Bob nicht schlau. Wenn Gary rau ist, dann ist Gary rot. Wenn jemand rau und nicht schlau ist, dann ist er grün.\nFazit: Gary ist rot.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze frisst den Löwen. Der Löwe frisst die Katze. Der Löwe ist nett. Wenn jemand groß ist und die Katze besucht, dann besucht er den Löwen. Wenn jemand nett ist, dann braucht er die Katze.\n\nSchlussfolgerung: Der Löwe ist nicht nett.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär jagt die Maus. Der Bär ist groß. Der Bär ist grün. Der Bär mag den Löwen. Der Löwe jagt den Bären. Der Löwe jagt die Maus. Der Löwe ist groß. Der Löwe mag den Bären nicht. Der Löwe mag das Eichhörnchen. Der Löwe braucht die Maus nicht. Der Löwe braucht das Eichhörnchen. Die Maus ist groß. Das Eichhörnchen ist groß. Dem Eichhörnchen ist kalt. Das Eichhörnchen mag den Bären. Das Eichhörnchen braucht die Maus. Wenn jemand die Maus jagt, ist er rund.\n\nSchlussfolgerung: Der Bär braucht das Eichhörnchen nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär ist blau. Der Bär ist rot. Der Bär ist nicht jung. Die Kuh besucht den Hund. Der Hund besucht den Löwen nicht. Der Löwe jagt die Kuh. Der Löwe braucht die Kuh. Wenn der Hund die Kuh besucht, braucht die Kuh den Hund nicht. Wenn jemand die Kuh jagt, ist die Kuh blau. Wenn der Löwe den Bären jagt, ist der Löwe groß. Wenn jemand jung ist, besucht er den Hund nicht. Wenn der Hund die Kuh braucht, jagt die Kuh den Bären. Wenn jemand die Kuh braucht, ist die Kuh nett.\nSchlussfolgerung: Die Kuh ist nicht blau.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär jagt die Maus nicht. Der Bär braucht die Katze nicht. Der Bär braucht die Maus nicht. Der Bär besucht die Maus nicht. Die Katze jagt den Bären nicht. Die Katze jagt die Maus. Der Katze ist kalt. Die Katze braucht den Bären. Die Katze braucht die Maus. Die Katze besucht die Maus. Der Maus ist nicht kalt. Die Maus braucht die Katze. Wenn etwas kalt ist, dann jagt es die Katze.\n\nSchlussfolgerung: Die Maus jagt die Katze.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Weißkopfseeadler besucht den Tiger. Der Hase braucht den Weißkopfseeadler. Der Tiger besucht den Weißkopfseeadler. Wenn der Tiger jung ist, mag der Tiger den Hasen. Schöne Dinge sind rund. Wenn etwas den Hasen braucht und schön ist, mag der Hase den Tiger. Wenn der Hase den Weißkopfseeadler mag, mag der Weißkopfseeadler den Tiger. Wenn der Tiger den Weißkopfseeadler besucht und der Weißkopfseeadler den Tiger besucht, ist der Weißkopfseeadler rot. Wenn etwas den Hasen braucht und den Tiger nicht mag, besucht der Tiger den Weißkopfseeadler nicht.\nFazit: Der Weißkopfseeadler ist rot.",
+        "output": "A"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Hase ist groß. Der Hase ist blau. Der Hase ist nett. Der Hase ist rau. Der Hase ist jung. Der Hase mag den Tiger. Der Hase braucht den Tiger. Der Hase besucht den Tiger. Der Tiger ist groß. Der Tiger ist blau. Der Tiger ist nett. Der Tiger ist rau. Der Tiger ist jung. Der Tiger mag den Hasen. Der Tiger braucht den Hasen. Der Tiger besucht den Hasen. Wenn jemand den Tiger mag und den Tiger braucht, dann braucht er den Hasen. Wenn der Hase den Tiger mag und der Hase groß ist, dann besucht der Hase den Tiger. Wenn jemand den Hasen mag, dann braucht der Hase den Tiger. Wenn jemand blau und groß ist, dann besucht er den Tiger. Wenn der Hase nett ist und der Hase den Tiger besucht, dann ist der Tiger jung. Wenn jemand den Hasen braucht und der Hase den Tiger braucht, dann mag der Hase den Tiger. Wenn jemand den Tiger mag, dann braucht er den Hasen. Wenn jemand nett ist, dann braucht er den Tiger.\nFazit: Der Tiger braucht den Tiger nicht.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär braucht den Löwen. Die Katze frisst den Bären. Die Katze frisst den Löwen. Die Katze ist groß. Die Katze ist blau. Die Katze ist jung. Die Katze braucht den Löwen. Die Katze besucht den Löwen. Der Löwe frisst den Bären. Der Löwe frisst die Katze. Der Löwe ist groß. Der Löwe ist rund. Der Löwe braucht die Katze. Der Löwe besucht den Bären. Der Löwe besucht die Katze. Wenn jemand den Bären frisst, dann braucht er den Löwen. Wenn der Bär rau ist und der Löwe den Bären nicht besucht, dann frisst der Löwe die Katze. Wenn der Bär die Katze frisst und die Katze den Löwen nicht frisst, dann frisst der Löwe die Katze. Wenn der Löwe die Katze braucht, dann besucht der Löwe die Katze. Wenn jemand den Bären besucht, dann ist dieser jung. Wenn jemand den Löwen frisst und die Katze nicht braucht, dann braucht die Katze den Löwen.\nSchlussfolgerung: Die Katze besucht die Katze.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Dave ist rot. Erin ist nicht kalt. Erin ist nett. Erin ist ruhig. Gary ist nicht kalt. Gary ist rot. Harry ist ruhig. Alle ruhigen Dinge sind nett. Wenn Harry kalt ist und Harry rot ist, dann ist Harry blau. Wenn Harry grün ist, dann ist Harry nicht nett. Wenn etwas rot und nicht nett ist, dann ist es nicht grün. Nette Dinge sind blau. Rote, nette Dinge sind blau.\n\nSchlussfolgerung: Dave ist grün.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist rau. Bob ist rau. Erin ist rau. Gary ist rau. Große, grüne Menschen sind schlau. Alle pelzigen, roten Menschen sind schlau. Raue Menschen sind kalt. Alle grünen, schlauen Menschen sind kalt. Wenn jemand kalt ist, dann ist er nicht pelzig. Grüne, große Menschen sind rot.\n\nFazit: Anne ist nicht grün.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist groß. Charlie ist blau. Dave ist blau. Erin ist ruhig. Alle ruhigen, blauen Menschen sind freundlich. Junge Menschen sind blau. Pelzige, große Menschen sind blau. Blaue, freundliche Menschen sind ruhig. Wenn jemand ruhig ist, dann ist er freundlich. Alle jungen, großen Menschen sind blau.\n\nSchlussfolgerung: Anne ist jung.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist rot. Anne ist schlau. Bob ist nett. Bob ist nett. Bob ist ruhig. Dave ist ruhig. Dave ist weiß. Alle ruhigen, schlauen Dinge sind rau. Wenn etwas nett ist, dann ist es weiß. Rote Dinge sind nett.\nFazit: Bob ist nicht schlau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist pelzig. Charlie ist pelzig. Charlie ist nicht grün. Erin ist nett. Erin ist jung. Harry ist grün. Harry ist nicht nett. Wenn etwas groß und nicht grün ist, dann ist es nicht rot. Alle roten Dinge sind pelzig. Alle jungen Dinge sind nett.\nSchlussfolgerung: Anne ist jung.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Erin ist nett. Gary ist rau. Wenn jemand pelzig und rau ist, ist er jung. Wenn Gary rau und Gary nett ist, ist Gary jung. Blaue, ruhige Menschen sind rot. Wenn Gary nett und Gary ruhig ist, ist Gary blau. Wenn Gary rot ist, ist Gary pelzig. Alle netten Menschen sind pelzig.\nFazit: Erin ist nicht pelzig.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Charlie ist pelzig. Charlie ist nicht schlau. Fiona ist groß. Fiona ist pelzig. Fiona ist rund. Fiona ist schlau. Fiona ist jung. Junge Dinge sind nicht blau. Alle schlauen Dinge sind jung. Alle pelzigen Dinge sind rund. Wenn etwas rund und nicht jung ist, dann ist es pelzig. Wenn etwas pelzig und nicht rund ist, dann ist es weiß. Wenn etwas weiß und nicht pelzig ist, dann ist es nicht groß.\nFazit: Fiona ist nicht weiß.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Der Bär jagt die Kuh. Der Bär ist groß. Der Bär ist blau. Der Bär ist grün. Der Bär ist freundlich. Der Bär ist nett. Der Bär mag die Kuh. Der Bär braucht die Kuh. Die Kuh jagt den Bären. Die Kuh ist groß. Die Kuh ist blau. Die Kuh ist grün. Die Kuh ist nett. Die Kuh mag den Bären. Die Kuh braucht den Bären. Wenn jemand die Kuh jagt und die Kuh den Bären jagt, dann mag die Kuh den Bären. Wenn der Bär die Kuh braucht, dann ist die Kuh groß. Wenn jemand den Bären jagt, dann mag er den Bären. Wenn jemand die Kuh mag, dann jagt er den Bären. Wenn die Kuh den Bären jagt, dann mag die Kuh den Bären. Wenn jemand die Kuh jagt, dann mag die Kuh den Bären. Wenn jemand den Bären jagt und der Bär die Kuh mag, dann jagt der Bär die Kuh. Wenn jemand den Bären braucht, dann jagt er den Bären.\nSchlussfolgerung: Die Kuh braucht die Kuh nicht.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist rau. Anne ist schlau. Bob ist blau. Bob ist nett. Bob ist rau. Dave ist blau. Dave ist pelzig. Dave ist nett. Dave ist rau. Gary ist rot. Raue, rote Menschen sind jung. Alle schlauen, rauen Menschen sind pelzig.\nFazit: Anne ist nicht pelzig.",
+        "output": "B"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Bob ist blau. Erin ist grün. Harry ist ruhig. Wenn Erin grün ist, dann ist Erin ruhig. Wenn Bob grün ist, dann ist Bob groß. Alles Weiße, Ruhige ist rau.\n\nSchlussfolgerung: Harry ist blau.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze frisst den Hund. Die Katze ist lieb. Die Katze mag den Hund. Der Hund mag die Katze. Der Hund mag den Löwen. Der Löwe ist blau. Der Löwe ist grün. Wenn jemand den Löwen mag, ist der Löwe grün. Wenn die Katze lieb ist und die Katze den Hund mag, ist die Katze grün. Wenn jemand die Katze besucht und sie frisst, besucht er den Löwen. Wenn jemand den Hund besucht, frisst der Hund die Katze. Wenn jemandem kalt ist, besucht er die Katze. Wenn der Hund die Katze besucht und die Katze den Löwen frisst, mag der Hund den Löwen. Wenn jemand blau ist und die Katze mag, ist er nett. Wenn der Hund die Katze frisst, frisst die Katze den Hund.\nSchlussfolgerung: Der Hund besucht den Löwen.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Anne ist groß. Anne ist blau. Anne ist kalt. Anne ist pelzig. Anne ist grün. Anne ist rau. Charlie ist blau. Charlie ist grün. Charlie ist leise. Charlie ist rau. Dave ist groß. Dave ist blau. Dave ist grün. Dave ist leise. Gary ist blau. Gary ist leise. Grüne Menschen sind rau. Pelzige und blaue Menschen sind kalt. Alle blauen Menschen sind rau. Alle pelzigen Menschen sind leise. Wenn Gary grün ist, ist Gary leise. Alle blauen Menschen sind leise. Wenn jemand pelzig und blau ist, ist er grün. Wenn jemand blau und grün ist, ist ihm kalt.\nFazit: Gary ist nicht kalt.",
+        "output": "C"
+    },
+    {
+        "instruction": "Is the following the conclusion correct given the premise? Please answer in A (Correct), B (Incorrect) or C (Unknown).",
+        "input": "Prämisse: Die Katze ist rau. Die Katze mag den Hund. Die Katze mag den Löwen. Die Katze sieht den Löwen. Die Katze sieht die Maus. Der Hund ist blau. Dem Hund ist kalt. Dem Hund besucht der Löwe. Dem Löwen ist kalt. Die Maus ist rau. Die Maus sieht den Hund. Die Maus besucht die Katze. Wenn jemand den Löwen mag, dann mag der Löwe den Hund.\n\nSchlussfolgerung: Der Löwe mag den Hund nicht.",
+        "output": "B"
+    }
+]
